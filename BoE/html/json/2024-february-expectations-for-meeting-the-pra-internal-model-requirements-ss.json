@@ -1,0 +1,47 @@
+{
+  "doc_id": "BOE-HTML-2024-february-expectations-for-meeting-the-pra-internal-model-requirements-ss",
+  "title": "SS1/24 – Expectations for meeting the PRA's internal model requirements for insurers under Solvency II",
+  "short_title": "SS1/24",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS1/24",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/february/expectations-for-meeting-the-pra-internal-model-requirements-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/ss124-february-2024-update.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss514.2026",
+    "pra.ss1716.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 28 February 2024\n\n\nThis supervisory statement (SS) sets out the PRA’s expectations for insurers to meet the PRA’s internal model requirements which arise from [Solvency Capital Requirement – Internal Models 10 to 16A](https://www.prarulebook.co.uk/rulebook/Content/Part/212824/).\n\n\nIt covers the PRA’s expectations in the following areas:\n\n\n    - the probability distribution forecast related to a partial internal model (IM);\n\n    - including new risks in the IM;\n\n    - data used in the IM;\n\n    - the model validation process;\n\n    - validation tools;\n\n    - documentation standards;\n\n    - minimum content of the documentation;\n\n    - circumstances under which the IM does not work effectively; and\n\n    - changes to the IM.\n\n\nThis SS is relevant to all UK Solvency II firms, the Society of Lloyd’s, its members and managing agents. It is most relevant to firms that have permission to calculate their Solvency Capital Requirement (SCR) using an IM. It may also be of interest to UK Solvency II firms seeking permission to use an IM and to UK Solvency II firms that are part of the European Economic Area (EEA) or non-EEA groups with a group IM.\n\n\nThis SS should be read in conjunction with the [Solvency Capital Requirement – Internal Models Part of the PRA Rulebook.](https://www.prarulebook.co.uk/rulebook/Content/Part/212824/)\n",
+  "sha256": "c23be3e85230cf2dd5b39b3ca8fd0f3f0a57a5b7f6cac1050c219528f0192ec3",
+  "scraped_at": "2026-03-25T03:58:49.865481Z",
+  "raw_sha256": "c23be3e85230cf2dd5b39b3ca8fd0f3f0a57a5b7f6cac1050c219528f0192ec3",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-february-expectations-for-meeting-the-pra-internal-model-requirements-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

@@ -1,0 +1,197 @@
+{
+  "doc_id": "pra.rules.resolution-assessment.2026",
+  "title": "Resolution Assessment",
+  "short_title": "Resolution Assessment (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/resolution-assessment.json",
+  "canonical_path": null,
+  "sha256": "ff427d3025256261eb695e0bfdd27827c59079aabdae507b67a94ce51771034b",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.resolution-assessment",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Resolution Assessment",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/resolution-assessment/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:50:19.954436",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Assessment",
+      "Report",
+      "Disclosure"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS4/19 – Resolution assessment and public disclosure by firms",
+        "url": "/guidance/supervisory-statements/ss04-19-resolution-assessment-and-public-disclosure-by-firms/03-03-2026"
+      },
+      {
+        "title": "SoP1/19 – Interpretation of EU Guidelines and Recommendations: Bank of England and PRA approach after the UK’s withdrawal from the EU",
+        "url": "/guidance/statements-of-policy/sop---interpretation-of-eu-guidelines-and-recommendations/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS15/19 - Resolution assessment and public disclosure by firms",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/resolution-assessment-and-public-disclosure-by-firms"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "PS10/21 - Resolution assessments: Amendments to reporting and disclosure dates",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/resolution-assessments-reporting-and-disclosure-dates"
+      },
+      {
+        "title": "PS1/25 - Resolution assessments: Amendments to reporting and disclosure dates",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/january/resolution-assessments-amendments-to-reporting-and-disclosure-dates-policy-statement"
+      },
+      {
+        "title": "The Bank of England’s power to direct institutions to address impediments to resolvability",
+        "url": "https://www.bankofengland.co.uk/paper/2015/the-boes-power-to-direct-institutions-to-address-impediments-to-resolvability-sop"
+      },
+      {
+        "title": "The Bank of England’s SoP on Approach  to Assessing Resolvability",
+        "url": "https://www.bankofengland.co.uk/-/media/boe/files/paper/2021/bank-of-englands-approach-to-assessing-resolvability-sop-may-2021.pdf"
+      },
+      {
+        "title": "EU EXIT INSTRUMENT: THE TECHNICAL STANDARDS (BANK RECOVERY AND RESOLUTION) (AMENDMENT ETC.) (EU EXIT) (No. 1) INSTRUMENT 2019",
+        "url": "https://www.bankofengland.co.uk/-/media/boe/files/paper/2019/ps519-section-b-app7-brrd-april-2019.pdf"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Resolution Assessment",
+      "slug": "resolution-assessment",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/resolution-assessment/03-03-2026",
+      "version_dates": [
+        "01-01-2027",
+        "01-08-2019",
+        "02-06-2021",
+        "10-01-2025",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "01/08/2019",
+        "10/01/2025",
+        "31/12/2020"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/resolution-assessment/01-08-2019#0925523c92554750a1cbe31208cddd55"
+        },
+        {
+          "rule_ref": "3.1",
+          "changed_before": "10/01/2025",
+          "previous_url": "/pra-rules/resolution-assessment/02-06-2021#29d87485c8fe4c5c9e85d862111a3504"
+        },
+        {
+          "rule_ref": "4.1",
+          "changed_before": "10/01/2025",
+          "previous_url": "/pra-rules/resolution-assessment/02-06-2021#c1f9b27e88b34ca19e54b44b36469c28"
+        }
+      ],
+      "total_amendments": 5
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to a firm that is a UK bank or building society that, on the firm’s last accounting reference date , had retail deposits equal to or greater than",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": "01/08/2019"
+          },
+          {
+            "rule_number": "1.3",
+            "summary": "Unless the contrary intention appears, all words and expressions used in this Part and in the CRR shall have the same meaning as in the CRR.",
+            "as_at_date": "01/08/2019"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Assessment",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "A firm must carry out an adequate assessment of its preparations for resolution.",
+            "as_at_date": "01/08/2019"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "The assessment in 2.1 must:",
+            "as_at_date": "01/08/2019"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Report",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "A firm must submit to the PRA a report in writing of the assessment in 2.1 on a periodic basis.",
+            "as_at_date": "10/01/2025"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "A firm must submit to the PRA an updated version of the report in 3.1 within twenty working days of a change in the ass",
+            "as_at_date": "01/08/2019"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Disclosure",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "A firm must publish a summary of the most recent report submitted to the PRA under Chapter 3 on a periodic basis.",
+            "as_at_date": "10/01/2025"
+          }
+        ]
+      }
+    ],
+    "section_count": 4,
+    "rule_count": 8
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nUnless otherwise stated, this Part applies to a _firm_ that is a _UK bank_ or _building society_ that, on the _firm’s_ last _accounting reference date_ , had _retail deposits_ equal to or greater than £50 billion on:\n\n  1. (1) an individual basis;\n  2. (2) if the _firm_ is a _UK parent institution_ , the basis of its _consolidated situation_ ; or\n  3. (3) if the _firm_ is controlled by a _UK parent financial holding company_ or by a _UK parent mixed financial holding company_ and the _PRA_ is responsible for supervision of that holding company on a _consolidated basis_ , the basis of the _consolidated situation_ of that holding company.\n\n*Effective: 31/12/2020*\n  * [ Future  version of 1.1 after 01/01/2027  ](/pra-rules/resolution-assessment/01-01-2027#0925523c92554750a1cbe31208cddd55)\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\n_deposit_\n\nhas the meaning given in 30, Part 1, Annex V (Reporting on financial information) of the European Banking Authority’s Implementing Technical Standards amending the Commission’s Implementing Regulation (EU) No 680/2014 on supervisory reporting under Regulation (EU) No 575/2013 of the European Parliament and of the Council.\n\n_retail deposit_\n\nmeans _deposits_ from “households” as defined in 35(f), Part 1, Annex V (Reporting on financial information) of the European Banking Authority’s Implementing Technical Standards amending the Commission’s Implementing Regulation (EU) No 680/2014 on supervisory reporting under Regulation (EU) No 575/2013 of the European Parliament and of the Council.\n\n*Effective: 01/08/2019*\n\n1.3\n\nUnless the contrary intention appears, all words and expressions used in this Part and in the _CRR _shall have the same meaning as in the _CRR_.\n\n*Effective: 01/08/2019*\n\n2\n\n###  Assessment\n\n2.1\n\nA _firm_ must carry out an adequate assessment of its preparations for resolution.\n\n*Effective: 01/08/2019*\n\n2.2\n\nThe assessment in [2.1](/pra-rules/resolution-assessment#9733103e940e4aaa82188edb8181ddb9 \"2.1\") must:\n\n  1. (1) be realistic;\n  2. (2) include analysis of how the _firm_ understands it would be resolved, any risks to its resolution and steps the _firm _is taking or plans to take to remove or reduce those risks; and\n  3. (3) be reviewed by the _firm _if there is reason to suspect it is no longer accurate and updated if there has been a change in any of the matters to which it relates that impacts its assessment.\n\n*Effective: 01/08/2019*\n\n3\n\n###  Report\n\n3.1\n\nA firm must submit to the PRA a report in writing of the assessment in [2.1](/pra-rules/resolution-assessment#9733103e940e4aaa82188edb8181ddb9 \"2.1\") on a periodic basis.\n\n  1. (1) [deleted]\n  2. (2) [deleted]\n\n*Effective: 10/01/2025*\n\n3.2\n\nA _firm_ must submit to the _PRA_ an updated version of the report in [3.1](/pra-rules/resolution-assessment#29d87485c8fe4c5c9e85d862111a3504 \"3.1\") within twenty _working days_ of a change in the assessment carried out under [Chapter 2](/pra-rules/resolution-assessment#d70035eae39645c28a07477ac77b53c1 \"Chapter 2\").\n\n*Effective: 01/08/2019*\n\n4\n\n###  Disclosure\n\n4.1\n\nA firm must publish a summary of the most recent report submitted to the PRA under [Chapter 3](/pra-rules/resolution-assessment#b56808b0893343b7a63549ebc3b434ad \"Chapter 3\") on a periodic basis.\n\n  1. (1) [deleted]\n  2. (2) [deleted]\n\n*Effective: 10/01/2025*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"7aae092a0b034ebea3b59f78707610c2\" id=\"8c06eaac1bd0420fbf06a556595b4695\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"54701c5e3a1145db946e75a9bdc56608\" id=\"0925523c92554750a1cbe31208cddd55\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to a <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"52119\" data-mce-linktype=\"2\" href=\"#glossary-term-feb0d0c4474b4857a9dcbc2d71e93da4\" title=\"UK bank\">UK bank</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52108\" data-mce-linktype=\"2\" href=\"#glossary-term-acd841e55a0b4ca085d76098925f7448\" title=\"building society\">building society</a></em> that, on the <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm’s</a></em> last <em><a class=\"glossary-link\" data-glossary-id=\"53195\" data-mce-linktype=\"2\" href=\"#glossary-term-90796708e59b4bc7b03bf3130c082b17\" title=\"accounting reference date\">accounting reference date</a></em>, had <em><a class=\"glossary-link\" data-glossary-id=\"98287\" data-mce-linktype=\"2\" href=\"#glossary-term-b814c60f70ec4c06b4b86a9292de6067\" title=\"retail deposits\">retail deposits</a></em> equal to or greater than £50 billion on:</p>\n<ol class=\"new-bullet\">\n<li>(1) an individual basis;</li>\n<li>(2) if the <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> is a <em><a class=\"glossary-link\" data-glossary-id=\"98248\" data-mce-linktype=\"2\" href=\"#glossary-term-2ae8d2c0a1464049a1d8f664c025d84f\" title=\"UK parent institution\">UK parent institution</a></em>, the basis of its <em><a class=\"glossary-link\" data-glossary-id=\"98292\" data-mce-linktype=\"2\" href=\"#glossary-term-e25260d387fa47d9a545bd167b2685c4\" title=\"consolidated situation\">consolidated situation</a></em>; or</li>\n<li>(3) if the <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> is controlled by a <em><a class=\"glossary-link\" data-glossary-id=\"98247\" data-mce-linktype=\"2\" href=\"#glossary-term-ea5105190d814b62aeb0dcec3e5c43eb\" title=\"UK parent financial holding company\">UK parent financial holding company</a></em> or by a <em><a class=\"glossary-link\" data-glossary-id=\"98249\" data-mce-linktype=\"2\" href=\"#glossary-term-70b67a63fa2d47948b71f78a5fe97dbf\" title=\"UK parent mixed financial holding company\">UK parent mixed financial holding company</a></em> and the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> is responsible for supervision of that holding company on a <em><a class=\"glossary-link\" data-glossary-id=\"98291\" data-mce-linktype=\"2\" href=\"#glossary-term-2f03160016c14fb388cdf4edea657566\" title=\"consolidated basis\">consolidated basis</a></em>, the basis of the <em><a class=\"glossary-link\" data-glossary-id=\"98292\" data-mce-linktype=\"2\" href=\"#glossary-term-e25260d387fa47d9a545bd167b2685c4\" title=\" consolidated situation\">consolidated situation</a></em> of that holding company.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/resolution-assessment/01-08-2019#0925523c92554750a1cbe31208cddd55\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n<li class=\"list-links__item list-future\">\n<a class=\"list-links__link icon-future\" href=\"/pra-rules/resolution-assessment/01-01-2027#0925523c92554750a1cbe31208cddd55\">\r\n\t\t\tFuture\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 after 01/01/2027\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"685a7596f97a45b0a6f87a98cc3f8bca\" id=\"e8b907fd9f06481995249d09204547d3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"98286\" data-mce-linktype=\"2\" href=\"#glossary-term-3ea4f7ceb23a4d85bf5d5808c8a7f1e0\" title=\"deposit\">deposit</a></em></p>\n<p style=\"padding-left: 30px;\">has the meaning given in 30, Part 1, Annex V (Reporting on financial information) of the European Banking Authority’s Implementing Technical Standards amending the Commission’s Implementing Regulation (EU) No 680/2014 on supervisory reporting under Regulation (EU) No 575/2013 of the European Parliament and of the Council.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"98287\" data-mce-linktype=\"2\" href=\"#glossary-term-b814c60f70ec4c06b4b86a9292de6067\" title=\"retail deposit\">retail deposit</a></em></p>\n<p style=\"padding-left: 30px;\">means <em><a class=\"glossary-link\" data-glossary-id=\"98286\" data-mce-linktype=\"2\" href=\"#glossary-term-3ea4f7ceb23a4d85bf5d5808c8a7f1e0\" title=\"deposit\">deposits</a></em> from “households” as defined in 35(f), Part 1, Annex V (Reporting on financial information) of the European Banking Authority’s Implementing Technical Standards amending the Commission’s Implementing Regulation (EU) No 680/2014 on supervisory reporting under Regulation (EU) No 575/2013 of the European Parliament and of the Council.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/08/2019\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"89ab055681bc41e0be65302029229250\" id=\"3be1085bd18e49b39ec57add607d38d3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless the contrary intention appears, all words and expressions used in this Part and in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a> </em>shall have the same meaning as in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/08/2019\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"cfeccc11f8b54a17982c3f08b0578fb4\" id=\"d70035eae39645c28a07477ac77b53c1\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tAssessment\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"80be48e8499049ba8af027b91a8d49a9\" id=\"9733103e940e4aaa82188edb8181ddb9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm \"><em>firm</em></a> must carry out an adequate assessment of its preparations for resolution.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/08/2019\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8629f0d12abc4cfea24a5e7114c9920b\" id=\"6036b9c80cbe4b96b78916ebc5468157\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The assessment in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/resolution-assessment#9733103e940e4aaa82188edb8181ddb9\" title=\"2.1\">2.1</a> must:</p>\n<ol class=\"new-bullet\">\n<li>(1) be realistic;</li>\n<li>(2) include analysis of how the <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> understands it would be resolved, any risks to its resolution and steps the <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a> </em>is taking or plans to take to remove or reduce those risks; and</li>\n<li>(3) be reviewed by the <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a> </em>if there is reason to suspect it is no longer accurate and updated if there has been a change in any of the matters to which it relates that impacts its assessment.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/08/2019\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"83254d21d2b14d8cad4d02e4912d328d\" id=\"b56808b0893343b7a63549ebc3b434ad\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tReport\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e074143883e34400847a08c6b5714810\" id=\"29d87485c8fe4c5c9e85d862111a3504\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a> must submit to the <a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a> a report in writing of the assessment in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/resolution-assessment#9733103e940e4aaa82188edb8181ddb9\" title=\"2.1\">2.1</a> on a periodic basis.</p>\n<ol class=\"new-bullet\">\n<li>(1) [deleted]</li>\n<li>(2) [deleted]</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/01/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/resolution-assessment/02-06-2021#29d87485c8fe4c5c9e85d862111a3504\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 10/01/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"91e3b8c59b0645d4a2e3dab544e75ec0\" id=\"bf4d2daec8da4ce1a93d99bde877d5ce\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> must submit to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> an updated version of the report in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/resolution-assessment#29d87485c8fe4c5c9e85d862111a3504\" title=\"3.1\">3.1</a> within twenty <em><a class=\"glossary-link\" data-glossary-id=\"77389\" data-mce-linktype=\"2\" href=\"#glossary-term-ddb2fd519eed4661bc2c491d78f9afce\" title=\"working days\">working days</a></em> of a change in the assessment carried out under <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/resolution-assessment#d70035eae39645c28a07477ac77b53c1\" title=\"Chapter 2\">Chapter 2</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/08/2019\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"a80bb9a1e0f64523aacdb86bcb33d20d\" id=\"c2333037bd634c6b91b4c7f3f53dc3d5\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tDisclosure\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7602e2e3bcb8442c9417b02bdfefdd3d\" id=\"c1f9b27e88b34ca19e54b44b36469c28\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a> must publish a summary of the most recent report submitted to the <a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a> under <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/resolution-assessment#b56808b0893343b7a63549ebc3b434ad\" title=\"Chapter 3\">Chapter 3</a> on a periodic basis.</p>\n<ol class=\"new-bullet\">\n<li>(1) [deleted]</li>\n<li>(2) [deleted]</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/01/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/resolution-assessment/02-06-2021#c1f9b27e88b34ca19e54b44b36469c28\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 4.1 before 10/01/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "ff427d3025256261eb695e0bfdd27827c59079aabdae507b67a94ce51771034b",
+  "canonical_json_path": null
+}

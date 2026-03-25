@@ -1,0 +1,208 @@
+{
+  "doc_id": "pra.rules.permissions-and-waivers.2026",
+  "title": "Permissions and Waivers",
+  "short_title": "Permissions and Waivers (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/permissions-and-waivers.json",
+  "canonical_path": null,
+  "sha256": "39111d4496e8c6204ec2d4e81d9ec8092c8b21d5687f7b26185cba5421f9e616",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.permissions-and-waivers",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Permissions and Waivers",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/permissions-and-waivers/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:50.758959",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms",
+      "Non-SII Firms",
+      "SII Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Applications to Vary and Cancel Part 4A Permission",
+      "Applications to Impose, Vary and Cancel Requirements",
+      "Waiver and Modification of Rules",
+      "Changes to Information, Additional Information and Notification of Altered Circumstances"
+    ],
+    "related_guidance": [
+      {
+        "title": "SoP9/24 – The Prudential Regulation Authority’s approach to rule permissions and waivers",
+        "url": "/guidance/statements-of-policy/sop---the-prudential-regulation-authoritys-approach-to-rule-permissions-and-waivers/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS5/14 - The PRA Rulebook",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/the-pra-rulebook"
+      },
+      {
+        "title": "PS26/15 - \"The prudential regime, and implementation of the Senior Insurance Managers Regime, for non-Solvency II firms\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/prudential-regime-and-implementation-of-the-senior-insurance-managers-regime-for-non-solvency-2"
+      },
+      {
+        "title": "PRA authorisations",
+        "url": "http://www.bankofengland.co.uk/pra/Pages/authorisations/default.aspx"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Permissions and Waivers",
+      "slug": "permissions-and-waivers",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/permissions-and-waivers/03-03-2026",
+      "version_dates": [
+        "01-01-2016",
+        "19-06-2014"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2016",
+        "19/06/2014"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.2",
+          "changed_before": "01/01/2016",
+          "previous_url": "/pra-rules/permissions-and-waivers/19-06-2014#06a8c4b3b21e4b8ab5376171fcd37888"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to every firm.",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Applications to Vary and Cancel Part 4A Permission",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "This Chapter applies to every firm that wishes to:",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "The PRA directs that a firm other than a credit union wishing to make an application to vary or cancel a Part 4A permission apply online using the form specified on the ONA system , unless o",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "2.3",
+            "summary": "Where the ONA system fails and is unavailable for 24 hours or more, the PRA directs that a firm which is required to make an application in the manner set out in [2.2](/pra-rules/permissions-and",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "2.4",
+            "summary": "The PRA directs that a credit union wishing to make an application to vary or cancel a Part 4A permission submit the relevant form on the PRA’s website using one of the alternative ways set ou",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "2.5",
+            "summary": "Where a firm has applied for cancellation of its Part 4A permission , it must demonstrate to the PRA that it has ceased or will cease carrying on all regulated activities.",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Applications to Impose, Vary and Cancel Requirements",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "This Chapter applies to every firm that wishes to:",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "The PRA directs that a firm other than a credit union wishing to make an application to impose, vary or cancel a requirement apply online using the form specified on the ONA system , unless ",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "3.3",
+            "summary": "Where the ONA system fails and is unavailable for 24 hours or more, the PRA directs that a firm which is required to make an application under [3.2](/pra-rules/permissions-and-waivers/03-03-2026",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "3.4",
+            "summary": "The PRA directs that a credit union wishing to make an application to impose, vary or cancel a requirement submit the relevant form on the PRA’s website using one of the alternative ways set o",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Waiver and Modification of Rules",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "This Chapter applies to every firm or person who is subject to PRA rules.",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "The PRA directs that a firm or person wishing to apply for a waiver must complete the relevant form on the PRA’s website and submit it in the way set out in [Notifications 7.4](/pra-rules/no",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Changes to Information, Additional Information and Notification of Altered Circumstances",
+        "rules": [
+          {
+            "rule_number": "5.1",
+            "summary": "Until an application under this Part has been determined, a firm or person who submits the application must immediately notify the PRA of any significant change to the information provided in th",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "5.2",
+            "summary": "A firm or person which has applied for or has been granted a waiver must immediately notify the PRA if it becomes aware of any matter which could affect the continuing relevance or appropriate",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      }
+    ],
+    "section_count": 5,
+    "rule_count": 15
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nUnless otherwise stated, this Part applies to every _firm_.\n\n*Effective: 19/06/2014*\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\n_requirement _\n\nmeans a requirement imposed by the _PRA_ on a _firm_ under section 55M of _FSMA_ (Imposition of requirements by PRA).\n\n*Effective: 01/01/2016*\n\n2\n\n###  Applications to Vary and Cancel Part 4A Permission\n\n2.1\n\nThis Chapter applies to every _firm_ that wishes to:\n\n  1. (1) vary its _Part 4A permission_ ; or\n  2. (2) cancel its _Part 4A permission_.\n\n*Effective: 19/06/2014*\n\n2.2\n\nThe _PRA_ directs that a _firm_ other than a _credit union_ wishing to make an application to vary or cancel a _Part 4A permission_ apply online using the form specified on the _ONA system_ , unless otherwise advised by the _PRA_.\n\n*Effective: 19/06/2014*\n\n2.3\n\nWhere the _ONA system_ fails and is unavailable for 24 hours or more, the _PRA_ directs that a _firm_ which is required to make an application in the manner set out in [2.2](/pra-rules/permissions-and-waivers/03-03-2026#bfb7a57fc60f41bb9bddb56c6e09e1f2 \"2.2\") make the application by using the relevant form on the _PRA’s_ website and submit it using one of the alternative ways set out in [Notifications 7.4](/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872 \"Notifications 7.4\").\n\n*Effective: 19/06/2014*\n\n2.4\n\nThe _PRA_ directs that a _credit union_ wishing to make an application to vary or cancel a _Part 4A permission_ submit the relevant form on the _PRA’s_ website using one of the alternative ways set out in [Notifications 7.4](/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872 \"Notifications 7.4\").\n\n*Effective: 19/06/2014*\n\n2.5\n\nWhere a _firm_ has applied for cancellation of its _Part 4A permission_ , it must demonstrate to the _PRA_ that it has ceased or will cease carrying on all _regulated activities_.\n\n*Effective: 19/06/2014*\n\n3\n\n###  Applications to Impose, Vary and Cancel Requirements\n\n3.1\n\nThis Chapter applies to every _firm_ that wishes to:\n\n  1. (1) have a new _requirement_ imposed on it; or\n  2. (2) vary a _requirement_ imposed on it; or\n  3. (3) cancel a _requirement_ imposed on it.\n\n*Effective: 19/06/2014*\n\n3.2\n\nThe _PRA_ directs that a _firm_ other than a _credit union_ wishing to make an application to impose, vary or cancel a _requirement_ apply online using the form specified on the _ONA system_ , unless otherwise advised by the _PRA_.\n\n*Effective: 19/06/2014*\n\n3.3\n\nWhere the _ONA system_ fails and is unavailable for 24 hours or more, the _PRA_ directs that a _firm_ which is required to make an application under [3.2](/pra-rules/permissions-and-waivers/03-03-2026#2492572ed54c4f89ae305a0ba7c8a434 \"3.2\") make the application by using the relevant form on the _PRA’s_ website and submit it using one of the alternative ways set out in [Notifications 7.4](/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872 \"Notifications 7.4\").\n\n*Effective: 19/06/2014*\n\n3.4\n\nThe _PRA_ directs that a _credit union_ wishing to make an application to impose, vary or cancel a _requirement_ submit the relevant form on the _PRA’s_ website using one of the alternative ways set out in [Notifications 7.4](/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872 \"Notifications 7.4\").\n\n*Effective: 19/06/2014*\n\n4\n\n###  Waiver and Modification of Rules\n\n4.1\n\nThis Chapter applies to every _firm_ or _person_ who is subject to _PRA rules_.\n\n*Effective: 19/06/2014*\n\n4.2\n\nThe _PRA_ directs that a _firm_ or _person_ wishing to apply for a _waiver_ must complete the relevant form on the _PRA’s_ website and submit it in the way set out in [Notifications 7.4](/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872 \"Notifications 7.4\") unless otherwise advised by the _PRA_.\n\n*Effective: 19/06/2014*\n\n5\n\n###  Changes to Information, Additional Information and Notification of Altered Circumstances\n\n5.1\n\nUntil an application under this Part has been determined, a _firm_ or _person_ who submits the application must immediately notify the _PRA_ of any significant change to the information provided in the application.\n\n*Effective: 19/06/2014*\n\n5.2\n\nA _firm_ or _person_ which has applied for or has been granted a _waiver_ must immediately notify the _PRA_ if it becomes aware of any matter which could affect the continuing relevance or appropriateness of the application of the _waiver_.\n\n*Effective: 19/06/2014*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"20a7bc2f885a4d5a8e986366a620769f\" id=\"833ab397c5eb43689840f5aa6f65d951\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ce96d7fe388e4be19e93f69f1529965e\" id=\"e132e5a0996f4ac8bef757601ba6b0c2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"fe74476ee63a4122bbd7a4ade8c58237\" id=\"06a8c4b3b21e4b8ab5376171fcd37888\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"130.553024\">In this Part, the following definitions shall apply:<br/><br/></div>\n<div data-canvas-width=\"130.553024\"><em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a> </em><br/><br/></div>\n<div data-canvas-width=\"130.553024\" style=\"padding-left: 30px;\">means a requirement imposed by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> on a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> under section 55M of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em> (Imposition of requirements by PRA).</div>\n<p> </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/permissions-and-waivers/19-06-2014#06a8c4b3b21e4b8ab5376171fcd37888\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 01/01/2016\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"bac60aaa1f884c02881a807ad99bca85\" id=\"0f11e4be18434ffcbb9c303f3b138809\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplications to Vary and Cancel Part 4A Permission\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3c349151dc624304b6d7a10d1c2e1847\" id=\"f418c3e013324f0089038298878d21af\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Chapter applies to every<em> <a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that wishes to:</p>\n<ol class=\"new-bullet\">\n<li>(1) vary its <em><a class=\"glossary-link\" data-glossary-id=\"52149\" data-mce-linktype=\"2\" href=\"#glossary-term-70e2231bf99f44feb753d11bedbebec5\" title=\"Part 4A permission\">Part 4A permission</a></em>; or</li>\n<li>(2) cancel its <em><a class=\"glossary-link\" data-glossary-id=\"52149\" data-mce-linktype=\"2\" href=\"#glossary-term-70e2231bf99f44feb753d11bedbebec5\" title=\"Part 4A permission\">Part 4A permission</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1c1b2ef5fe9f4d328b63431b092260e4\" id=\"bfb7a57fc60f41bb9bddb56c6e09e1f2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"37.407104000000004\">The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> other than a <em><a class=\"glossary-link\" data-glossary-id=\"52110\" data-mce-linktype=\"2\" href=\"#glossary-term-b44a7177579342ff87047c3ce2d561b6\" title=\"credit union\">credit union</a></em> wishing to make an application to vary or cancel a <em><a class=\"glossary-link\" data-glossary-id=\"52149\" data-mce-linktype=\"2\" href=\"#glossary-term-70e2231bf99f44feb753d11bedbebec5\" title=\"Part 4A permission\">Part 4A permission</a></em> apply online using the form specified on the <em><a class=\"glossary-link\" data-glossary-id=\"52226\" data-mce-linktype=\"2\" href=\"#glossary-term-0432343f2aa34ff099752e8fb7688e22\" title=\"ONA system\">ONA system</a></em>, unless otherwise advised by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2af839e63dd04c5bb1b58048ab9c97ad\" id=\"ffe019ce9ba84fa59725764114237746\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"91.137984\">Where the <em><a class=\"glossary-link\" data-glossary-id=\"52226\" data-mce-linktype=\"2\" href=\"#glossary-term-0432343f2aa34ff099752e8fb7688e22\" title=\"ONA system\">ONA system</a></em> fails and is unavailable for 24 hours or more, the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> which is required to make an application in the manner set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/permissions-and-waivers/03-03-2026#bfb7a57fc60f41bb9bddb56c6e09e1f2\" title=\"2.2\">2.2</a> make the application by using the relevant form on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> website and submit it using one of the alternative ways set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872\" title=\"Notifications 7.4\">Notifications 7.4</a>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"092144d6a40045cbb7a41cd7c9eef9b1\" id=\"6a172cd782e24dd6a726ba6cdfbba52e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"37.407104000000004\">The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52110\" data-mce-linktype=\"2\" href=\"#glossary-term-b44a7177579342ff87047c3ce2d561b6\" title=\"credit union\">credit union</a></em> wishing to make an application to vary or cancel a <em><a class=\"glossary-link\" data-glossary-id=\"52149\" data-mce-linktype=\"2\" href=\"#glossary-term-70e2231bf99f44feb753d11bedbebec5\" title=\"Part 4A permission\">Part 4A permission</a></em> submit the relevant form on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA’s</a></em> website using one of the alternative ways set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872\" title=\"Notifications 7.4\">Notifications 7.4</a>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"fbf658df9cb948e09ec0d4d4378a23fd\" id=\"c95e034ce07640c38683220945bdcbba\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"75.688032\">Where a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> has applied for cancellation of its <em><a class=\"glossary-link\" data-glossary-id=\"52149\" data-mce-linktype=\"2\" href=\"#glossary-term-70e2231bf99f44feb753d11bedbebec5\" title=\"Part 4A permission\">Part 4A permission</a></em>, it must demonstrate to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> that it has ceased or will cease carrying on all <em><a class=\"glossary-link\" data-glossary-id=\"52431\" data-mce-linktype=\"2\" href=\"#glossary-term-21849c325a694b0dae3e58868311f5da\" title=\"regulated activities\">regulated activities</a></em>. </div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"ea80db1ab351462bbb6d1235ba787806\" id=\"8d34b15efb21414fb41092755e8f6631\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplications to Impose, Vary and Cancel Requirements\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3218633b1f084a718f75fe77892a70fd\" id=\"171abf7aecd341228771840a194c9fa4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Chapter applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that wishes to:</p>\n<ol class=\"new-bullet\">\n<li>(1) have a new <em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a></em> imposed on it; or</li>\n<li>(2) vary a <em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a></em> imposed on it; or</li>\n<li>(3) cancel a <em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a></em> imposed on it.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"21623336131440f3b43dd5620a5ec6d1\" id=\"2492572ed54c4f89ae305a0ba7c8a434\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> other than a <em><a class=\"glossary-link\" data-glossary-id=\"52110\" data-mce-linktype=\"2\" href=\"#glossary-term-b44a7177579342ff87047c3ce2d561b6\" title=\"credit union\">credit union</a></em> wishing to make an application to impose, vary or cancel a <em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a></em> apply online using the form specified on the <em><a class=\"glossary-link\" data-glossary-id=\"52226\" data-mce-linktype=\"2\" href=\"#glossary-term-0432343f2aa34ff099752e8fb7688e22\" title=\"ONA system\">ONA system</a></em>, unless otherwise advised by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5d3daa846f21465980c640ab03d7e18c\" id=\"75fd27245a2b4529a1d9b403bc503d47\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where the <em><a class=\"glossary-link\" data-glossary-id=\"52226\" data-mce-linktype=\"2\" href=\"#glossary-term-0432343f2aa34ff099752e8fb7688e22\" title=\"ONA system\">ONA system</a></em> fails and is unavailable for 24 hours or more, the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> which is required to make an application under <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/permissions-and-waivers/03-03-2026#2492572ed54c4f89ae305a0ba7c8a434\" title=\"3.2\">3.2</a> make the application by using the relevant form on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> website and submit it using one of the alternative ways set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872\" title=\"Notifications 7.4\">Notifications 7.4</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3c09b915112b477086ea91731f439928\" id=\"b86dec5b9a754a958e964b4b5c0cb270\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52110\" data-mce-linktype=\"2\" href=\"#glossary-term-b44a7177579342ff87047c3ce2d561b6\" title=\"credit union\">credit union</a></em> wishing to make an application to impose, vary or cancel a <em><a class=\"glossary-link\" data-glossary-id=\"52186\" data-mce-linktype=\"2\" href=\"#glossary-term-32b282336587421582d835c1b4c7832a\" title=\"requirement\">requirement</a></em> submit the relevant form on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> website using one of the alternative ways set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872\" title=\"Notifications 7.4\">Notifications 7.4</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"f2463a1b113d40a78b2dd769448c365d\" id=\"87a3e7dfe2aa449180720efe996dfc2b\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tWaiver and Modification of Rules\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5db8c381bb2e44ada94fc52811a28fd0\" id=\"189c610f47ec4f7abbbe4695b03085d4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Chapter applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52430\" data-mce-linktype=\"2\" href=\"#glossary-term-80c2de9ca34c4178852f65f9a5788305\" title=\"person\">person</a></em> who is subject to <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a> <a class=\"glossary-link\" data-glossary-id=\"52432\" data-mce-linktype=\"2\" href=\"#glossary-term-b25ca5477e0e49238efb7c487070f9a2\" title=\"rules\">rules</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a7dc74ec21424215a89972ac51088fe5\" id=\"7876441b65e541319514ebb3b76779bb\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52181\" data-mce-linktype=\"2\" href=\"#glossary-term-08c2a4c6b87b4e51a4292e13ba411052\" title=\"person\">person</a></em> wishing to apply for a <em><a class=\"glossary-link\" data-glossary-id=\"52187\" data-mce-linktype=\"2\" href=\"#glossary-term-d4adf0e11118457cb1897fc0469580bb\" title=\"waiver\">waiver</a></em> must complete the relevant form on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> website and submit it in the way set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/notifications/03-03-2026#16860c55549b4e35982d4245ab705872\" title=\"Notifications 7.4\">Notifications 7.4</a> unless otherwise advised by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"00ef0bf477e74e408cfafd4b72e36c50\" id=\"b7a7dea16018499595640cdbc3f808a0\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tChanges to Information, Additional Information and Notification of Altered Circumstances\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b3fb317127aa425a8f4575cc01005676\" id=\"bb69635ab2014d78bb8c08fa39450473\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"454.3512960000001\">Until an application under this Part has been determined, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52181\" data-mce-linktype=\"2\" href=\"#glossary-term-08c2a4c6b87b4e51a4292e13ba411052\" title=\"person\">person</a></em> who submits the application must immediately notify the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> of any significant change to the information provided in the application. </div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e948d5e5036d4de1b545df0f1c0486cf\" id=\"c3a72595bb064c658d82283d0747e215\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"17.495072000000004\">A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52181\" data-mce-linktype=\"2\" href=\"#glossary-term-08c2a4c6b87b4e51a4292e13ba411052\" title=\"person\">person</a></em> which has applied for or has been granted a <em><a class=\"glossary-link\" data-glossary-id=\"52187\" data-mce-linktype=\"2\" href=\"#glossary-term-d4adf0e11118457cb1897fc0469580bb\" title=\"waiver\">waiver</a></em> must immediately notify the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> if it becomes aware of any matter which could affect the continuing relevance or appropriateness of the application of the <em><a class=\"glossary-link\" data-glossary-id=\"52187\" data-mce-linktype=\"2\" href=\"#glossary-term-d4adf0e11118457cb1897fc0469580bb\" title=\"waiver\">waiver</a></em>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "39111d4496e8c6204ec2d4e81d9ec8092c8b21d5687f7b26185cba5421f9e616",
+  "canonical_json_path": null
+}

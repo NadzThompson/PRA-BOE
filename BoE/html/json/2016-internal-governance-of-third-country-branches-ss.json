@@ -1,0 +1,50 @@
+{
+  "doc_id": "BOE-HTML-2016-internal-governance-of-third-country-branches-ss",
+  "title": "Internal governance of third country branches",
+  "short_title": "2016-internal-governance-of-third-country-branches-ss",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "",
+  "sector": [
+    "banking",
+    "investment_firms"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/internal-governance-of-third-country-branches-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss416-update-dec-2020.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss416.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss521.2026",
+    "pra.ss521.2026",
+    "pra.ss521.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "content_markdown": "First published on 26 February 2016\n\n\nThis supervisory statement is relevant to non-EEA banks and PRA-designated investment firms in respect of their operations in the United Kingdom through branches known as ‘third country branches'. It sets out the PRA’s expectations for the internal governance of third country branches and how these firms should comply with the ‘Internal Governance of Third Country Branches’ parts of the PRA Rulebook. The rules and supervisory statement cover the following areas:\n\n\n    - general organisational requirements;\n\n    - persons who effectively direct the business;\n\n    - responsibility of senior personnel;\n\n    - skills, knowledge and expertise;\n\n    - compliance and internal audit;\n\n    - risk control;\n\n    - outsourcing; and\n\n    - record keeping.\n\n\nThis statement replaces the guidance material previously included in chapters 4 – 9 and 21 of the Senior Management Arrangements, Systems and Controls (SYSC) section of the Handbook. It does not seek to introduce additional or new obligations nor change the PRA expectations of how non-EEA banks and PRA-designated investment firms organise their UK branches. Where relevant, the statement takes into account the requirements of the Senior Managers and Certification Regime (SM&CR) which apply to third country branches.\n",
+  "sha256": "ad478397c7b6ae92f9557c6f648dccc88fb1688243e2f2f1b22add7101ee24af",
+  "scraped_at": "2026-03-25T03:58:49.188555Z",
+  "raw_sha256": "ad478397c7b6ae92f9557c6f648dccc88fb1688243e2f2f1b22add7101ee24af",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2016-internal-governance-of-third-country-branches-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "BOE-HTML-2024-january-procedures-the-enforcement-decision-making-committee",
+  "title": "Procedures – The Enforcement Decision Making Committee",
+  "short_title": "2024-january-procedures-the-enforcement-decision-making-committee",
+  "document_class": "regulatory_publication",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "",
+  "sector": [
+    "banking"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/january/procedures-the-enforcement-decision-making-committee",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/enforcement-decision-making-committee-procedures.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.sop124-the-prudential-regulation-authoritys-allocation-of-decision-making-and-ap.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 30 January 2024\n\n\nUpdated 12 November 2024\n\n\nThe Court’s responsibilities are set out in the Bank of England Act 1998 (the 1998 Act). The Court’s responsibilities include determining the Bank’s objectives and strategy, and ensuring the effective discharge of the Bank’s functions and the most efficient use of its resources. The Court also keeps under review the Bank’s performance in relation to its objectives and the exercise of the Bank’s statutory functions. The Court delegates to the Governor the day-to-day management of the Bank, including the discharge of statutory functions, while reserving certain key decisions to itself.\n\n\nThe EDMC was created by the Court to help the Bank discharge its responsibilities and strengthen its enforcement processes by ensuring a functional separation between the Bank’s investigation teams and the Bank’s decision makers in contested enforcement cases within the following statutory regimes operated by the Bank: (1) Prudential Regulation; (2) Financial Market Infrastructure (FMI); (3) Resolution; (4) Securitisation; (5) Wholesale Cash Distribution and (6) Critical Third Parties. References to the Bank include references to the separate regimes operated by the Bank unless otherwise stated. The EDMC will also act in Scottish and Northern Ireland banknote regime enforcement cases, pursuant to the Scottish and Northern Ireland Banknote Statement of Penalty Policy in effect from time to time and with such remit and scope as may be provided for in that policy.\n\n\nThe EDMC acts for and with the full authority of the Prudential Regulation Committee (PRC) and the Financial Market Infrastructure Committee and also reports to the PRC in matters related to the PRA within its remit.\n\n\nReaders may wish to refer to the Bank’s [Policy Statement: The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023](https://www.bankofengland.co.uk/paper/2024/policy-statement/the-bank-of-englands-approach-to-enforcement-changes-to-sop-and-procedure-following-the-fsma-2023) and accompanying final policy.\n\n\n    - [Procedures – The Enforcement Decision Making Committee (pdf)](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/enforcement-decision-making-committee-procedures.pdf)\n",
+  "sha256": "e257cf3083a953c67a55d406ab8b7e62f78f300cd183d8acad382e7be2681e42",
+  "scraped_at": "2026-03-25T03:58:49.935013Z",
+  "raw_sha256": "e257cf3083a953c67a55d406ab8b7e62f78f300cd183d8acad382e7be2681e42",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-january-procedures-the-enforcement-decision-making-committee",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

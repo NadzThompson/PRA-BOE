@@ -1,0 +1,173 @@
+{
+  "doc_id": "pra.rules.insurance-company---internal-contagion-risk.2026",
+  "title": "Insurance Company - Internal Contagion Risk",
+  "short_title": "Insurance Company - Internal Contagion Risk (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/insurance-company---internal-contagion-risk.json",
+  "canonical_path": null,
+  "sha256": "ef7d446b0500ccc361472a137b4be523334dd3e41af68af92f321412c56df369",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.insurance-company---internal-contagion-risk",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Insurance Company - Internal Contagion Risk",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/insurance-company---internal-contagion-risk/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:51:51.757098",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-SII Firms"
+    ],
+    "chapters": [
+      "Application",
+      "Restriction of Business",
+      "Financial Limitation of Non-Insurance Activities",
+      "Separately Identify and Maintain Long-Term Insurance Assets",
+      "Exclusive Use of Long-Term Insurance Assets"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS26/15 - \"The prudential regime, and implementation of the Senior Insurance Managers Regime, for non-Solvency II firms\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/prudential-regime-and-implementation-of-the-senior-insurance-managers-regime-for-non-solvency-2"
+      },
+      {
+        "title": "Non-Directive Firms",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/supervision/non-directive-firms"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Insurance Company - Internal Contagion Risk",
+      "slug": "insurance-company---internal-contagion-risk",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/insurance-company---internal-contagion-risk/03-03-2026",
+      "version_dates": [
+        "01-01-2016"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2016"
+      ],
+      "past_versions": [],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to a non-directive insurer , other than a non-directive friendly society.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "This Part applies to the whole of the firm's business carried on world-wide.",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Restriction of Business",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "A firm other than a pure reinsurer must not carry on any commercial business other than insurance business and activities directly arising from that business.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A pure reinsurer must not carry on any business other than the business of reinsurance and related operations.",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Financial Limitation of Non-Insurance Activities",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "A firm must limit, manage and control its non-insurance activities so that there is no significant risk arising from those activities such that it may be unable to meet its liabilities as they fall ",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Separately Identify and Maintain Long-Term Insurance Assets",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "A firm carrying on long-term insurance business must identify the assets relating to its long-term insurance business which it is required to hold by virtue of:",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "1. (1) A firm's long-term insurance assets are the items in (2), adjusted to take account of:",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "4.3",
+            "summary": "1. (1) Unless (2) applies, all the long-term insurance assets of the firm constitute its long-term insurance fund.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "4.4",
+            "summary": "A firm must maintain a separate accounting record in respect of each of its long-term insurance funds.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "4.5",
+            "summary": "A firm may not transfer assets out of a long-term insurance fund unless:",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Exclusive Use of Long-Term Insurance Assets",
+        "rules": [
+          {
+            "rule_number": "5.1",
+            "summary": "1. (1) A firm must apply a long-term insurance asset only for the purposes of its long-term insurance business.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "5.2",
+            "summary": "A firm must not agree to, or allow, any mortgage or charge on its long-term insurance assets other than in respect of a long-term insurance liability.",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      }
+    ],
+    "section_count": 5,
+    "rule_count": 12
+  },
+  "content_markdown": "1\n\n###  Application\n\n1.1\n\nUnless otherwise stated, this Part applies to a _non-directive insurer_ , other than a _non-directive friendly society_.\n\n*Effective: 01/01/2016*\n\n1.2\n\nThis Part applies to the whole of the _firm's_ business carried on world-wide.\n\n*Effective: 01/01/2016*\n\n2\n\n###  Restriction of Business\n\n2.1\n\nA _firm_ other than a _pure reinsurer_ must not carry on any commercial business other than _insurance business_ and activities directly arising from that business.\n\n*Effective: 01/01/2016*\n\n2.2\n\nA _pure reinsurer_ must not carry on any business other than the business of _reinsurance_ and related operations.\n\n*Effective: 01/01/2016*\n\n3\n\n###  Financial Limitation of Non-Insurance Activities\n\n3.1\n\nA _firm_ must limit, manage and control its non-insurance activities so that there is no significant risk arising from those activities such that it may be unable to meet its liabilities as they fall due.\n\n*Effective: 01/01/2016*\n\n4\n\n###  Separately Identify and Maintain Long-Term Insurance Assets\n\n4.1\n\nA _firm_ carrying on _long-term insurance business_ must identify the assets relating to its _long-term insurance business_ which it is required to hold by virtue of:\n\n  1. (1) in the case of a _pure reinsurer_ :\n     1. (a) [Insurance Company - Technical Provisions 4.1](/pra-rules/insurance-company---technical-provisions#5f6cdfc4bebb446082d3d301b6b7203a \"Insurance Company - Technical Provisions 4.1\") or [4.2](/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c \"4.2\"); and\n     2. (b) [Insurance Company - Risk Management 5.1](/pra-rules/insurance-company-risk-management#d818ab1a30ff42a39eeab27453609dd7 \"Insurance Company - Risk Management 5.1\"); and\n  2. (2) in any other case:\n     1. (a) [Insurance Company - Technical Provisions 4.1](/pra-rules/insurance-company---technical-provisions#5f6cdfc4bebb446082d3d301b6b7203a \"Insurance Company - Technical Provisions 4.1\") or [4.2](/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c \"4.2\"); and\n     2. (b) [Insurance Company - Risk Management 4.2](/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c \"Insurance Company - Risk Management 4.2\") and 4.3.\n\n*Effective: 01/01/2016*\n\n4.2\n\n  1. (1) A _firm's long-term insurance assets_ are the items in (2), adjusted to take account of:\n     1. (a) outgoings in respect of the _firm's long-term insurance business_; and\n     2. (b) any transfers made in accordance with [4.5](/pra-rules/insurance-company---internal-contagion-risk#3f48a6823a714bceb7a75aa3e8d0d233 \"4.5\").\n  2. (2) The items referred to in (1) are:\n     1. (a) the assets identified under [4.1](/pra-rules/insurance-company---internal-contagion-risk#46b6e8435fe342e39cc1a2c718ca4ff2 \"4.1\") (including assets into which those assets have been converted) but excluding any assets identified as being held to cover liabilities in respect of subordinated debt;\n     2. (b) any other assets identified by the _firm_ as being available to cover its _long-term insurance liabilities_ (including assets into which those assets have been converted) including, if the _firm_ so elects, assets which are excluded under (a);\n     3. (c) _premiums_ and other receivables in respect of _contracts of long-term insurance_ ;\n     4. (d) other receipts of the _long-term insurance business_ ; and\n     5. (e) all income and capital receipts in respect of the items in (a) to (d).\n\n*Effective: 01/01/2016*\n\n4.3\n\n  1. (1) Unless (2) applies, all the _long-term insurance assets_ of the _firm _constitute its _long-term insurance fund_.\n  2. (2) Where a _firm _identifies particular _long-term insurance assets_ in connection with different parts of its _long-term insurance business_ , the assets identified in relation to each such part constitute separate _long-term insurance funds_ of the _firm_.\n\n*Effective: 01/01/2016*\n\n4.4\n\nA _firm _must maintain a separate accounting record in respect of each of its _long-term insurance funds_.\n\n*Effective: 01/01/2016*\n\n4.5\n\nA _firm_ may not transfer assets out of a _long-term insurance fund_ unless:\n\n  1. (1) the assets represent an _established surplus_ ; and\n  2. (2) no more than three months have passed since the determination of that surplus.\n\n*Effective: 01/01/2016*\n\n5\n\n###  Exclusive Use of Long-Term Insurance Assets\n\n5.1\n\n  1. (1) A _firm_ must apply a _long-term insurance asset_ only for the purposes of its _long-term insurance business_.\n  2. (2) For the purposes of (1), applying an asset includes coming under any obligation (even if only contingently) to apply that asset.\n\n*Effective: 01/01/2016*\n\n5.2\n\nA _firm_ must not agree to, or allow, any mortgage or charge on its _long-term insurance assets_ other than in respect of a _long-term insurance liability_.\n\n*Effective: 01/01/2016*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"1469327802c64a558dbadf7747c3006c\" id=\"786ba41ee5214c9d9f1eb4183365c539\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"56e706db63bb4f66b6f4ee8eaa256b83\" id=\"a91fb642a2ba4e858b6ec1fb09c3149b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to a <em><a class=\"glossary-link\" data-glossary-id=\"77344\" data-mce-linktype=\"2\" href=\"#glossary-term-11da8de4e3ea416bb8732a6f2fe0eb07\" title=\"non-directive insurer\">non-directive insurer</a></em>, other than a <em><a class=\"glossary-link\" data-glossary-id=\"53219\" data-mce-linktype=\"2\" href=\"#glossary-term-e2dba345e3f746b5838bd8b4f03bb781\" title=\"non-directive friendly society\">non-directive friendly society</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e3445b1e2fa14688b9c71748a8034745\" id=\"17cd36089c1a4042995916833370a7a2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to the whole of the<em> <a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm's\">firm's</a></em> business carried on world-wide.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"57fe2f5d43fb40e69e4f3ea4dc6b3f22\" id=\"a9c1d67a7b64424d8700bd6f202da87a\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tRestriction of Business\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5407bf2a680b4dea81b933490514e045\" id=\"6c292edbc5d14ede9e40e788bd6cfd4f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> other than a <em><a class=\"glossary-link\" data-glossary-id=\"52879\" data-mce-linktype=\"2\" href=\"#glossary-term-c79e612c9a2b4b1e9e5dd3c09dd65e18\" title=\"pure reinsurer\">pure reinsurer</a></em> must not carry on any commercial business other than <em><a class=\"glossary-link\" data-glossary-id=\"52220\" data-mce-linktype=\"2\" href=\"#glossary-term-9c9ea400b5194286b440e752add53c8a\" title=\"insurance business\">insurance business</a></em> and activities directly arising from that business.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2df6d8f2746545d58255b96e4d1a65cb\" id=\"282620e561b64eafbcf912a9f8b2434b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52879\" data-mce-linktype=\"2\" href=\"#glossary-term-c79e612c9a2b4b1e9e5dd3c09dd65e18\" title=\"pure reinsurer\">pure reinsurer</a></em> must not carry on any business other than the business of <em><a class=\"glossary-link\" data-glossary-id=\"52227\" data-mce-linktype=\"2\" href=\"#glossary-term-bb3b7757a97d4c79828490247ac16d83\" title=\"reinsurance\">reinsurance</a></em> and related operations.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"f50488704d06486fb8a93f75257c0a4b\" id=\"d002b49d61324de0baa94c1d786ef52f\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tFinancial Limitation of Non-Insurance Activities\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"91108367ba1f4511ab3abb1046ce8fce\" id=\"d041d9ebbc924a34878441e60f490058\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must limit, manage and control its non-insurance activities so that there is no significant risk arising from those activities such that it may be unable to meet its liabilities as they fall due.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"6cc9b3829b2b4d87b82856966df76427\" id=\"d42342ceaedf4bd884c8677a9c8a0507\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSeparately Identify and Maintain Long-Term Insurance Assets\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"712dd106850f4a6a8670c0a1d5cddabc\" id=\"46b6e8435fe342e39cc1a2c718ca4ff2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> carrying on <em><a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em> must identify the assets relating to its <em><a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em> which it is required to hold by virtue of:</p>\n<ol class=\"new-bullet\">\n<li>(1) in the case of a <em><a class=\"glossary-link\" data-glossary-id=\"52879\" data-mce-linktype=\"2\" href=\"#glossary-term-c79e612c9a2b4b1e9e5dd3c09dd65e18\" title=\"pure reinsurer\">pure reinsurer</a></em>:</li>\n<ol>\n<li>(a) <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---technical-provisions#5f6cdfc4bebb446082d3d301b6b7203a\" title=\"Insurance Company - Technical Provisions 4.1\">Insurance Company - Technical Provisions 4.1</a> or <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c\" title=\"4.2\">4.2</a>; and</li>\n<li>(b) <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company-risk-management#d818ab1a30ff42a39eeab27453609dd7\" title=\"Insurance Company - Risk Management 5.1\">Insurance Company - Risk Management 5.1</a>; and</li>\n</ol>\n<li>(2) in any other case:</li>\n<ol>\n<li>(a) <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---technical-provisions#5f6cdfc4bebb446082d3d301b6b7203a\" title=\"Insurance Company - Technical Provisions 4.1\">Insurance Company - Technical Provisions 4.1</a> or <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c\" title=\"4.2\">4.2</a>; and</li>\n<li>(b) <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---technical-provisions#3e79966d9d6442c386ef05c9ebe38d8c\" title=\"Insurance Company - Risk Management 4.2\">Insurance Company - Risk Management 4.2</a> and 4.3.</li>\n</ol></ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7f03507118e449158d3357e6c7628110\" id=\"03f45c7fa3724868ba3d2384182505f3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ol class=\"new-bullet\">\n<li>(1) A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm's\">firm's</a> <a class=\"glossary-link\" data-glossary-id=\"77331\" data-mce-linktype=\"2\" href=\"#glossary-term-3709b38d6f24423da08d4458ece9b688\" title=\"long-term insurance assets\">long-term insurance assets</a></em> are the items in (2), adjusted to take account of:</li>\n<ol>\n<li>(a) outgoings in respect of the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm's\">firm's</a> <a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em>; and</li>\n<li>(b) any transfers made in accordance with <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---internal-contagion-risk#3f48a6823a714bceb7a75aa3e8d0d233\" title=\"4.5\">4.5</a>.</li>\n</ol>\n<li>(2) The items referred to in (1) are:</li>\n<ol>\n<li>(a) the assets identified under <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/insurance-company---internal-contagion-risk#46b6e8435fe342e39cc1a2c718ca4ff2\" title=\"4.1\">4.1</a> (including assets into which those assets have been converted) but excluding any assets identified as being held to cover liabilities in respect of subordinated debt;</li>\n<li>(b) any other assets identified by the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> as being available to cover its <em><a class=\"glossary-link\" data-glossary-id=\"77335\" data-mce-linktype=\"2\" href=\"#glossary-term-cfbbe794a03048099552f930dc953228\" title=\"long-term insurance liabilities\">long-term insurance liabilities</a></em> (including assets into which those assets have been converted) including, if the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> so elects, assets which are excluded under (a);</li>\n<li>(c) <em><a class=\"glossary-link\" data-glossary-id=\"52966\" data-mce-linktype=\"2\" href=\"#glossary-term-f0b9f9e4c75147d3bf8e9161da7654dd\" title=\"premiums\">premiums</a></em> and other receivables in respect of <em><a class=\"glossary-link\" data-glossary-id=\"52199\" data-mce-linktype=\"2\" href=\"#glossary-term-c0a227f630af4597ac4ca0c135f13d6d\" title=\"contracts of long-term insurance\">contracts of long-term insurance</a></em>;</li>\n<li>(d) other receipts of the <em><a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em>; and</li>\n<li>(e) all income and capital receipts in respect of the items in (a) to (d).</li>\n</ol></ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1216ee035ae74e01b5f4261d628e9c43\" id=\"d01e4ac3370346ecbbb02acdb96cbe15\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ol class=\"new-bullet\">\n<li>(1) Unless (2) applies, all the <em><a class=\"glossary-link\" data-glossary-id=\"77331\" data-mce-linktype=\"2\" href=\"#glossary-term-3709b38d6f24423da08d4458ece9b688\" title=\"long-term insurance assets\">long-term insurance assets</a></em> of the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a> </em>constitute its <em><a class=\"glossary-link\" data-glossary-id=\"77334\" data-mce-linktype=\"2\" href=\"#glossary-term-91fc8c7bb7cc4ba091a0d8973a792d70\" title=\"long-term insurance fund\">long-term insurance fund</a></em>.</li>\n<li>(2) Where a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a> </em>identifies particular <em><a class=\"glossary-link\" data-glossary-id=\"77331\" data-mce-linktype=\"2\" href=\"#glossary-term-3709b38d6f24423da08d4458ece9b688\" title=\"long-term insurance assets\">long-term insurance assets</a></em> in connection with different parts of its <em><a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em>, the assets identified in relation to each such part constitute separate <em><a class=\"glossary-link\" data-glossary-id=\"77334\" data-mce-linktype=\"2\" href=\"#glossary-term-91fc8c7bb7cc4ba091a0d8973a792d70\" title=\"long-term insurance funds\">long-term insurance funds</a></em> of the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"218b6ee1269944b0997c37dba04f3ab3\" id=\"c48bada873a240749cabbe6484629d25\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a> </em>must maintain a separate accounting record in respect of each of its <em><a class=\"glossary-link\" data-glossary-id=\"77334\" data-mce-linktype=\"2\" href=\"#glossary-term-91fc8c7bb7cc4ba091a0d8973a792d70\" title=\"long-term insurance funds\">long-term insurance funds</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b0260e4965694e218d45d20e84ca5a04\" id=\"3f48a6823a714bceb7a75aa3e8d0d233\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a></em> may not transfer assets out of a <em><a class=\"glossary-link\" data-glossary-id=\"77334\" data-mce-linktype=\"2\" href=\"#glossary-term-91fc8c7bb7cc4ba091a0d8973a792d70\" title=\"long-term insurance fund\">long-term insurance fund</a></em> unless:</p>\n<ol class=\"new-bullet\">\n<li>(1) the assets represent an <em><a class=\"glossary-link\" data-glossary-id=\"77301\" data-mce-linktype=\"2\" href=\"#glossary-term-ad38d6dff66c491d9394b7d579e099ab\" title=\"established surplus\">established surplus</a></em>; and</li>\n<li>(2) no more than three months have passed since the determination of that surplus.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"968c8cc28197478da9c3ec688ce9b289\" id=\"5f0c7edd32f64d119ab8168dbac4a835\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tExclusive Use of Long-Term Insurance Assets\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a03ce96c69db4ff0a8ee4db94d1038ff\" id=\"29cd43d88b7f4c1daea0ebc2d63bd10d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ol class=\"new-bullet\">\n<li>(1) A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a></em> must apply a <em><a class=\"glossary-link\" data-glossary-id=\"77331\" data-mce-linktype=\"2\" href=\"#glossary-term-3709b38d6f24423da08d4458ece9b688\" title=\"long-term insurance asset\">long-term insurance asset</a></em> only for the purposes of its <em><a class=\"glossary-link\" data-glossary-id=\"52203\" data-mce-linktype=\"2\" href=\"#glossary-term-0e74283109224a46aa86e62bfc7829bc\" title=\"long-term insurance business\">long-term insurance business</a></em>.</li>\n<li>(2) For the purposes of (1), applying an asset includes coming under any obligation (even if only contingently) to apply that asset.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b444e4facb4247ea8adbfb606d8a1e9b\" id=\"f87d059ecfdb406f99bc3174b1a07130\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm \">firm</a></em> must not agree to, or allow, any mortgage or charge on its <em><a class=\"glossary-link\" data-glossary-id=\"77331\" data-mce-linktype=\"2\" href=\"#glossary-term-3709b38d6f24423da08d4458ece9b688\" title=\"long-term insurance assets\">long-term insurance assets</a></em> other than in respect of a <em><a class=\"glossary-link\" data-glossary-id=\"77335\" data-mce-linktype=\"2\" href=\"#glossary-term-cfbbe794a03048099552f930dc953228\" title=\"long-term insurance liability\">long-term insurance liability</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "ef7d446b0500ccc361472a137b4be523334dd3e41af68af92f321412c56df369",
+  "canonical_json_path": null
+}

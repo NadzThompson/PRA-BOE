@@ -1,0 +1,50 @@
+{
+  "doc_id": "BOE-HTML-2013-large-exposures-ss",
+  "title": "SS16/13 - Large Exposures",
+  "short_title": "SS16/13",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS16/13",
+  "sector": [
+    "banking"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/large-exposures-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss1613-jan-2022.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss1613-june-2018-updating-july-2016.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss1613update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2016/ps2016app4.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2013/ss1613.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss521.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 19 December 2013\n\n\nThis supervisory statement is aimed at firms to which CRD IV applies. It outlines the PRA’s expectations in relation to large exposures requirements within the CRR. It covers:\n\n\n    - Applications to include undertakings within a core UK group (CRR Article 113(6)) and non-core large exposure group (CRR 400(2)(c))\n\n    - Sovereign large exposures exemptions (CRR Article 400(2)(g or h)) and exposures to trustees.\n\n\nThis statement should be read in conjunction with the specified CRR articles, the requirements in the Large Exposures Part of the PRA Rulebook and the high-level expectations outlined in the PRA’s approach to banking supervision.\n",
+  "sha256": "29616ccaf15507164c44e92ff7bb4dcd138882d991ed2be9ebc8f6cac6dfa6d1",
+  "scraped_at": "2026-03-25T03:58:48.575223Z",
+  "raw_sha256": "29616ccaf15507164c44e92ff7bb4dcd138882d991ed2be9ebc8f6cac6dfa6d1",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2013-large-exposures-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

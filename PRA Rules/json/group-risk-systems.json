@@ -1,0 +1,174 @@
+{
+  "doc_id": "pra.rules.group-risk-systems.2026",
+  "title": "Group Risk Systems",
+  "short_title": "Group Risk Systems (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/group-risk-systems.json",
+  "canonical_path": null,
+  "sha256": "83303200b45abaa78be8320951e30f3e2335116d3660ce8131c81e60c357a56a",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.group-risk-systems",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Group Risk Systems",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/group-risk-systems/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:49:38.517046",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Group Systems and Controls"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS31/15 – The Internal Capital Adequacy Assessment Process (ICAAP) and the Supervisory Review and Evaluation Process (SREP)",
+        "url": "/guidance/supervisory-statements/ss31-15---internal-capital-adequacy-assessment-process-and-supervisory-review-and-evaluation-process/03-03-2026"
+      },
+      {
+        "title": "SS3/21 – Non-systemic UK banks: The Prudential Regulation Authority’s approach to new and growing banks",
+        "url": "/guidance/supervisory-statements/ss03-21---non-systemic-uk-banks-the-pras-approach-to-new-and-growing-banks/03-03-2026"
+      },
+      {
+        "title": "SS5/21 – International banks: The PRA’s approach to branch and subsidiary supervision",
+        "url": "/guidance/supervisory-statements/ss05-21-international-banks---pras-approach-to-branch-and-subsidiary-supervision/03-03-2026"
+      },
+      {
+        "title": "SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks",
+        "url": "/guidance/supervisory-statements/ss05-25---enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS28/15 - The PRA Rulebook: Part 4 and response to Chapter 1 of CP41/15",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-part-4"
+      },
+      {
+        "title": "PS29/20 - Capital Requirements Directive V (CRD V)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/capital-requirements-directive-v-further-implementation"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Group Risk Systems",
+      "slug": "group-risk-systems",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/group-risk-systems/03-03-2026",
+      "version_dates": [
+        "01-01-2016",
+        "01-01-2027",
+        "29-12-2020",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2016",
+        "29/12/2020",
+        "31/12/2020"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "29/12/2020",
+          "previous_url": "/pra-rules/group-risk-systems/01-01-2016#0dd8f03b8bd647539f40c0f729ae8c92"
+        },
+        {
+          "rule_ref": "1.3",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/group-risk-systems/29-12-2020#7cf751caa4cf4cbabc4ff28a8630e0b1"
+        },
+        {
+          "rule_ref": "2.3",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/group-risk-systems/29-12-2020#795608e8890e42f781296307d88716c1"
+        }
+      ],
+      "total_amendments": 4
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to a CRR firm that is a member of a group save that 2.3 applies to an Article 109 undertaking.",
+            "as_at_date": "29/12/2020"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "This Part does not apply to a firm in relation to the regulated activity of bidding in emissions auctions (article 24A of the Regulated Activities Order) where it is carried on by way of busines",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "1.3",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "1.4",
+            "summary": "Unless otherwise defined in this Part, any italicised expression used in this Part and in the CRR has the same meaning as in the CRR.",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Group Systems and Controls",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "A firm must:",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "The internal control mechanisms referred to in 2.1 must include:",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "2.3",
+            "summary": "An Article 109 undertaking must comply with 2.1(2) in relation to any UK consolidation group or non-UK sub-group of which it",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "2.4",
+            "summary": "A CRR firm that is a subsidiary of a mixed-activity holding company must ensure that the risk management processes and internal control mechanisms referred to in [2.1](/pra-rules/group-risk-syst",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      }
+    ],
+    "section_count": 2,
+    "rule_count": 8
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to a _CRR firm_ that is a member of a _group_ save that [2.3](/pra-rules/group-risk-systems#795608e8890e42f781296307d88716c1 \"2.3\") applies to an _Article 109 undertaking_.\n\n*Effective: 29/12/2020*\n\n1.2\n\nThis Part does not apply to a _firm_ in relation to the _regulated activity_ of bidding in emissions auctions (article 24A of the _Regulated Activities Order_) where it is carried on by way of business by a _MiFID investment firm_ (other than a UCITS investment firm, as defined in the _FCA Handbook_) in relation to a _financial instrument_.\n\n*Effective: 01/01/2016*\n\n1.3\n\nIn this Part, the following definitions shall apply:\n\n_group_\n\nmeans, in relation to a _person_ (\"A\"), A and any _person_ :\n\n     1. (1) within the scope of section 421 of the  Act;\n     2. (2) who has a _common management relationship_ with A;\n     3. (3) who has a _common management relationship_ with any _person_ in (1);\n     4. (4) who is a _subsidiary undertaking_ of a _person_ in (2) or (3); or\n     5. (5) whose omission from an assessment of the risks to A of A's connection to any person coming within (1) to (4) or an assessment of the financial resources available to such _persons_ would be misleading.\n\n*Effective: 31/12/2020*\n\n1.4\n\nUnless otherwise defined in this Part, any italicised expression used in this Part and in the _CRR_ has the same meaning as in the _CRR_.\n\n*Effective: 01/01/2016*\n\n2\n\n###  Group Systems and Controls\n\n2.1\n\nA _firm_ must:\n\n  1. (1) have adequate, sound and appropriate risk management processes and internal control mechanisms for the purpose of assessing and managing its own exposure to _group_ risk, including sound administrative and accounting procedures; and\n  2. (2) ensure that its _group_ has adequate, sound and appropriate risk management processes and internal control mechanisms at the level of the _group_ , including sound administrative and accounting procedures.\n\n*Effective: 01/01/2016*\n\n2.2\n\nThe internal control mechanisms referred to in [2.1](/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8 \"2.1\") must include:\n\n  1. (1) mechanisms that are adequate for the purpose of producing any data and information which would be relevant for the purpose of monitoring compliance with any prudential requirements (including any reporting requirements and any requirements relating to capital adequacy, solvency, systems and controls and large exposures):\n     1. (a) to which the _firm_ is subject with respect to its membership of a _group_ ; or\n     2. (b) that apply to or with respect to that _group_ or part of it; and\n  2. (2) mechanisms that are adequate to monitor funding within the _group_.\n\n*Effective: 01/01/2016*\n\n2.3\n\nAn _Article 109 undertaking_ must comply with [2.1](/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8 \"2.1\")(2) in relation to any UK consolidation group or non-_UK_ sub-group of which it is a member, as well as in relation to its _group_.\n\n**[Note: Art 109(2) of the _CRD_]**\n\n*Effective: 31/12/2020*\n  * [ Future  version of 2.3 after 01/01/2027  ](/pra-rules/group-risk-systems/01-01-2027#795608e8890e42f781296307d88716c1)\n\n2.4\n\nA _CRR firm_ that is a _subsidiary_ of a _mixed-activity holding company_ must ensure that the risk management processes and internal control mechanisms referred to in [2.1](/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8 \"2.1\") include sound reporting and accounting procedures and other mechanisms that are adequate to identify, measure, monitor and control transactions between the _firm’s parent undertaking mixed-activity holding company_ and any of the _subsidiary_ of the _mixed-activity holding company_.\n\n**[Note: Art 123 of the _CRD_]**\n\n*Effective: 01/01/2016*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"c3751f9b43454a16b0d3412209895298\" id=\"7f91ebca5a96440b9c29553ca90f8d89\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d00d952bc210450e9791f0a6e37ed60b\" id=\"0dd8f03b8bd647539f40c0f729ae8c92\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em> that is a member of a <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em> save that <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/group-risk-systems#795608e8890e42f781296307d88716c1\" title=\"2.3\">2.3</a> applies to an <em><a class=\"glossary-link\" data-glossary-id=\"108326\" data-mce-linktype=\"2\" href=\"#glossary-term-704dbe42f18d4a8d8100de2f752e8bd7\" title=\"Article 109 undertaking\">Article 109 undertaking</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t29/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/group-risk-systems/01-01-2016#0dd8f03b8bd647539f40c0f729ae8c92\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 29/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ec4b002823614c56a17f92b9beaca382\" id=\"a3910cc62ec44cf793a658d23424654c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part does not apply to a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in relation to the <em><a class=\"glossary-link\" data-glossary-id=\"77670\" data-mce-linktype=\"2\" href=\"#glossary-term-9b2be206bd5341b68ead6490530beb99\" title=\"regulated activity\">regulated activity</a></em> of bidding in emissions auctions (article 24A of the <em><a class=\"glossary-link\" data-glossary-id=\"52150\" data-mce-linktype=\"2\" href=\"#glossary-term-343c281a2e2346ad82e8aafc7367cc75\" title=\"Regulated Activities Order\">Regulated Activities Order</a></em>) where it is carried on by way of business by a <em><a class=\"glossary-link\" data-glossary-id=\"53216\" data-mce-linktype=\"2\" href=\"#glossary-term-7c5ae9cb34254e919473e7d66210e865\" title=\"MiFID investment firm\">MiFID investment firm</a></em> (other than a UCITS investment firm, as defined in the <em><a class=\"glossary-link\" data-glossary-id=\"52827\" data-mce-linktype=\"2\" href=\"#glossary-term-32be3c2dd21146a7805f3079824eae67\" title=\"FCA Handbook\">FCA Handbook</a></em>) in relation to a <em><a class=\"glossary-link\" data-glossary-id=\"53206\" data-mce-linktype=\"2\" href=\"#glossary-term-1fad6ea924f6491aa31cfc00893b6cfa\" title=\"financial instrument\">financial instrument</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"892b8ca236c041d1825f235ee86e6047\" id=\"7cf751caa4cf4cbabc4ff28a8630e0b1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em></p>\n<p style=\"padding-left: 30px;\">means, in relation to a <em><a class=\"glossary-link\" data-glossary-id=\"77669\" data-mce-linktype=\"2\" href=\"#glossary-term-2c4b7178d7ef4e9ba48b74d303241a81\" title=\"person\">person</a></em> (\"A\"), A and any <em><a class=\"glossary-link\" data-glossary-id=\"77669\" data-mce-linktype=\"2\" href=\"#glossary-term-2c4b7178d7ef4e9ba48b74d303241a81\" title=\"person\">person</a></em>: </p>\n<ol class=\"new-bullet\">\n<ol>\n<li>(1) within the scope of section 421 of the <span class=\"rule-style-2\"> Act</span>;</li>\n<li>(2) who has a <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"88238\" data-mce-linktype=\"2\" href=\"#glossary-term-e9b5e0053ac0463a99ba79414c2571e2\" title=\"common management relationship\">common management relationship</a></em> with A;</li>\n<li>(3) who has a <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"88238\" data-mce-linktype=\"2\" href=\"#glossary-term-e9b5e0053ac0463a99ba79414c2571e2\" title=\"common management relationship\">common management relationship</a></em> with any <em><a class=\"glossary-link\" data-glossary-id=\"77669\" data-mce-linktype=\"2\" href=\"#glossary-term-2c4b7178d7ef4e9ba48b74d303241a81\" title=\"person\">person</a></em> in (1);</li>\n<li>(4) who is a <em><a class=\"glossary-link\" data-glossary-id=\"52907\" data-mce-linktype=\"2\" href=\"#glossary-term-2bf67cdb5cdb495f86930500217d228f\" title=\"subsidiary undertaking\">subsidiary undertaking</a></em> of a <em><a class=\"glossary-link\" data-glossary-id=\"77669\" data-mce-linktype=\"2\" href=\"#glossary-term-2c4b7178d7ef4e9ba48b74d303241a81\" title=\"person\">person</a></em> in (2) or (3); or</li>\n<li>(5) whose omission from an assessment of the risks to A of A's connection to any person coming within (1) to (4) or an assessment of the financial resources available to such <em><a class=\"glossary-link\" data-glossary-id=\"77669\" data-mce-linktype=\"2\" href=\"#glossary-term-2c4b7178d7ef4e9ba48b74d303241a81\" title=\"persons\">persons</a></em> would be misleading. </li>\n</ol>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/group-risk-systems/29-12-2020#7cf751caa4cf4cbabc4ff28a8630e0b1\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.3 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ebf2b008d65f46a1ac51ff496ff792fb\" id=\"e7dc993c8ee94df4af713600670025c1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise defined in this Part, any italicised expression used in this Part and in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> has the same meaning as in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"35f3c1492f1d4eecb00b8b26ba9380ed\" id=\"ffc98db436f342acb99f19915ff58899\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tGroup Systems and Controls\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"468ab112188b466f93d5ca5d176bbdc0\" id=\"6e77ae8d81934ded92d33d69289a03d8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must: </p>\n<ol class=\"new-bullet\">\n<li>(1) have adequate, sound and appropriate risk management processes and internal control mechanisms for the purpose of assessing and managing its own exposure to <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em> risk, including sound administrative and accounting procedures; and</li>\n<li>(2) ensure that its <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em> has adequate, sound and appropriate risk management processes and internal control mechanisms at the level of the <em style=\"line-height: 17.6px; text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em>, including sound administrative and accounting procedures.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c1dfc2e8396f4696b81e516c2b987ec4\" id=\"0b2756c989fb47e58c150fa452013010\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The internal control mechanisms referred to in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8\" title=\"2.1\">2.1</a> must include:</p>\n<ol class=\"new-bullet\">\n<li>(1) mechanisms that are adequate for the purpose of producing any data and information which would be relevant for the purpose of monitoring compliance with any prudential requirements (including any reporting requirements and any requirements relating to capital adequacy, solvency, systems and controls and large exposures):</li>\n<ol>\n<li>(a) to which the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> is subject with respect to its membership of a <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em>; or</li>\n<li>(b) that apply to or with respect to that <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em> or part of it; and</li>\n</ol>\n<li>(2) mechanisms that are adequate to monitor funding within the <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d836b96deac349fba52d06d3f952daa2\" id=\"795608e8890e42f781296307d88716c1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>An <em><a class=\"glossary-link\" data-glossary-id=\"108326\" data-mce-linktype=\"2\" href=\"#glossary-term-704dbe42f18d4a8d8100de2f752e8bd7\" title=\"Article 109 undertaking\">Article 109 undertaking</a></em> must comply with <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8\" title=\"2.1\">2.1</a>(2) in relation to any <span class=\"rule-style-2\">UK consolidation group</span> or non-<em><a class=\"glossary-link\" data-glossary-id=\"52122\" data-mce-linktype=\"2\" href=\"#glossary-term-f7844a8cbb824a52a26c043e3f6b584e\" title=\"UK\">UK</a></em> sub-group of which it is a member, as well as in relation to its <em><a class=\"glossary-link\" data-glossary-id=\"77672\" data-mce-linktype=\"2\" href=\"#glossary-term-f26e2ff229a04a8d9ad5c8c5c7e8f10c\" title=\"group\">group</a></em>.</p>\n<p><strong>[Note: Art 109(2) of the <em><a class=\"glossary-link\" data-glossary-id=\"52109\" data-mce-linktype=\"2\" href=\"#glossary-term-31e4b635ac0e45079e29954e3d518bec\" title=\"CRD\">CRD</a></em>]</strong></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/group-risk-systems/29-12-2020#795608e8890e42f781296307d88716c1\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.3 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n<li class=\"list-links__item list-future\">\n<a class=\"list-links__link icon-future\" href=\"/pra-rules/group-risk-systems/01-01-2027#795608e8890e42f781296307d88716c1\">\r\n\t\t\tFuture\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.3 after 01/01/2027\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"755806e5683447a887f341ca15e6e19f\" id=\"9b54f60ae50b4508a3831bb1b2db0b1b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"77671\" data-mce-linktype=\"2\" href=\"#glossary-term-419066afe755469e9b5c3630c9bb02be\" title=\"subsidiary\">subsidiary</a></em> of a <em><a class=\"glossary-link\" data-glossary-id=\"77664\" data-mce-linktype=\"2\" href=\"#glossary-term-2497bb85c2e549be92468b9721ce4bd9\" title=\"mixed-activity holding company\">mixed-activity holding company</a></em> must ensure that the risk management processes and internal control mechanisms referred to in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/group-risk-systems#6e77ae8d81934ded92d33d69289a03d8\" title=\"2.1\">2.1</a> include sound reporting and accounting procedures and other mechanisms that are adequate to identify, measure, monitor and control transactions between the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm’s\">firm’s</a> <a class=\"glossary-link\" data-glossary-id=\"77665\" data-mce-linktype=\"2\" href=\"#glossary-term-d4311b00d20148db82eac11f80a44f1b\" title=\"parent undertaking\">parent undertaking</a> <a class=\"glossary-link\" data-glossary-id=\"77664\" data-mce-linktype=\"2\" href=\"#glossary-term-2497bb85c2e549be92468b9721ce4bd9\" title=\"mixed-activity holding company\">mixed-activity holding company</a></em> and any of the <em><a class=\"glossary-link\" data-glossary-id=\"77671\" data-mce-linktype=\"2\" href=\"#glossary-term-419066afe755469e9b5c3630c9bb02be\" title=\"subsidiary\">subsidiary</a></em> of the <em><a class=\"glossary-link\" data-glossary-id=\"77664\" data-mce-linktype=\"2\" href=\"#glossary-term-2497bb85c2e549be92468b9721ce4bd9\" title=\"mixed-activity holding company\">mixed-activity holding company</a></em>.</p>\n<p><strong>[Note: Art 123 of the <em><a class=\"glossary-link\" data-glossary-id=\"52109\" data-mce-linktype=\"2\" href=\"#glossary-term-31e4b635ac0e45079e29954e3d518bec\" title=\"CRD\">CRD</a></em>]</strong></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "83303200b45abaa78be8320951e30f3e2335116d3660ce8131c81e60c357a56a",
+  "canonical_json_path": null
+}

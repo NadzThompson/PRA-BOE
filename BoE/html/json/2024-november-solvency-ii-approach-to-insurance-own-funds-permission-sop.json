@@ -1,0 +1,47 @@
+{
+  "doc_id": "BOE-HTML-2024-november-solvency-ii-approach-to-insurance-own-funds-permission-sop",
+  "title": "SoP10/24 – Solvency II: The PRA’s approach to insurance own funds permissions",
+  "short_title": "SOP10/24",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2024-01-01",
+  "guideline_number": "SOP10/24",
+  "sector": [
+    "banking",
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/solvency-ii-approach-to-insurance-own-funds-permission-sop",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/solvency-ii-approach-to-insurance-own-funds-permission-sop.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss215.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 15 November 2024\n\n\nThis statement of policy (SoP) sets out the Prudential Regulation Authority’s (PRA) approach to granting the regulatory permissions contained in the Own Funds part of the PRA Rulebook (Own Funds permissions). Where relevant, this SoP also sets out the PRA’s approach to variations to those permissions, and the circumstances in which the PRA may take the decision to revoke an Own Funds permission. When granting, varying or revoking Own Funds permissions, the PRA would exercise its powers under section 138BA of the Financial Services and Markets Act 2000 (FSMA).\n\n\nThis SoP is relevant to all UK Solvency II firms, and the Society of Lloyd’s.\n\n\nThis SoP should be read in conjunction with the Own Funds Part of the PRA Rulebook, [Supervisory Statement SS 2/15 - Solvency II: Own Funds](https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-own-funds-ss), [SS3/15 - Solvency II: the quality of capital instruments](https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-the-quality-of-capital-instruments-ss) and [SS 22/15 - Solvency II: applying EIOPA's Set 1 Guidelines to PRA-authorised firms](https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-applying-eiopas-set-1-guidelines-to-pra-authorised-firms-ss). When applying for any permissions, see [Solvency II approvals and rule permissions](https://www.bankofengland.co.uk/prudential-regulation/authorisations/solvency-ii-approvals).\n",
+  "sha256": "709e43aa9464486616df9f48da6ab38b3995a7db23b94404eb83d3a53c54e5fe",
+  "scraped_at": "2026-03-25T03:58:49.968903Z",
+  "raw_sha256": "709e43aa9464486616df9f48da6ab38b3995a7db23b94404eb83d3a53c54e5fe",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-november-solvency-ii-approach-to-insurance-own-funds-permission-sop",
+  "version_id": "2024-01-01",
+  "version_label": "January 2024",
+  "version_sort_key": "2024-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

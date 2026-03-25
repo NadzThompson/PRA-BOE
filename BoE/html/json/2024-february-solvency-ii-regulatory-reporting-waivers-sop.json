@@ -1,0 +1,48 @@
+{
+  "doc_id": "BOE-HTML-2024-february-solvency-ii-regulatory-reporting-waivers-sop",
+  "title": "SoP6/24 – Solvency II regulatory reporting waivers",
+  "short_title": "SOP6/24",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SOP6/24",
+  "sector": [
+    "cross_sector"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/february/solvency-ii-regulatory-reporting-waivers-sop",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/solvency-ii-regulatory-reporting-waivers-november-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2024/solvency-ii-regulatory-reporting-waivers-sop-june-2024.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss4415.2026",
+    "pra.ss4415.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "content_markdown": "First published on 29 February 2024\n\n\nThis statement of policy sets out the PRA's approach to waiving Solvency UK regulatory reporting requirements. The statement is addressed to all Solvency UK firms and to Lloyd’s, and should be read alongside all relevant EU legislation, and the Reporting Part of the Prudential Regulation Authority (PRA) Rulebook.\n\n\nThe statement:\n\n\n    - lists the reporting covered by certain waivers and modifications by consents; and\n\n    - explains the steps a firm must take to apply for waivers and modification by consents, and how the decision will be communicated to the firm.\n",
+  "sha256": "17114d9f4ff9cae75f722c5e76fe3c2e07007e6859e559fd9f11a1ce17ecf238",
+  "scraped_at": "2026-03-25T03:58:49.899727Z",
+  "raw_sha256": "17114d9f4ff9cae75f722c5e76fe3c2e07007e6859e559fd9f11a1ce17ecf238",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-february-solvency-ii-regulatory-reporting-waivers-sop",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

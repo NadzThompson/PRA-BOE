@@ -1,0 +1,132 @@
+{
+  "doc_id": "pra.rules.supervised-run-off.2026",
+  "title": "Supervised Run-Off",
+  "short_title": "Supervised Run-Off (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/supervised-run-off.json",
+  "canonical_path": null,
+  "sha256": "22597226b4072c15590ef5d8132dfe6f5703b94292903f6cd294a99f92c84bdd",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.supervised-run-off",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Supervised Run-Off",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/supervised-run-off/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:50:26.546226",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Provision of Run-Off Plan",
+      "Content of Run-Off Plan",
+      "Notifications and Annual Updates"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Supervised Run-Off",
+      "slug": "supervised-run-off",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/supervised-run-off/03-03-2026",
+      "version_dates": [
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "31/12/2020"
+      ],
+      "past_versions": [],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to SRO firms , except SRO insurers.",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Provision of Run-Off Plan",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "A firm must, within 28 days of the date on which the firm becomes an SRO firm , submit a run-off plan, in accordance with 3,",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Content of Run-Off Plan",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "A firm’s run-off plan must:",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Notifications and Annual Updates",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "A firm must notify the PRA promptly of any matter which has happened or is likely to happen and which represents a significant departure from the run-off plan and either:",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "A firm must, at least annually, update the PRA in writing on progress against, or deviation from, its run-off plan submitted in accordance with [2](/pra-rules/supervised-run-off#49c03fed70e44fc3a2",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      }
+    ],
+    "section_count": 4,
+    "rule_count": 6
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to _SRO firms_ , except _SRO insurers_.\n\n*Effective: 31/12/2020*\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\n_end date_\n\nmeans the end of the relevant period determined in accordance with regulation 41 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018.\n\n*Effective: 31/12/2020*\n\n2\n\n###  Provision of Run-Off Plan\n\n2.1\n\nA _firm_ must, within 28 days of the date on which the _firm_ becomes an _SRO firm_ , submit a run-off plan, in accordance with [3](/pra-rules/supervised-run-off#d472c94c87524fe6808df2e26f4bb3e4 \"3\"), to the _PRA_.\n\n*Effective: 31/12/2020*\n\n3\n\n###  Content of Run-Off Plan\n\n3.1\n\nA _firm’s_ run-off plan must:\n\n  1. (1) describe the _firm’s_ run-off strategy;\n  2. (2) include a description of the business of the _firm_ ;\n  3. (3) include an explanation of how, or to what extent, the _firm_ will have ceased _accepting deposits_ by the _end date_ ; and\n  4. (4) cover the run-off period until all _deposits_ , including any interest or premium payable, will be paid, repaid or returned to depositors or otherwise transferred.\n\n*Effective: 31/12/2020*\n\n4\n\n###  Notifications and Annual Updates\n\n4.1\n\nA _firm_ must notify the _PRA_ promptly of any matter which has happened or is likely to happen and which represents a significant departure from the run-off plan and either:\n\n  1. (1) explain the nature of the departure and the reasons for it; or\n  2. (2) include an amended run-off plan and explain the amendments and the reasons for them.\n\n*Effective: 31/12/2020*\n\n4.2\n\nA _firm_ must, at least annually, update the _PRA_ in writing on progress against, or deviation from, its run-off plan submitted in accordance with [2](/pra-rules/supervised-run-off#49c03fed70e44fc3a200ed6879c0aa18 \"2\").\n\n*Effective: 31/12/2020*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"cc2e7cad8fe94e1893e88f6a6d98e324\" id=\"7b50333a9a454b98be35bc40e90a9fad\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"48af012cc8724682b5da35bc33d80c8a\" id=\"18e349169ae7448784509443874bdd8e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to <em><a class=\"glossary-link\" data-glossary-id=\"98243\" data-mce-linktype=\"2\" href=\"#glossary-term-03d04f1c85064316998189ee87fa1eb0\" title=\"SRO firms\">SRO firms</a></em>, except <em><a class=\"glossary-link\" data-glossary-id=\"98244\" data-mce-linktype=\"2\" href=\"#glossary-term-627ae5e580534fe0ac2cbc8c942474ca\" title=\"SRO insurers\">SRO insurers</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"390bff0544a349e99ce94e487a3ae883\" id=\"cf0ee5c9860f4d0ca091c811f3b4bdff\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p class=\"DefinedTermInstrument\">In this Part, the following definitions shall apply:</p>\n<p class=\"DefinedTermInstrument\"><em><a class=\"glossary-link\" data-glossary-id=\"98251\" data-mce-linktype=\"2\" href=\"#glossary-term-7d0f4f0634bd417c8bd423447caf2e7d\" title=\"end date\">end date</a></em></p>\n<p class=\"DefinedTermInstrument\" style=\"text-indent: 0cm; padding-left: 30px;\"><span style=\"font-style: normal;\">means the end of the relevant period determined in accordance with regulation 41 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018.</span></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"8d64bf7a177143d7abc6c6e004f70299\" id=\"49c03fed70e44fc3a200ed6879c0aa18\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tProvision of Run-Off Plan\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"26143db70e59496f854fd753fd2b9590\" id=\"8870ea9416d4488f896d2baa93aab6e2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> must, within 28 days of the date on which the <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> becomes an <em><a class=\"glossary-link\" data-glossary-id=\"98243\" data-mce-linktype=\"2\" href=\"#glossary-term-03d04f1c85064316998189ee87fa1eb0\" title=\"SRO firm\">SRO firm</a></em>, submit a run-off plan, in accordance with <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/supervised-run-off#d472c94c87524fe6808df2e26f4bb3e4\" title=\"3\">3</a>, to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"c0103980898945c2acfea65c9e405dfb\" id=\"d472c94c87524fe6808df2e26f4bb3e4\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tContent of Run-Off Plan\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"6c8238bd04794e49b26fd6a8383bcf0b\" id=\"d43854a046a94deea02ba80d8c7e381a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm’s</a></em> run-off plan must:</p>\n<ol class=\"new-bullet\">\n<li>(1) describe the <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm’s</a></em> run-off strategy;</li>\n<li>(2) include a description of the business of the <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm</a></em>; </li>\n<li>(3) include an explanation of how, or to what extent, the <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm</a></em> will have ceased <em><a class=\"glossary-link\" data-glossary-id=\"52141\" data-mce-linktype=\"2\" href=\"#glossary-term-c59f797942e842b1859a30ea69843f6a\" title=\"accepting deposits\">accepting deposits</a></em> by the <em><a class=\"glossary-link\" data-glossary-id=\"98251\" data-mce-linktype=\"2\" href=\"#glossary-term-7d0f4f0634bd417c8bd423447caf2e7d\" title=\"end date\">end date</a></em>; and</li>\n<li>(4) cover the run-off period until all <em><a class=\"glossary-link\" data-glossary-id=\"77298\" data-mce-linktype=\"2\" href=\"#glossary-term-f8f56d06e39b4cae90e08c0de7738fc2\" title=\"deposits\">deposits</a></em>, including any interest or premium payable, will be paid, repaid or returned to depositors or otherwise transferred.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"988fec9627fa44a38e76c54c7b1d5249\" id=\"e4d67872c6a048108fdbc093c016c92d\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tNotifications and Annual Updates\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a73ed344e3c64ff4badb7fd7d624fe15\" id=\"ea2775f923d74909907a4b1b566843a3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> must notify the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> promptly of any matter which has happened or is likely to happen and which represents a significant departure from the run-off plan and either:</p>\n<ol class=\"new-bullet\">\n<li>(1) explain the nature of the departure and the reasons for it; or </li>\n<li>(2) include an amended run-off plan and explain the amendments and the reasons for them.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c10b6781cbe64d05b7994d6f1f6cd6c9\" id=\"f79ebd54b0fa44478c124be3a8b614ed\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> must, at least annually, update the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> in writing on progress against, or deviation from, its run-off plan submitted in accordance with <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/supervised-run-off#49c03fed70e44fc3a200ed6879c0aa18\" title=\"2\">2</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "22597226b4072c15590ef5d8132dfe6f5703b94292903f6cd294a99f92c84bdd",
+  "canonical_json_path": null
+}

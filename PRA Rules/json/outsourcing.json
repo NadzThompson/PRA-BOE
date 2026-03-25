@@ -1,0 +1,285 @@
+{
+  "doc_id": "pra.rules.outsourcing.2026",
+  "title": "Outsourcing",
+  "short_title": "Outsourcing (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/outsourcing.json",
+  "canonical_path": null,
+  "sha256": "4bc843278190aa61cb43d4fad84d3391446eafe7c5247cedf866109cc0705acb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.outsourcing",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Outsourcing",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/outsourcing/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:50:01.008856",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Outsourcing"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS2/21 – Outsourcing and third party risk management",
+        "url": "/guidance/supervisory-statements/ss02-21-outsourcing-and-third-party-risk-management/03-03-2026"
+      },
+      {
+        "title": "SS3/21 – Non-systemic UK banks: The Prudential Regulation Authority’s approach to new and growing banks",
+        "url": "/guidance/supervisory-statements/ss03-21---non-systemic-uk-banks-the-pras-approach-to-new-and-growing-banks/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS7/15 - The PRA Rulebook: Part 2",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/the-pra-rulebook-part-2"
+      },
+      {
+        "title": "PS9/17 - Implementation of MiFID II: Part 2",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/implementation-of-mifid-2-part-2"
+      },
+      {
+        "title": "PS31/17 - Responses to CP18/17 Occasional Consultation Paper – Chapters 7 and 8 (December 2017)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/responses-to-cp-18-17-chapters-7-and-8"
+      },
+      {
+        "title": "PS31/17 - Responses to CP18/17 Occasional Consultation Paper – Chapters 7 and 8 (May 2018)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/responses-to-cp-18-17-chapters-7-and-8"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "PS16/25 - Markets in Financial Instruments Directive Organisational Regulation (MiFID Org Reg)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/october/markets-in-financial-instruments-directive-organisational-regulation-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Outsourcing",
+      "slug": "outsourcing",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/outsourcing/03-03-2026",
+      "version_dates": [
+        "02-04-2015",
+        "03-01-2018",
+        "23-10-2025",
+        "29-06-2018",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "03/01/2018",
+        "23/10/2025",
+        "29/06/2018",
+        "31/12/2020"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/outsourcing/03-01-2018#1178844d683345a1959470b6f1042346"
+        },
+        {
+          "rule_ref": "1.2",
+          "changed_before": "23/10/2025",
+          "previous_url": "/pra-rules/outsourcing/03-01-2018#2cd33607e13b46c6a2f1d7752e5a5bb7"
+        },
+        {
+          "rule_ref": "2.1",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/outsourcing/03-01-2018#0f79c668b9f54f1c947c1be905e48571"
+        },
+        {
+          "rule_ref": "2.1A",
+          "changed_before": "23/10/2025",
+          "previous_url": "/pra-rules/outsourcing/31-12-2020#15a8fc55aebe4365a5d220c3327d8bdb"
+        },
+        {
+          "rule_ref": "2.1B",
+          "changed_before": "23/10/2025",
+          "previous_url": "/pra-rules/outsourcing/03-01-2018#be026b567b2f4815858f6a4573d3cbe0"
+        },
+        {
+          "rule_ref": "2.2",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#ded59ff92e8c4cf0953a17403f9cf8f4"
+        },
+        {
+          "rule_ref": "2.3",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#5b43c81245e1434e9c042312757f5edd"
+        },
+        {
+          "rule_ref": "2.4",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#e34dec94a5924b5ba7b46752db160e72"
+        },
+        {
+          "rule_ref": "2.5",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#e8337b2efb3f4aeebf0166dc5b42fd6f"
+        },
+        {
+          "rule_ref": "2.6",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#ff960471c1ca44ea83060524557986cd"
+        },
+        {
+          "rule_ref": "2.7",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#a08fc75a3f724ec49152003479759703"
+        },
+        {
+          "rule_ref": "2.8",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#92f212c6b2f74f75a04aa84012326e47"
+        },
+        {
+          "rule_ref": "2.9",
+          "changed_before": "03/01/2018",
+          "previous_url": "/pra-rules/outsourcing/02-04-2015#89a4542c033f48f1b9ae734aae82c752"
+        }
+      ],
+      "total_amendments": 5
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to a CRR firm :",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "1.1A",
+            "summary": "This Part does not apply to a firm with respect to the carrying on of benchmarking activities except to the extent that they transpose an EU instrument.",
+            "as_at_date": "29/06/2018"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": ""
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Outsourcing",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "A firm must:",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "2.1A",
+            "summary": "[Deleted]",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1B",
+            "summary": "[Deleted]",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1C",
+            "summary": "A firm outsourcing critical or important operational functions will remain fully responsible for discharging all of its obligations under the regulatory system and must ensure that:",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1D",
+            "summary": "A firm must exercise due skill, care and diligence when entering into, managing or terminating any arrangement for the outsourcing of a critical or important operational function and must take the nec",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1E",
+            "summary": "A firm outsourcing critical or important operational functions must ensure that:",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1F",
+            "summary": "Where a firm outsourcing critical or important operational functions and the service provider are members of the same group, the firm may, for the purposes of complying with this Part take into accoun",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.1G",
+            "summary": "A firm must be able to, upon request by the PRA, make available to the PRA all information necessary to enable the PRA to supervise the compliance of the performance of the outsourced function, servic",
+            "as_at_date": "23/10/2025"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.3",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.4",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.5",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.6",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.7",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.8",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          },
+          {
+            "rule_number": "2.9",
+            "summary": "[Deleted.]",
+            "as_at_date": "03/01/2018"
+          }
+        ]
+      }
+    ],
+    "section_count": 2,
+    "rule_count": 19
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nUnless otherwise stated, this Part applies to a _CRR firm_ :\n\n  1. (1) with respect to the carrying on of the following from an establishment in the _UK_ :\n     1. (a) _regulated activities_ ;\n     2. (b) activities that constitute _dealing in investments as principal_ , disregarding the exclusion in article 15 of _Regulated Activities Order_ ;\n     3. (c) _ancillary activities_ ;\n     4. (d) in relation to _MiFID business_ , _ancillary services_ ; and\n     5. (e) _unregulated activities_ in a _prudential context_ ;\n  2. (2) [deleted.]\n  3. (3) in a _prudential context_ with respect to activities wherever they are carried on; and\n  4. (4) taking into account any activity of other members of a _group_ of which the _firm_ is a member.\n\n*Effective: 31/12/2020*\n\n1.1A\n\nThis Part does not apply to a _firm_ with respect to the carrying on of _benchmarking activities_ except to the extent that they transpose an _EU instrument_.\n\n*Effective: 29/06/2018*\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\nauthorisation\n\nmeans authorisation as an authorised person for the purposes of FSMA.\n\ncritical or important operational function\n\nmeans an operational function where a defect or failure in its performance would materially impair the compliance of a firm on a continuous and satisfactory basis with:\n\n  1. (1) the conditions and obligations of its permission;\n  2. (2) any of its other obligations under the regulatory system;\n  3. (3) its financial performance; or\n  4. (4) the performance, soundness or the continuity of its relevant services and activities.\n\nThe following functions will not be considered to be a critical or important operational function for the purposes of this Part:\n\n  1. (5) the provision to the firm of advisory services;\n  2. (6) any other services which do not form part of the relevant services and activities of the firm, including:\n     1. (a) the provision of legal advice to the firm;\n     2. (b) the training of the firm's personnel;\n     3. (c) billing services; and\n     4. (d) the security of the firm's premises and personnel; and\n  3. (7) the purchase of standardised services, including market information services and the provision of price feeds.\n\n*Effective: 23/10/2025*\n\n2\n\n###  Outsourcing\n\n2.1\n\nA _firm_ must:\n\n  1. (1) when relying on a third party for the performance of operational functions which are critical for the performance of _relevant services and activities_ on a continuous and satisfactory basis, ensure that it takes reasonable steps to avoid undue additional operational risk; and\n  2. (2) not undertake the _outsourcing_ of important operational functions in such a way as to impair materially:\n     1. (a) the quality of its internal control; and\n     2. (b) the ability of the _PRA_ to monitor the _firm’s_ compliance with all obligations under the _regulatory system_ and, if different, of a _competent authority_ to monitor the _firm’s_ compliance with all obligations implemented pursuant to _MiFID II_.\n\n[Note: Article 16(5) first paragraph of _MiFID II_]\n\n*Effective: 31/12/2020*\n\n2.1A\n\n[Deleted]\n\n*Effective: 23/10/2025*\n\n2.1B\n\n[Deleted]\n\n*Effective: 23/10/2025*\n\n2.1C\n\nA firm outsourcing critical or important operational functions will remain fully responsible for discharging all of its obligations under the regulatory system and must ensure that:\n\n  1. (1) the outsourcing does not result in the delegation by senior management of its responsibility;\n  2. (2) the relationship and obligations of the firm towards its clients under the terms of the regulatory system are not altered;\n  3. (3) the conditions with which the firm must comply in order to maintain its authorisation are not undermined; and\n  4. (4) none of the other conditions subject to which the firm's authorisation was granted is removed or modified.\n\n*Effective: 23/10/2025*\n\n2.1D\n\nA firm must exercise due skill, care and diligence when entering into, managing or terminating any arrangement for the outsourcing of a critical or important operational function and must take the necessary steps to ensure that:\n\n  1. (1) the service provider has the ability, capacity, sufficient resources and appropriate organisational structure to support the performance of the outsourced functions reliably and professionally, and any authorisation required by law to perform the outsourced functions;\n  2. (2) the service provider carries out the outsourced services effectively and in compliance with applicable law and regulatory requirements, and to this end the firm has established methods and procedures for assessing the standard of performance of the service provider and for reviewing on an ongoing basis the services provided by the service provider;\n  3. (3) the service provider properly oversees the carrying out of the outsourced functions, and adequately manages the risks associated with the outsourcing;\n  4. (4) appropriate action is taken where it appears that the service provider may not be carrying out the functions effectively or in compliance with applicable laws and regulatory requirements;\n  5. (5) the firm effectively oversees the outsourced functions or services, and manages the risks associated with the outsourcing, and to this end the firm retains the necessary expertise and resources to oversee the outsourced functions effectively and manage those risks;\n  6. (6) the service provider has disclosed to the firm any development that may have a material impact on its ability to carry out the outsourced functions effectively and in compliance with applicable laws and regulatory requirements;\n  7. (7) the firm is able to terminate the arrangement for outsourcing where necessary, and with immediate effect when this is in the interests of its clients, and without detriment to the continuity and quality of its provision of services to clients;\n  8. (8) the service provider cooperates with the PRA and any other competent authority in connection with the outsourced functions;\n  9. (9) the firm, its auditors and the PRA and any other competent authority have effective access to data related to the outsourced functions, as well as to the relevant business premises of the service provider, where necessary for the purpose of effective oversight in accordance with this rule and the PRA and any other competent authority are able to exercise those rights of access;\n  10. (10) the service provider protects any confidential information relating to the firm and its clients;\n  11. (11) the firm and the service provider establish, implement and maintain a contingency plan for disaster recovery and periodic testing of backup facilities, where that is necessary having regard to the function, service or activity that has been outsourced; and\n  12. (12) the continuity and quality of the outsourced functions or services are maintained in the event of termination of the outsourcing either by the firm transferring the outsourced function or service to another third party or by performing them itself.\n\n*Effective: 23/10/2025*\n\n2.1E\n\nA firm outsourcing critical or important operational functions must ensure that:\n\n  1. (1) the respective rights and obligations of the firm and of the service provider are clearly allocated and set out in a written agreement;\n  2. (2) the firm preserves its instruction and termination rights, its rights of information, and its right to inspections and access to books and premises; and\n  3. (3) the written agreement with the service provider only permits sub-outsourcing by the service provider with the prior written consent of the firm.\n\n*Effective: 23/10/2025*\n\n2.1F\n\nWhere a firm outsourcing critical or important operational functions and the service provider are members of the same group, the firm may, for the purposes of complying with this Part take into account the extent to which the firm controls the service provider or has the ability to influence its actions.\n\n*Effective: 23/10/2025*\n\n2.1G\n\nA firm must be able to, upon request by the PRA, make available to the PRA all information necessary to enable the PRA to supervise the compliance of the performance of the outsourced function, service or activity with the requirements of the regulatory system.\n\n*Effective: 23/10/2025*\n\n2.2\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.3\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.4\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.5\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.6\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.7\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.8\n\n[Deleted.]\n\n*Effective: 03/01/2018*\n\n2.9\n\n[Deleted.]\n\n*Effective: 03/01/2018*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"91a3c4152d7349b6a16a4cb64c194c36\" id=\"b84e02e425c3459f8e32e48f12ab40ca\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7ebc2a120c47478b9d260a4e821dfbfd\" id=\"1178844d683345a1959470b6f1042346\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>:</p>\n<ol class=\"new-bullet\">\n<li>(1) with respect to the carrying on of the following from an establishment in the <em><a class=\"glossary-link\" data-glossary-id=\"52122\" data-mce-linktype=\"2\" href=\"#glossary-term-f7844a8cbb824a52a26c043e3f6b584e\" title=\"UK\">UK</a></em>:</li>\n<ol>\n<li>(a) <em><a class=\"glossary-link\" data-glossary-id=\"52721\" data-mce-linktype=\"2\" href=\"#glossary-term-ec201e9c9fc244e6bd8249a742f4b8fc\" title=\"regulated activities\">regulated activities</a></em>;</li>\n<li>(b) activities that constitute <em><a class=\"glossary-link\" data-glossary-id=\"52084\" data-mce-linktype=\"2\" href=\"#glossary-term-8dab0aab133549dc894705b82cc122f1\" title=\"dealing in investments as principal\">dealing in investments as principal</a></em>, disregarding the exclusion in article 15 of <em><a class=\"glossary-link\" data-glossary-id=\"52150\" data-mce-linktype=\"2\" href=\"#glossary-term-343c281a2e2346ad82e8aafc7367cc75\" title=\"Regulated Activities Order\">Regulated Activities Order</a></em>;</li>\n<li>(c) <em><a class=\"glossary-link\" data-glossary-id=\"52083\" data-mce-linktype=\"2\" href=\"#glossary-term-e7d97386146e47a0a4dbe7e825cd34e9\" title=\"ancillary activities\">ancillary activities</a></em>;</li>\n<li>(d) in relation to <em><a class=\"glossary-link\" data-glossary-id=\"53214\" data-mce-linktype=\"2\" href=\"#glossary-term-39ff74fff42048cb928c0e4d52169726\" title=\"MiFID business\">MiFID business</a></em>, <em><a class=\"glossary-link\" data-glossary-id=\"53196\" data-mce-linktype=\"2\" href=\"#glossary-term-f11e2e2a78204b8bb3ef3c91156003e8\" title=\"ancillary services\">ancillary services</a></em>; and</li>\n<li>(e) <em><a class=\"glossary-link\" data-glossary-id=\"52123\" data-mce-linktype=\"2\" href=\"#glossary-term-49ac931e2ae04b6086de60af1bf8da65\" title=\"unregulated activities\">unregulated activities</a></em> in a <em><a class=\"glossary-link\" data-glossary-id=\"53225\" data-mce-linktype=\"2\" href=\"#glossary-term-bae18c0beaa9482cbf0a6a4bd5aa13a8\" title=\"prudential context\">prudential context</a></em>;</li>\n</ol>\n<li>(2) [deleted.]</li>\n<li>(3) in a <em><a class=\"glossary-link\" data-glossary-id=\"53225\" data-mce-linktype=\"2\" href=\"#glossary-term-bae18c0beaa9482cbf0a6a4bd5aa13a8\" title=\"prudential context\">prudential context</a></em> with respect to activities wherever they are carried on; and</li>\n<li>(4) taking into account any activity of other members of a <em><a class=\"glossary-link\" data-glossary-id=\"53265\" data-mce-linktype=\"2\" href=\"#glossary-term-13aa799c394145ebb0a660a2504d59f5\" title=\"group\">group</a></em> of which the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> is a member.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/03-01-2018#1178844d683345a1959470b6f1042346\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f8dc6ebe577343a8b6289bb76d370ed5\" id=\"887ce32b1e9c4ef5976384e5fb09b7ed\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part does not apply to a <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> with respect to the carrying on of <em><a class=\"glossary-link\" data-glossary-id=\"88214\" data-mce-linktype=\"2\" href=\"#glossary-term-d570ee527301409fabd283fd2cc0e3f9\" title=\"benchmarking activities\">benchmarking activities</a></em> except to the extent that they transpose an <em><a class=\"glossary-link\" data-glossary-id=\"52092\" data-mce-linktype=\"2\" href=\"#glossary-term-f706b79eebfc4f47a4925711c54bfc62\" title=\"EU instrument\">EU instrument</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t29/06/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"cf293384c6124c10821e9bc2a7298b9f\" id=\"2cd33607e13b46c6a2f1d7752e5a5bb7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions shall apply: </p>\n<p><a class=\"glossary-link\" data-glossary-id=\"53284\" data-mce-linktype=\"2\" href=\"#glossary-term-f085e0d990d7494cbb3533b74d78b63a\" title=\"authorisation\">authorisation</a></p>\n<p style=\"padding-left: 30px;\">means authorisation as an <a class=\"glossary-link\" data-glossary-id=\"53263\" data-mce-linktype=\"2\" href=\"#glossary-term-b1c63026ab9c4ab4aec5fffac6ed0431\" title=\"authorised person\">authorised person</a> for the purposes of <a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a>.</p>\n<p><a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational function</a></p>\n<p style=\"padding-left: 30px;\">means an operational <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">function</a> where a defect or failure in its performance would materially impair the compliance of a <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> on a continuous and satisfactory basis with:</p>\n<ol class=\"new-bullet\" style=\"margin-left: 30px;\">\n<li>(1) the conditions and obligations of its <a href=\"#glossary-term-6df7c334e0ff45519ad3273931982665\">permission</a>;</li>\n<li>(2) any of its other obligations under the <a href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\">regulatory system</a>;</li>\n<li>(3) its financial performance; or</li>\n<li>(4) the performance, soundness or the continuity of its <a href=\"#glossary-term-e075475639fc4a03b61e5182a0eb0fa8\">relevant services and activities</a>.</li>\n</ol>\n<p style=\"margin-left: 30px;\">The following <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> will not be considered to be a <a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational function</a> for the purposes of this Part:</p>\n<ol class=\"new-bullet\" style=\"margin-left: 30px;\">\n<li>(5) the provision to the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> of advisory services;</li>\n<li>(6) any other services which do not form part of the <a href=\"#glossary-term-e075475639fc4a03b61e5182a0eb0fa8\">relevant services and activities</a> of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a>, including:\n    <ol>\n<li>(a) the provision of legal advice to the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a>;</li>\n<li>(b) the training of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm's</a> personnel;</li>\n<li>(c) billing services; and</li>\n<li>(d) the security of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm's</a> premises and personnel; and</li>\n</ol>\n</li>\n<li>(7)  the purchase of standardised services, including market information services and the provision of price feeds.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/03-01-2018#2cd33607e13b46c6a2f1d7752e5a5bb7\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 23/10/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"804ff768f84e4611b1ff4287cc765083\" id=\"4f2132826f404ece9c44267f53b0d978\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tOutsourcing\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0861ed04074e4a8eb0b0e2d8634cb9cb\" id=\"0f79c668b9f54f1c947c1be905e48571\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must:</p>\n<ol class=\"new-bullet\">\n<li>(1) when relying on a third party for the performance of operational functions which are critical for the performance of <em><a class=\"glossary-link\" data-glossary-id=\"53287\" data-mce-linktype=\"2\" href=\"#glossary-term-05d94c4a8e894665970d99c50da1ddf9\" title=\"relevant services and activities\">relevant services and activities</a></em> on a continuous and satisfactory basis, ensure that it takes reasonable steps to avoid undue additional operational risk; and</li>\n<li>(2) not undertake the <em><a class=\"glossary-link\" data-glossary-id=\"53220\" data-mce-linktype=\"2\" href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\" title=\"outsourcing\">outsourcing</a></em> of important operational functions in such a way as to impair materially:</li>\n<ol>\n<li>(a) the quality of its internal control; and</li>\n<li>(b) the ability of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to monitor the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm’s</a></em> compliance with all obligations under the <em><a class=\"glossary-link\" data-glossary-id=\"52098\" data-mce-linktype=\"2\" href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\" title=\"regulatory system\">regulatory system</a></em> and, if different, of a <em><a class=\"glossary-link\" data-glossary-id=\"78107\" data-mce-linktype=\"2\" href=\"#glossary-term-9ac76a5d810347919e7c50e205041d78\" title=\"competent authority\">competent authority</a></em> to monitor the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm’s</a></em> compliance with all obligations implemented pursuant to <em><a class=\"glossary-link\" data-glossary-id=\"52269\" data-mce-linktype=\"2\" href=\"#glossary-term-2c1184b3b89045aabf99052ea83f16f4\" title=\"MiFID II\">MiFID II</a></em>.</li>\n</ol>\n</ol>\n<p>[Note: Article 16(5) first paragraph of <em><a class=\"glossary-link\" data-glossary-id=\"52269\" data-mce-linktype=\"2\" href=\"#glossary-term-2c1184b3b89045aabf99052ea83f16f4\" title=\"MiFID II\">MiFID II</a></em>]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/03-01-2018#0f79c668b9f54f1c947c1be905e48571\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a2f1ae46d5f34d2ba53c34c298986805\" id=\"15a8fc55aebe4365a5d220c3327d8bdb\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n\n<p> </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/31-12-2020#15a8fc55aebe4365a5d220c3327d8bdb\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1A before 23/10/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f07566c1576c436b8bb037589ff58926\" id=\"be026b567b2f4815858f6a4573d3cbe0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1B\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/03-01-2018#be026b567b2f4815858f6a4573d3cbe0\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1B before 23/10/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0102447ead0a4874aeef16dc3990a577\" id=\"2e48bdeee15a47e6b45291c31dba6a85\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1C\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> <a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational functions</a> will remain fully responsible for discharging all of its obligations under the <a href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\">regulatory system</a> and must ensure that:</p>\n<ol class=\"new-bullet\">\n<li>(1) the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> does not result in the delegation by <a href=\"#glossary-term-685d8be44e4445d4a16142fe92a32c80\">senior management</a> of its responsibility;</li>\n<li>(2) the relationship and obligations of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> towards its <a href=\"#glossary-term-87cce91a93a2427e99055e3769c3fe44\">clients</a> under the terms of the <a href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\">regulatory system</a> are not altered;</li>\n<li>(3) the conditions with which the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> must comply in order to maintain its <a href=\"#glossary-term-f085e0d990d7494cbb3533b74d78b63a\">authorisation</a> are not undermined; and</li>\n<li>(4)   none of the other conditions subject to which the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm's</a><span> </span><a href=\"#glossary-term-f085e0d990d7494cbb3533b74d78b63a\">authorisation</a><span> </span>was granted is removed or modified.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"de26c7946323480b875b93b45ac6d4b9\" id=\"71ed22a0a485406999cd42fb1720493a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1D\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> must exercise due skill, care and diligence when entering into, managing or terminating any arrangement for the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> of a <a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational function</a> and must take the necessary steps to ensure that:</p>\n<ol class=\"new-bullet\">\n<li>(1) the service provider has the ability, capacity, sufficient resources and appropriate organisational structure to support the performance of the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> reliably and professionally, and any authorisation required by law to perform the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a><span></span>;</li>\n<li>(2)  the service provider carries out the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span>services effectively and in compliance with applicable law and regulatory requirements, and to this end the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> has established methods and procedures for assessing the standard of performance of the service provider and for reviewing on an ongoing basis the services provided by the service provider;</li>\n<li>(3)  the service provider properly oversees the carrying out of the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a><span></span>, and adequately manages the risks associated with the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a>;</li>\n<li>(4)  appropriate action is taken where it appears that the service provider may not be carrying out the <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> <span></span>effectively or in compliance with applicable laws and regulatory requirements;</li>\n<li>(5)  the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> effectively oversees the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> <span></span>or services, and manages the risks associated with the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a>, and to this end the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> retains the necessary expertise and resources to oversee the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> <span></span>effectively and manage those risks;</li>\n<li>(6)   the service provider has disclosed to the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> any development that may have a material impact on its ability to carry out the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> <span></span>effectively and in compliance with applicable laws and regulatory requirements;</li>\n<li>(7)  the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> is able to terminate the arrangement for <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> where necessary, and with immediate effect when this is in the interests of its <a href=\"#glossary-term-87cce91a93a2427e99055e3769c3fe44\">clients</a>, and without detriment to the continuity and quality of its provision of services to <a href=\"#glossary-term-87cce91a93a2427e99055e3769c3fe44\">clients</a>;</li>\n<li>(8)  the service provider cooperates with the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a> and any other <a href=\"#glossary-term-9ac76a5d810347919e7c50e205041d78\">competent authority</a> in connection with the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a><span></span>;</li>\n<li>(9)   the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a>, its auditors and the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a> and any other <a href=\"#glossary-term-9ac76a5d810347919e7c50e205041d78\">competent authority</a> have effective access to data related to the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a><span></span>, as well as to the relevant business premises of the service provider, where necessary for the purpose of effective oversight in accordance with this rule and the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a> and any other <a href=\"#glossary-term-9ac76a5d810347919e7c50e205041d78\">competent authority</a> are able to exercise those rights of access;</li>\n<li>(10)  the service provider protects any confidential information relating to the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> and its <a href=\"#glossary-term-87cce91a93a2427e99055e3769c3fe44\">clients</a>;</li>\n<li>(11) the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> and the service provider establish, implement and maintain a contingency plan for disaster recovery and periodic testing of backup facilities, where that is necessary having regard to the <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">function</a>, service or activity that has been <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a><span></span>; and</li>\n<li>(12)  the continuity and quality of the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">functions</a> <span></span>or services are maintained in the event of termination of the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> either by the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> transferring the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <span></span><a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">function</a> or service to another third party or by performing them itself.</li>\n</ol>\n<div></div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7025c6a61ae040da8482de85bb0dca03\" id=\"f085936425784032aec2194cff33b8dd\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1E\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> <a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational functions</a> must ensure that:</p>\n<ol class=\"new-bullet\">\n<li>(1) the respective rights and obligations of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> and of the service provider are clearly allocated and set out in a written agreement;</li>\n<li>(2)  the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> preserves its instruction and termination rights, its rights of information, and its right to inspections and access to books and premises; and</li>\n<li>(3) the written agreement with the service provider only permits sub-<a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> by the service provider with the prior written consent of the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"232ee64fb4204a65a59efbb0ca65cc08\" id=\"75b89e34f7f046de883c94406ac5b294\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1F\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where a <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourcing</a> <a href=\"#glossary-term-6dfe7d4e527a441a9c09a18c7e95a004\">critical or important operational functions</a> and the service provider are members of the same <a href=\"#glossary-term-cad95819b1ff46649b40fa89a3f7f6eb\">group</a>, the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> may, for the purposes of complying with this Part take into account the extent to which the <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> controls the service provider or has the ability to influence its actions.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e5c238deece8462180c6b074fa8f2969\" id=\"2250ff57447249c680167fa75db35f2c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1G\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <a href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\">firm</a> must be able to, upon request by the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a>, make available to the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a> all information necessary to enable the <a href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\">PRA</a> to supervise the compliance of the performance of the <a href=\"#glossary-term-8bb000bd0d034240bb438ad47364855a\">outsourced</a> <a href=\"#glossary-term-f14f3b59def149e69b98d2b4a7fd4a4d\">function</a>, service or activity with the requirements of the <a href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\">regulatory system</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/10/2025\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2717a7e35c94475fa3dbe01ab938af7c\" id=\"ded59ff92e8c4cf0953a17403f9cf8f4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#ded59ff92e8c4cf0953a17403f9cf8f4\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.2 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"227d385a27dc4a2a8389884b6d47c795\" id=\"5b43c81245e1434e9c042312757f5edd\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#5b43c81245e1434e9c042312757f5edd\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.3 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"20c28d35a1bc4c46a3ead25243f387f7\" id=\"e34dec94a5924b5ba7b46752db160e72\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#e34dec94a5924b5ba7b46752db160e72\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.4 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9d0419033d20426fa93e69fab1ea601e\" id=\"e8337b2efb3f4aeebf0166dc5b42fd6f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#e8337b2efb3f4aeebf0166dc5b42fd6f\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.5 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e4d52c1f0120468aa86399628f0a2e42\" id=\"ff960471c1ca44ea83060524557986cd\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#ff960471c1ca44ea83060524557986cd\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.6 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"84dcd8ba83e0470488f9ace4a7f60124\" id=\"a08fc75a3f724ec49152003479759703\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#a08fc75a3f724ec49152003479759703\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.7 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b8b5b654ce7f4d139cb9a81db286b450\" id=\"92f212c6b2f74f75a04aa84012326e47\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.8\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#92f212c6b2f74f75a04aa84012326e47\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.8 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ecfc1e95f4a14f9fb467e5b3b92526b3\" id=\"89a4542c033f48f1b9ae734aae82c752\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.9\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/01/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/outsourcing/02-04-2015#89a4542c033f48f1b9ae734aae82c752\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.9 before 03/01/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "4bc843278190aa61cb43d4fad84d3391446eafe7c5247cedf866109cc0705acb",
+  "canonical_json_path": null
+}

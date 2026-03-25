@@ -1,0 +1,92 @@
+{
+  "doc_id": "pra.ss319.2026",
+  "title": "SS3/19 – Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change [Deleted]",
+  "short_title": "SS3/19",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss03-19-enhancing-banks-and-insurers-approaches-to-managing-the-financial-risks-from-climate-change.json",
+  "canonical_path": null,
+  "sha256": "aa5ed41b6d46f3f8f356d13df4ab08a1486282cfec6d24c163fcd348e994ac2b",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss319",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS3/19",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss03-19-enhancing-banks-and-insurers-approaches-to-managing-the-financial-risks-from-climate-change/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:56:41.797904",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms",
+      "Non-SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS11/19 - Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/enhancing-banks-and-insurers-approaches-to-managing-the-financial-risks-from-climate-change"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      },
+      {
+        "title": "PS25/25 - Enhancing banks’ and insurers’ approaches to managing climate-related risks – Update to SS3/19",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS3/19 – Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change [Deleted]",
+      "slug": "ss03-19-enhancing-banks-and-insurers-approaches-to-managing-the-financial-risks-from-climate-change",
+      "version_dates": [
+        "03-12-2025",
+        "15-04-2019",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "PS11/19 - Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/enhancing-banks-and-insurers-approaches-to-managing-the-financial-risks-from-climate-change"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "PS25/25 - Enhancing banks’ and insurers’ approaches to managing climate-related risks – Update to SS3/19",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/december/enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks-policy-statement"
+        }
+      ],
+      "total_amendments": 3
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "###\n\nThis Supervisory Statement was replaced by [SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks](/guidance/supervisory-statements/ss05-25---enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks) with effect from 3 December 2025.\n\n*Effective: 03/12/2025*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"15e44499846249dfaa87411ffacff530\" id=\"72522693c9c6481a897768bac45f71ab\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d4bfe17750dd4dc494db0f1a1b6e379c\" id=\"1104fb5c00614049959849b72cff610c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\tThis Supervisory Statement was replaced by <a data-rb-content-link=\"Guidance\" href=\"/guidance/supervisory-statements/ss05-25---enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks\">SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks</a> with effect from 3 December 2025.\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/12/2025\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n</div>\n</div>",
+  "raw_sha256": "aa5ed41b6d46f3f8f356d13df4ab08a1486282cfec6d24c163fcd348e994ac2b",
+  "canonical_json_path": null
+}

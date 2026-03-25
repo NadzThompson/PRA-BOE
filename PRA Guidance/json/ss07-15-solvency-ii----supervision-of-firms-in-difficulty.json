@@ -1,0 +1,178 @@
+{
+  "doc_id": "pra.ss715.2026",
+  "title": "SS7/15 – Solvency II:  supervision of firms in difficulty or run-off",
+  "short_title": "SS7/15",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss07-15-solvency-ii----supervision-of-firms-in-difficulty.json",
+  "canonical_path": null,
+  "sha256": "06fb7baaa167ef84b8de93c8bba81ca9e2e8b821bbb1375c35dc1f5fa4143f72",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss715",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS7/15",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:22.996369",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Firms in breach of the minimum capital requirement",
+      "Firms in run-off"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS2/15 - Solvency II: A new regime for insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS7/15 – Solvency II:  supervision of firms in difficulty or run-off",
+      "slug": "ss07-15-solvency-ii----supervision-of-firms-in-difficulty",
+      "version_dates": [
+        "20-03-2015",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "PS2/15 - Solvency II: A new regime for insurers",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors"
+        },
+        {
+          "title": "www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf",
+          "url": "http://www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is addressed to UK Solvency II firms and to the Society of Lloyd’s. It sets out how the Prudential Regulation Authority (PRA) expects to deal with firms in the circumstances",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "[Deleted]",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "This statement should be read alongside all relevant Parts of the PRA Rulebook, including the Undertakings in Difficulty Part, and the relevant powers under FS",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "This statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular area",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.5",
+            "summary": "This statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.",
+            "as_at_date": "20/03/2015"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Firms in breach of the minimum capital requirement",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "The PRA will take the same approach to firms which are failing to meet the MCR, whether they are still being run by their directors or whether an administrator or liquidator has been appointed.",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "The PRA expects those firms to act in a way which avoids significant systemic disruption, while protecting vital economic functions and which ensures that policyholders are appropriately protected. Th",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "The PRA will be particularly concerned to ensure that:",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.4",
+            "summary": "The PRA will require a firm with no realistic prospect of prompt restoration of compliance with the MCR to bring its business to a close in as rapid and orderly manner as is consistent with the genera",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.5",
+            "summary": "A firm in this position will not be permitted by the PRA to effect new contracts of insurance but the firm may be permitted to continue activities necessary to carry out existing contracts in a manner",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "2.6",
+            "summary": "The PRA will seek to exercise its powers under FSMA (and in particular, section 55M) by imposing an assets requirement on a firm which is failing to meet the MCR and is unable to rectify this. The pur",
+            "as_at_date": "31/12/2024"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Firms in run-off",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "[Deleted]",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "[Deleted]",
+            "as_at_date": "31/12/2024"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 13
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is addressed to UK Solvency II firms and to the Society of Lloyd’s. It sets out how the Prudential Regulation Authority (PRA) expects to deal with firms in the circumstances, where a firm does not meet the minimum capital requirement (MCR) and where either the PRA considers that the finance scheme it has submitted is manifestly inadequate or the firm fails to comply with the approved scheme within three months from the observation of non-compliance with the MCR.\n\n*Effective: 31/12/2024*\n\n1.2\n\n[Deleted]\n\n*Effective: 31/12/2024*\n\n1.3\n\nThis statement should be read alongside all relevant Parts of the PRA Rulebook, including the [Undertakings in Difficulty Part](/pra-rules/undertakings-in-difficulty), and the relevant powers under FSMA.\n\n*Effective: 31/12/2024*\n\n1.4\n\nThis statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.\n\n#### Footnotes\n\n  * 1\\.  The Prudential Regulation Authority’s approach to insurance supervision, June 2014; <https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors>.\n\n*Effective: 31/12/2024*\n\n1.5\n\nThis statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.\n\n#### Footnotes\n\n  * 2\\.  PRA Consultation Paper CP16/14, ‘Transposition of Solvency II: Part 3’, August 2014;\n\n*Effective: 20/03/2015*\n\n2\n\n###  Firms in breach of the minimum capital requirement\n\n2.1\n\nThe PRA will take the same approach to firms which are failing to meet the MCR, whether they are still being run by their directors or whether an administrator or liquidator has been appointed.\n\n*Effective: 20/03/2015*\n\n2.2\n\nThe PRA expects those firms to act in a way which avoids significant systemic disruption, while protecting vital economic functions and which ensures that policyholders are appropriately protected. The interests of shareholders and creditors other than policyholders are therefore likely to be of lesser priority for the PRA in discharging its statutory functions. This approach is aligned with Solvency II, which has as its main objective the protection of policyholders and requires the PRA to take all measures necessary to safeguard the interests of insured persons when insurers or reinsurers fail to meet MCR.\n\n*Effective: 20/03/2015*\n\n2.3\n\nThe PRA will be particularly concerned to ensure that:\n\n  * policyholders can maintain their insurance cover or obtain alternative insurance cover on reasonable terms where this is critical to them or their business;\n  * payments to them, which are essential for their living necessities, continue without disruption; and\n  * where this becomes necessary, the method for distributing assets amongst creditors (and shareholders) is fair to both those whose claims have arisen and those who may have claims in the future, given the increased risk that the firm will not have sufficient assets to pay all creditors in full.\n\n*Effective: 20/03/2015*\n\n2.4\n\nThe PRA will require a firm with no realistic prospect of prompt restoration of compliance with the MCR to bring its business to a close in as rapid and orderly manner as is consistent with the generality of policyholders’ best interests. This may well take time and there are many circumstances in which a run-off strategy is in the best interests of policyholders (whether the firm is solvent or insolvent) and thus consistent with the main objective of Solvency II.\n\n*Effective: 20/03/2015*\n\n2.5\n\nA firm in this position will not be permitted by the PRA to effect new contracts of insurance but the firm may be permitted to continue activities necessary to carry out existing contracts in a manner, and for so long as, the PRA considers necessary in order to afford an appropriate degree of protection to policyholders. Where a firm continues carrying out contracts of insurance as principal under the Financial Services and Markets Act 2000 (FSMA), the firm would continue to be authorised and retain a Part 4A permission for these limited purposes. The effect of this would be that the firm would also remain subject to PRA supervision, to the ongoing requirements of the PRA Rules during this time. The same will be the case where an insolvency practitioner has been appointed. The PRA would expect such a person to conduct the firm’s affairs in a way which is compatible with the main objective of Solvency II, as well as with their own statutory duties.\n\n*Effective: 31/12/2024*\n\n2.6\n\nThe PRA will seek to exercise its powers under FSMA (and in particular, section 55M) by imposing an assets requirement on a firm which is failing to meet the MCR and is unable to rectify this. The purpose of such a requirement will be to restrict the disposal by the firm of its assets but will generally permit the firm to pay the necessary costs of administering its business and to pay policyholder claims as appropriate. Any other transactions are likely to require the PRA’s approval to ensure (among other things) that assets are disposed of for fair value. Where the firm is subject to insolvency proceedings then any asset requirement would permit the insolvency practitioner to realise the firm’s assets and distribute them, where necessary to ensure compliance with legal requirements arising from the insolvency process and where consistent with the PRA’s objectives.\n\n*Effective: 31/12/2024*\n\n3\n\n###  Firms in run-off\n\n3.1\n\n[Deleted]\n\n*Effective: 31/12/2024*\n\n3.2\n\n[Deleted]\n\n*Effective: 31/12/2024*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"e7f1e4b8c4a44f508526bacc9c1dda75\" id=\"2a268fa577cf469aa4cfdbc4aa5df0a2\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e30cf5e424f945e9a5447bdc9d3483a9\" id=\"62f552a8ccb045679f39ec1f234d93ca\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is addressed to UK Solvency II firms and to the Society of Lloyd’s. It sets out how the Prudential Regulation Authority (PRA) expects to deal with firms in the circumstances, where a firm does not meet the minimum capital requirement (MCR) and where either the PRA considers that the finance scheme it has submitted is manifestly inadequate or the firm fails to comply with the approved scheme within three months from the observation of non-compliance with the MCR.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#62f552a8ccb045679f39ec1f234d93ca\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a837c4bd548740a093ad4b9c68a4dd1e\" id=\"d14b2325699c48c9a3668e8174158266\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#d14b2325699c48c9a3668e8174158266\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"25a4e50262914fc0a9f2a2f60c3703b5\" id=\"c4659e1289f2493280dab084f733be5c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement should be read alongside all relevant Parts of the PRA Rulebook, including the <a data-rb-content-link=\"Part\" href=\"/pra-rules/undertakings-in-difficulty\">Undertakings in Difficulty Part</a>, and the relevant powers under FSMA.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#c4659e1289f2493280dab084f733be5c\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.3 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"4a65145b68124347b78eda1365213437\" id=\"553cc9378de14e23b6cc4743b5aa444b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement expands on the PRA’s general approach as set out in its insurance approach document.<sup><a href=\"#footnote-1\">1</a></sup> By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tThe Prudential Regulation Authority’s approach to insurance supervision, June 2014; <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors\">https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors</a>.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#553cc9378de14e23b6cc4743b5aa444b\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.4 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3e3ce99efc54459a806d53ab251ff481\" id=\"b5d63a93967d4486b39107ced8cd8913\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement has been subject to public consultation<sup><a href=\"#footnote-2\">2</a></sup> and reflects the feedback that was received by the PRA.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Consultation Paper CP16/14, ‘Transposition of Solvency II:  Part 3’, August 2014; \n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"686b9b1f9d28410fa03fda454da3850e\" id=\"58c35b9f74b2403598159a439d429e80\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tFirms in breach of the minimum capital requirement\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8cf7f49c9f7f475da9e8695a6695724d\" id=\"6476d0bd32fd4afc908d4d0b4dcbe21e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA will take the same approach to firms which are failing to meet the MCR, whether they are still being run by their directors or whether an administrator or liquidator has been appointed.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bfb8b58714ec45b5896a97e0b6b13aa7\" id=\"22c68e83f18f4a7780ca79a507098a6f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA expects those firms to act in a way which avoids significant systemic disruption, while protecting vital economic functions and which ensures that policyholders are appropriately protected. The interests of shareholders and creditors other than policyholders are therefore likely to be of lesser priority for the PRA in discharging its statutory functions. This approach is aligned with Solvency II, which has as its main objective the protection of policyholders and requires the PRA to take all measures necessary to safeguard the interests of insured persons when insurers or reinsurers fail to meet MCR.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"38255f1c012b40858a344885f1505c2b\" id=\"7f3a4dde1dbd4897b771f0097002bf77\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA will be particularly concerned to ensure that: </p>\n<ul>\n<li>policyholders can maintain their insurance cover or obtain alternative insurance cover on reasonable terms where this is critical to them or their business; </li>\n<li>payments to them, which are essential for their living necessities, continue without disruption; and </li>\n<li>where this becomes necessary, the method for distributing assets amongst creditors (and shareholders) is fair to both those whose claims have arisen and those who may have claims in the future, given the increased risk that the firm will not have sufficient assets to pay all creditors in full.</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1481a07440ae4ae481ab1e06138dd858\" id=\"a1da386150f84f9a8199cb5d68511c09\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA will require a firm with no realistic prospect of prompt restoration of compliance with the MCR to bring its business to a close in as rapid and orderly manner as is consistent with the generality of policyholders’ best interests. This may well take time and there are many circumstances in which a run-off strategy is in the best interests of policyholders (whether the firm is solvent or insolvent) and thus consistent with the main objective of Solvency II.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"67ff7940d31a49489defeb2514bface5\" id=\"a0c2e0c1e5664398892d7937c8650038\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A firm in this position will not be permitted by the PRA to effect new contracts of insurance but the firm may be permitted to continue activities necessary to carry out existing contracts in a manner, and for so long as, the PRA considers necessary in order to afford an appropriate degree of protection to policyholders. Where a firm continues carrying out contracts of insurance as principal under the Financial Services and Markets Act 2000 (FSMA), the firm would continue to be authorised and retain a Part 4A permission for these limited purposes. The effect of this would be that the firm would also remain subject to PRA supervision, to the ongoing requirements of the PRA Rules during this time. The same will be the case where an insolvency practitioner has been appointed. The PRA would expect such a person to conduct the firm’s affairs in a way which is compatible with the main objective of Solvency II, as well as with their own statutory duties.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#a0c2e0c1e5664398892d7937c8650038\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.5 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"072d48864aae4a4c882f3422b2d6a227\" id=\"c3f32980b8134bf781d328846954ba4a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA will seek to exercise its powers under FSMA (and in particular, section 55M) by imposing an assets requirement on a firm which is failing to meet the MCR and is unable to rectify this. The purpose of such a requirement will be to restrict the disposal by the firm of its assets but will generally permit the firm to pay the necessary costs of administering its business and to pay policyholder claims as appropriate. Any other transactions are likely to require the PRA’s approval to ensure (among other things) that assets are disposed of for fair value. Where the firm is subject to insolvency proceedings then any asset requirement would permit the insolvency practitioner to realise the firm’s assets and distribute them, where necessary to ensure compliance with legal requirements arising from the insolvency process and where consistent with the PRA’s objectives.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#c3f32980b8134bf781d328846954ba4a\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.6 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"c03a60a077284b20ab4c599f9971369f\" id=\"72a7054e807642e59b6c81c5b3d022c7\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tFirms in run-off\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2ecfa45064674604bd0affe2ad03a7d3\" id=\"9aab6d0fff6b4e539d0fbe260c42c57d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#9aab6d0fff6b4e539d0fbe260c42c57d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7376f6f2ddb84b18939e0ee367135570\" id=\"b2e17615c0fe46339ff5e116d2dc302a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss07-15-solvency-ii----supervision-of-firms-in-difficulty/20-03-2015#b2e17615c0fe46339ff5e116d2dc302a\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.2 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "06fb7baaa167ef84b8de93c8bba81ca9e2e8b821bbb1375c35dc1f5fa4143f72",
+  "canonical_json_path": null
+}

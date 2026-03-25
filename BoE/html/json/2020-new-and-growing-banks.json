@@ -1,0 +1,49 @@
+{
+  "doc_id": "BOE-HTML-2020-new-and-growing-banks",
+  "title": "PS8/21 | CP9/20 Non-systemic UK banks: The Prudential Regulation Authority’s approach to new and growing banks",
+  "short_title": "PS8/21",
+  "document_class": "regulatory_publication",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "PS8/21",
+  "sector": [
+    "banking"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/new-and-growing-banks",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2021/april/ps821.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2020/cp920.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2020/cp920app1.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss221.2026",
+    "pra.ss421.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "Alongside this PS, the PRA has re-launched the [New Banks Start-up Unit webpage](https://www.bankofengland.co.uk/prudential-regulation/new-bank-start-up-unit). The updated webpage has been developed as a reference tool for firms considering setting up a bank in the UK, and for newly authorised firms, and contains information covering a range of supervisory topics. We encourage firms to use this as a key source of information when developing their business propositions and regulatory documents.\n",
+  "sha256": "88d5ab6d775290d28fb1ae166f248b51990ade4a24668d5636002ddc52a3c494",
+  "scraped_at": "2026-03-25T03:58:49.606740Z",
+  "raw_sha256": "88d5ab6d775290d28fb1ae166f248b51990ade4a24668d5636002ddc52a3c494",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2020-new-and-growing-banks",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

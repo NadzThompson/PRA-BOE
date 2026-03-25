@@ -1,0 +1,182 @@
+{
+  "doc_id": "pra.ss1816.2026",
+  "title": "SS18/16 – Solvency II: longevity risk transfers",
+  "short_title": "SS18/16",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss18-16---solvency-ii-longevity-risk-transfers.json",
+  "canonical_path": null,
+  "sha256": "933c6edc68f8c42ea37d5e2e3e17119b6a7293faf8b03867d2ec16589809095d",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss1816",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS18/16",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss18-16---solvency-ii-longevity-risk-transfers/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:56:13.903882",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Risks associated with longevity risk mitigation measures",
+      "Notification"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS1/20 - Solvency II: Longevity risk transfers – simplification of pre-notification expectations",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/solvency-ii-longevity-risk-transfers-simplification-of-pre-notification-expectations"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS18/16 – Solvency II: longevity risk transfers",
+      "slug": "ss18-16---solvency-ii-longevity-risk-transfers",
+      "version_dates": [
+        "09-01-2020",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "Previous versions of this Supervisory Statement (SS) pre 09/01/2020 can be found here",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/solvency2-longevity-risk-transfers-ss"
+        },
+        {
+          "title": "PS1/20 - Solvency II: Longevity risk transfers – simplification of pre-notification expectations",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/solvency-ii-longevity-risk-transfers-simplification-of-pre-notification-expectations"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors",
+          "url": "http://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors"
+        },
+        {
+          "title": "www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx",
+          "url": "http://www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is addressed to all UK Solvency II firms and to the Society of Lloyd’s and its managing agents. It sets out the Prudential Regulation Authority’s (PRA’s) views on the genera",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "This statement should be read in conjunction with the PRA’s rules in the Solvency II Sector of the PRA Rulebook and the PRA’s insurance approach document.1",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "This supervisory statement expands on the PRA’s general approach as set out in its insurance approach document. By clearly and consistently explaining its expectations of firms in relation to the part",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "Longevity risk is the risk that policyholders, pension scheme members or other underlying beneficiaries, in aggregate, live longer than expected. The main life insurance products exposed to this risk ",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "1.5",
+            "summary": "The PRA recognises that there has been an active market in the transfer of longevity risk for a number of years. However, the PRA would be concerned if firms became active in this market for reasons o",
+            "as_at_date": "09/01/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Risks associated with longevity risk mitigation measures",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "An insurer accepting risk from, transferring risk to, or hedging risk with, a single or small number of counterparties (or connected counterparties) may expose itself to possibly significant levels of",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "Solvency II introduces specific risk management rules which require insurers and reinsurers to have an effective risk management system comprising strategies, processes and reporting procedures necess",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "There are a range of residual risks introduced through the practice of carrying out longevity risk transfers. The PRA expects firms to have a clear articulation of their exposure and tolerance of thes",
+            "as_at_date": "09/01/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Notification",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "In order to supervise firms’ risk management practices, the PRA expects to be notified of new large and/or complex longevity risk transfer and hedge arrangements and the firm’s proposed approach to ri",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "For all other longevity risk transfers, we have sought to reduce the pre-notification requirements in a way that reduces the level of detail needed and the amount of time firms need to spend compiling",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "3.3",
+            "summary": "For these other transactions, firms should update the PRA of the transaction details by completing the template below and returning it to their supervisory contact. This template may be submitted shor",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "3.4",
+            "summary": "As well as allowing the PRA to gain a fuller picture of the market in a way that requires less time and effort on the part of firms, this template would also allow it to understand the potential build",
+            "as_at_date": "09/01/2020"
+          },
+          {
+            "paragraph_number": "3.5",
+            "summary": "Note: the purpose of this table is to establish the size and general aspects of the longevity component of risk transfers. If there are additional features, such as complex splits with asset risk, ple",
+            "as_at_date": "09/01/2020"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 13
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is addressed to all UK Solvency II firms and to the Society of Lloyd’s and its managing agents. It sets out the Prudential Regulation Authority’s (PRA’s) views on the general issues arising from longevity risk transfers, and clarifies the PRA’s expectations on UK insurers and reinsurers carrying out these transactions as either the buyer or the seller of longevity protection.\n\n*Effective: 31/12/2024*\n\n1.2\n\nThis statement should be read in conjunction with the PRA’s rules in the Solvency II Sector of the PRA Rulebook and the PRA’s insurance approach document.1\n\n#### Footnotes\n\n  * 1\\.  Available at [www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors](http://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors)\n\n*Effective: 31/12/2024*\n\n1.3\n\nThis supervisory statement expands on the PRA’s general approach as set out in its insurance approach document. By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders.\n\n*Effective: 09/01/2020*\n\n1.4\n\nLongevity risk is the risk that policyholders, pension scheme members or other underlying beneficiaries, in aggregate, live longer than expected. The main life insurance products exposed to this risk are immediate and deferred annuities, although certain health contracts and possibly with-profits funds may also be exposed. In addition, there is likely to be some exposure to longevity risk in an insurer’s own staff pension scheme, if this is defined benefit. There is also growing longevity exposure among general insurers in relation to periodic payment orders.\n\n*Effective: 09/01/2020*\n\n1.5\n\nThe PRA recognises that there has been an active market in the transfer of longevity risk for a number of years. However, the PRA would be concerned if firms became active in this market for reasons other than seeking genuine risk transfer.\n\n*Effective: 09/01/2020*\n\n2\n\n###  Risks associated with longevity risk mitigation measures\n\n2.1\n\nAn insurer accepting risk from, transferring risk to, or hedging risk with, a single or small number of counterparties (or connected counterparties) may expose itself to possibly significant levels of counterparty risk. Readers are also referred to SS20/16, ‘Solvency II: reinsurance – counterparty default risk’.2\n\n#### Footnotes\n\n  * 2\\.  November 2016: [www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx](http://www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx).\n\n*Effective: 31/12/2024*\n\n2.2\n\nSolvency II introduces specific risk management rules which require insurers and reinsurers to have an effective risk management system comprising strategies, processes and reporting procedures necessary to identify, measure, monitor, manage and report, on a continuous basis, the risks facing them both now and potentially in the future (see Rule 3.1 in the Solvency II Firms – Conditions Governing Business Part of the PRA Rulebook). The PRA accordingly expects firms to monitor, manage and mitigate these concentration risks. This includes risks which are covered by the solvency capital requirement (SCR) as well as those which are not. In practice this means that holding capital under the SCR in relation to counterparty default risk may not be sufficient in and of itself to mitigate this risk – additional measures besides capital may be necessary.\n\n*Effective: 09/01/2020*\n\n2.3\n\nThere are a range of residual risks introduced through the practice of carrying out longevity risk transfers. The PRA expects firms to have a clear articulation of their exposure and tolerance of these risks within a clearly defined risk appetite. An example of such a residual risk to be considered is basis risk, where there may be different terms of the annuity contract and the risk transfer.\n\n*Effective: 09/01/2020*\n\n3\n\n###  Notification\n\n3.1\n\nIn order to supervise firms’ risk management practices, the PRA expects to be notified of new large and/or complex longevity risk transfer and hedge arrangements and the firm’s proposed approach to risk management well in advance of the completion of any transaction. This expectation applies where a firm is buying or selling longevity protection. The definition of what constitutes a large and/or complex transaction would be those that:\n\n  * have a value/financial impact that are larger than typically transacted on a business as usual basis.\n  * have a structure that is more complex than business as usual transactions (for example, where the risk transfer is structured using instruments less tested in the market such as insurance linked securities, or by the firm, such as automatic reinsurance pools); or\n  * have a material incremental impact on the firm’s ability to meet its Solvency Capital Requirements under Solvency II.\n\n*Effective: 09/01/2020*\n\n3.2\n\nFor all other longevity risk transfers, we have sought to reduce the pre-notification requirements in a way that reduces the level of detail needed and the amount of time firms need to spend compiling this information.\n\n*Effective: 09/01/2020*\n\n3.3\n\nFor these other transactions, firms should update the PRA of the transaction details by completing the template below and returning it to their supervisory contact. This template may be submitted shortly after the reinsurance has been placed.\n\n*Effective: 09/01/2020*\n\n3.4\n\nAs well as allowing the PRA to gain a fuller picture of the market in a way that requires less time and effort on the part of firms, this template would also allow it to understand the potential build-up of risk concentrations as a result of these transactions. This will enable supervisors to consider whether the risks of the proposed transaction are being appropriately managed and that the transaction has an underpinning rationale that is consistent with good risk management principles.\n\nCounterparty name and location | Existing counterparty (Y/N) | Intragroup transaction (Y/N)  | Risk(s) transferred | In respect of the longevity component of the risk transfer, is the transaction a longevity swap, quota\nshare, or other?\n---|---|---|---|---\n|  |  |  |\nEffective date | Notional liability amount transferred (£M)  | Notional liability amount covered by collateral (£M)  | Collateral mechanism | Eligible collateral assets | Any additional features of note (e.g. pre-Part VII reinsurance etc.)\n|  |  |  |  |\n\n*Effective: 09/01/2020*\n\n3.5\n\nNote: the purpose of this table is to establish the size and general aspects of the longevity component of risk transfers. If there are additional features, such as complex splits with asset risk, please discuss these with your normal supervisory contact, as these may require more in-depth discussion.\n\n*Effective: 09/01/2020*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"e9a170d35639411bb5e5b06d12931170\" id=\"6b3ab992719f4b0da8887bee39096522\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"19ab2a4726b04b5892cff76198cca694\" id=\"7fc012b92b334321a45e6c4c765d38e8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is addressed to all UK Solvency II firms and to the Society of Lloyd’s and its managing agents. It sets out the Prudential Regulation Authority’s (PRA’s) views on the general issues arising from longevity risk transfers, and clarifies the PRA’s expectations on UK insurers and reinsurers carrying out these transactions as either the buyer or the seller of longevity protection.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss18-16---solvency-ii-longevity-risk-transfers/09-01-2020#7fc012b92b334321a45e6c4c765d38e8\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9569c7b321f44ce480098b90e885b586\" id=\"537287e958d4444e921707b4e53ba9b7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement should be read in conjunction with the PRA’s rules in the Solvency II Sector of the PRA Rulebook and the PRA’s insurance approach document.<sup><a href=\"#footnote-1\">1</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tAvailable at <a href=\"http://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors\">www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss18-16---solvency-ii-longevity-risk-transfers/09-01-2020#537287e958d4444e921707b4e53ba9b7\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"00484ef2e4fb4486b7fe5057e5013c05\" id=\"26c2cb2fad88460fb7537ba6b1b1c20d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement expands on the PRA’s general approach as set out in its insurance approach document. By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"688864f215604b339b5db22e38a6af01\" id=\"b8f1ccdc88b3448589526777b60f37c5\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Longevity risk is the risk that policyholders, pension scheme members or other underlying beneficiaries, in aggregate, live longer than expected. The main life insurance products exposed to this risk are immediate and deferred annuities, although certain health contracts and possibly with-profits funds may also be exposed. In addition, there is likely to be some exposure to longevity risk in an insurer’s own staff pension scheme, if this is defined benefit. There is also growing longevity exposure among general insurers in relation to periodic payment orders.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3f7d93796e7e4911bd713ff3c33b8d79\" id=\"89fbc5da561446a7b455aad4c32889e1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA recognises that there has been an active market in the transfer of longevity risk for a number of years. However, the PRA would be concerned if firms became active in this market for reasons other than seeking genuine risk transfer.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"7e1122152e4241e882ff5b00bce04d8d\" id=\"581a95ca808d41248652ec1da1f3aeff\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tRisks associated with longevity risk mitigation measures\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5cdba04fe24f4d9b8c84c863c030d201\" id=\"67dab305491547609c1d249fe4e8f7cf\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>An insurer accepting risk from, transferring risk to, or hedging risk with, a single or small number of counterparties (or connected counterparties) may expose itself to possibly significant levels of counterparty risk. Readers are also referred to SS20/16, ‘Solvency II: reinsurance – counterparty default risk’.<sup><a href=\"#footnote-2\">2</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tNovember 2016: <a href=\"http://www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx\">www.bankofengland.co.uk/pra/Pages/publications/ss/2016/ss2016.aspx</a>.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss18-16---solvency-ii-longevity-risk-transfers/09-01-2020#67dab305491547609c1d249fe4e8f7cf\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"cf078d6bdfa74d788edd9378de018dec\" id=\"43fcc86198b84b05b25ebec856798115\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Solvency II introduces specific risk management rules which require insurers and reinsurers to have an effective risk management system comprising strategies, processes and reporting procedures necessary to identify, measure, monitor, manage and report, on a continuous basis, the risks facing them both now and potentially in the future (see Rule 3.1 in the Solvency II Firms – Conditions Governing Business Part of the PRA Rulebook). The PRA accordingly expects firms to monitor, manage and mitigate these concentration risks. This includes risks which are covered by the solvency capital requirement (SCR) as well as those which are not. In practice this means that holding capital under the SCR in relation to counterparty default risk may not be sufficient in and of itself to mitigate this risk – additional measures besides capital may be necessary.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"028139e2edb74247ba48c21bdbabae0d\" id=\"a4f5053052e84a7eb2d6a282fced503d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>There are a range of residual risks introduced through the practice of carrying out longevity risk transfers. The PRA expects firms to have a clear articulation of their exposure and tolerance of these risks within a clearly defined risk appetite. An example of such a residual risk to be considered is basis risk, where there may be different terms of the annuity contract and the risk transfer.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"a07aea6ee2874c61a82a003ca82d77a0\" id=\"92e2cee65f274c838db1c0655e0500c4\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tNotification\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9ba5f31310d9418e8988d878281de176\" id=\"0ae3c26bc64b4118ad2e843090d36f82\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In order to supervise firms’ risk management practices, the PRA expects to be notified of new large and/or complex longevity risk transfer and hedge arrangements and the firm’s proposed approach to risk management well in advance of the completion of any transaction. This expectation applies where a firm is buying or selling longevity protection. The definition of what constitutes a large and/or complex transaction would be those that:</p>\n<ul>\n<li>have a value/financial impact that are larger than typically transacted on a business as usual basis.</li>\n<li>have a structure that is more complex than business as usual transactions (for example, where the risk transfer is structured using instruments less tested in the market such as insurance linked securities, or by the firm, such as automatic reinsurance pools); or</li>\n<li>have a material incremental impact on the firm’s ability to meet its Solvency Capital Requirements under Solvency II.</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d76e70a477ba4650a5f57622d71dcc7c\" id=\"f22c49ec36e8451f8334328a2ce9f1b1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For all other longevity risk transfers, we have sought to reduce the pre-notification requirements in a way that reduces the level of detail needed and the amount of time firms need to spend compiling this information.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d26f0993015646f9a9504cd955083f99\" id=\"5cbb364e03994b8faa7eec848a04f084\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For these other transactions, firms should update the PRA of the transaction details by completing the template below and returning it to their supervisory contact. This template may be submitted shortly after the reinsurance has been placed.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c100be9ae5b24fddb80b673feae6aeee\" id=\"e6db836e06b1407097939d1e6f3ebc0f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>As well as allowing the PRA to gain a fuller picture of the market in a way that requires less time and effort on the part of firms, this template would also allow it to understand the potential build-up of risk concentrations as a result of these transactions. This will enable supervisors to consider whether the risks of the proposed transaction are being appropriately managed and that the transaction has an underpinning rationale that is consistent with good risk management principles.</p>\n<table class=\"content-table\">\n<tbody>\n<tr>\n<td>Counterparty name and location</td>\n<td>Existing counterparty (Y/N)</td>\n<td>Intragroup transaction (Y/N) </td>\n<td>Risk(s) transferred</td>\n<td colspan=\"2\">In respect of the longevity component of the risk transfer, is the transaction a longevity swap, quota<br/>\n            share, or other? </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td colspan=\"2\"> </td>\n</tr>\n<tr>\n<td>Effective date</td>\n<td>Notional liability amount transferred (£M) </td>\n<td>Notional liability amount covered by collateral (£M) </td>\n<td>Collateral mechanism</td>\n<td>Eligible collateral assets</td>\n<td>Any additional features of note (e.g. pre-Part VII reinsurance etc.) </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3c101f36926641bdbab3c0cb30195880\" id=\"1b16305d0da241369bc1afde548607f4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Note: the purpose of this table is to establish the size and general aspects of the longevity component of risk transfers. If there are additional features, such as complex splits with asset risk, please discuss these with your normal supervisory contact, as these may require more in-depth discussion.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t09/01/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "933c6edc68f8c42ea37d5e2e3e17119b6a7293faf8b03867d2ec16589809095d",
+  "canonical_json_path": null
+}

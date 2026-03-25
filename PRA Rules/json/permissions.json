@@ -1,0 +1,179 @@
+{
+  "doc_id": "pra.rules.permissions.2026",
+  "title": "Permissions",
+  "short_title": "Permissions (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/permissions.json",
+  "canonical_path": null,
+  "sha256": "e60d242294ed9ba3b5867e5803554dab74608fadfcf7f71bb9f0b33b1b00b1ff",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.permissions",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Permissions",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/permissions/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:50:07.399603",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Form and Manner of Application for a CRR Permission",
+      "Notification of Altered Circumstances",
+      "Permissions Pursuant to Section 144G or Section 192XC of FSMA"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS7/13 - Strengthening capital standards: implementing CRD IV, feedback and final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/strengthening-capital-standards-implementing-crd-4"
+      },
+      {
+        "title": "PS20/21 - Financial holding companies: Further implementation",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/june/financial-holding-companies-further-implementation"
+      },
+      {
+        "title": "PS22/21 - Implementation of Basel standards: Final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/october/implementation-of-basel-standards"
+      },
+      {
+        "title": "Permissions (CRR firms)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/authorisations/capital-requirements-regulation-permissions"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Permissions",
+      "slug": "permissions",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/permissions/03-03-2026",
+      "version_dates": [
+        "01-01-2014",
+        "01-01-2022",
+        "17-09-2021"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2014",
+        "01/01/2022",
+        "17/09/2021"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "17/09/2021",
+          "previous_url": "/pra-rules/permissions/01-01-2014#79547f49ea33401c80265de9b43161a5"
+        }
+      ],
+      "total_amendments": 3
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to:",
+            "as_at_date": "17/09/2021"
+          },
+          {
+            "rule_number": "1.1A",
+            "summary": "A CRR consolidation entity must comply with this Part in respect of a CRR permission that applies on a consolidated basis and for this purpose, references to a firm in this Part (other than in",
+            "as_at_date": "17/09/2021"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part the following definitions shall apply:",
+            "as_at_date": "01/01/2014"
+          },
+          {
+            "rule_number": "1.3",
+            "summary": "Unless otherwise defined, any italicised expression used in this Part and in the CRR has the same meaning as in the CRR.",
+            "as_at_date": "01/01/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Form and Manner of Application for a CRR Permission",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "The PRA directs that a firm wishing to apply for a CRR permission must make a written application to the PRA.",
+            "as_at_date": "01/01/2014"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "The application must be accompanied by such information and documents as are necessary to demonstrate how the firm complies with the conditions contained in the relevant CRR Article.",
+            "as_at_date": "01/01/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Notification of Altered Circumstances",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "A firm that has applied for or has been granted a CRR permission must notify the PRA immediately if it becomes aware of any matter which could affect the continuing relevance or appropriateness ",
+            "as_at_date": "01/01/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Permissions Pursuant to Section 144G or Section 192XC of FSMA",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "Chapter 4 of this Part applies to the giving of a permission by the PRA pursuant to section 144G or section 192XC of FSMA.",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "The PRA directs that an application for a permission referred to in rule 4.1 must be made in writing to the PRA.",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "4.3",
+            "summary": "The application must be accompanied by such information and documents as are necessary to demonstrate how the conditions contained in the relevant rule have been satisfied.",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "4.4",
+            "summary": "Where a person has applied for or has been granted a permission, the person must notify the PRA immediately on becoming aware of any matter which could affect the continuing relevance or appropriate",
+            "as_at_date": "01/01/2022"
+          }
+        ]
+      }
+    ],
+    "section_count": 4,
+    "rule_count": 11
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to:\n\n  1. (1) every _firm_ that is a _CRR firm_ ; and\n  2. (2) a _CRR consolidation entity_.\n\n*Effective: 17/09/2021*\n\n1.1A\n\nA _CRR consolidation entity_ must comply with this Part in respect of a _CRR permission_ that applies on a _consolidated basis_ and for this purpose, references to a _firm_ in this Part (other than in [1.1](/pra-rules/permissions#79547f49ea33401c80265de9b43161a5 \"1.1\") and 1.1A) mean a _CRR consolidation entity_.\n\n*Effective: 17/09/2021*\n\n1.2\n\nIn this Part the following definitions shall apply:\n\n_CRR permission_\n\nmeans a permission given to a _firm_ by the _PRA_ under powers conferred on the _PRA_ by the _CRR_.\n\n*Effective: 01/01/2014*\n\n1.3\n\nUnless otherwise defined, any italicised expression used in this Part and in the _CRR_ has the same meaning as in the _CRR_.\n\n*Effective: 01/01/2014*\n\n2\n\n###  Form and Manner of Application for a CRR Permission\n\n2.1\n\nThe _PRA_ directs that a _firm_ wishing to apply for a _CRR permission_ must make a written application to the _PRA_.\n\n*Effective: 01/01/2014*\n\n2.2\n\nThe application must be accompanied by such information and documents as are necessary to demonstrate how the firm complies with the conditions contained in the relevant _CRR_ Article.\n\n*Effective: 01/01/2014*\n\n3\n\n###  Notification of Altered Circumstances\n\n3.1\n\nA _firm_ that has applied for or has been granted a _CRR permission_ must notify the _PRA_ immediately if it becomes aware of any matter which could affect the continuing relevance or appropriateness of the application, the _CRR permission_ or any condition to which the _CRR permission_ is subject.\n\n*Effective: 01/01/2014*\n\n4\n\n###  Permissions Pursuant to Section 144G or Section 192XC of FSMA\n\n4.1\n\nChapter 4 of this Part applies to the giving of a permission by the _PRA_ pursuant to section 144G or section 192XC of _FSMA_.\n\n*Effective: 01/01/2022*\n\n4.2\n\nThe _PRA_ directs that an application for a permission referred to in rule [4.1](/pra-rules/permissions#dba6f6059ec14c3fa38178bc31cf41c6 \"4.1\") must be made in writing to the _PRA_.\n\n*Effective: 01/01/2022*\n\n4.3\n\nThe application must be accompanied by such information and documents as are necessary to demonstrate how the conditions contained in the relevant rule have been satisfied.\n\n*Effective: 01/01/2022*\n\n4.4\n\nWhere a person has applied for or has been granted a permission, the person must notify the _PRA_ immediately on becoming aware of any matter which could affect the continuing relevance or appropriateness of the application, the permission or any condition to which the permission is subject.\n\n*Effective: 01/01/2022*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"b89e3650978f410983115b7eee308e56\" id=\"c2e22377a65446d3b51ccb551c29914f\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ec11a9a9df4d42ca8d2e591787974502\" id=\"79547f49ea33401c80265de9b43161a5\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to:</p>\n<ol class=\"new-bullet\">\n<li>(1) every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>; and</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/09/2021\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/permissions/01-01-2014#79547f49ea33401c80265de9b43161a5\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 17/09/2021\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"29019124808d4bda98cf41633c830676\" id=\"506b61a754f04b4cad2179cb92bb496b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em> must comply with this Part in respect of a <em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em> that applies on a <em><a class=\"glossary-link\" data-glossary-id=\"66960\" data-mce-linktype=\"2\" href=\"#glossary-term-dee57c59546b48e8a9a5112293fe79b8\" title=\"consolidated basis\">consolidated basis</a></em> and for this purpose, references to a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in this Part (other than in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/permissions#79547f49ea33401c80265de9b43161a5\" title=\"1.1\">1.1</a> and 1.1A) mean a <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/09/2021\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"831b4169cf564a77a392f6cd6a50950f\" id=\"f72bb882ab1f41529a56452c9755568e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part the following definitions shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em></p>\n<p style=\"padding-left: 30px;\">means a permission given to a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> under powers conferred on the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> by the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0777979d114d4281bfc7195e16ef0bac\" id=\"423a041f08764ad4a332522dd2f5bff0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise defined, any italicised expression used in this Part and in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> has the same meaning as in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"e3bcc75211914a478bbd563e4962859d\" id=\"105f908bb581454fa56cff6c01b7eb1c\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tForm and Manner of Application for a CRR Permission\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"71c58a4d204149b7ae371d0f52fea8aa\" id=\"fd038440b8d34f308b031b986089bd17\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> wishing to apply for a <em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em> must make a written application to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"636b58b8705b49cd8b6b0f50e1b00f92\" id=\"72dc74337f2542f2a30b59366c51ef58\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The application must be accompanied by such information and documents as are necessary to demonstrate how the firm complies with the conditions contained in the relevant <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> Article.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"d49c891f748c421784b007474204ccdd\" id=\"c30f379b91bd4e59b174742417ec7810\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tNotification of Altered Circumstances\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d9e5ae2751aa4407a9753aa215fd6ab5\" id=\"79f7e687f7384ac5a1660a2664789e14\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that has applied for or has been granted a <em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em> must notify the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> immediately if it becomes aware of any matter which could affect the continuing relevance or appropriateness of the application, the <em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em> or any condition to which the <em><a class=\"glossary-link\" data-glossary-id=\"52304\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1f19dfe4364a37838866f6db0373af\" title=\"CRR permission\">CRR permission</a></em> is subject.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"65a99d5a4af944e29fe0ca64466c0147\" id=\"4f9099e6d0ae4981bd0d073a0760da4b\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPermissions Pursuant to Section 144G or Section 192XC of FSMA\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ae683dd825a84e9d936c6697c5d7f615\" id=\"dba6f6059ec14c3fa38178bc31cf41c6\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Chapter 4 of this Part applies to the giving of a permission by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> pursuant to section 144G or section 192XC of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9b9d1606a0084dfbab4358280557cc0d\" id=\"5759a5fb5e59490998e58557c195cc7a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that an application for a permission referred to in rule <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/permissions#dba6f6059ec14c3fa38178bc31cf41c6\" title=\"4.1\">4.1</a> must be made in writing to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e5eaf215e8904363a0f58842c5ef9592\" id=\"1bcd7a5892874ec5bc1b12f2c51629d9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The application must be accompanied by such information and documents as are necessary to demonstrate how the conditions contained in the relevant rule have been satisfied.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"365f649e4f6d48f3bd3173821177c77f\" id=\"46aeabfea6d04a65af0029a6523bec31\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where a person has applied for or has been granted a permission, the person must notify the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> immediately on becoming aware of any matter which could affect the continuing relevance or appropriateness of the application, the permission or any condition to which the permission is subject.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "e60d242294ed9ba3b5867e5803554dab74608fadfcf7f71bb9f0b33b1b00b1ff",
+  "canonical_json_path": null
+}

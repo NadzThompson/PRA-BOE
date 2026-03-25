@@ -1,0 +1,46 @@
+{
+  "doc_id": "BOE-HTML-2024-february-the-pra-approach-to-insurance-group-supervision-sop",
+  "title": "SoP5/24 – The PRA’s approach to insurance group supervision",
+  "short_title": "SOP5/24",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SOP5/24",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/february/the-pra-approach-to-insurance-group-supervision-sop",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/pra-approach-to-insurance-group-supervision-november-2024-update.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss315.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": false,
+  "content_markdown": "First published on 28 February 2024\n\n\nThis statement of policy (SoP) sets out the Prudential Regulation Authority’s (PRA) approach to certain aspects of insurance group supervision under the Group Supervision Part of the PRA Rulebook. It covers:\n\n\n    - the PRA’s approach to insurance groups where the group is a financial conglomerate and where the PRA may exercise its statutory power to waive rules relating to Solvency II group supervision for such firms;\n\n    - the PRA’s approach to exercising its powers in relation to how insurance groups calculate their group solvency capital requirement (SCR) and group eligible own funds;\n\n    - the PRA’s approach to third countries and the PRA’s policy when exercising discretion to allow a group that meets certain factors to bring in its overseas sub-group’s group SCR under method 2;\n\n    - the PRA’s policy when exercising discretion to allow groups to add the results of two or more calculation approaches while calculating the consolidated group SCR as an interim option until the new or extended group internal model (or group-specific parameters) has been approved; and\n\n    - the PRA’s policy to identify and monitor risk concentration and intra-group transactions including in the case of mixed-activity insurance holding companies.\n\n\nThis SoP is relevant to UK Solvency II firms within the scope of the Group Supervision Part of the PRA Rulebook and to the Society of Lloyd’s, its members and managing agents, and insurance holding companies and mixed financial holding companies within the scope of the Group Supervision Part.\n",
+  "sha256": "794d07b2be8bde35da932040889ab15d82aaac924f8c3aec3b3fe064bb14cf6e",
+  "scraped_at": "2026-03-25T03:58:49.916650Z",
+  "raw_sha256": "794d07b2be8bde35da932040889ab15d82aaac924f8c3aec3b3fe064bb14cf6e",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-february-the-pra-approach-to-insurance-group-supervision-sop",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

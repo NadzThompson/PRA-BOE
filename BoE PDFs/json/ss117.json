@@ -1,0 +1,37 @@
+{
+  "doc_id": "PRA-BOE-ss117",
+  "title": "SS117 – Ss117",
+  "short_title": "SS117",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2017-01-01",
+  "guideline_number": "SS117",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2017/ss117.pdf",
+  "source_format": "pdf",
+  "pages": 6,
+  "pra_parent_documents": [
+    "pra.ss117.2026"
+  ],
+  "doc_family_id": "",
+  "version_id": "",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "Supervisory Statement | SS1/17  Supervising international banks: the  PRA’s approach to branch  supervision   –   liquidity reporting  February 2017 29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\nPrudential Regulation Authority  20 Moorgate  London EC2R 6DA  Prudential Regulation Authority, registered   office: 8 Lothbury, London EC2R 7HH.  Registered in England and Wales No: 07854923 29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\nSupervisory Statement | SS1/17  Supervising international banks:  the PRA’s approach to branch  supervision   –   liquidity reporting  February 2017  © Prudential Regulation Authority   2017 29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\n29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\nSupervising international banks: the PRA’s approach to branch supervision –   liquidity reporting February 2017   3  Introduction 1  1.1 This supervisory statement (SS) outlines the Prudential Regulation Authority ’ s (PRA ’ s) expectations for liquidity reporting by PRA-regulated UK branches of third-country, and non-EU European Economic Area (EEA), 1   credit institutions and designated investment firms  (‘relevant third - country firms’).  1.2 This SS should be read in conjunction with the Regulatory Reporting Part of the PRA Rulebook.  Reporting for relevant third-country firms 2  2.1 The PRA expects relevant third-country firms to submit liquidity information at the whole- firm level, based upon data which is reported to the firm’s home state supervisor (‘HSS’). Data should be provided in a single, consolidated   currency and where this is provided to the HSS, also on a significant currency basis. In particular, this should include data reported  to the firm’s HSS that relates to the liquidity coverage ratio (LCR) 2   and in particular the completed LCR template and any other additional liquidity reports submitted to the HSS. 3  2.2 Where liquidity information is not provided to the HSS in English, firms are expected to translate this prior to submission to the PRA.  2.3 Data should be submitted to the PRA on a semi-annual basis, based on 30 June and 31 December end of reporting periods (EORP).  2.4 The PRA expects that some relevant third-country firms will need to submit liquidity information on a more frequent basis than semi-annually. In determining whether or not a relevant third-country firm would report on a more frequent basis, the PRA will have regard,  among other factors, to a firm’s potential impact on UK financial stability taking into account  the frequency of reporting under the HSS, and will be proportionate to the nature, scale and  complexity of the firm’s activities.  2.5 The PRA expects liquidity information to be provided within   the HSS’s submission  timescales or within 30 calendar days from the EORP, whichever is longer.  2.6 The PRA requests firms to submit the information, via their usual secure email system to  LCRBranchData@bankofengland.gsi.gov.uk .  2.7 The PRA expects most relevant third-country firms   to be able to comply with the PRA’s  approach outlined above. Where a relevant third country firm can demonstrate that this is not the case, the PRA will work with the firm to determine suitable, alternative reporting arrangements on a case by case basis.  2.8 Circumstances which may mean the normal reporting approach is not appropriate could include where the format of reporting provided to the HSS is such that it cannot be sent in a  readable format, or where a branch’s home jurisdiction does not currently have a LCR  1   Until the EEA agreement is amended by the EEA joint committee with a view to permitting simultaneous application of the EU liquidity standards in all EEA states.  2   Based on the HSS’ s   implementation of the Basel Committee on Banking Supervision’s introduction of Liquidity Coverage  Requirement (LCR) in 2013.  3   Examples of additional liquidity reports that may be submitted to the HSS include contractual maturity ladder, concentration of funding by counterparty/product type, available unencumbered assets and net stable funding ratio (NSFR). 29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\n4   Supervising international banks: the PRA’s approach to branch supervision –   liquidity reporting February 2017  regime. Suitable arrangements may include branches providing information based on the HSS ’s  own liquidity regime, internal liquidity management information and internal LCR ratios at the whole-firm level.  2.9 Relevant third-country firms should also be able to provide liquidity information on a daily basis when necessary during a stress. When requesting any additional or more frequent reporting from a branch during a stress, the PRA will be proportionate and take into account the liquidity data available pursuant to the requirements of the HSS. 29 December 2020: This document has been superseded, please see: https://www.bankofengland.co.uk/prudential-regulation/publication/2017/supervising-international-banks-the-pras-approach-to- branch-supervision-liquidity-reporting-ss SUPERSEDED\n\n",
+  "sha256": "e10b0e74085a281713c8bad9837985eb6f0ce9ad9e4a9d1e4d5ad3bbb28cc8a4",
+  "scraped_at": "2026-03-25T03:32:26.064625Z"
+}

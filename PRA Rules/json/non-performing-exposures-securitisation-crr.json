@@ -1,0 +1,145 @@
+{
+  "doc_id": "pra.rules.non-performing-exposures-securitisation-crr.2026",
+  "title": "Non-Performing Exposures Securitisation (CRR)",
+  "short_title": "Non-Performing Exposures Securitisation (CRR) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/non-performing-exposures-securitisation-crr.json",
+  "canonical_path": null,
+  "sha256": "afcd73a61b26dfd8ea4abcb8f65b409dccc29af9c71901d439b5e63cfe1608aa",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.non-performing-exposures-securitisation-crr",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Non-Performing Exposures Securitisation (CRR)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/non-performing-exposures-securitisation-crr/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:49:56.662744",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Calculation of Risk Weight"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS9/13 – Securitisation: Significant Risk Transfer",
+        "url": "/guidance/supervisory-statements/ss09-13-securitisation---significant-risk-transfer/03-03-2026"
+      },
+      {
+        "title": "SS10/18 – Securitisation: General requirements and capital framework",
+        "url": "/guidance/supervisory-statements/ss10-18---securitisation-general-requirements-and-capital-framework/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS24/21 - Implementation of Basel standards: Non-performing loan securitisations",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/june/implementation-of-basel-standards-non-performing-loan-securitisations"
+      },
+      {
+        "title": "PS7/24 - Securitisation: General requirements",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/april/securitisation-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Non-Performing Exposures Securitisation (CRR)",
+      "slug": "non-performing-exposures-securitisation-crr",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/non-performing-exposures-securitisation-crr/03-03-2026",
+      "version_dates": [
+        "01-01-2022",
+        "01-01-2027",
+        "01-11-2024"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2022",
+        "01/11/2024"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.2",
+          "changed_before": "01/11/2024",
+          "previous_url": "/pra-rules/non-performing-exposures-securitisation-crr/01-01-2022#89943cd777444e2fb66d3dc0ee8196ec"
+        }
+      ],
+      "total_amendments": 3
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to:",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "1.1A",
+            "summary": "1. (1) A firm must comply with this Part on an individual basis.",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions apply:",
+            "as_at_date": ""
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Calculation of Risk Weight",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "Subject to 2.2 and [2.4](/pra-rules/non-performing-exposures-securitisation-crr#4f45341f34e34662be18cf7",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "Where the risk weight for a qualifying NPE securitisation is calculated by a firm in accordance with Article 254 or 267 of the CRR , the firm must assign a risk weight of 100% to the senior se",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "2.3",
+            "summary": "A firm that applies the IRB Approach to any exposures in the pool of underlying exposures in accordance with Chapter 3 of Title II of Part Three of the CRR and that is not permitted to use, or doe",
+            "as_at_date": "01/01/2022"
+          },
+          {
+            "rule_number": "2.4",
+            "summary": "By way of derogation from 2.1 and [2.2](/pra-rules/non-performing-exposures-securitisation-crr#3223f738",
+            "as_at_date": "01/01/2022"
+          }
+        ]
+      }
+    ],
+    "section_count": 2,
+    "rule_count": 7
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to:\n\n  1. (1) a _CRR firm_ ; and\n  2. (2) a _CRR consolidation entity_ ;\n\nfor the purpose of its obligations under Parts Two and Three of the _CRR_.\n\n*Effective: 01/01/2022*\n  * [ Future  version of 1.1 after 01/01/2027  ](/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#abec65da88594fcf828898b53263f21b)\n\n1.1A\n\n  1. (1) A _firm_ must comply with this Part on an individual basis.\n  2. (2) A _CRR consolidation entity_ must comply with this Part on a consolidated basis, and for this purpose, references to a _firm_ in this Part (other than in [1.1](/pra-rules/non-performing-exposures-securitisation-crr#abec65da88594fcf828898b53263f21b \"1.1\") and 1.1A) are to a _CRR consolidation entity_.\n\n*Effective: 01/01/2022*\n  * [ Future  version of 1.1A after 01/01/2027  ](/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#36c38346b7b4459d8c76a810f5252ca3)\n\n1.2\n\nIn this Part, the following definitions apply:\n\n_Non-performing exposure or NPE_\n\nmeans an exposure that meets any of the conditions set out in Article 47a(3) of the _CRR_.\n\n_non-refundable purchase price discount_\n\nmeans the amount arrived at by subtracting the amount referred to in point (b) from the amount referred to in point (a), where:\n\n        1. (a) is the outstanding amount of the underlying exposures of the _NPE securitisation_ at the time those exposures were transferred to the _SSPE_ ; and\n        2. (b) is the sum of the following:\n           1. (i) the initial sale price of the tranches or, where applicable, parts of the tranches of the _NPE securitisation_ sold to third party investors; and\n           2. (ii) the outstanding amount, at the time the underlying exposures were transferred to the _SSPE_ , of the tranches or, where applicable, parts of tranches of that securitisation held by the originator.\n\nWhere a discount is structured in such a way that it can be refunded in whole or in part to the originator or the original lender, such discount shall not count as a non-refundable purchase price discount.\n\n_[NPE securitisation](../#glossary-term-b17849db8c704ad8a2c176007136ab15 \"NPE securitisation\")_\n\nmeans a securitisation backed by a pool of non-performing exposures the nominal value of which makes up not less than 90% of the entire pool’s nominal value at the time of origination and at any later time where assets are added to or removed from the underlying pool due to replenishment or restructuring.\n\n_Qualifying NPE securitisation_\n\nmeans an _NPE securitisation_ that is a traditional securitisation where the _non-refundable purchase price discount_ is at least 50% of the outstanding amount of the underlying exposures at the time they were transferred to the _SSPE_.\n\n_[SSPE](../#glossary-term-9dbc79cbf538493689de9edac2158797 \"SSPE\")_\n\nhas the meaning given in the Securitisation Part.\n\ntraditional securitisation\n\nhas the meaning given in the Securitisation Part.\n\n*Effective: 01/11/2024*\n  * [ Future  version of 1.2 after 01/01/2027  ](/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#89943cd777444e2fb66d3dc0ee8196ec)\n\n2\n\n###  Calculation of Risk Weight\n\n2.1\n\nSubject to [2.2](/pra-rules/non-performing-exposures-securitisation-crr#3223f738151d46f5b101db25b29a9ba1 \"2.2\") and [2.4](/pra-rules/non-performing-exposures-securitisation-crr#4f45341f34e34662be18cf7f8cab85d0 \"2.4\"), the risk weight for a position in an _NPE securitisation_ calculated by a _firm_ in accordance with Article 254 or 267 of the _CRR_ is subject to a floor of 100%, save where Article 263 of the _CRR_ applies.\n\n*Effective: 01/01/2022*\n\n2.2\n\nWhere the risk weight for a _qualifying NPE securitisation_ is calculated by a _firm_ in accordance with Article 254 or 267 of the _CRR_ , the _firm_ must assign a risk weight of 100% to the senior securitisation position, save where Article 263 of the _CRR_ applies.\n\n*Effective: 01/01/2022*\n\n2.3\n\nA _firm_ that applies the IRB Approach to any exposures in the pool of underlying exposures in accordance with Chapter 3 of Title II of Part Three of the _CRR_ and that is not permitted to use, or does not use, own estimates of LGD and conversion factors for such exposures, must not use the SEC-IRBA for the calculation of risk-weighted exposure amounts for a position in an _NPE securitisation_.\n\n*Effective: 01/01/2022*\n\n2.4\n\nBy way of derogation from [2.1](/pra-rules/non-performing-exposures-securitisation-crr#bdd6873676b14c178dd3d20660f76fb0 \"2.1\") and [2.2](/pra-rules/non-performing-exposures-securitisation-crr#3223f738151d46f5b101db25b29a9ba1 \"2.2\"), save where [2.3](/pra-rules/non-performing-exposures-securitisation-crr#35a2ec2351464ead9f1c64f36e03e897 \"2.3\") applies, a _firm_ may calculate the maximum capital requirement for a position in an _NPE securitisation_ in accordance with Article 268 of the _CRR_.\n\n*Effective: 01/01/2022*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"1e33449483474e4598afbd2f94cf5699\" id=\"98c0f30cea46426b8d20dbf165171de9\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bcaa5c68e35a4d288d8a7ac8c66df99d\" id=\"abec65da88594fcf828898b53263f21b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to: </p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>; and</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em>;</li>\n</ol>\n<p>for the purpose of its obligations under Parts Two and Three of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n<li class=\"list-links__item list-future\">\n<a class=\"list-links__link icon-future\" href=\"/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#abec65da88594fcf828898b53263f21b\">\r\n\t\t\tFuture\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 after 01/01/2027\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d8762c8be865465e93497e759a77a0f8\" id=\"36c38346b7b4459d8c76a810f5252ca3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ol class=\"new-bullet\">\n<li>(1) A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must comply with this Part on an individual basis. </li>\n<li>(2) A <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em> must comply with this Part on a consolidated basis, and for this purpose, references to a <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in this Part (other than in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#abec65da88594fcf828898b53263f21b\" title=\"1.1\">1.1</a> and 1.1A) are to a <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n<li class=\"list-links__item list-future\">\n<a class=\"list-links__link icon-future\" href=\"/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#36c38346b7b4459d8c76a810f5252ca3\">\r\n\t\t\tFuture\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1A after 01/01/2027\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"964ac4923a8c46a39d5cb7a79d63856a\" id=\"89943cd777444e2fb66d3dc0ee8196ec\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"138491\" data-mce-linktype=\"2\" href=\"#glossary-term-87f72333fd5f4e27834cb87f81db724b\" title=\"Non-performing exposure or NPE\">Non-performing exposure or NPE</a></em></p>\n<p style=\"padding-left: 30px;\"> means an exposure that meets any of the conditions set out in Article 47a(3) of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"138490\" data-mce-linktype=\"2\" href=\"#glossary-term-01189e7249ba4a58a970e6186097316f\" title=\"non-refundable purchase price discount\">non-refundable purchase price discount</a></em></p>\n<p style=\"padding-left: 30px;\"><span style=\"text-indent: -1.3em;\">  means the amount arrived at by subtracting the amount referred to in point (b) from the amount referred to in point (a), where: </span></p>\n<ol class=\"new-bullet\">\n<ol>\n<ol>\n<li><span style=\"text-indent: -1.3em;\">(a) is the outstanding amount of the underlying exposures of the </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em><span style=\"text-indent: -1.3em;\"> at the time those exposures were transferred to the </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"138494\" data-mce-linktype=\"2\" href=\"#glossary-term-9dbc79cbf538493689de9edac2158797\" title=\"SSPE\">SSPE</a></em><span style=\"text-indent: -1.3em;\">; and </span></li>\n<li><span style=\"text-indent: -1.3em;\">(b) is the sum of the following:</span></li>\n<ol>\n<li><span style=\"text-indent: -1.3em;\">(i) the initial sale price of the tranches or, where applicable, parts of the tranches of the <em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em></span><span style=\"text-indent: -1.3em;\"> sold to third party investors; and</span></li>\n<li><span style=\"text-indent: -1.3em;\">(ii) the outstanding amount, at the time the underlying exposures were transferred to the </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"138494\" data-mce-linktype=\"2\" href=\"#glossary-term-9dbc79cbf538493689de9edac2158797\" title=\"SSPE\">SSPE</a></em><span style=\"text-indent: -1.3em;\">, of the tranches or, where applicable, parts of tranches  of that securitisation held by the originator.</span></li>\n</ol>\n</ol>\n</ol>\n</ol>\n<p style=\"padding-left: 30px;\"><span style=\"text-indent: -1.3em;\">Where a discount is structured in such a way that it can be refunded in whole or in part to the originator or the original lender, such discount shall not count as a non-refundable purchase price discount.</span></p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"../#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em></p>\n<p style=\"padding-left: 30px;\">means a securitisation backed by a pool of non-performing exposures the nominal value of which makes up not less than 90% of the entire pool’s nominal value at the time of origination and at any later time where assets are added to or removed from the underlying pool due to replenishment or restructuring.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"138493\" data-mce-linktype=\"2\" href=\"#glossary-term-8aad3e56e7554ff4bbe9d534716865c8\" title=\"Qualifying NPE securitisation\">Qualifying NPE securitisation</a></em></p>\n<p style=\"padding-left: 30px;\">means an <em><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em> that is a <a href=\"#glossary-term-61f8bf91e1cd40efa658d6092435f820\">traditional securitisation</a> where the <em><a class=\"glossary-link\" data-glossary-id=\"138490\" data-mce-linktype=\"2\" href=\"#glossary-term-01189e7249ba4a58a970e6186097316f\" title=\"non-refundable purchase price discount\">non-refundable purchase price discount</a></em> is at least 50% of the outstanding amount of the underlying exposures at the time they were transferred to the <em><a class=\"glossary-link\" data-glossary-id=\"138494\" data-mce-linktype=\"2\" href=\"#glossary-term-9dbc79cbf538493689de9edac2158797\" title=\"SSPE\">SSPE</a></em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"138494\" data-mce-linktype=\"2\" href=\"../#glossary-term-9dbc79cbf538493689de9edac2158797\" title=\"SSPE\">SSPE</a></em></p>\n<p style=\"padding-left: 30px;\">has the meaning given in the Securitisation Part.</p>\n<p><a href=\"#glossary-term-61f8bf91e1cd40efa658d6092435f820\">traditional securitisation</a></p>\n<p style=\"margin-left: 30px;\">has the meaning given in the Securitisation Part.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/11/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/non-performing-exposures-securitisation-crr/01-01-2022#89943cd777444e2fb66d3dc0ee8196ec\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 01/11/2024\r\n\t\t\t</span>\n</a>\n</li>\n<li class=\"list-links__item list-future\">\n<a class=\"list-links__link icon-future\" href=\"/pra-rules/non-performing-exposures-securitisation-crr/01-01-2027#89943cd777444e2fb66d3dc0ee8196ec\">\r\n\t\t\tFuture\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 after 01/01/2027\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"a5ac78621358417482c9011c369cb932\" id=\"4fc1f5ee4c6f4720bb1b69fcc30943ed\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tCalculation of Risk Weight\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7edcb8a5acda4971a290f67f66258ee3\" id=\"bdd6873676b14c178dd3d20660f76fb0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Subject to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#3223f738151d46f5b101db25b29a9ba1\" title=\"2.2\">2.2</a> and <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#4f45341f34e34662be18cf7f8cab85d0\" title=\"2.4\">2.4</a>, the risk weight for a position in an <em><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em> calculated by a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in accordance with Article 254 or 267 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> is subject to a floor of 100%, save where Article 263 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> applies.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"62fa18de3ae849d19ef213317cb18d30\" id=\"3223f738151d46f5b101db25b29a9ba1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where the risk weight for a <em><a class=\"glossary-link\" data-glossary-id=\"138493\" data-mce-linktype=\"2\" href=\"#glossary-term-8aad3e56e7554ff4bbe9d534716865c8\" title=\"qualifying NPE securitisation\">qualifying NPE securitisation</a></em> is calculated by a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in accordance with Article 254 or 267 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must assign a risk weight of 100% to the senior securitisation position, save where Article 263 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> applies.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9967958f8bde45c0b05660ef8b7d5f8e\" id=\"35a2ec2351464ead9f1c64f36e03e897\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that applies the IRB Approach to any exposures in the pool of underlying exposures in accordance with Chapter 3 of Title II of Part Three of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> and that is not permitted to use, or does not use, own estimates of LGD and conversion factors for such exposures, must not use the SEC-IRBA for the calculation of risk-weighted exposure amounts for a position in an <em><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d85d1b1e29a44e15b662db903323869b\" id=\"4f45341f34e34662be18cf7f8cab85d0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>By way of derogation from <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#bdd6873676b14c178dd3d20660f76fb0\" title=\"2.1\">2.1</a> and <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#3223f738151d46f5b101db25b29a9ba1\" title=\"2.2\">2.2</a>, save where <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/non-performing-exposures-securitisation-crr#35a2ec2351464ead9f1c64f36e03e897\" title=\"2.3\">2.3</a> applies, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> may calculate the maximum capital requirement for a position in an <em><a class=\"glossary-link\" data-glossary-id=\"138492\" data-mce-linktype=\"2\" href=\"#glossary-term-b17849db8c704ad8a2c176007136ab15\" title=\"NPE securitisation\">NPE securitisation</a></em> in accordance with Article 268 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>. </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "afcd73a61b26dfd8ea4abcb8f65b409dccc29af9c71901d439b5e63cfe1608aa",
+  "canonical_json_path": null
+}

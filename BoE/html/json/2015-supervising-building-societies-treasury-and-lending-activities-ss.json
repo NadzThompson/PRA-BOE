@@ -1,0 +1,52 @@
+{
+  "doc_id": "BOE-HTML-2015-supervising-building-societies-treasury-and-lending-activities-ss",
+  "title": "[Deleted in its entirety] SS20/15 - Supervising building societies’ treasury and lending activities",
+  "short_title": "2015-supervising-building-societies-treasury-and-lending-activities-ss",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "",
+  "sector": [
+    "banking"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/supervising-building-societies-treasury-and-lending-activities-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss2015-december-2025.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss2015-update-dec-2020.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss2015update-july-2020.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss2015-update-february-2020.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2017/ss2015-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss2015-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2015/ss2015.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss223.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 2 April 2015\n\n\nThis supervisory statement sets out the approach and expectations of the Prudential Regulation Authority (PRA) to its supervision of building societies’ treasury and lending activities. This statement complements the requirements of the Building Societies Act 1986. This supervisory statement is aimed at all building societies.\n",
+  "sha256": "cf39759586c1c44490967dcc8d15090fd303d27e67f35a09cd97bdf292fd1890",
+  "scraped_at": "2026-03-25T03:58:49.015388Z",
+  "raw_sha256": "cf39759586c1c44490967dcc8d15090fd303d27e67f35a09cd97bdf292fd1890",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2015-supervising-building-societies-treasury-and-lending-activities-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

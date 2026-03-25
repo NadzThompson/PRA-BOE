@@ -1,0 +1,107 @@
+{
+  "doc_id": "pra.rules.passporting-deleted.2026",
+  "title": "Passporting (Deleted)",
+  "short_title": "Passporting (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/passporting-deleted.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.passporting-deleted",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Passporting (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/passporting-deleted/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:49.723271",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms",
+      "Non-SII Firms",
+      "SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS19/15 - The PRA Rulebook: Part 3",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-part-3"
+      },
+      {
+        "title": "PS29/16 - MiFID II: Response to CP9/16",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/implementation-of-mifid-2-part-1"
+      },
+      {
+        "title": "PS31/17 - Responses to CP18/17 Occasional Consultation Paper – Chapters 7 and 8 (December 2017)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/responses-to-cp-18-17-chapters-7-and-8"
+      },
+      {
+        "title": "PS31/17 - Responses to CP18/17 Occasional Consultation Paper – Chapters 7 and 8 (May 2018)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/responses-to-cp-18-17-chapters-7-and-8"
+      },
+      {
+        "title": "PS2/19 - Regulatory transactions: changes to notification and application forms",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/regulatory-transactions-changes-to-notification-and-application-forms"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "Passporting webpage",
+        "url": "http://www.bankofengland.co.uk/pra/Pages/authorisations/passporting/default.aspx"
+      },
+      {
+        "title": "CRD firms – reporting forms and guidance",
+        "url": "http://www.bankofengland.co.uk/pra/Pages/regulatorydata/crdfirms.aspx"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Passporting (Deleted)",
+      "slug": "passporting-deleted",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/passporting-deleted/03-03-2026",
+      "version_dates": [
+        "01-10-2018",
+        "03-01-2018",
+        "03-08-2015",
+        "05-02-2018",
+        "19-01-2019",
+        "23-02-2018",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 7
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

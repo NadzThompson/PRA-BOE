@@ -1,0 +1,104 @@
+{
+  "doc_id": "pra.rules.reporting-leverage-ratio.2026",
+  "title": "Reporting Leverage Ratio (Deleted)",
+  "short_title": "Reporting Leverage Ratio (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/reporting-leverage-ratio.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.reporting-leverage-ratio",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Reporting Leverage Ratio (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-leverage-ratio/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:50:17.862429",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [
+      {
+        "title": "SS45/15 – The UK leverage ratio framework",
+        "url": "/guidance/supervisory-statements/ss45-15-the-uk-leverage-ratio-framework/03-03-2026"
+      },
+      {
+        "title": "SS2/19 – PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after the UK’s withdrawal from the EU",
+        "url": "/guidance/supervisory-statements/ss02-19-pra-approach-to-interpreting-reporting-and-disclosure-requirements/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS27/15 - Implementing a UK leverage ratio framework",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/implementing-a-uk-leverage-ratio-framework"
+      },
+      {
+        "title": "PS21/17 - UK Leverage Ratio treatment of claims on central banks",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/consultations-by-the-fpc-and-pra-on-changes-to-the-uk-leverage-ratio-framework"
+      },
+      {
+        "title": "PS8/18 - Pillar 2: Update to reporting requirements",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/pillar-2-update-to-reporting-requirements"
+      },
+      {
+        "title": "PS28/18 - UK leverage ratio: Applying the framework to systemic ring-fenced bodies and reflecting the systemic risk buffer",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/uk-leverage-ratio-applying-the-framework-to-systemic-rfbs-and-reflecting-the-srb"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "PS21/21 - The UK leverage ratio framework",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/june/changes-to-the-uk-leverage-ratio-framework"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Reporting Leverage Ratio (Deleted)",
+      "slug": "reporting-leverage-ratio",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/reporting-leverage-ratio/03-03-2026",
+      "version_dates": [
+        "01-01-2016",
+        "01-01-2019",
+        "01-01-2022",
+        "01-10-2018",
+        "03-10-2017",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 6
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

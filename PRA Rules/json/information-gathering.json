@@ -1,0 +1,184 @@
+{
+  "doc_id": "pra.rules.information-gathering.2026",
+  "title": "Information Gathering",
+  "short_title": "Information Gathering (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/information-gathering.json",
+  "canonical_path": null,
+  "sha256": "d343c33e3e675ba21efdc11cfb99d5b79d1c250504cd3696f82e3e6970ddb8a2",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.information-gathering",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Information Gathering",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/information-gathering/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:44.882689",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms",
+      "Non-SII Firms",
+      "SII Firms"
+    ],
+    "chapters": [
+      "Application",
+      "Cooperation",
+      "Access to Premises",
+      "Access to Documents and Personnel",
+      "Information Requested on Behalf of Other Regulators"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS2/21 – Outsourcing and third party risk management",
+        "url": "/guidance/supervisory-statements/ss02-21-outsourcing-and-third-party-risk-management/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS5/14 - The PRA Rulebook",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/the-pra-rulebook"
+      },
+      {
+        "title": "PS26/15 - \"The prudential regime, and implementation of the Senior Insurance Managers Regime, for non-Solvency II firms\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/prudential-regime-and-implementation-of-the-senior-insurance-managers-regime-for-non-solvency-2"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Information Gathering",
+      "slug": "information-gathering",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/information-gathering/03-03-2026",
+      "version_dates": [
+        "01-01-2016",
+        "19-06-2014"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2016",
+        "19/06/2014"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "2.1",
+          "changed_before": "01/01/2016",
+          "previous_url": "/pra-rules/information-gathering/19-06-2014#d2f77594a8244197a5e75189ec46ec1f"
+        },
+        {
+          "rule_ref": "3.1",
+          "changed_before": "01/01/2016",
+          "previous_url": "/pra-rules/information-gathering/19-06-2014#feda642d4b2c4bce84ea8fff05469ef6"
+        },
+        {
+          "rule_ref": "3.2",
+          "changed_before": "01/01/2016",
+          "previous_url": "/pra-rules/information-gathering/19-06-2014#db1fc17195c646a482cacd246e8c8d8c"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to every firm.",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Cooperation",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "This Chapter does not apply to a UK Solvency II firm, the Society or managing agents.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A firm must take reasonable steps to ensure that its agents, appointed representatives and suppliers under material outsourcing arrangements deal in an open, cooperative and timely way with the ",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Access to Premises",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "3.3 does not apply to a UK Solvency II firm , the Society or managing agents.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "A firm must permit any representative or appointee of the PRA to have access, with or without notice, during reasonable business hours to any of its business premises, in relation to the discharge",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "rule_number": "3.3",
+            "summary": "A firm must take reasonable steps to ensure that its agents, appointed representatives and suppliers under material outsourcing arrangements permit any representative or appointee of the PRA t",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Access to Documents and Personnel",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "Subject to section 413 of FSMA , a firm must, in relation to the discharge of the PRA’s functions under any relevant legislation :",
+            "as_at_date": "19/06/2014"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "Subject to section 413 of FSMA , a firm must, in relation to the discharge of the PRA’s functions under any relevant legislation , take reasonable steps to ensure that the following persons ",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Information Requested on Behalf of Other Regulators",
+        "rules": [
+          {
+            "rule_number": "5.1",
+            "summary": "Subject to section 413 of FSMA , a firm must cooperate with the PRA in providing information at the request of another regulator to enable that regulator to discharge its functions properly.",
+            "as_at_date": "19/06/2014"
+          }
+        ]
+      }
+    ],
+    "section_count": 5,
+    "rule_count": 9
+  },
+  "content_markdown": "1\n\n###  Application\n\n1.1\n\nThis Part applies to every _firm_.\n\n*Effective: 19/06/2014*\n\n2\n\n###  Cooperation\n\n2.1\n\nThis Chapter does not apply to a _UK Solvency II firm_, the _Society_ or _managing agents_.\n\n*Effective: 01/01/2016*\n\n2.2\n\nA _firm_ must take reasonable steps to ensure that its agents, _appointed representatives_ and suppliers under _material outsourcing_ arrangements deal in an open, cooperative and timely way with the _PRA_ in the discharge of its functions under any _relevant legislation_ in relation to the _firm_.\n\n*Effective: 01/01/2016*\n\n3\n\n###  Access to Premises\n\n3.1\n\n[3.3](/pra-rules/information-gathering#f1a9566d6a8a4197a604be616c201dfc \"3.3\") does not apply to a _UK Solvency II firm_ , the _Society_ or _managing agents_.\n\n*Effective: 01/01/2016*\n\n3.2\n\nA _firm_ must permit any representative or appointee of the _PRA_ to have access, with or without notice, during reasonable business hours to any of its business premises, in relation to the discharge of the _PRA’s_ functions under any _relevant legislation_.\n\n*Effective: 01/01/2016*\n\n3.3\n\nA _firm_ must take reasonable steps to ensure that its agents, _appointed representatives_ and suppliers under _material outsourcing_ arrangements permit any representative or appointee of the _PRA_ to have access, with or without notice, during reasonable business hours to any of its business premises, in relation to the discharge of the _PRA’s_ functions under any _relevant legislation_ in relation to the _firm_.\n\n*Effective: 01/01/2016*\n\n4\n\n###  Access to Documents and Personnel\n\n4.1\n\nSubject to section 413 of _FSMA_ , a _firm_ must, in relation to the discharge of the _PRA’s_ functions under any _relevant legislation_ :\n\n  1. (1) permit any representative or appointee of the _PRA_ to have access to any document that the _PRA_ reasonably requests;\n  2. (2) make itself readily available to meet any representative or appointee of the _PRA_ as the _PRA_ reasonably requests; and\n  3. (3) answer truthfully, fully and promptly all questions reasonably put to it by any representative or appointee of the _PRA_.\n\n*Effective: 19/06/2014*\n\n4.2\n\nSubject to section 413 of _FSMA_ , a _firm_ must, in relation to the discharge of the _PRA’s_ functions under any _relevant legislation_ , take reasonable steps to ensure that the following _persons_ act in the manner set out in [4.1](/pra-rules/information-gathering#5382ee0ab9fe44f4bf4e2dc5edf7dfc8 \"4.1\") in relation to the _firm_ :\n\n  1. (1) its _employees_ , agents and _appointed representatives_ ; and\n  2. (2) any other members of its _group_ , and their _employees_ and agents.\n\n*Effective: 19/06/2014*\n\n5\n\n###  Information Requested on Behalf of Other Regulators\n\n5.1\n\nSubject to section 413 of _FSMA_ , a _firm_ must cooperate with the _PRA_ in providing information at the request of another regulator to enable that regulator to discharge its functions properly.\n\n*Effective: 19/06/2014*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"a50d11d1af1b47cbab82fbf4fc8470f4\" id=\"2c35e192785640278422544f1fb224a7\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9fe2d8a7567d43bdb76c587115e135d1\" id=\"b21a57f8c7044f6fbf786d4b8a3fa416\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"4a2d5ee03c8640d1bf8db01157415cf8\" id=\"098513af5a0b410e8fa003dbc7ac7fde\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tCooperation\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"889181814a924c1f8eebcbf46f19e886\" id=\"d2f77594a8244197a5e75189ec46ec1f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Chapter does not apply to a<em> <a class=\"glossary-link\" data-glossary-id=\"52930\" data-mce-linktype=\"2\" href=\"#glossary-term-0d29d447fd4b4fca868c1d2e5b5e2276\" title=\"UK Solvency II firm\">UK Solvency II firm</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52204\" data-mce-linktype=\"2\" href=\"#glossary-term-631b76adce9c4143ad8d33e593852c66\" title=\"managing agents\">managing agents</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/information-gathering/19-06-2014#d2f77594a8244197a5e75189ec46ec1f\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 01/01/2016\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"800202387deb4a85a67029808b537ae2\" id=\"f7a2f6f7c318401283e718b72cc0242b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"15.620600000000003\">A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must take reasonable steps to ensure that its agents, <em><a class=\"glossary-link\" data-glossary-id=\"52178\" data-mce-linktype=\"2\" href=\"#glossary-term-cf60950dc57c44c098218161b24047e3\" title=\"appointed representatives\">appointed representatives</a></em> and suppliers under <em><a class=\"glossary-link\" data-glossary-id=\"52175\" data-mce-linktype=\"2\" href=\"#glossary-term-f8fd6084632547449e6472efbf6f4ffb\" title=\"material outsourcing\">material outsourcing</a></em> arrangements deal in an open, cooperative and timely way with the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> in the discharge of its functions under any <em><a class=\"glossary-link\" data-glossary-id=\"52176\" data-mce-linktype=\"2\" href=\"#glossary-term-14493a5f658f421c8a27216e21bfd544\" title=\"relevant legislation\">relevant legislation</a></em> in relation to the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"61f78e7b141a4049b4d4138e4f263f49\" id=\"c42b4cd7a95c49ac9c1beac81b50d638\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tAccess to Premises\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d95db1c18a704fb09ad9309a8e9b1951\" id=\"feda642d4b2c4bce84ea8fff05469ef6\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/information-gathering#f1a9566d6a8a4197a604be616c201dfc\" title=\"3.3\">3.3</a> does not apply to a <em><a class=\"glossary-link\" data-glossary-id=\"52930\" data-mce-linktype=\"2\" href=\"#glossary-term-0d29d447fd4b4fca868c1d2e5b5e2276\" title=\"UK Solvency II firm\">UK Solvency II firm</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52204\" data-mce-linktype=\"2\" href=\"#glossary-term-631b76adce9c4143ad8d33e593852c66\" title=\"managing agents\">managing agents</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/information-gathering/19-06-2014#feda642d4b2c4bce84ea8fff05469ef6\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 01/01/2016\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3d44503e625244f5888f009ea4e76f25\" id=\"db1fc17195c646a482cacd246e8c8d8c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"15.620600000000003\">A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must permit any representative or appointee of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to have access, with or without notice, during reasonable business hours to any of its business premises, in relation to the discharge of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> functions under any <em><a class=\"glossary-link\" data-glossary-id=\"52176\" data-mce-linktype=\"2\" href=\"#glossary-term-14493a5f658f421c8a27216e21bfd544\" title=\"relevant legislation\">relevant legislation</a></em>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/information-gathering/19-06-2014#db1fc17195c646a482cacd246e8c8d8c\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.2 before 01/01/2016\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ec994c0753ed4788b227675b4af94595\" id=\"f1a9566d6a8a4197a604be616c201dfc\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"15.620600000000003\">A<em> <a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must take reasonable steps to ensure that its agents, <em><a class=\"glossary-link\" data-glossary-id=\"52178\" data-mce-linktype=\"2\" href=\"#glossary-term-cf60950dc57c44c098218161b24047e3\" title=\"appointed representatives\">appointed representatives</a></em> and suppliers under <em><a class=\"glossary-link\" data-glossary-id=\"52175\" data-mce-linktype=\"2\" href=\"#glossary-term-f8fd6084632547449e6472efbf6f4ffb\" title=\"material outsourcing\">material outsourcing</a></em> arrangements permit any representative or appointee of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to have access, with or without notice, during reasonable business hours to any of its business premises, in relation to the discharge of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> functions under any <em><a class=\"glossary-link\" data-glossary-id=\"52176\" data-mce-linktype=\"2\" href=\"#glossary-term-14493a5f658f421c8a27216e21bfd544\" title=\"relevant legislation\">relevant legislation</a></em> in relation to the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"bcc0493ce9b247f38c41952b231f389c\" id=\"ea623ece5c514fdd93c6e5d5f53d2fbf\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tAccess to Documents and Personnel\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5d360cdde55e47d88124c96f3999f9aa\" id=\"5382ee0ab9fe44f4bf4e2dc5edf7dfc8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"187.1484\">Subject to section 413 of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em>, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must, in relation to the discharge of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA’s</a></em> functions under any <em><a class=\"glossary-link\" data-glossary-id=\"52176\" data-mce-linktype=\"2\" href=\"#glossary-term-14493a5f658f421c8a27216e21bfd544\" title=\"relevant legislation\">relevant legislation</a></em>:</div>\n<div data-canvas-width=\"20.2852\"><ol class=\"new-bullet\">\n<li>(1) permit any representative or appointee of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to have access to any document that the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> reasonably requests;</li>\n<li>(2) make itself readily available to meet any representative or appointee of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> as the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> reasonably requests; and</li>\n<li>(3) answer truthfully, fully and promptly all questions reasonably put to it by any representative or appointee of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>.</li>\n</ol></div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"52721e17c827430d98b5b0ff22bee880\" id=\"b5f9655f9f0447a99e28a29a1f0be318\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"187.1484\">Subject to section 413 of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em>, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must, in relation to the discharge of the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> functions under any <em><a class=\"glossary-link\" data-glossary-id=\"52176\" data-mce-linktype=\"2\" href=\"#glossary-term-14493a5f658f421c8a27216e21bfd544\" title=\"relevant legislation\">relevant legislation</a></em>, take reasonable steps to ensure that the following <em><a class=\"glossary-link\" data-glossary-id=\"52181\" data-mce-linktype=\"2\" href=\"#glossary-term-08c2a4c6b87b4e51a4292e13ba411052\" title=\"persons\">persons</a></em> act in the manner set out in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/information-gathering#5382ee0ab9fe44f4bf4e2dc5edf7dfc8\" title=\"4.1\">4.1</a> in relation to the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>:</div>\n<div data-canvas-width=\"20.2852\"><ol class=\"new-bullet\">\n<li><span style=\"line-height: 1.6em; text-indent: -1.3em;\">(1) its </span><em style=\"line-height: 1.6em; text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"52174\" data-mce-linktype=\"2\" href=\"#glossary-term-e08f83ef44794a06bd2429270dc7b807\" title=\"employees\">employees</a></em><span style=\"line-height: 1.6em; text-indent: -1.3em;\">, agents and </span><em style=\"line-height: 1.6em; text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"52178\" data-mce-linktype=\"2\" href=\"#glossary-term-cf60950dc57c44c098218161b24047e3\" title=\"appointed representatives\">appointed representatives</a></em><span style=\"line-height: 1.6em; text-indent: -1.3em;\">; and</span></li>\n<li><span style=\"line-height: 1.6em; text-indent: -1.3em;\">(2) any other members of its </span><em style=\"line-height: 1.6em; text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"52429\" data-mce-linktype=\"2\" href=\"#glossary-term-863f3d175b7a4e4aac87107d310dec2a\" title=\"group\">group</a></em><span style=\"line-height: 1.6em; text-indent: -1.3em;\">, and their </span><em style=\"line-height: 1.6em; text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"52174\" data-mce-linktype=\"2\" href=\"#glossary-term-e08f83ef44794a06bd2429270dc7b807\" title=\"employees\">employees</a></em><span style=\"line-height: 1.6em; text-indent: -1.3em;\"> and agents.</span></li>\n</ol></div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"af3c6fcfaa8746518054366c938dc1f0\" id=\"c4cda97c0ee64ee49ac5aec3ff452ae2\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tInformation Requested on Behalf of Other Regulators\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bf854f5c84bd4236bad35828a318e0a5\" id=\"6833015ed73d461faf644bde6910d98e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<div data-canvas-width=\"187.1484\">Subject to section 413 of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em>, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must cooperate with the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> in providing information at the request of another regulator to enable that regulator to discharge its functions properly.</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/06/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "d343c33e3e675ba21efdc11cfb99d5b79d1c250504cd3696f82e3e6970ddb8a2",
+  "canonical_json_path": null
+}

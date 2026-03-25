@@ -1,0 +1,244 @@
+{
+  "doc_id": "pra.ss4115.2026",
+  "title": "SS41/15 – Solvency II: applying EIOPA’s Set 2, System of Governance and ORSA Guidelines",
+  "short_title": "SS41/15",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines.json",
+  "canonical_path": null,
+  "sha256": "9707a5a5d7879a43520aedb50283d4fca7ce18c2dc049708d681e95bab634da5",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss4115",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS41/15",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:02.689557",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Compliance with the Guidelines",
+      "Recognition and valuation of assets and liabilities other than technical provisions",
+      "[Deleted]",
+      "[Deleted]",
+      "Reporting and public disclosure",
+      "Single solvency and financial condition report (SFCR)"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS29/21 - Review of Solvency II: Reporting (Phase 1)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/july/review-of-solvency-ii-reporting-phase-1"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS41/15 – Solvency II: applying EIOPA’s Set 2, System of Governance and ORSA Guidelines",
+      "slug": "ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines",
+      "version_dates": [
+        "17-12-2021",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "Previous versions of this Supervisory Statement (SS) pre 17/12/2021 can be found here",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-applying-eiopa-set2-system-of-governance-and-orsa-guidelines-ss"
+        },
+        {
+          "title": "PS29/21 - Review of Solvency II: Reporting (Phase 1)",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/july/review-of-solvency-ii-reporting-phase-1"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-insurance-and-pure-reinsurance-branches-ss",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-insurance-and-pure-reinsurance-branches-ss"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/paper/2019/interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop",
+          "url": "https://www.bankofengland.co.uk/paper/2019/interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-consistency-of-uk-generally-accepted-accounting-principles-with-the-solvency2-directive-ss",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-consistency-of-uk-generally-accepted-accounting-principles-with-the-solvency2-directive-ss"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-orsa-and-the-ultimate-time-horizon-non-life-firms-ss",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-orsa-and-the-ultimate-time-horizon-non-life-firms-ss"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is addressed to all UK firms that fall within the scope of Solvency II, and the Society of Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) expectations of",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "Guidelines on supervision of branches of third-country insurance undertakings are covered in supervisory statement 44/15.3",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "[Deleted].",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "[Deleted].",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "1.5",
+            "summary": "[Deleted].",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "1.6",
+            "summary": "Firms should also refer to:",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "1.7",
+            "summary": "Any reference to any provision of direct EU legislation is a reference to it as it forms part of retained EU law.",
+            "as_at_date": "17/12/2021"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Compliance with the Guidelines",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "[Deleted].",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "The PRA expects firms to comply with all of the Set 2, System of Governance and ORSA Guidelines (as at the end of the transition period) that apply to them, in a proportionate manner.",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "This supervisory statement also provides further commentary on certain Guidelines where the PRA considers that this is useful for firms. Those Guidelines on which further commentary is provided are:",
+            "as_at_date": "17/12/2021"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Recognition and valuation of assets and liabilities other than technical provisions",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "The PRA expects firms to comply with each of the Guidelines in all cases unless they intend to take advantage of the derogation in [Rule 5.4 in the Valuation Part](/pra-rules/valuation#2da42945a668420",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "This derogation lays down criteria which, if met, allow a firm to recognise and value an asset or liability based on the valuation method it uses in preparing its annual or consolidated financial stat",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "3.3",
+            "summary": "Where firms intend to take advantage of the Valuation 5.4 derogation, they should still apply Guidelines 1, 2, 4, 5 and 8 to 11. They should al",
+            "as_at_date": "31/12/2024"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "[Deleted]",
+        "paragraphs": []
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "[Deleted]",
+        "paragraphs": []
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Reporting and public disclosure",
+        "paragraphs": [
+          {
+            "paragraph_number": "6.1",
+            "summary": "In accordance with the requirement of the PRA Rulebook, Composites 4.5, composite firms are required to prepare a statement on the basis of the accounts referred to in Composites 3.2 identifying the e",
+            "as_at_date": "17/12/2021"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Single solvency and financial condition report (SFCR)",
+        "paragraphs": [
+          {
+            "paragraph_number": "7.1",
+            "summary": "The PRA expects firms to assess risks on a forward-looking basis, covering business plan and strategy timelines, and reflect the specific risk profile and governance mechanisms of each entity or group",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "7.2",
+            "summary": "In SS26/15 the PRA has set out its expectations for non-life firms regarding the option of demonstrating that their risks have been projected to the ultimate time horizon.9 Firms should ensure that th",
+            "as_at_date": "17/12/2021"
+          },
+          {
+            "paragraph_number": "7.3",
+            "summary": "As part of its supervisory process, the PRA will review ORSA reports on a risk-based and proportionate basis.",
+            "as_at_date": "17/12/2021"
+          }
+        ]
+      }
+    ],
+    "section_count": 7,
+    "rule_count": 17
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is addressed to all UK firms that fall within the scope of Solvency II, and the Society of Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms and its general approach to the following European Insurance and Occupational Pensions Authority’s (EIOPA’s) Guidelines (as at the end of the transition period)1:\n\n  1. (i) Set 2 of the Solvency II Guidelines (‘the Guidelines’), published as final reports on 6 July 2015 and in all European Union official languages on 14 September 2015; and\n  2. (ii) the System of Governance and the Own Risk and Solvency Assessment (ORSA), published as final reports on 3 February 2015 and in all European Union official languages on 14 September 2015.2\n\n#### Footnotes\n\n  * 1\\.  The UK’s membership of the EU came to an end on Friday 31 January 2020. The UK entered into a transition period lasting until 11pm on Thursday 31 December 2020, which marked the end of the transition period, during which EU law continued to apply to the UK.\n  * 2\\.  EIOPA published the Guidelines on System of Governance and ORSA as final reports on 3 February 2015 and in all European Union official languages on 14 September 2015, after the rest of the Set 1 Guidelines were issued. Consequently, these Guidelines were not covered by PRA Supervisory Statement 22/15, ‘Solvency II: applying EIOPA’s Set 1 Guidelines to PRA authorised firms’, July 2015.\n\n*Effective: 31/12/2024*\n\n1.2\n\nGuidelines on supervision of branches of third-country insurance undertakings are covered in supervisory statement 44/15.3\n\n#### Footnotes\n\n  * 3\\.  November 2015: Solvency II: third-country insurance and pure reinsurance branches - <https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-insurance-and-pure-reinsurance-branches-ss>\n\n*Effective: 17/12/2021*\n\n1.3\n\n[Deleted].\n\n*Effective: 17/12/2021*\n\n1.4\n\n[Deleted].\n\n*Effective: 17/12/2021*\n\n1.5\n\n[Deleted].\n\n*Effective: 17/12/2021*\n\n1.6\n\nFirms should also refer to:\n\n  * Bank of England and PRA Statement of Policy ‘Interpretation of EU Guidelines and Recommendations: Bank of England and PRA approach after the UK’s withdrawal from the EU’;4\n  * Supervisory Statement (SS) 1/19 ‘Non-binding materials: The PRA’s approach after the UK’s withdrawal from the EU’;5 and\n  * Supervisory Statement (SS) 2/19 ‘PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after EU withdrawal’.6\n\n#### Footnotes\n\n  * 4\\.  December 2020: SoP - Interpretation of EU Guidelines and Recommendations: Bank of England and PRA approach after the UK’s withdrawal from the EU - <https://www.bankofengland.co.uk/paper/2019/interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop>\n  * 5\\.  December 2020: SS1/19 - Non-binding PRA materials: The PRA’s approach after the UK’s withdrawal from the EU - <https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss>\n  * 6\\.  December 2020: SS2/19 - PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after the UK’s withdrawal from the EU - <https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss>\n\n*Effective: 17/12/2021*\n\n1.7\n\nAny reference to any provision of direct EU legislation is a reference to it as it forms part of retained EU law.\n\n*Effective: 17/12/2021*\n\n2\n\n###  Compliance with the Guidelines\n\n2.1\n\n[Deleted].\n\n*Effective: 17/12/2021*\n\n2.2\n\nThe PRA expects firms to comply with all of the Set 2, System of Governance and ORSA Guidelines (as at the end of the transition period) that apply to them, in a proportionate manner.\n\n*Effective: 17/12/2021*\n\n2.3\n\nThis supervisory statement also provides further commentary on certain Guidelines where the PRA considers that this is useful for firms. Those Guidelines on which further commentary is provided are:\n(i) recognition and valuation of assets and liabilities other than technical provisions;\n(ii) methods for determining the market shares for reporting;\n(iii) reporting for financial stability purposes;\n(iv) reporting and public disclosure; and\n(v) ORSA.\n\n*Effective: 17/12/2021*\n\n3\n\n###  Recognition and valuation of assets and liabilities other than technical provisions\n\n3.1\n\nThe PRA expects firms to comply with each of the Guidelines in all cases unless they intend to take advantage of the derogation in [Rule 5.4 in the Valuation Part](/pra-rules/valuation#2da42945a668420db001eb62ff7ec2cb) of the PRA Rulebook.\n\n*Effective: 31/12/2024*\n\n3.2\n\nThis derogation lays down criteria which, if met, allow a firm to recognise and value an asset or liability based on the valuation method it uses in preparing its annual or consolidated financial statements.\n\n*Effective: 17/12/2021*\n\n3.3\n\nWhere firms intend to take advantage of the [Valuation 5.4](/pra-rules/valuation#2da42945a668420db001eb62ff7ec2cb) derogation, they should still apply Guidelines 1, 2, 4, 5 and 8 to 11. They should also refer to SS38/157 in which the PRA sets out its conclusions as to which financial reporting standards (FRS) are consistent with the UK’s implementation of Article 75 of the Solvency II Directive (the Directive)8 and therefore within the possible scope of the derogation.\n\n#### Footnotes\n\n  * 7\\.  Supervisory Statement 38/15, ‘Solvency II: consistency of UK generally accepted accounting principles with the Solvency II Directive ’, August 2015: <https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-consistency-of-uk-generally-accepted-accounting-principles-with-the-solvency2-directive-ss>.\n  * 8\\.  Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast).\n\n*Effective: 31/12/2024*\n\n4\n\n###  [Deleted]\n\n5\n\n###  [Deleted]\n\n6\n\n###  Reporting and public disclosure\n\n6.1\n\nIn accordance with the requirement of the PRA Rulebook, Composites 4.5, composite firms are required to prepare a statement on the basis of the accounts referred to in Composites 3.2 identifying the eligible own funds covering the notional minimum capital requirements (MCRs) of the life and non–life parts of the business. Section II on Regular Supervisory Reporting (Guidelines 16-29) (as at the end of the transition period) also gives guidance on reporting issues. In order to fulfil all these requirements, as the template Own Funds (S.23.01.01) does not provide space for composite firms to report eligible own funds separately for life and non-life business, the PRA expects composite firms to submit such statements, on an annual basis, within Section E Capital Management of the Regular Supervisory Report, as described in Annex XX of the Delegated Regulation.\n\n*Effective: 17/12/2021*\n\n7\n\n###  Single solvency and financial condition report (SFCR)\n\n7.1\n\nThe PRA expects firms to assess risks on a forward-looking basis, covering business plan and strategy timelines, and reflect the specific risk profile and governance mechanisms of each entity or group.\n\n*Effective: 17/12/2021*\n\n7.2\n\nIn SS26/15 the PRA has set out its expectations for non-life firms regarding the option of demonstrating that their risks have been projected to the ultimate time horizon.9 Firms should ensure that they capture own capital needs and reflect business risk profiles over both the short-term and the long-term.\n\n#### Footnotes\n\n  * 9\\.  Supervisory Statement 26/15, ‘Solvency II: ORSA and the ultimate time horizon – non-life firms’, June 2015; <https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-orsa-and-the-ultimate-time-horizon-non-life-firms-ss>.\n\n*Effective: 17/12/2021*\n\n7.3\n\nAs part of its supervisory process, the PRA will review ORSA reports on a risk-based and proportionate basis.\n\n*Effective: 17/12/2021*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"97acaa9f722f426aa78201c36ffd5c5d\" id=\"ca7dd767a4864e188bcfee20a93a78b0\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2ea2e5cf5fe84fd3bafc8154d87bdf2d\" id=\"99a02548330647fd951575d9e1b6545d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is addressed to all UK firms that fall within the scope of Solvency II, and the Society of Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms and its general approach to the following European Insurance and Occupational Pensions Authority’s (EIOPA’s) Guidelines (as at the end of the transition period)<sup><a href=\"#footnote-1\">1</a></sup>:</p>\n<ol class=\"new-bullet\">\n<li>(i) Set 2 of the Solvency II Guidelines (‘the Guidelines’), published as final reports on 6 July 2015 and in all European Union official languages on 14 September 2015; and</li>\n<li>(ii) the System of Governance and the Own Risk and Solvency Assessment (ORSA), published as final reports on 3 February 2015 and in all European Union official languages on 14 September 2015.<sup><a href=\"#footnote-2\">2</a></sup></li>\n</ol>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tThe UK’s membership of the EU came to an end on Friday 31 January 2020. The UK entered into a transition period lasting until 11pm on Thursday 31 December 2020, which marked the end of the transition period, during which EU law continued to apply to the UK.\r\n\t\t\t\t\t</span>\n</li>\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tEIOPA published the Guidelines on System of Governance and ORSA as final reports on 3 February 2015 and in all European Union official languages on 14 September 2015, after the rest of the Set 1 Guidelines were issued. Consequently, these Guidelines were not covered by PRA Supervisory Statement 22/15, ‘Solvency II: applying EIOPA’s Set 1 Guidelines to PRA authorised firms’, July 2015.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines/17-12-2021#99a02548330647fd951575d9e1b6545d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"52922ec9969840fdb2faae5580fcfdcd\" id=\"33813d0b494544cd99cc1c2623d9712d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Guidelines on supervision of branches of third-country insurance undertakings are covered in supervisory statement 44/15.<sup><a href=\"#footnote-3\">3</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-3\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t3.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tNovember 2015: Solvency II: third-country insurance and pure reinsurance branches - <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-insurance-and-pure-reinsurance-branches-ss\">https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-insurance-and-pure-reinsurance-branches-ss</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"6fd10b017a7d428c8d9c5ae7675adfc1\" id=\"391d929c3544408fb59e29c48599b1cd\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted].</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3f119d6e74b14f83b6904e0f6cf2da23\" id=\"4616c7caf0b44499a7d9fcfa2bcf52ad\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted].</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f878e29b93f94ecb8339cdb9d2ef37e8\" id=\"5c78d222a484416a860020f8d99a78af\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted].</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"66fc188bccfc4503b3936c9873be9640\" id=\"65f5cf1d6ddc4c189ec1e48de9e92224\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Firms should also refer to:</p>\n<ul>\n<li>Bank of England and PRA Statement of Policy ‘Interpretation of EU Guidelines and Recommendations: Bank of England and PRA approach after the UK’s withdrawal from the EU’;<sup><a href=\"#footnote-4\">4</a></sup></li>\n<li>Supervisory Statement (SS) 1/19 ‘Non-binding materials: The PRA’s approach after the UK’s withdrawal from the EU’;<sup><a href=\"#footnote-5\">5</a></sup> and</li>\n<li>Supervisory Statement (SS) 2/19 ‘PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after EU withdrawal’.<sup><a href=\"#footnote-6\">6</a></sup></li>\n</ul>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-4\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t4.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tDecember 2020: SoP - Interpretation of EU Guidelines and Recommendations: Bank of England and PRA approach after the UK’s withdrawal from the EU - <a href=\"https://www.bankofengland.co.uk/paper/2019/interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop\">https://www.bankofengland.co.uk/paper/2019/interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop</a>\n</span>\n</li>\n<li class=\"rb-footnote\" id=\"footnote-5\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t5.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tDecember 2020: SS1/19 - Non-binding PRA materials: The PRA’s approach after the UK’s withdrawal from the EU - <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss\">https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss</a>\n</span>\n</li>\n<li class=\"rb-footnote\" id=\"footnote-6\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t6.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tDecember 2020: SS2/19 - PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after  the UK’s withdrawal from the EU - <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss\">https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ac7142bba5284f28a6c1efa8909ae658\" id=\"dc6a0201af0d4ddf92b32a9b02f6ddff\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Any reference to any provision of direct EU legislation is a reference to it as it forms part of retained EU law.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"1a62d645c54f437180c0b228d245da43\" id=\"66153b171d65497eba2ca0228b4448a5\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tCompliance with the Guidelines\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5203ee52a2d547128c0f0e504ec95e46\" id=\"6ba66a746e364ba4a2480ba86ecf01a1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted].</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b790e00456ae482dabb75d972e10e2b9\" id=\"55346229cda24caa94f0a611474c3f24\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA expects firms to comply with all of the Set 2, System of Governance and ORSA Guidelines (as at the end of the transition period) that apply to them, in a proportionate manner.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"438485e313544cd4946777e489a0b098\" id=\"b3ae7f3ba3ae447bb62c45060103ff66\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement also provides further commentary on certain Guidelines where the PRA considers that this is useful for firms. Those Guidelines on which further commentary is provided are:<br/>\n(i) recognition and valuation of assets and liabilities other than technical provisions;<br/>\n(ii) methods for determining the market shares for reporting;<br/>\n(iii) reporting for financial stability purposes;<br/>\n(iv) reporting and public disclosure; and<br/>\n(v) ORSA.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"4eb219234b3f485894e109aeba399a9f\" id=\"570fb0271a4a4058993b707a3ceecd4c\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tRecognition and valuation of assets and liabilities other than technical provisions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"571b67f4d0fb4cb4aab404ca90d0cf33\" id=\"4de72cb9faa84b66a133fcfe76058d1f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA expects firms to comply with each of the Guidelines in all cases unless they intend to take advantage of the derogation in <a data-rb-content-link=\"Rule\" href=\"/pra-rules/valuation#2da42945a668420db001eb62ff7ec2cb\">Rule 5.4 in the Valuation Part</a> of the PRA Rulebook.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines/17-12-2021#4de72cb9faa84b66a133fcfe76058d1f\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"89e4ae17c9994df9991c53d3f5775911\" id=\"45cc6785a6c44c4b97015c6b1f177926\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This derogation lays down criteria which, if met, allow a firm to recognise and value an asset or liability based on the valuation method it uses in preparing its annual or consolidated financial statements.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"67d544904b724bce9031ff9cec403e25\" id=\"9807a37b8e4643b3b640a6191f2a7de1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where firms intend to take advantage of the <a data-rb-content-link=\"Rule\" href=\"/pra-rules/valuation#2da42945a668420db001eb62ff7ec2cb\">Valuation 5.4</a> derogation, they should still apply Guidelines 1, 2, 4, 5 and 8 to 11. They should also refer to SS38/15<sup><a href=\"#footnote-7\">7</a></sup> in which the PRA sets out its conclusions as to which financial reporting standards (FRS) are consistent with the UK’s implementation of Article 75 of the Solvency II Directive (the Directive)<sup><a href=\"#footnote-8\">8</a></sup> and therefore within the possible scope of the derogation.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-7\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t7.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tSupervisory Statement 38/15, ‘Solvency II: consistency of UK generally accepted accounting principles with the Solvency II Directive ’, August 2015: <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-consistency-of-uk-generally-accepted-accounting-principles-with-the-solvency2-directive-ss\">https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-consistency-of-uk-generally-accepted-accounting-principles-with-the-solvency2-directive-ss</a>.\r\n\t\t\t\t\t</span>\n</li>\n<li class=\"rb-footnote\" id=\"footnote-8\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t8.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast).\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss41-15---solvency-ii-applying-eiopas-set-2-system-of-governance-and-orsa-guidelines/17-12-2021#9807a37b8e4643b3b640a6191f2a7de1\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.3 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"b91d2f1eddea417198b9f0e36e661b04\" id=\"8ecd21347dfe4452853b772e0fc46fd2\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\t[Deleted]\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"ac764b0ea52241cbb3bbe8cba43381a0\" id=\"2015ad5dee8c4ce8bf054bc5e02167ec\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\t[Deleted]\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"d6769309239c48078ac498d08834e4e4\" id=\"912afd5fa3ae48228929f899d1da817a\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t6\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tReporting and public disclosure\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d57661cd6f0f4ecc8bbc007501ec9d9b\" id=\"655d4449449b4c4093f2cdc05e1115f8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t6.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In accordance with the requirement of the PRA Rulebook, Composites 4.5, composite firms are required to prepare a statement on the basis of the accounts referred to in Composites 3.2 identifying the eligible own funds covering the notional minimum capital requirements (MCRs) of the life and non–life parts of the business. Section II on Regular Supervisory Reporting (Guidelines 16-29) (as at the end of the transition period) also gives guidance on reporting issues. In order to fulfil all these requirements, as the template Own Funds (S.23.01.01) does not provide space for composite firms to report eligible own funds separately for life and non-life business, the PRA expects composite firms to submit such statements, on an annual basis, within Section E Capital Management of the Regular Supervisory Report, as described in Annex XX of the Delegated Regulation.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"fe11add795cf48baa69f20945ae46c3b\" id=\"9afbfe74baa742bb9f587edfb8230895\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t7\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSingle solvency and financial condition report (SFCR)\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"43a2072fa151412c895cbc59022e1f0b\" id=\"cf421e50cd454411a812aad28afdd462\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t7.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA expects firms to assess risks on a forward-looking basis, covering business plan and strategy timelines, and reflect the specific risk profile and governance mechanisms of each entity or group.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"4f40878aea094954b1de875bb550a9af\" id=\"e0d97945721648fdbe858d68a1f6bf0a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t7.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In SS26/15 the PRA has set out its expectations for non-life firms regarding the option of demonstrating that their risks have been projected to the ultimate time horizon.<sup><a href=\"#footnote-9\">9</a></sup> Firms should ensure that they capture own capital needs and reflect business risk profiles over both the short-term and the long-term.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-9\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t9.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tSupervisory Statement 26/15, ‘Solvency II: ORSA and the ultimate time horizon – non-life firms’, June 2015; <a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-orsa-and-the-ultimate-time-horizon-non-life-firms-ss\">https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-orsa-and-the-ultimate-time-horizon-non-life-firms-ss</a>.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f5c58614977a4cfe9ac55f1e923c9006\" id=\"f81aeb9882dd4162955aeb5295dd4af6\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t7.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>As part of its supervisory process, the PRA will review ORSA reports on a risk-based and proportionate basis.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t17/12/2021\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "9707a5a5d7879a43520aedb50283d4fca7ce18c2dc049708d681e95bab634da5",
+  "canonical_json_path": null
+}

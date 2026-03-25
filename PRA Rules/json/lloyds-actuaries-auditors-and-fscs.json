@@ -1,0 +1,86 @@
+{
+  "doc_id": "pra.rules.lloyds-actuaries-auditors-and-fscs.2026",
+  "title": "Lloyd's: Actuaries, Auditors and FSCS (Deleted)",
+  "short_title": "Lloyd's: Actuaries, Auditors and FSCS (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/lloyds-actuaries-auditors-and-fscs.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.lloyds-actuaries-auditors-and-fscs",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Lloyd's: Actuaries, Auditors and FSCS (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Financial_Conglomerates, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/lloyds-actuaries-auditors-and-fscs/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:51:08.347546",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-authorised persons",
+      "Non-SII Firms",
+      "SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS5/14 - The PRA Rulebook",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/the-pra-rulebook"
+      },
+      {
+        "title": "PS5/15 - Policyholder protection",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/policyholder-protection-ps"
+      },
+      {
+        "title": "- PRA Rulebook: Administration Instrument (No 2) 2015",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/pra-rulebook-administration-instrument-no-2-2015"
+      },
+      {
+        "title": "PS28/15 - The PRA Rulebook: Part 4 and response to Chapter 1 of CP41/15",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-part-4"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Lloyd's: Actuaries, Auditors and FSCS (Deleted)",
+      "slug": "lloyds-actuaries-auditors-and-fscs",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/lloyds-actuaries-auditors-and-fscs/03-03-2026",
+      "version_dates": [
+        "01-01-2016",
+        "03-07-2015",
+        "19-06-2014"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 3
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

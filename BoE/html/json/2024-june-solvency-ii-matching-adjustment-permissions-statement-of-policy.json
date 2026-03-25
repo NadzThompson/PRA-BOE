@@ -1,0 +1,50 @@
+{
+  "doc_id": "BOE-HTML-2024-june-solvency-ii-matching-adjustment-permissions-statement-of-policy",
+  "title": "SoP8/24 – Solvency II: Matching Adjustment Permissions and Matching Adjustment Investment Accelerator Permissions",
+  "short_title": "SOP8/24",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SOP8/24",
+  "sector": [
+    "banking",
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/june/solvency-ii-matching-adjustment-permissions-statement-of-policy",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2025/sop824.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/sop-june-2024.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss120.2026",
+    "pra.ss317.2026",
+    "pra.ss718.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 06 June 2024\n\n\nThis statement of policy (SoP) is relevant to:\n\n\n    - all UK Solvency II firms;\n\n    - the Society of Lloyd’s and its members and managing agents; and\n\n    - insurance and reinsurance undertakings that have a UK branch (third country branch undertakings),\n\n\nwhere they are applying, or are seeking permission to apply, the matching adjustment (MA) and/or the matching adjustment investment accelerator (MAIA).\n\n\nThis SoP should be read in conjunction with the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023, the Matching Adjustment Part of the PRA Rulebook, the Investments Part of the PRA Rulebook, the relevant rules in the rest of the Solvency II Sector of the PRA Rulebook, [supervisory statement (SS) 7/18 – Solvency II: Matching adjustment](https://www.bankofengland.co.uk/prudential-regulation/publication/2018/solvency-2-matching-adjustment-ss), [SS1/20 – Solvency II: Prudent Person Principle](https://www.bankofengland.co.uk/prudential-regulation/publication/2020/solvency-ii-prudent-person-principle-ss), [SS8/18 –  Solvency II: Internal models – modelling of the matching adjustment](https://www.bankofengland.co.uk/prudential-regulation/publication/2018/solvency-2-internal-models-modelling-of-the-matching-adjustment-ss), [SS3/17 – Solvency II: Illiquid unrated assets](https://www.bankofengland.co.uk/prudential-regulation/publication/2017/solvency-2-matching-adjustment-illiquid-unrated-assets-and-equity-release-mortgages-ss)and the PRA’s insurance approach document. For information about making an application, see the [Authorisations page](https://www.bankofengland.co.uk/prudential-regulation/authorisations/solvency-ii-approvals).\n\n\nThis SoP sets out the PRA’s approach to granting and varying permissions for the MA, and for the use of the MAIA. It also outlines the circumstances in which the PRA may take the decision to revoke a firm’s MA or MAIA permission and how the PRA will assess the ongoing performance of the MA permissions framework.\n\n\n## Current version\n\n\n**Published on 23 October 2025. Effective from 27 October 2025.**\n\n\n    - [SoP8/24 – Solvency II: Matching Adjustment Permissions and Matching Adjustment Investment Accelerator Permissions – October 2025 (pdf)](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2025/sop824.pdf)\n\n\n- Following [PS17/25 – Matching Adjustment Investment Accelerator](https://www.bankofengland.co.uk/prudential-regulation/publication/2025/october/matching-adjustment-investment-accelerator)\n",
+  "sha256": "14cf07721d33ee38b4331bfe53024740148dbab62bc1ec1d28d1f063684c10f3",
+  "scraped_at": "2026-03-25T03:58:49.951498Z",
+  "raw_sha256": "14cf07721d33ee38b4331bfe53024740148dbab62bc1ec1d28d1f063684c10f3",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2024-june-solvency-ii-matching-adjustment-permissions-statement-of-policy",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

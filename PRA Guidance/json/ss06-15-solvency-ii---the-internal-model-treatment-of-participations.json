@@ -1,0 +1,178 @@
+{
+  "doc_id": "pra.ss615.2026",
+  "title": "SS6/15 – Solvency II: the internal model treatment of participations",
+  "short_title": "SS6/15",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss06-15-solvency-ii---the-internal-model-treatment-of-participations.json",
+  "canonical_path": null,
+  "sha256": "d818dc1a4257825ecaf27ec7a8eabff831bc9b25b12e59a86fe3eb5f008c036b",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss615",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS6/15",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss06-15-solvency-ii---the-internal-model-treatment-of-participations/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:16.275139",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Risks posed by participations in insurance and reinsurance undertakings",
+      "Solvency capital requirement"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS2/15 - Solvency II: A new regime for insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS6/15 – Solvency II: the internal model treatment of participations",
+      "slug": "ss06-15-solvency-ii---the-internal-model-treatment-of-participations",
+      "version_dates": [
+        "20-03-2015",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "PS2/15 - Solvency II: A new regime for insurers",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/insurance-approach-2014.pdf",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/insurance-approach-2014.pdf"
+        },
+        {
+          "title": "http://www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf",
+          "url": "http://www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is of interest to all UK insurance firms within the scope of Solvency II and to the Society of Lloyd’s. The Prudential Regulation Authority (PRA) expects firms to read this ",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "The PRA is publishing this statement to set out expectations of firms in relation to how participations in insurance and reinsurance undertakings are treated when the solvency capital requirement (SCR",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "The statement sets out issues that the PRA expects firms to have considered when calibrating their internal models to ensure that they adequately address the risks posed by those participations.",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "This statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular area",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.5",
+            "summary": "This statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.6",
+            "summary": "The proposals in this supervisory statement do not have any direct or indirect discriminatory impact under existing UK law.",
+            "as_at_date": "20/03/2015"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Risks posed by participations in insurance and reinsurance undertakings",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "Where a firm owns a participation in an insurance or reinsurance undertaking, this will appear as an investment on the firm’s balance sheet. This will generally pose a risk to the firm as if the under",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "When considering how to reflect this risk in an internal model, firms may consider it appropriate to examine the characteristics of the assets and liabilities of the undertaking in which the participa",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "Firms should also consider the risks posed by any obstacles to covering losses with resources currently held in the form of a participation in related undertakings. These obstacles might arise from an",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.4",
+            "summary": "As well as requiring that internal models should take account of all material risks, the Solvency II Regulations require that the assumptions underlying the system used for measuring diversification e",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.5",
+            "summary": "Firms’ attention is drawn to the draft European Insurance and Occupational Pensions Authority (EIOPA) Guidelines which state that the calculation of the solo SCR should not be replaced with a consolid",
+            "as_at_date": "31/12/2024"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Solvency capital requirement",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "For the avoidance of doubt, this supervisory statement does not relate to the calculation of the group SCR. The calculation of group own funds takes account of obstacles to transferring resources betw",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "This statement relates only to the calculation of the solo SCR. Since the determination of own funds at a solo level does not consider obstacles to transferring resources between entities, it is the P",
+            "as_at_date": "20/03/2015"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 13
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is of interest to all UK insurance firms within the scope of Solvency II and to the Society of Lloyd’s. The Prudential Regulation Authority (PRA) expects firms to read this statement alongside all relevant Parts of the PRA Rulebook.\n\n*Effective: 31/12/2024*\n\n1.2\n\nThe PRA is publishing this statement to set out expectations of firms in relation to how participations in insurance and reinsurance undertakings are treated when the solvency capital requirement (SCR) is determined at the solo level using an approved internal model. The PRA expects benefits from the maintenance of the levels of policyholder protection envisaged by Solvency II requirements, by clarifying its expectation that capital requirements should reflect the economic reality of exposure to the risks associated with such participations. Some firms may see their SCR increase compared to what they had been expecting if they were contemplating a different approach. The PRA does not regard these costs as incremental compared to Solvency II requirements (which are set out below). The PRA regards the benefits of this statement as proportionate to the costs. It also expects to facilitate effective competition by ensuring that firms are held to a common standard for policyholder protection.\n\n*Effective: 20/03/2015*\n\n1.3\n\nThe statement sets out issues that the PRA expects firms to have considered when calibrating their internal models to ensure that they adequately address the risks posed by those participations.\n\n*Effective: 20/03/2015*\n\n1.4\n\nThis statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006.\n\n#### Footnotes\n\n  * 1\\.  The Prudential Regulation Authority’s approach to insurance supervision, June 2014;\n\n*Effective: 20/03/2015*\n\n1.5\n\nThis statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.\n\n#### Footnotes\n\n  * 2\\.  PRA Consultation Paper CP16/14, ‘Transposition of Solvency II: Part 3’, August 2014; .\n\n*Effective: 31/12/2024*\n\n1.6\n\nThe proposals in this supervisory statement do not have any direct or indirect discriminatory impact under existing UK law.\n\n*Effective: 20/03/2015*\n\n2\n\n###  Risks posed by participations in insurance and reinsurance undertakings\n\n2.1\n\nWhere a firm owns a participation in an insurance or reinsurance undertaking, this will appear as an investment on the firm’s balance sheet. This will generally pose a risk to the firm as if the undertaking in which the participation is held suffers a loss, this will impact the participating firm’s balance sheet. This risk should be reflected in the solo SCR for the participating firm.\n\n*Effective: 20/03/2015*\n\n2.2\n\nWhen considering how to reflect this risk in an internal model, firms may consider it appropriate to examine the characteristics of the assets and liabilities of the undertaking in which the participation is held and the risks arising from these. Firms may also consider the extent to which the risks of the assets and liabilities of the participant might diversify with the assets and liabilities of the participation.\n\n*Effective: 20/03/2015*\n\n2.3\n\nFirms should also consider the risks posed by any obstacles to covering losses with resources currently held in the form of a participation in related undertakings. These obstacles might arise from any barriers to moving resources between entities, taking into account reduced scope for diversification under extreme scenarios.\n\n*Effective: 20/03/2015*\n\n2.4\n\nAs well as requiring that internal models should take account of all material risks, the Solvency II Regulations require that the assumptions underlying the system used for measuring diversification effects should be justified on an empirical basis. Firms will therefore need to demonstrate that any allowance for inter-entity diversification in the calculation of the solo SCR appropriately takes account of restrictions on transferring resources between the participant and the participation.\n\n*Effective: 20/03/2015*\n\n2.5\n\nFirms’ attention is drawn to the draft European Insurance and Occupational Pensions Authority (EIOPA) Guidelines which state that the calculation of the solo SCR should not be replaced with a consolidated calculation as though the participating undertaking and its related undertaking were a Solvency II group.3\n\n#### Footnotes\n\n  * 3\\.  Guidelines on group solvency - European Union (europa.eu) <https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en>\n\n*Effective: 31/12/2024*\n\n3\n\n###  Solvency capital requirement\n\n3.1\n\nFor the avoidance of doubt, this supervisory statement does not relate to the calculation of the group SCR. The calculation of group own funds takes account of obstacles to transferring resources between entities,4, meaning that these obstacles do not need to be reflected in the group SCR.\n\n#### Footnotes\n\n  * 4\\.  See Group Supervision 9.4 - 9.4E and paragraphs 3.12 to 3.14 of SoP – The PRA’s approach to insurance group supervision which set out the PRA’s policy on modifications to 9.4A. Further guidance is also contained within SS9/15 5B.1.\n\n*Effective: 31/12/2024*\n\n3.2\n\nThis statement relates only to the calculation of the solo SCR. Since the determination of own funds at a solo level does not consider obstacles to transferring resources between entities, it is the PRA’s view that any such obstacles should be reflected in the calculation of the solo SCR.\n\n*Effective: 20/03/2015*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"36cbcf4212e64e748c270967e527be1e\" id=\"1ee364499b37498d9b68e94e8678d2b2\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8ab052feaa8b43a6b278f41e7e99398e\" id=\"a0f8398df401417fb3d2b755fc11c88d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is of interest to all UK insurance firms within the scope of Solvency II and to the Society of Lloyd’s. The Prudential Regulation Authority (PRA) expects firms to read this statement alongside all relevant Parts of the PRA Rulebook.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss06-15-solvency-ii---the-internal-model-treatment-of-participations/20-03-2015#a0f8398df401417fb3d2b755fc11c88d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"14838cdc5b474a0083b5ae8950367009\" id=\"c0ddd0548cb64b05a34650d2166acb9b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA is publishing this statement to set out expectations of firms in relation to how participations in insurance and reinsurance undertakings are treated when the solvency capital requirement (SCR) is determined at the solo level using an approved internal model. The PRA expects benefits from the maintenance of the levels of policyholder protection envisaged by Solvency II requirements, by clarifying its expectation that capital requirements should reflect the economic reality of exposure to the risks associated with such participations. Some firms may see their SCR increase compared to what they had been expecting if they were contemplating a different approach. The PRA does not regard these costs as incremental compared to Solvency II requirements (which are set out below). The PRA regards the benefits of this statement as proportionate to the costs. It also expects to facilitate effective competition by ensuring that firms are held to a common standard for policyholder protection.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5515acbd8851439c9dca34c0966998d8\" id=\"8997e338d1f44fa882a5aabc08358f84\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The statement sets out issues that the PRA expects firms to have considered when calibrating their internal models to ensure that they adequately address the risks posed by those participations.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b8cd0ce34ff24c50b9c6fd163897e555\" id=\"b3b4e577648c4048b0a29f3fd39d7ac9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement expands on the PRA’s general approach as set out in its insurance approach document.<sup><a href=\"#footnote-1\">1</a></sup> By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tThe Prudential Regulation Authority’s approach to insurance supervision, June 2014; \n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2c439fdb76844ce890dbc4adbdaceb83\" id=\"c16ce60e560c46ed99aea09a990e70a7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement has been subject to public consultation<sup><a href=\"#footnote-2\">2</a></sup> and reflects the feedback that was received by the PRA.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Consultation Paper CP16/14, ‘Transposition of Solvency II: Part 3’, August 2014; .\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss06-15-solvency-ii---the-internal-model-treatment-of-participations/20-03-2015#c16ce60e560c46ed99aea09a990e70a7\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.5 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7f28c4143e1d4b41be36887bf4283980\" id=\"9d74ef73f709493c8c4cf381d9d32545\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The proposals in this supervisory statement do not have any direct or indirect discriminatory impact under existing UK law.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"c7c378cdf86646d4b35a8bdfa43687a8\" id=\"288b7fe4893c49d6a8fc2ae0bbb1962b\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tRisks posed by participations in insurance and reinsurance undertakings\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1a22c77b43364f4ab4c8b0e83495b200\" id=\"c0c2172e458a49ed89509d3a79e51fc7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Where a firm owns a participation in an insurance or reinsurance undertaking, this will appear as an investment on the firm’s balance sheet. This will generally pose a risk to the firm as if the undertaking in which the participation is held suffers a loss, this will impact the participating firm’s balance sheet. This risk should be reflected in the solo SCR for the participating firm.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"374a6d2613554278baae304f50e00e0d\" id=\"961f0e13c9cd45f8a329d77896c5a23d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>When considering how to reflect this risk in an internal model, firms may consider it appropriate to examine the characteristics of the assets and liabilities of the undertaking in which the participation is held and the risks arising from these. Firms may also consider the extent to which the risks of the assets and liabilities of the participant might diversify with the assets and liabilities of the participation.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"33df2d653d1c482eafc7d3874b0c40a1\" id=\"481d67da38f145d691a564af44c08fc8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Firms should also consider the risks posed by any obstacles to covering losses with resources currently held in the form of a participation in related undertakings. These obstacles might arise from any barriers to moving resources between entities, taking into account reduced scope for diversification under extreme scenarios.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"44f2e7ed81774542a93a02223555a790\" id=\"736afc1ea284428c9c82692b3a1e7ae9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>As well as requiring that internal models should take account of all material risks, the Solvency II Regulations require that the assumptions underlying the system used for measuring diversification effects should be justified on an empirical basis. Firms will therefore need to demonstrate that any allowance for inter-entity diversification in the calculation of the solo SCR appropriately takes account of restrictions on transferring resources between the participant and the participation.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a94a67465a0743d088aa90297be290a3\" id=\"89252b8515e940319fc662bce722d415\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Firms’ attention is drawn to the draft European Insurance and Occupational Pensions Authority (EIOPA) Guidelines which state that the calculation of the solo SCR should not be replaced with a consolidated calculation as though the participating undertaking and its related undertaking were a Solvency II group.<sup><a href=\"#footnote-3\">3</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-3\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t3.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tGuidelines on group solvency - European Union (europa.eu) <a href=\"https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en\">https://www.eiopa.europa.eu/publications/guidelines-group-solvency_en</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss06-15-solvency-ii---the-internal-model-treatment-of-participations/20-03-2015#89252b8515e940319fc662bce722d415\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.5 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"e309ed37ddb44c198451d440b967aae0\" id=\"ba44a9821ddf468891a76da458e498f9\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSolvency capital requirement\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"43202927f6c948cab0e86524f28cd0ab\" id=\"884b2cee6db74474b0ab35e849bbe378\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the avoidance of doubt, this supervisory statement does not relate to the calculation of the group SCR. The calculation of group own funds takes account of obstacles to transferring resources between entities,<sup><a href=\"#footnote-4\">4</a></sup>,<span style=\"font-size: 11.1111px;\"> </span>meaning that these obstacles do not need to be reflected in the group SCR.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-4\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t4.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tSee Group Supervision 9.4 - 9.4E and paragraphs 3.12 to 3.14 of SoP – The PRA’s approach to insurance group supervision which set out the PRA’s policy on modifications to 9.4A. Further guidance is also contained within SS9/15 5B.1.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss06-15-solvency-ii---the-internal-model-treatment-of-participations/20-03-2015#884b2cee6db74474b0ab35e849bbe378\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b2b91ed2b10c48bab9924e428455e4b5\" id=\"be3d916c63e34ae7839fb3257c8a56b9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement relates only to the calculation of the solo SCR. Since the determination of own funds at a solo level does not consider obstacles to transferring resources between entities, it is the PRA’s view that any such obstacles should be reflected in the calculation of the solo SCR.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "d818dc1a4257825ecaf27ec7a8eabff831bc9b25b12e59a86fe3eb5f008c036b",
+  "canonical_json_path": null
+}

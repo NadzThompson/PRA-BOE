@@ -1,0 +1,179 @@
+{
+  "doc_id": "pra.rules.large-non-solvency-ii-firms-certification.2026",
+  "title": "Large Non-Solvency II Firms – Certification",
+  "short_title": "Large Non-Solvency II Firms – Certification (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/large-non-solvency-ii-firms-certification.json",
+  "canonical_path": null,
+  "sha256": "de3cdd804034484828a3c837bb3a6d96492a73f2717dc15a8a5fbbb52eee4f5d",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.large-non-solvency-ii-firms-certification",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Large Non-Solvency II Firms – Certification",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-certification/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:06.190376",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-SII Firms"
+    ],
+    "chapters": [
+      "Application and Definition",
+      "Certification Functions",
+      "Performance of Certification Functions",
+      "Material Risk Takers"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS35/15 – Strengthening individual accountability in insurance",
+        "url": "/guidance/supervisory-statements/ss35-15---strengthening-individual-accountability-in-insurance/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS15/18 - Strengthening individual accountability in insurance: Extension of the Senior Managers and Certification Regime to insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/strengthening-individual-accountability-in-insurance-extension-of-the-smcr-to-insurers"
+      },
+      {
+        "title": "Non-Directive firms webpage",
+        "url": "http://www.bankofengland.co.uk/prudential-regulation/supervision/non-directive-firms"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Large Non-Solvency II Firms – Certification",
+      "slug": "large-non-solvency-ii-firms-certification",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-certification/03-03-2026",
+      "version_dates": [
+        "10-12-2018",
+        "10-12-2019"
+      ],
+      "rule_as_at_dates": [
+        "10/12/2018",
+        "10/12/2019"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "3.1",
+          "changed_before": "10/12/2019",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-certification/10-12-2018#60409ef79f174eaa96ba086c4801c708"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definition",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to:",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definition shall apply:",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "1.3",
+            "summary": "This Part does not apply to a function performed by:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Certification Functions",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "For the purposes of this Part, the following are certification functions :",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A function is only a certification function to the extent that the function relates to a regulated activity carried on by a firm.",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Performance of Certification Functions",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "A firm must take reasonable care to ensure that none of its employees performs a certification function under an arrangement entered into by the firm in relation to the carrying on by the _fir",
+            "as_at_date": "10/12/2019"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "A person does not perform a certification function for a firm under 2.1 if the person is performi",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "3.3",
+            "summary": "To the extent that:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Material Risk Takers",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "This Chapter applies to a firm that falls within 1.1 and is a large firm.",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "4.2",
+            "summary": "A firm must identify, in respect of the firm , its employees who are material risk takers.",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "4.3",
+            "summary": "A firm must keep its identification of material risk takers pursuant to 4.2 up-to-date.",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "4.4",
+            "summary": "A firm must keep a record of its reasoning for the identification of material risk takers pursuant to [4.2](/pra-rules/large-non-solvency-ii-firms-certification#920938c0a52241f99482387382104ab4 \"4",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      }
+    ],
+    "section_count": 4,
+    "rule_count": 12
+  },
+  "content_markdown": "1\n\n###  Application and Definition\n\n1.1\n\nUnless otherwise stated, this Part applies to:\n\n  1. (1) a _large non-directive insurer_ ; and\n  2. (2) a _Swiss general insurer_.\n\n*Effective: 10/12/2018*\n\n1.2\n\nIn this Part, the following definition shall apply:\n\n_employee_\n\nin relation to a _firm_ , includes any _person_ within the description set out in section 63E(9) of _FSMA_.\n\n*Effective: 10/12/2018*\n\n1.3\n\nThis Part does not apply to a function performed by:\n\n  1. (1) a _PRA approved person_ ;\n  2. (2) a _person_ who performs an FCA controlled function; or\n  3. (3) a _non-executive director_ in relation to their _non-executive director_ function.\n\n*Effective: 10/12/2018*\n\n2\n\n###  Certification Functions\n\n2.1\n\nFor the purposes of this Part, the following are _certification functions_ :\n\n  1. (1) a function performed for a _firm_ by a _key function holder_ at the _firm_ ;\n  2. (2) a function performed by a _material risk taker_ at a _large firm_.\n\n*Effective: 10/12/2018*\n\n2.2\n\nA function is only a _certification function _to the extent that the function relates to a _regulated activity_ carried on by a _firm_.\n\n*Effective: 10/12/2018*\n\n3\n\n###  Performance of Certification Functions\n\n3.1\n\nA _firm_ must take reasonable care to ensure that none of its _employees_ performs a _certification function_ under an arrangement entered into by the _firm_ in relation to the carrying on by the _firm_ of a _regulated activity_ , unless the _employee_ has a valid _certificate_ issued by the _firm_.\n\n*Effective: 10/12/2019*\n\n3.2\n\nA _person_ does not perform a _certification function_ for a _firm_ under [2.1](/pra-rules/large-non-solvency-ii-firms-certification#8c5ea317b07b4b3b95e0595ea2264529 \"2.1\") if the _person_ is performing any _controlled function_ for that _firm_.\n\n*Effective: 10/12/2018*\n\n3.3\n\nTo the extent that:\n\n  1. (1) a _firm_ appoints a _person_ to perform a function which, but for this rule, would be a _certification function_ ;\n  2. (2) the appointment solely is to provide cover for a _certification employee_ whose absence is reasonably unforeseen; and\n  3. (3) the appointment is for less than four weeks;\n\nsuch a _person_ does not perform a _certification function_.\n\n*Effective: 10/12/2018*\n\n4\n\n###  Material Risk Takers\n\n4.1\n\nThis Chapter applies to a _firm_ that falls within [1.1](/pra-rules/large-non-solvency-ii-firms-certification#e1a668d4b7a14ef0ba457bc90901e1ba \"1.1\") and is a _large firm_.\n\n*Effective: 10/12/2018*\n\n4.2\n\nA _firm_ must identify, in respect of the _firm_ , its _employees_ who are _material risk takers_.\n\n*Effective: 10/12/2018*\n\n4.3\n\nA _firm_ must keep its identification of _material risk takers_ pursuant to [4.2](/pra-rules/large-non-solvency-ii-firms-certification#920938c0a52241f99482387382104ab4 \"4.2\") up-to-date.\n\n*Effective: 10/12/2018*\n\n4.4\n\nA _firm_ must keep a record of its reasoning for the identification of _material risk takers_ pursuant to [4.2](/pra-rules/large-non-solvency-ii-firms-certification#920938c0a52241f99482387382104ab4 \"4.2\").\n\n*Effective: 10/12/2018*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"eb7f9d62a5204ea684201010b25ced39\" id=\"46f8703839a046e1a15194eb09bb22a8\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definition\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d75b2e86013a4681b1f031c57708494f\" id=\"e1a668d4b7a14ef0ba457bc90901e1ba\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to:</p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"77326\" data-mce-linktype=\"2\" href=\"#glossary-term-a80e0f791d3f4f619db330e241fc8769\" title=\"large non-directive insurer\">large non-directive insurer</a></em>; and</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"52910\" data-mce-linktype=\"2\" href=\"#glossary-term-7ecb61ce28ed4c4e947c300a772aa937\" title=\"Swiss general insurer\">Swiss general insurer</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"fb74a66d849e42fcb6f8696f6efdfbb1\" id=\"02c2ba77ee094693bfb5df1c67b722a9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definition shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"88199\" data-mce-linktype=\"2\" href=\"#glossary-term-28a3ef1e6ef34053a315d1f656e2355c\" title=\"employee\">employee</a></em></p>\n<p style=\"padding-left: 30px;\">in relation to a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>, includes any <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> within the description set out in section 63E(9) of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a3a80d9975d04a90b2d84a3a583273f1\" id=\"5e9cbd2561b24235878002568f55711e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part does not apply to a function performed by:</p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"52567\" data-mce-linktype=\"2\" href=\"#glossary-term-9a4eb6e7bc0f455793dd9d3697399120\" title=\"PRA approved person\">PRA approved person</a></em>;</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> who performs an <a class=\"glossary-link\" data-glossary-id=\"67040\" data-mce-linktype=\"2\" href=\"#glossary-term-31addea6b5c34ba2b4855a9bb8177462\" title=\"FCA controlled function\">FCA controlled function</a>; or</li>\n<li>(3) a <em><a class=\"glossary-link\" data-glossary-id=\"52566\" data-mce-linktype=\"2\" href=\"#glossary-term-1c6867ad63dc4c27b293a8dfdaf54393\" title=\"non-executive director\">non-executive director</a></em> in relation to their <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"52566\" data-mce-linktype=\"2\" href=\"#glossary-term-1c6867ad63dc4c27b293a8dfdaf54393\" title=\"non-executive director\">non-executive director</a></em> function.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"a33753833b484744a63ec1cc6318cad9\" id=\"76f821cb3c254c74856f443677a83bef\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tCertification Functions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c981305a56cd49dcad96303b5d60ec3a\" id=\"8c5ea317b07b4b3b95e0595ea2264529\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purposes of this Part, the following are <em><a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification functions\">certification functions</a></em>: </p>\n<ol class=\"new-bullet\">\n<li>(1) a function performed for a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> by a <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em> at the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>; </li>\n<li>(2) a function performed by a <em><a class=\"glossary-link\" data-glossary-id=\"88188\" data-mce-linktype=\"2\" href=\"#glossary-term-150b6dbee6a848ed9caa25d672011c95\" title=\"material risk taker\">material risk taker</a></em> at a<em> <a class=\"glossary-link\" data-glossary-id=\"88173\" data-mce-linktype=\"2\" href=\"#glossary-term-300cba9beefd454c86d4af543afbb709\" title=\"large firm\">large firm</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"37ff9e59126449ef816b118a945e02ad\" id=\"7cbd56b13e3949289b5cad77af368917\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A function is only a<em> <a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification function\">certification function</a> </em>to the extent that the function relates to a<em> <a class=\"glossary-link\" data-glossary-id=\"77616\" data-mce-linktype=\"2\" href=\"#glossary-term-aa04e0522d234dabb44ae6041cd9954b\" title=\"regulated activity\">regulated activity</a></em> carried on by a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>. </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"28104c8f8d934a18a14e513a019267c0\" id=\"61cc7400b3d644adab614da7a3f28cd3\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPerformance of Certification Functions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"19bc216e506742d99688c3678c30ebf2\" id=\"60409ef79f174eaa96ba086c4801c708\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must take reasonable care to ensure that none of its <em><a class=\"glossary-link\" data-glossary-id=\"88199\" data-mce-linktype=\"2\" href=\"#glossary-term-28a3ef1e6ef34053a315d1f656e2355c\" title=\"employees\">employees</a></em> performs a <em><a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification function\">certification function</a></em> under an arrangement entered into by the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> in relation to the carrying on by the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> of a <em><a class=\"glossary-link\" data-glossary-id=\"77616\" data-mce-linktype=\"2\" href=\"#glossary-term-aa04e0522d234dabb44ae6041cd9954b\" title=\"regulated activity\">regulated activity</a></em>, unless the <em><a class=\"glossary-link\" data-glossary-id=\"88199\" data-mce-linktype=\"2\" href=\"#glossary-term-28a3ef1e6ef34053a315d1f656e2355c\" title=\"employees\">employee</a></em> has a valid <em><a class=\"glossary-link\" data-glossary-id=\"52562\" data-mce-linktype=\"2\" href=\"#glossary-term-7d8c159526f2426b93d818990ce5ea47\" title=\"certificate\">certificate</a></em> issued by the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2019\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-certification/10-12-2018#60409ef79f174eaa96ba086c4801c708\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 10/12/2019\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"49b2ebc29fdd48e7917a944cfcadf463\" id=\"005d9a9e6c514361a1882bd54f209f28\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> does not perform a <em><a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification function\">certification function</a></em> for a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> under <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-certification#8c5ea317b07b4b3b95e0595ea2264529\" title=\"2.1\">2.1</a> if the <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> is performing any <em><a class=\"glossary-link\" data-glossary-id=\"52215\" data-mce-linktype=\"2\" href=\"#glossary-term-77ed05e95e9144549fdcd84ae397fcab\" title=\"controlled function\">controlled function</a></em> for that <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"92c7202ec16542beac982aebdea86941\" id=\"14df3a610ac6438296b88c6e8c1788cc\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>To the extent that:</p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> appoints a <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> to perform a function which, but for this rule, would be a <em><a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification function\">certification function</a></em>;</li>\n<li>(2) the appointment solely is to provide cover for a <em><a class=\"glossary-link\" data-glossary-id=\"52564\" data-mce-linktype=\"2\" href=\"#glossary-term-f42fcd52d02845298b099cb7f4c95ed8\" title=\"certification employee\">certification employee</a></em> whose absence is reasonably unforeseen; and</li>\n<li>(3) the appointment is for less than four weeks;</li>\n</ol>\n<p>such a <em><a class=\"glossary-link\" data-glossary-id=\"52720\" data-mce-linktype=\"2\" href=\"#glossary-term-8908b89166da420a9af9860d5df57ab9\" title=\"person\">person</a></em> does not perform a <em><a class=\"glossary-link\" data-glossary-id=\"52563\" data-mce-linktype=\"2\" href=\"#glossary-term-82074f76e19f49a5b684450294320fee\" title=\"certification function\">certification function</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"941cd4f4c4764b0aa132c860bb899449\" id=\"2c7425e0ad3c4769bd605a0a051fbf26\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tMaterial Risk Takers\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bf219c3b54ed42e7bc69670534847cb2\" id=\"6bb345186c7f455b9c7e8df447d6bed2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Chapter applies to a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that falls within <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-certification#e1a668d4b7a14ef0ba457bc90901e1ba\" title=\"1.1\">1.1</a> and is a <em><a class=\"glossary-link\" data-glossary-id=\"88173\" data-mce-linktype=\"2\" href=\"#glossary-term-300cba9beefd454c86d4af543afbb709\" title=\"large firm\">large firm</a></em>. </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f6691aefc6a247a08745f35257bd1817\" id=\"920938c0a52241f99482387382104ab4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must identify, in respect of the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em>, its <em><a class=\"glossary-link\" data-glossary-id=\"88199\" data-mce-linktype=\"2\" href=\"#glossary-term-28a3ef1e6ef34053a315d1f656e2355c\" title=\"employees\">employees</a></em> who are <em><a class=\"glossary-link\" data-glossary-id=\"88188\" data-mce-linktype=\"2\" href=\"#glossary-term-150b6dbee6a848ed9caa25d672011c95\" title=\"material risk takers\">material risk takers</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9d8de219a5234bb7bc9b1edd749b3beb\" id=\"61d3b1f2bb144b3192dcdaa6835f181e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must keep its identification of <em><a class=\"glossary-link\" data-glossary-id=\"88188\" data-mce-linktype=\"2\" href=\"#glossary-term-150b6dbee6a848ed9caa25d672011c95\" title=\"material risk takers\">material risk takers</a></em> pursuant to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-certification#920938c0a52241f99482387382104ab4\" title=\"4.2\">4.2</a> up-to-date.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"242bd3256ce74c489fed8b2078f86134\" id=\"f05820df4e4945828330e9c0672f9363\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must keep a record of its reasoning for the identification of <em><a class=\"glossary-link\" data-glossary-id=\"88188\" data-mce-linktype=\"2\" href=\"#glossary-term-150b6dbee6a848ed9caa25d672011c95\" title=\"material risk takers\">material risk takers</a></em> pursuant to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-certification#920938c0a52241f99482387382104ab4\" title=\"4.2\">4.2</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "de3cdd804034484828a3c837bb3a6d96492a73f2717dc15a8a5fbbb52eee4f5d",
+  "canonical_json_path": null
+}

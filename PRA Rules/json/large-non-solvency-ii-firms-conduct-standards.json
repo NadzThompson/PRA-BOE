@@ -1,0 +1,235 @@
+{
+  "doc_id": "pra.rules.large-non-solvency-ii-firms-conduct-standards.2026",
+  "title": "Large Non-Solvency II Firms – Conduct Standards",
+  "short_title": "Large Non-Solvency II Firms – Conduct Standards (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/large-non-solvency-ii-firms-conduct-standards.json",
+  "canonical_path": null,
+  "sha256": "cbc0789320fa28d0c7b63eb9d4d5d4641c53fcec89b5f3d48494425b0a475b82",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.large-non-solvency-ii-firms-conduct-standards",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Large Non-Solvency II Firms – Conduct Standards",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:07.247430",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-SII Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Scope of Conduct Standards",
+      "Conduct Standards"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS35/15 – Strengthening individual accountability in insurance",
+        "url": "/guidance/supervisory-statements/ss35-15---strengthening-individual-accountability-in-insurance/03-03-2026"
+      },
+      {
+        "title": "SS5/16 – Corporate governance: Board responsibilities",
+        "url": "/guidance/supervisory-statements/ss05-16---corporate-governance-board-responsibilities/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS26/15 - \"The prudential regime, and implementation of the Senior Insurance Managers Regime, for non-Solvency II firms\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/prudential-regime-and-implementation-of-the-senior-insurance-managers-regime-for-non-solvency-2"
+      },
+      {
+        "title": "PS5/16 - Strengthening accountability in banking and insurance: Implementation of SM&CR and SIMR; and PRA requirements on regulatory references",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/strengthening-accountability-in-banking-and-insurance-implementation-of-sm-cr-and-simr"
+      },
+      {
+        "title": "PS12/17 - Strengthening individual accountability in banking and insurance: amendments and optimisations",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/strengthening-accountability-in-banking-and-insurance-amendments-and-optimisations"
+      },
+      {
+        "title": "PS15/18 - Strengthening individual accountability in insurance: Extension of the Senior Managers and Certification Regime to insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/strengthening-individual-accountability-in-insurance-extension-of-the-smcr-to-insurers"
+      },
+      {
+        "title": "Non-Directive firms webpage",
+        "url": "http://www.bankofengland.co.uk/prudential-regulation/supervision/non-directive-firms"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Large Non-Solvency II Firms – Conduct Standards",
+      "slug": "large-non-solvency-ii-firms-conduct-standards",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-03-2026",
+      "version_dates": [
+        "03-07-2017",
+        "07-03-2016",
+        "10-12-2018"
+      ],
+      "rule_as_at_dates": [
+        "03/07/2017",
+        "07/03/2016",
+        "10/12/2018"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-07-2017#fe075502bfb34ff099a20363d3a011e0"
+        },
+        {
+          "rule_ref": "2.1",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-07-2017#f2d69295b958443ba145052895b885af"
+        },
+        {
+          "rule_ref": "2.2",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#c2f6183ec1a641508890ffa071ca9b5d"
+        },
+        {
+          "rule_ref": "3.4",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#d063413463d64c54a5a86ee55ddb5af4"
+        },
+        {
+          "rule_ref": "3.5",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#7bfeaec0eab044eb8db1d6f8921a46be"
+        },
+        {
+          "rule_ref": "3.6",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#cfa9eee8669c45099904bb636c875e82"
+        },
+        {
+          "rule_ref": "3.7",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#fc711afa932945f58783f57fc05ad607"
+        },
+        {
+          "rule_ref": "3.8",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#17be6755ba3e4108968f3be292787e88"
+        }
+      ],
+      "total_amendments": 3
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to:",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part the following definition shall apply:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Scope of Conduct Standards",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "If you are a natural person who is:",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "2.1A",
+            "summary": "If you are a Conduct Rules non-executive director , you must comply at all times with the conduct standards specified in [3.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c5",
+            "as_at_date": "03/07/2017"
+          },
+          {
+            "rule_number": "2.1B",
+            "summary": "If you are an employee of a type specified in 1.1(3)(c), (e) or (f) you must comply at all times wi",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A firm must require:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Conduct Standards",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "Individual Conduct Standard 1: You must act with integrity.",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "Individual Conduct Standard 2: You must act with due skill, care and diligence.",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "3.3",
+            "summary": "Individual Conduct Standard 3: You must be open and co-operative with the FCA , the PRA and other regulators.",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "3.4",
+            "summary": "Senior Manager Conduct Standard 1: You must take reasonable steps to ensure that the business of the firm for which you are responsible is controlled effectively.",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "3.5",
+            "summary": "Senior Manager Conduct Standard 2: You must take reasonable steps to ensure that the business of the firm for which you are responsible complies with the relevant requirements and standards of the _",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "3.6",
+            "summary": "Senior Manager Conduct Standard 3: You must take reasonable steps to ensure that any delegation of your responsibilities is to an appropriate person and that you oversee the discharge of the delegat",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "3.7",
+            "summary": "Senior Manager Conduct Standard 4: You must disclose appropriately any information of which the FCA or the PRA would reasonably expect to have notice.",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "3.8",
+            "summary": "Senior Manager Conduct Standard 5: When exercising your responsibilities, you must pay due regard to the interests of current and potential future policyholders in ensuring the provision by the _fir",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 14
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nUnless otherwise stated, this Part applies to:\n\n  1. (1) a _large non-directive insurer_ ;\n  2. (2) a _Swiss general insurer_ ; and\n  3. (3) in relation to any of the foregoing _firms_ , any _person_ who is:\n     1. (a) a _Conduct Rules non-executive director_ ;\n     2. (b) an _employee_ of a _firm_ who is a _key function holder_ ;\n     3. (c) a _certification employee_ (other than a _key function holder_);\n     4. (d) approved under section 59 of _FSMA_ by either:\n        1. (i) the _PRA_ ;\n        2. (ii) the _FCA_ , in relation to a _relevant senior management function_ ;\n     5. (e) an _employee_ who should have been approved under section 59 of _FSMA_ by either:\n        1. (i) the _PRA_ ; or\n        2. (ii) the _FCA_ , in relation to a _relevant senior management function_ ; or\n     6. (f) an _employee_ who is performing a function that would have been a _controlled function_ but for [Large Non-Solvency II Firms – Senior Management Functions 2.4](/pra-rules/large-non-solvency-ii-firms-senior-management-functions#d955c4d8bed54dcf826a8e9a622090ae \"Large Non-Solvency II Firms – Senior Management Functions 2.4\").\n\n*Effective: 10/12/2018*\n\n1.2\n\nIn this Part the following definition shall apply:\n\n_employee_\n\nhas the meaning given in [Large Non-Solvency II Firms - Certification 1.2](/pra-rules/large-non-solvency-ii-firms-certification#02c2ba77ee094693bfb5df1c67b722a9 \"Large Non-Solvency II Firms - Certification 1.2\").\n\n*Effective: 10/12/2018*\n\n2\n\n###  Scope of Conduct Standards\n\n2.1\n\nIf you are a natural person who is:\n\n  1. (1) an _employee_ of a _firm_ who is a _key function holder_ ; or\n  2. (2) approved under section 59 of _FSMA_ by either:\n     1. (a) the _PRA_ ; or\n     2. (b) the _FCA_ , in relation to a _relevant senior management function_ ,\n\nyou must comply at all times with all of the _conduct standards_.\n\n*Effective: 10/12/2018*\n\n2.1A\n\nIf you are a _Conduct Rules non-executive director_ , you must comply at all times with the _conduct standards_ specified in [3.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846 \"3.1\") to [3.3](/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80 \"3.3\"), [3.7](/pra-rules/large-non-solvency-ii-firms-conduct-standards#fc711afa932945f58783f57fc05ad607 \"3.7\") and [3.8](/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88 \"3.8\").\n\n*Effective: 03/07/2017*\n\n2.1B\n\nIf you are an _employee_ of a type specified in [1.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#fe075502bfb34ff099a20363d3a011e0 \"1.1\")(3)(c), (e) or (f) you must comply at all times with the _conduct standards_ specified in [3.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846 \"3.1\") to [3.3](/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80 \"3.3\").\n\n*Effective: 10/12/2018*\n\n2.2\n\nA _firm_ must require:\n\n  1. (1) any _person_ performing a _key function_ to observe the _conduct standards_ specified in [3.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846 \"3.1\") to [3.3](/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80 \"3.3\");\n  2. (2) any _key function holder_ (other than a _notified non-executive director_) to observe the _conduct standards_ specified in [3.4](/pra-rules/large-non-solvency-ii-firms-conduct-standards#d063413463d64c54a5a86ee55ddb5af4 \"3.4\") to [3.8](/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88 \"3.8\"), in addition to complying with (1);\n  3. (3) any _notified non-executive director_ to observe the _conduct standards_ specified in [3.7](/pra-rules/large-non-solvency-ii-firms-conduct-standards#fc711afa932945f58783f57fc05ad607 \"3.7\") and [3.8](/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88 \"3.8\"), in addition to complying with (1); and\n  4. (4) an _employee_ of a type specified in [1.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#fe075502bfb34ff099a20363d3a011e0 \"1.1\")(3)(c), (e) or (f) to observe the _conduct standards_ specified in [3.1](/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846 \"3.1\") to [3.3](/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80 \"3.3\").\n\n*Effective: 10/12/2018*\n\n3\n\n###  Conduct Standards\n\n3.1\n\nIndividual Conduct Standard 1: You must act with integrity.\n\n*Effective: 07/03/2016*\n\n3.2\n\nIndividual Conduct Standard 2: You must act with due skill, care and diligence.\n\n*Effective: 07/03/2016*\n\n3.3\n\nIndividual Conduct Standard 3: You must be open and co-operative with the _FCA_ , the _PRA_ and other regulators.\n\n*Effective: 07/03/2016*\n\n3.4\n\nSenior Manager Conduct Standard 1: You must take reasonable steps to ensure that the business of the _firm_ for which you are responsible is controlled effectively.\n\n*Effective: 10/12/2018*\n\n3.5\n\nSenior Manager Conduct Standard 2: You must take reasonable steps to ensure that the business of the _firm_ for which you are responsible complies with the relevant requirements and standards of the _regulatory system_.\n\n*Effective: 10/12/2018*\n\n3.6\n\nSenior Manager Conduct Standard 3: You must take reasonable steps to ensure that any delegation of your responsibilities is to an appropriate _person_ and that you oversee the discharge of the delegated responsibility effectively.\n\n*Effective: 10/12/2018*\n\n3.7\n\nSenior Manager Conduct Standard 4: You must disclose appropriately any information of which the _FCA_ or the _PRA_ would reasonably expect to have notice.\n\n*Effective: 10/12/2018*\n\n3.8\n\nSenior Manager Conduct Standard 5: When exercising your responsibilities, you must pay due regard to the interests of current and potential future _policyholders_ in ensuring the provision by the _firm_ of an appropriate degree of protection for their insured benefits.\n\n*Effective: 10/12/2018*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"da016cfde07e45e9993a5e94e56da8e1\" id=\"ea19c7d155ae415492a5e3b05b6178c7\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"485c4958ffc94b75878db83e545c0706\" id=\"fe075502bfb34ff099a20363d3a011e0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to:</p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"77326\" data-mce-linktype=\"2\" href=\"#glossary-term-a80e0f791d3f4f619db330e241fc8769\" title=\"large non-directive insurer\">large non-directive insurer</a></em>;</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"52910\" data-mce-linktype=\"2\" href=\"#glossary-term-7ecb61ce28ed4c4e947c300a772aa937\" title=\"Swiss general insurer\">Swiss general insurer</a></em>; and</li>\n<li>(3) in relation to any of the foregoing <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firms\">firms</a></em>, any <em><a class=\"glossary-link\" data-glossary-id=\"77610\" data-mce-linktype=\"2\" href=\"#glossary-term-20bfb7c4c0ef449f92770d03da9e90b2\" title=\"person\">person</a></em> who is:</li>\n<ol>\n<li>(a) a <em><a class=\"glossary-link\" data-glossary-id=\"78125\" data-mce-linktype=\"2\" href=\"#glossary-term-fe19114715c34e35bd07e96896ecdb72\" title=\"Conduct Rules non-executive director\">Conduct Rules non-executive director</a></em>;</li>\n<li>(b) an <em><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> of a <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firms\">firm</a></em> who is a <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em>;</li>\n<li>(c) a <em><a class=\"glossary-link\" data-glossary-id=\"52564\" data-mce-linktype=\"2\" href=\"#glossary-term-f42fcd52d02845298b099cb7f4c95ed8\" title=\"certification employee\">certification employee</a></em> (other than a <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em>);</li>\n<li>(d) approved under section 59 of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em> by either:</li>\n<ol>\n<li>(i) the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>;</li>\n<li>(ii) the <em><a class=\"glossary-link\" data-glossary-id=\"77608\" data-mce-linktype=\"2\" href=\"#glossary-term-64702d4cbe074f1b92c459e6283d7c35\" title=\"FCA\">FCA</a></em>, in relation to a <em><a class=\"glossary-link\" data-glossary-id=\"67050\" data-mce-linktype=\"2\" href=\"#glossary-term-776c0b7f70d94bd7842daf2e1ca39a2c\" title=\"relevant senior management function\">relevant senior management function</a></em>;</li>\n</ol>\n<li>(e) an <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> who should have been approved under section 59 of <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em> by either:</li>\n<ol>\n<li>(i) the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>; or</li>\n<li>(ii) the <em><a class=\"glossary-link\" data-glossary-id=\"77608\" data-mce-linktype=\"2\" href=\"#glossary-term-64702d4cbe074f1b92c459e6283d7c35\" title=\"FCA\">FCA</a></em>, in relation to a <em><a class=\"glossary-link\" data-glossary-id=\"67050\" data-mce-linktype=\"2\" href=\"#glossary-term-776c0b7f70d94bd7842daf2e1ca39a2c\" title=\"relevant senior management function\">relevant senior management function</a></em>; or</li>\n</ol>\n<li>(f) an <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> who is performing a function that would have been a <em><a class=\"glossary-link\" data-glossary-id=\"52215\" data-mce-linktype=\"2\" href=\"#glossary-term-77ed05e95e9144549fdcd84ae397fcab\" title=\"controlled function\">controlled function</a></em> but for <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-senior-management-functions#d955c4d8bed54dcf826a8e9a622090ae\" title=\"Large Non-Solvency II Firms – Senior Management Functions 2.4\">Large Non-Solvency II Firms – Senior Management Functions 2.4</a>.</li>\n</ol></ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-07-2017#fe075502bfb34ff099a20363d3a011e0\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"520a175e0ace41daa74675078685d777\" id=\"bcfa631a8475457d887675cae69b07f3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part the following definition shall apply:</p>\n<p style=\"padding-left: 30px;\"><em><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em></p>\n<p style=\"padding-left: 60px;\">has the meaning given in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-certification#02c2ba77ee094693bfb5df1c67b722a9\" title=\"Large Non-Solvency II Firms - Certification 1.2\">Large Non-Solvency II Firms - Certification 1.2</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"1c2b76876c564d14b5dacc88a8169a8c\" id=\"8bfffb50ce5d401293f793630b95d359\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tScope of Conduct Standards\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b0d05e6d8cb244288afe8858d000bf7c\" id=\"f2d69295b958443ba145052895b885af\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>If you are a natural person who is:</p>\n<ol class=\"new-bullet\">\n<li>(1) an <em><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> of a <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firm\">firm</a></em> who is a <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em>; or</li>\n<li>(2) approved under section 59 of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em> by either:</li>\n<ol>\n<li>(<span style=\"text-indent: -1.3em;\">a</span><span style=\"text-indent: -1.3em;\">) the </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em><span style=\"text-indent: -1.3em;\">; or</span></li>\n<li>(<span style=\"text-indent: -1.3em;\">b</span><span style=\"text-indent: -1.3em;\">) the </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"77608\" data-mce-linktype=\"2\" href=\"#glossary-term-64702d4cbe074f1b92c459e6283d7c35\" title=\"FCA\">FCA</a></em><span style=\"text-indent: -1.3em;\">, in relation to a </span><em style=\"text-indent: -1.3em;\"><a class=\"glossary-link\" data-glossary-id=\"67050\" data-mce-linktype=\"2\" href=\"#glossary-term-776c0b7f70d94bd7842daf2e1ca39a2c\" title=\"relevant senior management function\">relevant senior management function</a></em><span style=\"text-indent: -1.3em;\">,</span></li>\n</ol></ol>\n<p> you must comply at all times with all of the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/03-07-2017#f2d69295b958443ba145052895b885af\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"64080d6c61734b57834019af919999e8\" id=\"0a4c459aa42844c5bd12062aa8530983\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>If you are a <em><a class=\"glossary-link\" data-glossary-id=\"78125\" data-mce-linktype=\"2\" href=\"#glossary-term-fe19114715c34e35bd07e96896ecdb72\" title=\"Conduct Rules non-executive director\">Conduct Rules non-executive director</a></em>, you must comply at all times with the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846\" title=\"3.1\">3.1</a> to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80\" title=\"3.3\">3.3</a>, <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#fc711afa932945f58783f57fc05ad607\" title=\"3.7\">3.7</a> and <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88\" title=\"3.8\">3.8</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/07/2017\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a4db26a1a5f64d8fa02d57b8de5d918d\" id=\"98e90c343e9c419c90c9671f67c774c1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1B\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>If you are an <em><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> of a type specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#fe075502bfb34ff099a20363d3a011e0\" title=\"1.1\">1.1</a>(3)(c), (e) or (f) you must comply at all times with the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846\" title=\"3.1\">3.1</a> to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80\" title=\"3.3\">3.3</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5ea3ab1296c24c268a7e1c0457cafcca\" id=\"c2f6183ec1a641508890ffa071ca9b5d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firm\">firm</a></em> must require:</p>\n<ol class=\"new-bullet\">\n<li>(1) any <em><a class=\"glossary-link\" data-glossary-id=\"77610\" data-mce-linktype=\"2\" href=\"#glossary-term-20bfb7c4c0ef449f92770d03da9e90b2\" title=\"person\">person</a></em> performing a <em><a class=\"glossary-link\" data-glossary-id=\"52841\" data-mce-linktype=\"2\" href=\"#glossary-term-d8d165798f9642de9ffb4a788a5a7c6b\" title=\"key function\">key function</a></em> to observe the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846\" title=\"3.1\">3.1</a> to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80\" title=\"3.3\">3.3</a>;</li>\n<li>(2) any <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em> (other than a <em><a class=\"glossary-link\" data-glossary-id=\"66847\" data-mce-linktype=\"2\" href=\"#glossary-term-9522e473f6f547b9ab49496e386da2c2\" title=\"notified non-executive director\">notified non-executive director</a></em>) to observe the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#d063413463d64c54a5a86ee55ddb5af4\" title=\"3.4\">3.4</a> to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88\" title=\"3.8\">3.8</a>, in addition to complying with (1);</li>\n<li>(3) any <em><a class=\"glossary-link\" data-glossary-id=\"66847\" data-mce-linktype=\"2\" href=\"#glossary-term-9522e473f6f547b9ab49496e386da2c2\" title=\"notified non-executive director\">notified non-executive director</a></em> to observe the <em><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#fc711afa932945f58783f57fc05ad607\" title=\"3.7\">3.7</a> and <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#17be6755ba3e4108968f3be292787e88\" title=\"3.8\">3.8</a>, in addition to complying with (1); and</li>\n<li>(4) an <em><a class=\"glossary-link\" data-glossary-id=\"88200\" data-mce-linktype=\"2\" href=\"#glossary-term-c688aeb74f094e3a9d43389c4b7f2ecc\" title=\"employee\">employee</a></em> of a type specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#fe075502bfb34ff099a20363d3a011e0\" title=\"1.1\">1.1</a>(3)(c), (e) or (f) to observe the <em style=\"text-indent: -14.3px;\"><a class=\"glossary-link\" data-glossary-id=\"67033\" data-mce-linktype=\"2\" href=\"#glossary-term-a237be2d38ef407da1d7b08d58c086f8\" title=\"conduct standards\">conduct standards</a></em> specified in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#4673591992c547d5b7abbcbd8be2c846\" style=\"text-indent: -14.3px;\" title=\"3.1\">3.1</a><span style=\"text-indent: -14.3px;\"> to </span><a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards#c7331917618a4f529bd1e299fab3cf80\" style=\"text-indent: -14.3px;\" title=\"3.3\">3.3</a>. </li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#c2f6183ec1a641508890ffa071ca9b5d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.2 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"2e5f2b5986b941bebfbeda3b42313057\" id=\"47f316e6436545e6a32db0aae3cf8c60\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tConduct Standards\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"95c8b1180af3480097d27d23e1f0017c\" id=\"4673591992c547d5b7abbcbd8be2c846\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Individual Conduct Standard 1:</span> You must act with integrity.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"968f732876524f399fe5b467b5e222d0\" id=\"20ea0498e3354292b3d56c4294da232d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Individual Conduct Standard 2:</span> You must act with due skill, care and diligence.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"627bd5fd175e4f639f50db9b5a39ce57\" id=\"c7331917618a4f529bd1e299fab3cf80\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Individual Conduct Standard 3:</span> You must be open and co-operative with the <em><a class=\"glossary-link\" data-glossary-id=\"77608\" data-mce-linktype=\"2\" href=\"#glossary-term-64702d4cbe074f1b92c459e6283d7c35\" title=\"FCA\">FCA</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> and other regulators.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ac2384c20b7e44a896cc7a6ed4c3bdc3\" id=\"d063413463d64c54a5a86ee55ddb5af4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Senior Manager Conduct Standard 1:</span> You must take reasonable steps to ensure that the business of the <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firm\">firm</a></em> for which you are responsible is controlled effectively.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#d063413463d64c54a5a86ee55ddb5af4\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.4 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"25adba94fc6e4158b0cdc15e08114048\" id=\"7bfeaec0eab044eb8db1d6f8921a46be\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Senior Manager Conduct Standard 2: </span>You must take reasonable steps to ensure that the business of the <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firm\">firm</a></em> for which you are responsible complies with the relevant requirements and standards of the <em><a class=\"glossary-link\" data-glossary-id=\"52098\" data-mce-linktype=\"2\" href=\"#glossary-term-8b88ef3d27fa45aeba6c11a8df1a92ac\" title=\"regulatory system\">regulatory system</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#7bfeaec0eab044eb8db1d6f8921a46be\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.5 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b61e0d6b664f4854b95a4104181dcf98\" id=\"cfa9eee8669c45099904bb636c875e82\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Senior Manager Conduct Standard 3:</span> You must take reasonable steps to ensure that any delegation of your responsibilities is to an appropriate <em><a class=\"glossary-link\" data-glossary-id=\"77610\" data-mce-linktype=\"2\" href=\"#glossary-term-20bfb7c4c0ef449f92770d03da9e90b2\" title=\"person\">person</a></em> and that you oversee the discharge of the delegated responsibility effectively.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#cfa9eee8669c45099904bb636c875e82\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.6 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"80e3bacfdfeb425596fd9bdf68ac1e36\" id=\"fc711afa932945f58783f57fc05ad607\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Senior Manager Conduct Standard 4:</span> You must disclose appropriately any information of which the <em><a class=\"glossary-link\" data-glossary-id=\"77608\" data-mce-linktype=\"2\" href=\"#glossary-term-64702d4cbe074f1b92c459e6283d7c35\" title=\"FCA\">FCA</a></em> or the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> would reasonably expect to have notice.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#fc711afa932945f58783f57fc05ad607\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.7 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0c100968e8b94480a4f62594289ade1b\" id=\"17be6755ba3e4108968f3be292787e88\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.8\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span class=\"rule-style-1\">Senior Manager Conduct Standard 5:</span> When exercising your responsibilities, you must pay due regard to the interests of current and potential future <em><a class=\"glossary-link\" data-glossary-id=\"53224\" data-mce-linktype=\"2\" href=\"#glossary-term-e156c275391d4461b0834559bee81894\" title=\"policyholders\">policyholders</a></em> in ensuring the provision by the <em><a class=\"glossary-link\" data-glossary-id=\"77609\" data-mce-linktype=\"2\" href=\"#glossary-term-504f874a04684550a320332a07ebe53c\" title=\"firm\">firm</a></em> of an appropriate degree of protection for their insured benefits.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-conduct-standards/07-03-2016#17be6755ba3e4108968f3be292787e88\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.8 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "cbc0789320fa28d0c7b63eb9d4d5d4641c53fcec89b5f3d48494425b0a475b82",
+  "canonical_json_path": null
+}

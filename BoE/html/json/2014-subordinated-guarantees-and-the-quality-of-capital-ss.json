@@ -1,0 +1,48 @@
+{
+  "doc_id": "BOE-HTML-2014-subordinated-guarantees-and-the-quality-of-capital-ss",
+  "title": "SS8/14 - Subordinated guarantees and the quality of capital for insurers",
+  "short_title": "SS8/14",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS8/14",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/subordinated-guarantees-and-the-quality-of-capital-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/ss814-november-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2019/ss814update-september-2019.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2014/ss814.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss2215.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 22 August 2014\n\n\nThis supervisory statement applies to all insurers (firms) authorised by the Prudential Regulation Authority (PRA) and may also be relevant to insurance holding companies and other entities in the same group, together with their advisors. The statement also looks ahead to Solvency II (SII), and is aimed at firms and groups within the scope of the SII Directive. It is equally relevant for life insurers, general insurers and mutuals.\n\n\nThis statement sets out the PRA’s expectations of firms in relation to:\n\n\n    - the use of subordinated guarantees in connection with capital instruments issued by a company, whereby the payment of coupons and repayment of principal are guaranteed by a firm (the guarantor);\n\n    - how subordinated guarantees should not undermine the quality of capital held by firms to meet capital requirements (this expectation applies regardless of both the motivation for using a subordinated guarantee and the structure in which a guarantee is used); and\n\n    - how the guarantor’s regulatory capital position should be reported if the liability created by the guarantee serves to undermine the guarantor’s quality of capital.\n\n\nThis statement is an application of the connected transaction rules set out in GENPRU 2.2.65R and GENPRU 2.2.169R of the PRA Handbook and with effect from 1 January 2016, the PRA rule transposing Article 93 of the SII Directive.\n\n\nThis statement has been subject to a public consultation, which closed on 11 July 2014 and reflects feedback that was received by the PRA. Some responses suggested alternative wording to make the statement clearer and these suggestions have been accepted where clarity would be improved. There is no change in policy intent.\n",
+  "sha256": "6dbbbce0210404dc5363edd096b0064c7803c53a49863b7a7fd975d81cf573b4",
+  "scraped_at": "2026-03-25T03:58:48.743207Z",
+  "raw_sha256": "6dbbbce0210404dc5363edd096b0064c7803c53a49863b7a7fd975d81cf573b4",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2014-subordinated-guarantees-and-the-quality-of-capital-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

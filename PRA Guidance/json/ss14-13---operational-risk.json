@@ -1,0 +1,140 @@
+{
+  "doc_id": "pra.ss1413.2026",
+  "title": "SS14/13  – Operational risk",
+  "short_title": "SS14/13",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss14-13---operational-risk.json",
+  "canonical_path": null,
+  "sha256": "479c0f98ddf141a973945be05934b164989f5c59298480cf2e6ba2b1a3c25f5e",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss1413",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS14/13",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss14-13---operational-risk/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:53:35.533598",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "The PRA’s expectations in relation to AMA",
+      "Annual Significant Influence Function (SIF) attestation of Operational Risk Advanced Measurement Approach"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS7/13 - Strengthening capital standards: implementing CRD IV, feedback and final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/strengthening-capital-standards-implementing-crd-4"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS14/13  – Operational risk",
+      "slug": "ss14-13---operational-risk",
+      "version_dates": [
+        "19-12-2013"
+      ],
+      "boe_references": [
+        {
+          "title": "PS7/13 - Strengthening capital standards: implementing CRD IV, feedback and final rules",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/strengthening-capital-standards-implementing-crd-4"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors"
+        }
+      ],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is aimed at firms to which CRD IV applies.",
+            "as_at_date": "19/12/2013"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "This statement sets out the Prudential Regulation.",
+            "as_at_date": "19/12/2013"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "This statement should be read in conjunction with CRR.",
+            "as_at_date": "19/12/2013"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "The PRA’s expectations in relation to AMA",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "A firm may use an AMA in combination with either the BIA or TSA provided it obtains permission from the PRA.",
+            "as_at_date": "19/12/2013"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "In granting such permission, the PRA is required by CRRArticle 314(3) to impose the following conditions when the AMA is used in combination with BIA or TSA:",
+            "as_at_date": "19/12/2013"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "For the purposes of these conditions, the PRA considers that:",
+            "as_at_date": "19/12/2013"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Annual Significant Influence Function (SIF) attestation of Operational Risk Advanced Measurement Approach",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "PRA expects an appropriate individual in a SIF role to provide to the PRA, on an annual basis, written attestation that:",
+            "as_at_date": "19/12/2013"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "Firms should agree with the PRA the appropriate SIF for providing this attestation, noting that the PRA would not expect to agree more than 2 SIFs to cover the firm’s operational risk AMA as described",
+            "as_at_date": "19/12/2013"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 8
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is aimed at firms to which CRD IV applies.\n\n*Effective: 19/12/2013*\n\n1.2\n\nThis statement sets out the Prudential Regulation.\n\nAuthority’s (PRA’s) expectations on the extent to which the Advanced Measurement Approach (AMA) should capture the firms’ operational risks where the firm has, or is about to, implement AMA. This is relevant where the AMA is applied across only part of a firm’s operations and is used in conjunction with either the Basic Indicator Approach (BIA), or the Standardised Approach (TSA). This statement also sets out the PRA’s expectation of SIF attestation of the firm’s compliance with AMA standards.\n\n*Effective: 19/12/2013*\n\n1.3\n\nThis statement should be read in conjunction with CRR.\n\nArticle 314(3) and the high-level expectations outlined in The PRA’s approach to banking supervision.1\n\n#### Footnotes\n\n  * 1\\.  <https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors>\n\n*Effective: 19/12/2013*\n\n2\n\n###  The PRA’s expectations in relation to AMA\n\n2.1\n\nA firm may use an AMA in combination with either the BIA or TSA provided it obtains permission from the PRA.\n\n*Effective: 19/12/2013*\n\n2.2\n\nIn granting such permission, the PRA is required by CRRArticle 314(3) to impose the following conditions when the AMA is used in combination with BIA or TSA:\n\n  1. (a) on the date of first implementation of an AMA, a ‘significant’ part of the institution’s operational risk are captured by that Approach; and\n  2. (b) the institution to commit to apply the AMA across a ‘material’ part of its operations within a time schedule approved by the PRA.\n\n*Effective: 19/12/2013*\n\n2.3\n\nFor the purposes of these conditions, the PRA considers that:\n\n  * a ‘significant’ part of operational risk is approximately 50% or more; and\n  * a ‘material’ part of its operations is around 85% (or more).\n\n*Effective: 19/12/2013*\n\n3\n\n###  Annual Significant Influence Function (SIF) attestation of Operational Risk Advanced Measurement Approach\n\n3.1\n\nPRA expects an appropriate individual in a SIF role to provide to the PRA, on an annual basis, written attestation that:\n\n  1. (a) the firm’s AMA (for which it has received a permission) comply with the requirements in Part 3 Title III of the CRR, and any applicable PRA operational risk supervisory statements; and\n  2. (b) where the firm’s AMA has been found not to be compliant, a credible plan for a return to compliance is in place and being completed.\n\n*Effective: 19/12/2013*\n\n3.2\n\nFirms should agree with the PRA the appropriate SIF for providing this attestation, noting that the PRA would not expect to agree more than 2 SIFs to cover the firm’s operational risk AMA as described in Part 3 Title III of the CRR.\n\n*Effective: 19/12/2013*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"7b030344a7af43fbb6a7ae65a7ca7f96\" id=\"4204b8eb722c4a76b368ff6fa6e07b06\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"fb306c42aae648cdab356bedf17db860\" id=\"92ac7cc171f54c5a88af8a985c6f0256\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is aimed at firms to which CRD IV applies.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8c7e800df7a3449584570fd92e6dc2eb\" id=\"4ae7f8f367c4416aa290b9caa23cdece\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement sets out the Prudential Regulation.</p>\n<p style=\"margin: 0cm 0.6pt 13.75pt -0.25pt;\">Authority’s (PRA’s) expectations on the extent to which the Advanced Measurement Approach (AMA) should capture the firms’ operational risks where the firm has, or is about to, implement AMA.<span>  </span>This is relevant where the AMA is applied across only part of a firm’s operations and is used in conjunction with either the Basic Indicator Approach (BIA), or the Standardised Approach (TSA).<span>  </span>This statement also sets out the PRA’s expectation of SIF attestation of the firm’s compliance with AMA standards.</p>\n<p>\n</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8d8f9169530b46d4ba3891892720c356\" id=\"e23f8dc3db1548baab5d586d84d5a4c6\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement should be read in conjunction with CRR.</p>\n<p style=\"margin: 0cm 0.6pt 0cm -0.25pt;\">Article 314(3) and the high-level expectations outlined in The PRA’s approach to banking supervision.<sup><a href=\"#footnote-1\">1</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\n<a href=\"https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors\">https://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"14855e677d21419c8162cc0f421c12c8\" id=\"3d958884496a4eeaa3d82d470ab5588d\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tThe PRA’s expectations in relation to AMA<br/>\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"995813181a284dd5998ea56f485c0bfe\" id=\"2ec1ab3a2b544006beef42b86d2128d2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A firm may use an AMA in combination with either the BIA or TSA provided it obtains permission from the PRA.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"73cc97bc3c5e4298b8a530b679a809b8\" id=\"2cc60fc8f7be44fdab1ae0ce165ff366\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In granting such permission, the PRA is required  by CRRArticle 314(3) to impose the following conditions when the AMA is used in combination with BIA or TSA:</p>\n<ol class=\"new-bullet\">\n<li>(a) on the date of first implementation of an AMA, a ‘significant’ part of the institution’s operational risk are captured by that Approach; and</li>\n<li>(b) the institution to commit to apply the AMA across a ‘material’ part of its operations within a time schedule approved by the PRA.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0f84d5b0b4154634a1d766b480f7a547\" id=\"681068e8c88e4a20826edfbb8da6a053\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purposes of these conditions, the PRA considers that:</p>\n<ul style=\"list-style-type: disc;\">\n<li>a ‘significant’ part of operational risk is approximately 50% or more; and</li>\n<li>a ‘material’ part of its operations is around 85% (or more).</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"5dd5f984d97648b7a0591b481b67b488\" id=\"7d080260fb2b459990aa229bd44f80bf\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tAnnual Significant Influence Function (SIF) attestation of Operational Risk Advanced Measurement Approach<br/>\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"4efc0ef735804578b69c519f4f834eca\" id=\"a2abf33ce6514974a6afdf5233de35f2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>PRA expects an appropriate individual in a SIF role to provide to the PRA, on an annual basis, written attestation that: </p>\n<ol class=\"new-bullet\">\n<li>(a) the firm’s AMA (for which it has received a permission) comply with the requirements in Part 3 Title III of the CRR, and any applicable PRA operational risk supervisory statements; and </li>\n<li>(b) where the firm’s AMA has been found not to be compliant, a credible plan for a return to compliance is in place and being completed.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a7e76b3a209f4bd787cc60672bd7551b\" id=\"c30b64971cf44f6fba2d7f5c724dcf3a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span style=\"color: rgb(34, 31, 31);\">Firms should agree with the PRA the appropriate SIF for providing this attestation, noting that the PRA would not expect to agree more than 2 SIFs to cover the firm’s operational risk AMA as described in Part 3 Title III of the CRR.</span></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t19/12/2013\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "479c0f98ddf141a973945be05934b164989f5c59298480cf2e6ba2b1a3c25f5e",
+  "canonical_json_path": null
+}

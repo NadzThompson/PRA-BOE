@@ -1,0 +1,56 @@
+{
+  "doc_id": "PRA-guidance-index",
+  "title": "PRA Rulebook - Guidance Index",
+  "short_title": "PRA Guidance Index",
+  "document_class": "guidance_index",
+  "source_type": "html",
+  "raw_path": null,
+  "canonical_json_path": null,
+  "raw_sha256": "a4f62eac0a975e4be49f96103460be2c351142d64b5de705346e3aa3a8134ee6",
+  "parser_version": "pra-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "PRA.guidance_index",
+  "version_id": "2026-03-02",
+  "version_label": "2026-03-02",
+  "version_sort_key": "2026-03-02",
+  "guideline_number": "Index",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-02",
+  "effective_date_end": null,
+  "authority_class": "context",
+  "authority_level": 7,
+  "nova_tier": 5,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "source_url": "https://www.prarulebook.co.uk/guidance",
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance",
+    "content_type": "Index Page",
+    "scrape_date": "2026-03-02T22:16:16.742943",
+    "as_at_date": "03-03-2026",
+    "title": "PRA Rulebook - Guidance Index",
+    "total_items": 0,
+    "timeline": {
+      "title": "PRA Rulebook - Guidance Index",
+      "slug": "guidance-index",
+      "version_dates": [],
+      "boe_references": [
+        {
+          "title": "Add us on Facebook",
+          "url": "https://www.facebook.com/bankofengland.co.uk"
+        }
+      ],
+      "total_amendments": 0
+    }
+  },
+  "content_markdown": "# PRA Rulebook - Guidance Index\n\nTotal: 0",
+  "content_html": "<h1>PRA Rulebook - Guidance Index</h1><p>Total: 0</p><ol></ol>"
+}

@@ -1,0 +1,226 @@
+{
+  "doc_id": "pra.ss814.2026",
+  "title": "SS8/14 – Subordinated guarantees and the quality of capital for insurers",
+  "short_title": "SS8/14",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss08-14---subordinated-guarantees-and-the-quality.json",
+  "canonical_path": null,
+  "sha256": "3daa315bfd25988b1c478a5331213a8b3e11164b8efea80e805c76249082be4e",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss814",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS8/14",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss08-14---subordinated-guarantees-and-the-quality/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:25.851790",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Acceptable outcomes when using subordinated guarantees in connection with capital instruments",
+      "The PRA expects firms to provide evidence that they have properly assessed the quality of their capital [Deleted]",
+      "The PRA’s assessment of information received [Deleted]",
+      "Situations where the quality of capital is undermined by a guarantee"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS21/19 - Responses to CP13/19 Occasional Consultation Paper",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/occasional-consultation-paper"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS8/14 – Subordinated guarantees and the quality of capital for insurers",
+      "slug": "ss08-14---subordinated-guarantees-and-the-quality",
+      "version_dates": [
+        "30-09-2019",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "Previous versions of this Supervisory Statement (SS) pre 30/09/2019 can be found here.",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/subordinated-guarantees-and-the-quality-of-capital-ss"
+        },
+        {
+          "title": "PS21/19 - Responses to CP13/19 Occasional Consultation Paper",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/occasional-consultation-paper"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement applies to all UK Solvency II firms, including in the context of provisions relating to Solvency II groups, mutuals, third-country branches, and to the Society of Lloyds, it",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "The PRA intends to ensure a consistent and clear communication of its expectations to enable firms and the PRA to make judgements which advance the PRA’s objectives.",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "This statement sets out the PRA’s expectations of firms in relation to:",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "[Deleted]",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.5",
+            "summary": "[Deleted]",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.6",
+            "summary": "[Deleted]",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.7",
+            "summary": "[Deleted]",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.8",
+            "summary": "This statement relates only to structures where guarantees are being used to facilitate obtaining finance. The statement is written without prejudice to any other rules of the PRA Rulebook.",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "1.9",
+            "summary": "For guarantees outside the scope of this statement and to which firms may be party, firms should still consider whether those guarantees serve to undermine the quality of their capital and discuss the",
+            "as_at_date": "30/09/2019"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Acceptable outcomes when using subordinated guarantees in connection with capital instruments",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "The PRA is aware that firms utilise subordinated guarantees for a variety of reasons within a variety of corporate structures (two illustrative examples are provided in Section 5 of this statement). R",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "Any subordinated guarantee arrangement will be assessed by the PRA to ascertain whether it is consistent with one of the following two situations deemed acceptable by the PRA, and whether it displays ",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "In either case, any capital instrument that is guaranteed should still fulfil its regulatory purpose. The subordinated guarantee should not override the loss-absorbing features of a capital instrument",
+            "as_at_date": "30/09/2019"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "The PRA expects firms to provide evidence that they have properly assessed the quality of their capital [Deleted]",
+        "paragraphs": []
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "The PRA’s assessment of information received [Deleted]",
+        "paragraphs": []
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Situations where the quality of capital is undermined by a guarantee",
+        "paragraphs": [
+          {
+            "paragraph_number": "5.1",
+            "summary": "Two situations where the quality of capital is undermined by a subordinated guarantee are set out below. They are designed to be illustrative of the issue which this statement addresses, but they are ",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.2",
+            "summary": "The first example describes a situation where a holding company (Holdco) issues a Tier 2 capital instrument to investors. Holdco owns an operating company (Opco) by virtue of holding 100% of its equit",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.3",
+            "summary": "The issuer is purely a holding company and relies on the dividends of Opco to pay the coupons due to the holders of the Tier 2 subordinated debt instrument. Furthermore, the contract governing the deb",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.4",
+            "summary": "The economic effect of the arrangement is that Opco is liable for the Tier 2 debt instrument. The quality of Opco’s capital is undermined as it has a potential liability to the investors in the capita",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.5",
+            "summary": "As such, in reporting its regulatory capital on a solo basis, Opco should disqualify £100 million of its Tier 1 capital. The amount may still count towards a lower tier of capital if the terms of the ",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.6",
+            "summary": "A more complicated example is illustrated in Figure B. The structure is broadly similar to Figure A, but there is an additional internal Tier 2 instrument issued by Opco to Holdco. The coupon payments",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.7",
+            "summary": "In this example, it will depend on the precise contractual arrangements of the internal instrument and the subordinated guarantee as to whether two sets of liabilities can be assumed by Opco.",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.8",
+            "summary": "Disqualification of Opco’s Tier 1 capital is not required if, when the subordinated guarantee is called upon, the guarantee effectively extinguishes or replaces the existing subordinated liability ari",
+            "as_at_date": "30/09/2019"
+          },
+          {
+            "paragraph_number": "5.9",
+            "summary": "The above examples are not the only ones where the situation arises. This statement applies to any arrangement where a firm has guaranteed, on a subordinated basis, a regulatory capital instrument iss",
+            "as_at_date": "30/09/2019"
+          }
+        ]
+      }
+    ],
+    "section_count": 5,
+    "rule_count": 21
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement applies to all UK Solvency II firms, including in the context of provisions relating to Solvency II groups, mutuals, third-country branches, and to the Society of Lloyds, its members and managing agents.\n\n*Effective: 31/12/2024*\n\n1.2\n\nThe PRA intends to ensure a consistent and clear communication of its expectations to enable firms and the PRA to make judgements which advance the PRA’s objectives.\n\n*Effective: 30/09/2019*\n\n1.3\n\nThis statement sets out the PRA’s expectations of firms in relation to:\n\n  * the use of subordinated guarantees in connection with capital instruments issued by a company, whereby the payment of coupons and repayment of principal are guaranteed by a firm (the guarantor);\n  * how subordinated guarantees should not undermine the quality of capital held by firms to meet capital requirements (this expectation applies regardless of both the motivation for using a subordinated guarantee and the structure in which a guarantee is used); and\n  * how the guarantor’s regulatory capital position should be reported if the liability created by the guarantee serves to undermine the guarantor’s quality of capital.\n\n*Effective: 30/09/2019*\n\n1.4\n\n[Deleted]\n\n*Effective: 30/09/2019*\n\n1.5\n\n[Deleted]\n\n*Effective: 30/09/2019*\n\n#### Actions expected of firms [Deleted]\n\n1.6\n\n[Deleted]\n\n*Effective: 30/09/2019*\n\n1.7\n\n[Deleted]\n\n*Effective: 30/09/2019*\n\n#### Other considerations of scope\n\n1.8\n\nThis statement relates only to structures where guarantees are being used to facilitate obtaining finance. The statement is written without prejudice to any other rules of the PRA Rulebook.\n\n*Effective: 30/09/2019*\n\n1.9\n\nFor guarantees outside the scope of this statement and to which firms may be party, firms should still consider whether those guarantees serve to undermine the quality of their capital and discuss these with their usual supervisory contact as appropriate.\n\n*Effective: 30/09/2019*\n\n2\n\n###  Acceptable outcomes when using subordinated guarantees in connection with capital instruments\n\n2.1\n\nThe PRA is aware that firms utilise subordinated guarantees for a variety of reasons within a variety of corporate structures (two illustrative examples are provided in Section 5 of this statement). Regardless of the reason or structure, subordinated guarantees should not serve to undermine the quality of capital held by firms to meet capital requirements. Generally, the quality of capital is undermined when firms take on additional potential liabilities that are not taken into account in, and would have to be met from, the guarantor firm’s capital resources.\n\n*Effective: 30/09/2019*\n\n2.2\n\nAny subordinated guarantee arrangement will be assessed by the PRA to ascertain whether it is consistent with one of the following two situations deemed acceptable by the PRA, and whether it displays the characteristics set out in paragraph 2.3 below.\n\n*Effective: 30/09/2019*\n\n#### Situation 1\n\n  * From the perspective of the guarantor firm, if a subordinated guarantee is called upon, the guarantee should effectively extinguish or replace an existing subordinated liability. Otherwise the guarantee represents an additional potential liability that has not been reflected in, and would have to be met from, the guarantor’s capital resources. The subordinated guarantee should possess the same, or better, features regarding quality of capital (eg loss absorbency and subordination) as the subordinated liability it is replacing.\n\n*Effective: 30/09/2019*\n\n#### Situation 2\n\n  * Where a subordinated guarantee does not extinguish or replace an existing subordinated liability, the firm should acknowledge the existence of the guarantee by disqualifying the guaranteed amount from the guarantor’s Tier 1 capital. The amount may still count towards a lower tier of capital if the terms of the subordinated guarantee meet all of the relevant criteria — in effect a relegation. Whether the relegated amount can count towards total capital resources will also depend on the capital gearing rules, which constrain the amount of lower quality capital.\n\n*Effective: 30/09/2019*\n\n2.3\n\nIn either case, any capital instrument that is guaranteed should still fulfil its regulatory purpose. The subordinated guarantee should not override the loss-absorbing features of a capital instrument and investors in a capital instrument should not avoid bearing losses when it is appropriate for them to do so.\n\n*Effective: 30/09/2019*\n\n3\n\n###  The PRA expects firms to provide evidence that they have properly assessed the quality of their capital [Deleted]\n\n[This chapter has been deleted in its entirety]\n\n*Effective: 30/09/2019*\n\n4\n\n###  The PRA’s assessment of information received [Deleted]\n\n[This chapter has been deleted in its entirety]\n\n*Effective: 30/09/2019*\n\n5\n\n###  Situations where the quality of capital is undermined by a guarantee\n\n5.1\n\nTwo situations where the quality of capital is undermined by a subordinated guarantee are set out below. They are designed to be illustrative of the issue which this statement addresses, but they are not the only possible examples.\n\n*Effective: 30/09/2019*\n\n5.2\n\nThe first example describes a situation where a holding company (Holdco) issues a Tier 2 capital instrument to investors. Holdco owns an operating company (Opco) by virtue of holding 100% of its equity share capital (Figure A).\n\n##### Figure A Simple structure where the quality of capital is undermined\n\n*Effective: 30/09/2019*\n\n5.3\n\nThe issuer is purely a holding company and relies on the dividends of Opco to pay the coupons due to the holders of the Tier 2 subordinated debt instrument. Furthermore, the contract governing the debt instrument provides that Opco will guarantee the coupon payments and principal.\n\n*Effective: 30/09/2019*\n\n5.4\n\nThe economic effect of the arrangement is that Opco is liable for the Tier 2 debt instrument. The quality of Opco’s capital is undermined as it has a potential liability to the investors in the capital instrument issued by Holdco.\n\n*Effective: 30/09/2019*\n\n5.5\n\nAs such, in reporting its regulatory capital on a solo basis, Opco should disqualify £100 million of its Tier 1 capital. The amount may still count towards a lower tier of capital if the terms of the subordinated guarantee meet all of the relevant criteria.\n\n*Effective: 30/09/2019*\n\n5.6\n\nA more complicated example is illustrated in Figure B. The structure is broadly similar to Figure A, but there is an additional internal Tier 2 instrument issued by Opco to Holdco. The coupon payments on the internal instrument could be seen to support the coupon payments on the instrument issued by Holdco to the market.\n\n##### Figure B Complex structure with internal instrument\n\n*Effective: 30/09/2019*\n\n5.7\n\nIn this example, it will depend on the precise contractual arrangements of the internal instrument and the subordinated guarantee as to whether two sets of liabilities can be assumed by Opco.\n\n*Effective: 30/09/2019*\n\n5.8\n\nDisqualification of Opco’s Tier 1 capital is not required if, when the subordinated guarantee is called upon, the guarantee effectively extinguishes or replaces the existing subordinated liability arising from the internal Tier 2 instrument. The subordinated guarantee should possess the same, or better, features regarding quality of capital (eg loss absorbency and subordination) as the subordinated liability it is replacing.\n\n*Effective: 30/09/2019*\n\n5.9\n\nThe above examples are not the only ones where the situation arises. This statement applies to any arrangement where a firm has guaranteed, on a subordinated basis, a regulatory capital instrument issued by another entity.\n\n##### Table A Summary table of important actions and dates [deleted]\n\n[Table A is deleted]\n\n*Effective: 30/09/2019*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"b660efaa265f4f1e9f81ceb01caad1fe\" id=\"97d71b34f1104075a35cfe167e22a029\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b858e7b5dbc34a228a428a1863ae28cf\" id=\"544f350f3bd04fa5984c52cf8e72234e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement applies to all UK Solvency II firms, including in the context of provisions relating to Solvency II groups, mutuals, third-country branches, and to the Society of Lloyds, its members and managing agents.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss08-14---subordinated-guarantees-and-the-quality/30-09-2019#544f350f3bd04fa5984c52cf8e72234e\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"37ce168205454e208b6b71b5b2544558\" id=\"58f87b4bd0294c279cab7587bdbc2f0b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA intends to ensure a consistent and clear communication of its expectations to enable firms and the PRA to make judgements which advance the PRA’s objectives. </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b6f869843a634e988da0fad9f6c8a929\" id=\"6b07b9eeda1a4e3a8f3dc405bd4e99c4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement sets out the PRA’s expectations of firms in relation to:</p>\n<ul>\n<li>the use of subordinated guarantees in connection with capital instruments issued by a company, whereby the payment of coupons and repayment of principal are guaranteed by a firm (the guarantor); </li>\n<li>how subordinated guarantees should not undermine the quality of capital held by firms to meet capital requirements (this expectation applies regardless of both the motivation for using a subordinated guarantee and the structure in which a guarantee is used); and </li>\n<li>how the guarantor’s regulatory capital position should be reported if the liability created by the guarantee serves to undermine the guarantor’s quality of capital. </li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ecfcbe9de4164a48b0ca036b607de530\" id=\"263c581e70734bcd9da4c88ce71c2c87\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted] </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7b5dd3900f2344eb98def3935a69f235\" id=\"896876b20c054ede80a9194fd2a33685\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block\" data-version=\"89870cab28f34a4e8827e437ce354b56\" id=\"bd2e0c49f5ec4b4cb0164e367689b366\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h4>Actions expected of firms [Deleted]</h4>\n</div>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ccb8b43ae9d34e4b8c737a3b857e87f3\" id=\"219adf1162df41948975b5435f7327df\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted] </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ae3b1bc2aba34ce4804c67c9229d9c84\" id=\"5a3c62cf1f434ff481cc3b8a4049ec69\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted] </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block\" data-version=\"bfc5865e71cc483c84238af89899885f\" id=\"c742cc6fcfa24aa7a15066000e2bee17\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h4>Other considerations of scope</h4>\n</div>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9fc14c29efa2431c9410a94c91561c1d\" id=\"be29959e760941cf8abf2fe182341377\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.8\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement relates only to structures where guarantees are being used to facilitate obtaining finance. The statement is written without prejudice to any other rules of the PRA Rulebook. </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c15c4f831e70444c92c9354589b60e43\" id=\"f16a50b4270348cb998556a516c0761d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.9\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For guarantees outside the scope of this statement and to which firms may be party, firms should still consider whether those guarantees serve to undermine the quality of their capital and discuss these with their usual supervisory contact as appropriate.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"78d06e40422f4d63b76b39f8df733413\" id=\"99cae340dd3f4496844e90676f3d0994\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tAcceptable outcomes when using subordinated guarantees in connection with capital instruments<br/>\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"34b9ed9026764a4e93bda0f9b5f5a294\" id=\"6cda2a05b79e494991569cc4738c812e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA is aware that firms utilise subordinated guarantees for a variety of reasons within a variety of corporate structures (two illustrative examples are provided in Section 5 of this statement). Regardless of the reason or structure, subordinated guarantees should not serve to undermine the quality of capital held by firms to meet capital requirements. Generally, the quality of capital is undermined when firms take on additional potential liabilities that are not taken into account in, and would have to be met from, the guarantor firm’s capital resources.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"17cb0dac376345408fb9729ad123735f\" id=\"0291f3d452c74c26be0ad65b783adb91\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Any subordinated guarantee arrangement will be assessed by the PRA to ascertain whether it is consistent with one of the following two situations deemed acceptable by the PRA, and whether it displays the characteristics set out in paragraph 2.3 below.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block\" data-version=\"135b7fe1369c4b39aaabee78ebb893d8\" id=\"c2a714d38b94477282e3521d69cfa00e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h4>Situation 1</h4>\n</div>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bc9b3e882cc54ef09f0e0d8e9fe64ceb\" id=\"0d6ee144ec844d53a035fc157855c0eb\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ul>\n<li>From the perspective of the guarantor firm, if a subordinated guarantee is called upon, the guarantee should effectively extinguish or replace an existing subordinated liability. Otherwise the guarantee represents an additional potential liability that has not been reflected in, and would have to be met from, the guarantor’s capital resources. The subordinated guarantee should possess the same, or better, features regarding quality of capital (eg loss absorbency and subordination) as the subordinated liability it is replacing.</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block\" data-version=\"866fa4ea231b4fc2920cf79b1da8fb4c\" id=\"04a7f3192e3b4635872f867070ba0260\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h4>Situation 2</h4>\n</div>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f68e554e24c1496bbf607a616a6cb91c\" id=\"fdfdb361075a4732a920874ba1ce9a9e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<ul>\n<li>Where a subordinated guarantee does not extinguish or replace an existing subordinated liability, the firm should acknowledge the existence of the guarantee by disqualifying the guaranteed amount from the guarantor’s Tier 1 capital. The amount may still count towards a lower tier of capital if the terms of the subordinated guarantee meet all of the relevant criteria — in effect a relegation. Whether the relegated amount can count towards total capital resources will also depend on the capital gearing rules, which constrain the amount of lower quality capital.</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"615d982b504d4c53951bb2a9d58c2eff\" id=\"05a528571ccd4aca8b2ba5ebdb31a957\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In either case, any capital instrument that is guaranteed should still fulfil its regulatory purpose. The subordinated guarantee should not override the loss-absorbing features of a capital instrument and investors in a capital instrument should not avoid bearing losses when it is appropriate for them to do so.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"e185646d5d8d4999979044b3cc4de9b9\" id=\"10dbf5ca625943328a04e202c0e1fc9c\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tThe PRA expects firms to provide evidence that they have properly assessed the quality of their capital [Deleted]<br/>\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e3a72b8f9a1a42f4b296dc8cc2a11350\" id=\"298a328a5db84341b74e22a432c19854\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[This chapter has been deleted in its entirety]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"56c50410df9b4e42986309eb09da86fa\" id=\"ca78e71fe7254d4ea42da3ab76d0e36b\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tThe PRA’s assessment of information received [Deleted]\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"701ccf705fab4cd886c6965b997deb33\" id=\"37d93bf2a5414257b9ab98493ea3af8c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[This chapter has been deleted in its entirety]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"6b30065bf96a4397a04e8b35afc9ca11\" id=\"dc87aa2dd63a4f418f8a8ceaf41085c5\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSituations where the quality of capital is undermined by a guarantee\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"6070b0fe4f084201bb8c130e7a52721c\" id=\"3dbed3a50ff14638bd599b0efd771d77\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Two situations where the quality of capital is undermined by a subordinated guarantee are set out below. They are designed to be illustrative of the issue which this statement addresses, but they are not the only possible examples.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ba47d608df0044b79732c85d78f1c2d3\" id=\"eef3714adcaf4034b4a343d9cfa8fa0c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The first example describes a situation where a holding company (Holdco) issues a Tier 2 capital instrument to investors. Holdco owns an operating company (Opco) by virtue of holding 100% of its equity share capital (Figure A).</p>\n<h5>Figure A Simple structure where the quality of capital is undermined</h5>\n<p><img alt=\"Figure A_Subordinated guarantees and the quality of capital for insurers\" src=\"-/media/576210cedbeb4450949ca2e311393da6.ashx\"/></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9ea5c977c49046609b2cfed41c61b7c0\" id=\"585752aba4ad49aa88a714f51daad2f9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The issuer is purely a holding company and relies on the dividends of Opco to pay the coupons due to the holders of the Tier 2 subordinated debt instrument. Furthermore, the contract governing the debt instrument provides that Opco will guarantee the coupon payments and principal.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"32047d35bcbc4587a34de063fe26b0ea\" id=\"bf8d6ca1981d4098b873fa401a2fb759\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The economic effect of the arrangement is that Opco is liable for the Tier 2 debt instrument. The quality of Opco’s capital is undermined as it has a potential liability to the investors in the capital instrument issued by Holdco.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"cfef99e703884dff9a042408782a2e0d\" id=\"4ec2a88fe5934ea7aa6c3c44bbf399ae\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>As such, in reporting its regulatory capital on a solo basis, Opco should disqualify £100 million of its Tier 1 capital. The amount may still count towards a lower tier of capital if the terms of the subordinated guarantee meet all of the relevant criteria.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e618371e5a054fbf9c4b039827ad673f\" id=\"dbccc7fe19624425adf6314cd90c52ff\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p> A more complicated example is illustrated in Figure B. The structure is broadly similar to Figure A, but there is an additional internal Tier 2 instrument issued by Opco to Holdco. The coupon payments on the internal instrument could be seen to support the coupon payments on the instrument issued by Holdco to the market.</p>\n<h5>Figure B Complex structure with internal instrument</h5>\n<p><img alt=\"Figure B_Subordinated guarantees and the quality of capital for insurers\" src=\"-/media/d073862a9876421e84fb0cabc259e348.ashx\"/></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2e1c70b82c29492fa38c5be35529e7ad\" id=\"5dd26f98e88d4def84f235fd84926c7b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this example, it will depend on the precise contractual arrangements of the internal instrument and the subordinated guarantee as to whether two sets of liabilities can be assumed by Opco.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f6f1b7d2e33d4181b62bceac93392e65\" id=\"d31a2754f938434db6a853089740e95a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.8\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Disqualification of Opco’s Tier 1 capital is not required if, when the subordinated guarantee is called upon, the guarantee effectively extinguishes or replaces the existing subordinated liability arising from the internal Tier 2 instrument. The subordinated guarantee should possess the same, or better, features regarding quality of capital (eg loss absorbency and subordination) as the subordinated liability it is replacing.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"49f706efd65c4c478224a0e35e74f50c\" id=\"0f8708154214470dad8714f5b9d5ccc5\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t5.9\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The above examples are not the only ones where the situation arises. This statement applies to any arrangement where a firm has guaranteed, on a subordinated basis, a regulatory capital instrument issued by another entity.</p>\n<h5>Table A Summary table of important actions and dates [deleted] </h5>\n<p>[Table A is deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/09/2019\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "3daa315bfd25988b1c478a5331213a8b3e11164b8efea80e805c76249082be4e",
+  "canonical_json_path": null
+}

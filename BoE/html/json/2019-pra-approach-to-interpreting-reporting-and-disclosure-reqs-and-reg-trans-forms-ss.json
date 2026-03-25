@@ -1,0 +1,53 @@
+{
+  "doc_id": "BOE-HTML-2019-pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss",
+  "title": "SS2/19 – PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after the UK’s withdrawal from the EU",
+  "short_title": "SS2/19",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS2/19",
+  "sector": [
+    "cross_sector"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss219-jan-2022.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss219-december-2020.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss219-april-2019.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2019/ss219.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss415.2026",
+    "pra.ss514.2026",
+    "pra.ss1716.2026",
+    "pra.ss4115.2026",
+    "pra.ss4415.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 18 April 2019\n\n\nThis Supervisory Statement (SS) sets out the approach the Prudential Regulation Authority (PRA) expects firms to take when interpreting EU-based references found in reporting and disclosure requirements and regulatory transactions forms after the UK’s withdrawal from the EU. The PRA has not made line-by-line changes to reporting or disclosure requirements, or regulatory transactions forms, as a result of the UK’s withdrawal from the EU, as it would not have been proportionate to do so. Instead, the PRA expects firms to interpret EU references in those templates and instructions in accordance with this SS.\n\n\nChapter 2 outlines a general approach on this issue, which is in line with the approach taken more widely when nationalising European requirements. Chapters 3, 4 and 5 detail an expected approach on certain more specific issues. In any instance where the approach set out in Chapters 3, 4 and 5 conflicts with the approach set out in Chapter 2, the approach set out in Chapters 3, 4 and 5 should take priority.\n\n\nChapter 6 sets out how the guidance included in this SS interacts with the general transitional relief.\n\n\nAppendix 1 outlines which European Binding Technical Standards (BTS) and which parts of the PRA Rulebook are in scope of this guidance.\n",
+  "sha256": "d50e4979716ec6dd75eba4aa05c65fb8da8e225875b18267a1cbad077083df6d",
+  "scraped_at": "2026-03-25T03:58:49.555612Z",
+  "raw_sha256": "d50e4979716ec6dd75eba4aa05c65fb8da8e225875b18267a1cbad077083df6d",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2019-pra-approach-to-interpreting-reporting-and-disclosure-reqs-and-reg-trans-forms-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

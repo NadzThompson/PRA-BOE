@@ -1,0 +1,110 @@
+{
+  "doc_id": "pra.ss119.2026",
+  "title": "SS1/19 – Non-binding PRA materials: The PRA’s approach after the UK’s withdrawal from the EU",
+  "short_title": "SS1/19",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss01-19---non-binding-pra-materials.json",
+  "canonical_path": null,
+  "sha256": "dfa025b9c3824c5c0eb058ade777f164823ac490d1402b13187e50cd59f5e4f0",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss119",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS1/19",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss01-19---non-binding-pra-materials/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:53:15.221572",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms",
+      "SII Firms",
+      "Non-SII Firms",
+      "Non-authorised persons"
+    ],
+    "chapters": [
+      "Introduction"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS27/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS1/19 – Non-binding PRA materials: The PRA’s approach after the UK’s withdrawal from the EU",
+      "slug": "ss01-19---non-binding-pra-materials",
+      "version_dates": [
+        "31-12-2020"
+      ],
+      "boe_references": [
+        {
+          "title": "The Supervisory Statement (SS) shown on this page is effective from 31/12/2020. Past versions of this SS can be found here.",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/non-binding-pra-materials-the-pras-approach-after-the-uks-withdrawal-from-the-eu-ss"
+        },
+        {
+          "title": "PS27/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+        }
+      ],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement (SS) elaborates on how firms should interpret existing non-binding PRA regulatory and supervisory materials in light of the UK’s withdrawal from the EU and the end of the tr",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "This SS is relevant to all PRA-regulated firms operating, or intending to operate, in the UK. The PRA may issue further expectations in relation to this topic.",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "The UK’s membership of the EU came to an end on Friday 31 January 2020. The UK entered into a transition period lasting until 11pm on Thursday 31 December 2020, which is defined in UK law as ‘IP compl",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "Setting out the PRA’s approach to its non-binding materials after the end of the transition period also helps provide certainty to firms. Except for SS18/15 ‘Depositor and dormant account protection’,",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      }
+    ],
+    "section_count": 1,
+    "rule_count": 4
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement (SS) elaborates on how firms should interpret existing non-binding PRA regulatory and supervisory materials in light of the UK’s withdrawal from the EU and the end of the transition period. This includes the PRA’s existing approach documents, statements of policy (SoPs), and SSs – these are collectively referred to as the PRA’s ‘non-binding materials’.\n\n*Effective: 31/12/2020*\n\n1.2\n\nThis SS is relevant to all PRA-regulated firms operating, or intending to operate, in the UK. The PRA may issue further expectations in relation to this topic.\n\n*Effective: 31/12/2020*\n\n1.3\n\nThe UK’s membership of the EU came to an end on Friday 31 January 2020. The UK entered into a transition period lasting until 11pm on Thursday 31 December 2020, which is defined in UK law as ‘IP completion day’, during which EU law continued to apply to the UK.HM Treasury has used its powers under the European Union (Withdrawal) Act 2018 (the ‘Act’) to ensure that the UK continues to have a functioning financial services regulatory regime at the end of the transition period. To do this, it has ensured that EU-derived laws and rules that were in place in the UK before the end of the transition period continue to apply in the UK to the extent that they remain operable. Changes have only been made to those laws or rules that would otherwise not operate appropriately. This provides continuity and certainty for firms at the end of the transition period.\n\n*Effective: 31/12/2020*\n\n1.4\n\nSetting out the PRA’s approach to its non-binding materials after the end of the transition period also helps provide certainty to firms. Except for SS18/15 ‘Depositor and dormant account protection’, the PRA has not made line-by-line amendments to its non-binding materials, as a result of the UK’s withdrawal from the EU and the end of the transition period.\n\n*Effective: 31/12/2020*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"6cf973c10f344b2ebf10eafe1741194d\" id=\"d073890e367a443893f538671d51a835\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"233035f3b7b8457d9141e428564ac81f\" id=\"f61b74c2c64c4b9a9c63fed116886844\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement (SS) elaborates on how firms should interpret existing non-binding PRA regulatory and supervisory materials in light of the UK’s withdrawal from the EU and the end of the transition period. This includes the PRA’s existing approach documents, statements of policy (SoPs), and SSs – these are collectively referred to as the PRA’s ‘non-binding materials’.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"de30e4c4e5864edcb6a16e5810993c03\" id=\"d288a51bcffd4f919a9b6f20294c3a9b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This SS is relevant to all PRA-regulated firms operating, or intending to operate, in the UK. The PRA may issue further expectations in relation to this topic.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"13d1e5cf15114820b84b0afd12d2ec80\" id=\"c982fbde94a34402a66ef1092776a144\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The UK’s membership of the EU came to an end on Friday 31 January 2020. The UK entered into a transition period lasting until 11pm on Thursday 31 December 2020, which is defined in UK law as ‘IP completion day’, during which EU law continued to apply to the UK.HM Treasury has used its powers under the European Union (Withdrawal) Act 2018 (the ‘Act’) to ensure that the UK continues to have a functioning financial services regulatory regime at the end of the transition period. To do this, it has ensured that EU-derived laws and rules that were in place in the UK before the end of the transition period continue to apply in the UK to the extent that they remain operable. Changes have only been made to those laws or rules that would otherwise not operate appropriately. This provides continuity and certainty for firms at the end of the transition period.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b42fac76788745fda4ab0ec670c87ad0\" id=\"67a2862147e949fdb877ab65697f8d11\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Setting out the PRA’s approach to its non-binding materials after the end of the transition period also helps provide certainty to firms. Except for SS18/15 ‘Depositor and dormant account protection’, the PRA has not made line-by-line amendments to its non-binding materials, as a result of the UK’s withdrawal from the EU and the end of the transition period.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "dfa025b9c3824c5c0eb058ade777f164823ac490d1402b13187e50cd59f5e4f0",
+  "canonical_json_path": null
+}

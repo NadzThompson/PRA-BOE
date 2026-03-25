@@ -1,0 +1,50 @@
+{
+  "doc_id": "BOE-HTML-2021-march-operational-resilience-sop",
+  "title": "SoP1/21 – Operational resilience",
+  "short_title": "SOP1/21",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SOP1/21",
+  "sector": [
+    "banking",
+    "insurance",
+    "investment_firms"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/march/operational-resilience-sop",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/operational-resilience-november-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2021/operational-resilience-march-2021.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss121.2026",
+    "pra.ss221.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 29 March 2021\n\n\nThe Prudential Regulation Authority (PRA) considers that for firms to be operationally resilient, they should be able to prevent disruption occurring to the extent practicable; adapt systems and processes to continue to provide services and functions in the event of an incident; return to normal running promptly when a disruption is over; and learn and evolve from both incidents and near misses. Therefore, operational resilience is an outcome that is supported by several parts of the PRA’s regulatory framework.\n\n\nThis Statement of Policy (SoP) clarifies how the PRA’s operational resilience policy affects its approach to four key areas of the regulatory framework in particular:\n\n\n    - governance;\n\n    - operational risk management;\n\n    - business continuity planning; and\n\n    - the management of outsourced relationships.\n\n\nThis SoP is relevant to all:\n\n\n    - UK banks, building societies, and PRA-designated investment firms; and\n\n    - UK Solvency II firms, the Society of Lloyd’s, and its managing agents.\n",
+  "sha256": "cdb9b6fe48327e0c72c51e7d62b2e09af38f8c4562b632fdd22ef32eb8027484",
+  "scraped_at": "2026-03-25T03:58:49.736047Z",
+  "raw_sha256": "cdb9b6fe48327e0c72c51e7d62b2e09af38f8c4562b632fdd22ef32eb8027484",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2021-march-operational-resilience-sop",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

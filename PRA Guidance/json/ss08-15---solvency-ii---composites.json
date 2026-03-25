@@ -1,0 +1,183 @@
+{
+  "doc_id": "pra.ss815.2026",
+  "title": "SS8/15 – Solvency II: composites",
+  "short_title": "SS8/15",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss08-15---solvency-ii---composites.json",
+  "canonical_path": null,
+  "sha256": "038fc7e820628665a4904719cd29571a452718693ac1b8473889a5746e3a0780",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss815",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS8/15",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss08-15---solvency-ii---composites/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:26.979785",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Pursuit of life and non-life insurance activity",
+      "Separation of life and non-life insurance management"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS2/15 - Solvency II: A new regime for insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+      },
+      {
+        "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS8/15 – Solvency II: composites",
+      "slug": "ss08-15---solvency-ii---composites",
+      "version_dates": [
+        "20-03-2015",
+        "31-12-2024"
+      ],
+      "boe_references": [
+        {
+          "title": "PS2/15 - Solvency II: A new regime for insurers",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency-2-a-new-regime-for-insurers"
+        },
+        {
+          "title": "PS15/24 - Review of Solvency II: Restatement of assimilated law",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/review-of-solvency-ii-restatement-of-assimilated-law-policy-statement"
+        },
+        {
+          "title": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/insurance-approach-2014.pdf",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/approach/insurance-approach-2014.pdf"
+        },
+        {
+          "title": "www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf",
+          "url": "http://www.bankofengland.co.uk/pra/Documents/publications/cp/2014/cp1614.pdf"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement is addressed to UK Solvency II firms and to Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) approach to implementing the Solvency II Directive requirement",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "In particular, this statement explains requirements regarding the following topics:",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "This statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular area",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "This statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.",
+            "as_at_date": "20/03/2015"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Pursuit of life and non-life insurance activity",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "Under section 19 of the Financial Services and Markets Act 2000 (FSMA), a firm may not carry on a regulated activity unless it has permission to do so (or is exempt in relation to the particular activ",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "A firm’s permission can be varied so as to add other classes. The permission of an existing composite firm may be varied by adding classes of both general insurance business and long-term insurance bu",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "It is PRA policy not to grant or vary permission if that would allow a newly established firm, or an existing firm engaging solely in general insurance business or solely in long-term insurance busine",
+            "as_at_date": "31/12/2024"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Separation of life and non-life insurance management",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "For the purpose of Composites 2.2, the PRA would expect a composite firm to:",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "The firm should consider the appropriateness of the apportionment referred to in Composites 3.3(2), having regard to the requirements in Composites 2.2.",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "3.3",
+            "summary": "In order to comply with Composites 3.2 and Composites 3.3 the firm should prepare a notional balance sheet for each of its long-term insurance business and general insurance business, identifying the ",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "3.4",
+            "summary": "For the purpose of Composites 4.2, firms should note that the Solvency II Regulations set out the method for calculating the notional minimum capital requirement (MCR).",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "3.5",
+            "summary": "In accordance with Composites 3.3 and 4.5 in the circumstances referred to in [Compo",
+            "as_at_date": "31/12/2024"
+          },
+          {
+            "paragraph_number": "3.6",
+            "summary": "In deciding whether to grant a waiver to authorise the transfer of eligible own funds from one activity to the other on the basis of, the statutory tests under section 138A of FSMA, the PRA will have ",
+            "as_at_date": "20/03/2015"
+          },
+          {
+            "paragraph_number": "3.7",
+            "summary": "For the purposes of complying with its minimum financial obligations in Composites 4, a firm should consider whether it has any ring-fenced funds which would result in adjustments to its eligible own ",
+            "as_at_date": "20/03/2015"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 14
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is addressed to UK Solvency II firms and to Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) approach to implementing the Solvency II Directive requirements that are specific to composite firms. It should be read alongside the Composites Part of the PRA Rulebook.\n\n*Effective: 20/03/2015*\n\n1.2\n\nIn particular, this statement explains requirements regarding the following topics:\n\n  * pursuit of life and non-life insurance activity; and\n  * separation of life and non-life insurance management.\n\n*Effective: 20/03/2015*\n\n1.3\n\nThis statement expands on the PRA’s general approach as set out in its insurance approach document.1 By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.\n\n#### Footnotes\n\n  * 1\\.  The Prudential Regulation Authority’s approach to insurance supervision, June 2014;\n\n*Effective: 20/03/2015*\n\n1.4\n\nThis statement has been subject to public consultation2 and reflects the feedback that was received by the PRA.\n\n#### Footnotes\n\n  * 2\\.  PRA Consultation Paper CP16/14, ‘Transposition of Solvency II: Part 3’, August 2014; .\n\n*Effective: 20/03/2015*\n\n2\n\n###  Pursuit of life and non-life insurance activity\n\n2.1\n\nUnder section 19 of the Financial Services and Markets Act 2000 (FSMA), a firm may not carry on a regulated activity unless it has permission to do so (or is exempt in relation to the particular activity). Both general insurance business and long-term insurance business are regulated activities and permission will extend to the effecting or carrying out of contracts of insurance for one or more particular classes.\n\n*Effective: 20/03/2015*\n\n2.2\n\nA firm’s permission can be varied so as to add other classes. The permission of an existing composite firm may be varied by adding classes of both general insurance business and long-term insurance business.\n\n*Effective: 20/03/2015*\n\n2.3\n\nIt is PRA policy not to grant or vary permission if that would allow a newly established firm, or an existing firm engaging solely in general insurance business or solely in long-term insurance business, to engage in both general insurance business and long-term insurance business. This does not apply where a firm’s permission to carry on long-term insurance business is or is to be restricted to reinsurance. It also does not apply where a firm's permission to carry on general insurance business is or is to be restricted to effecting or carrying out contracts of insurance in general insurance business class 1 (accident) or class 2 (sickness) (see Rule [6.2](/pra-rules/composites#ce2c043311524ad09ad7e56ce61cfeb5) in the [Composites Part](/pra-rules/composites) of the PRA Rulebook).\n\n*Effective: 31/12/2024*\n\n3\n\n###  Separation of life and non-life insurance management\n\n3.1\n\nFor the purpose of Composites 2.2, the PRA would expect a composite firm to:\n\n  1. (a) comply with the governance rules set out in the Conditions Governing Business Part of the PRA Rulebook separately in respect of its general insurance business activities and its long-term insurance business activities to the extent that it is practicable to do so;\n  2. (b) separately identify the assets attributable to each of its long-term insurance business and its general insurance business on the basis of the accounts referred to in Composites 3.2; and\n  3. (c) maintain the assets attributable to its long-term insurance business and the assets attributable to its general insurance business separate from each other.\n\n*Effective: 20/03/2015*\n\n3.2\n\nThe firm should consider the appropriateness of the apportionment referred to in Composites 3.3(2), having regard to the requirements in Composites 2.2.\n\n*Effective: 20/03/2015*\n\n3.3\n\nIn order to comply with Composites 3.2 and Composites 3.3 the firm should prepare a notional balance sheet for each of its long-term insurance business and general insurance business, identifying the assets and liabilities relating to its long-term insurance business and its general insurance business, respectively.\n\n*Effective: 20/03/2015*\n\n3.4\n\nFor the purpose of Composites 4.2, firms should note that the Solvency II Regulations set out the method for calculating the notional minimum capital requirement (MCR).\n\n*Effective: 20/03/2015*\n\n3.5\n\nIn accordance with [Composites 3.3](/pra-rules/composites#11b20d1c830146b69a8329d276966b2a) and [4.5](/pra-rules/composites#3e85cea2249c47fb845178f5715ab951) in the circumstances referred to in [Composites 4.8](/pra-rules/composites#4647bac2bbe34d768486ab991fad2f81) supervisory authorities may authorise the transfer of eligible own funds from one activity to the other. Therefore, if a composite firm that is in breach of either [Composites 4.3(1)](/pra-rules/composites#d4572dada17e484a8164fc191d7b6b12) or [4.3(2)](/pra-rules/composites#d4572dada17e484a8164fc191d7b6b12) wishes, as part of its finance scheme referred to in [Undertakings in Difficulty 4](/pra-rules/undertakings-in-difficulty#cb514a55ebea45daaf9ecffa81e892fe) of the [Undertakings in Difficulty Part](/pra-rules/undertakings-in-difficulty) of the PRA Rulebook, to use eligible own funds attributable to its long-term insurance business to cover its notional non-life MCR or eligible own funds attributable to its general insurance business to cover its notional life MCR, it may only do so if it obtains a waiver of [Composites 4.3](/pra-rules/undertakings-in-difficulty#cb514a55ebea45daaf9ecffa81e892fe) and [4.4](/pra-rules/composites#88082a04108547a588e98c32c06e6425) under section 138A of FSMA.\n\n*Effective: 31/12/2024*\n\n3.6\n\nIn deciding whether to grant a waiver to authorise the transfer of eligible own funds from one activity to the other on the basis of, the statutory tests under section 138A of FSMA, the PRA will have regard to whether the interests of policyholders of long-term insurance contracts would be prejudiced by a transfer of eligible own funds attributable to the long-term insurance business to cover the notional non-life MCR and whether the interests of policyholders of general insurance contracts would be prejudiced by a transfer of eligible own funds attributable to the general insurance business to cover the notional life MCR.\n\n*Effective: 20/03/2015*\n\n3.7\n\nFor the purposes of complying with its minimum financial obligations in Composites 4, a firm should consider whether it has any ring-fenced funds which would result in adjustments to its eligible own funds attributable to its long-term insurance business or to its general insurance business.\n\n*Effective: 20/03/2015*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"4d51642530894e9bafe0dc1aae6aa03f\" id=\"52a8a88b9f2d41228ed234f343ff4307\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1a0ddeec97a44a20bf9afedfc79638be\" id=\"79a07bff15b2428788b568d13d8e6f68\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is addressed to UK Solvency II firms and to Lloyd’s. It sets out the Prudential Regulation Authority’s (PRA’s) approach to implementing the Solvency II Directive requirements that are specific to composite firms. It should be read alongside the Composites Part of the PRA Rulebook.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"09acd17e43654939baa8933b9ebf61e5\" id=\"9bf2fe2f6a3c418f951afe5b5a084293\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In particular, this statement explains requirements regarding the following topics: </p>\n<ul>\n<li> pursuit of life and non-life insurance activity; and </li>\n<li> separation of life and non-life insurance management.</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"31020a7f81ef423bbe091468c2e08418\" id=\"7d1e85e4878f4852a6b8c7b2808a0fe9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement expands on the PRA’s general approach as set out in its insurance approach document.<sup><a href=\"#footnote-1\">1</a></sup> By clearly and consistently explaining its expectations of firms in relation to the particular areas addressed, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tThe Prudential Regulation Authority’s approach to insurance supervision, June 2014; \n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"107d2ad0fc8348f581d44d914cd7fe16\" id=\"13494c857c8146d680083450eddaaf5e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement has been subject to public consultation<sup><a href=\"#footnote-2\">2</a></sup> and reflects the feedback that was received by the PRA.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Consultation Paper CP16/14, ‘Transposition of Solvency II:  Part 3’, August 2014; .\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"cfd019eecb294a9f806113df849a4a4b\" id=\"78daf2ec4fbc4b5a940652a2be9d0587\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPursuit of life and non-life insurance activity\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"81517086545a490db98e4ffeefe566dc\" id=\"68fc0340b2364621b60a7d5c019ec6d0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Under section 19 of the Financial Services and Markets Act 2000 (FSMA), a firm may not carry on a regulated activity unless it has permission to do so (or is exempt in relation to the particular activity). Both general insurance business and long-term insurance business are regulated activities and permission will extend to the effecting or carrying out of contracts of insurance for one or more particular classes.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3b13203b81c04134afdd6ed4e723741f\" id=\"2d2df317945b41b0a676517d765e2a5e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A firm’s permission can be varied so as to add other classes. The permission of an existing composite firm may be varied by adding classes of both general insurance business and long-term insurance business.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"869e3e8ba53d4611b2ea18416676c7d6\" id=\"cab5ded34c2c492fb081d2fa65ee8f28\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>It is PRA policy not to grant or vary permission if that would allow a newly established firm, or an existing firm engaging solely in general insurance business or solely in long-term insurance business, to engage in both general insurance business and long-term insurance business. This does not apply where a firm’s permission to carry on long-term insurance business is or is to be restricted to reinsurance. It also does not apply where a firm's permission to carry on general insurance business is or is to be restricted to effecting or carrying out contracts of insurance in general insurance business class 1 (accident) or class 2 (sickness) (see Rule <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#ce2c043311524ad09ad7e56ce61cfeb5\">6.2</a> in the <a data-rb-content-link=\"Part\" href=\"/pra-rules/composites\">Composites Part</a> of the PRA Rulebook).</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss08-15---solvency-ii---composites/20-03-2015#cab5ded34c2c492fb081d2fa65ee8f28\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.3 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"f1454f3878dd4a08bc1013e6f0a6db94\" id=\"690b1c55a307463891836eb620cd8268\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSeparation of life and non-life insurance management\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"cd2f8990f5f041a9bea96d3c3d108094\" id=\"a4f8091c23f44601b78df3a03d0f4159\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purpose of Composites 2.2, the PRA would expect a composite firm to: </p>\n<ol class=\"new-bullet\">\n<li>(a) comply with the governance rules set out in the Conditions Governing Business Part of the PRA Rulebook separately in respect of its general insurance business activities and its long-term insurance business activities to the extent that it is practicable to do so; </li>\n<li>(b) separately identify the assets attributable to each of its long-term insurance business and its general insurance business on the basis of the accounts referred to in Composites 3.2; and </li>\n<li>(c) maintain the assets attributable to its long-term insurance business and the assets attributable to its general insurance business separate from each other.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bd8c783816404715a8396703350a14e6\" id=\"83fc918ed0d742afa2cc13181db1d81c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The firm should consider the appropriateness of the apportionment referred to in Composites 3.3(2), having regard to the requirements in Composites 2.2.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"fde55f5e373d4833a1541a664c017324\" id=\"23723356a85f4549a6d0293584c3d184\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In order to comply with Composites 3.2 and Composites 3.3 the firm should prepare a notional balance sheet for each of its long-term insurance business and general insurance business, identifying the assets and liabilities relating to its long-term insurance business and its general insurance business, respectively.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"eadf0d834f284082aa031d24284f4e32\" id=\"f5870bdd2cb1450f95b5a2003d96ed22\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purpose of Composites 4.2, firms should note that the Solvency II Regulations set out the method for calculating the notional minimum capital requirement (MCR).</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8c47e57a22844efd9be0c95d3a003a45\" id=\"59e5b0d6742342b4bacea8cce95bb4f4\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\tIn accordance with <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#11b20d1c830146b69a8329d276966b2a\">Composites 3.3</a> and <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#3e85cea2249c47fb845178f5715ab951\">4.5</a> in the circumstances referred to in <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#4647bac2bbe34d768486ab991fad2f81\">Composites 4.8</a> supervisory authorities may authorise the transfer of eligible own funds from one activity to the other. Therefore, if a composite firm that is in breach of either <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#d4572dada17e484a8164fc191d7b6b12\">Composites 4.3(1)</a> or <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#d4572dada17e484a8164fc191d7b6b12\">4.3(2)</a> wishes, as part of its finance scheme referred to in <a data-rb-content-link=\"Chapter\" href=\"/pra-rules/undertakings-in-difficulty#cb514a55ebea45daaf9ecffa81e892fe\">Undertakings in Difficulty 4</a> of the <a data-rb-content-link=\"Part\" href=\"/pra-rules/undertakings-in-difficulty\">Undertakings in Difficulty Part</a> of the PRA Rulebook, to use eligible own funds attributable to its long-term insurance business to cover its notional non-life MCR or eligible own funds attributable to its general insurance business to cover its notional life MCR, it may only do so if it obtains a waiver of <a data-rb-content-link=\"Chapter\" href=\"/pra-rules/undertakings-in-difficulty#cb514a55ebea45daaf9ecffa81e892fe\">Composites 4.3</a> and <a data-rb-content-link=\"Rule\" href=\"/pra-rules/composites#88082a04108547a588e98c32c06e6425\">4.4</a> under section 138A of FSMA.\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss08-15---solvency-ii---composites/20-03-2015#59e5b0d6742342b4bacea8cce95bb4f4\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.5 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"4c1b3b050d594fddb256ad9edb8f3f99\" id=\"82a3721f9182411987f3ce4e6f85d355\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.6\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In deciding whether to grant a waiver to authorise the transfer of eligible own funds from one activity to the other on the basis of, the statutory tests under section 138A of FSMA, the PRA will have regard to whether the interests of policyholders of long-term insurance contracts would be prejudiced by a transfer of eligible own funds attributable to the long-term insurance business to cover the notional non-life MCR and whether the interests of policyholders of general insurance contracts would be prejudiced by a transfer of eligible own funds attributable to the general insurance business to cover the notional life MCR.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"9bed692730f54ab5b14e3d24f4ca5090\" id=\"20a141447afd47bcb350f09a8afe87ec\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.7\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purposes of complying with its minimum financial obligations in Composites 4, a firm should consider whether it has any ring-fenced funds which would result in adjustments to its eligible own funds attributable to its long-term insurance business or to its general insurance business.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t20/03/2015\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "038fc7e820628665a4904719cd29571a452718693ac1b8473889a5746e3a0780",
+  "canonical_json_path": null
+}

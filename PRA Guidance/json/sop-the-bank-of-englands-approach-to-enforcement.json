@@ -1,0 +1,79 @@
+{
+  "doc_id": "pra.sop313-the-bank-of-englands-approach-to-enforcement-changes-to-statements-of-pol.2026",
+  "title": "SoP3/13 – The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+  "short_title": "SoP3/13 – The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+  "document_class": "statement_of_policy",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/sop-the-bank-of-englands-approach-to-enforcement.json",
+  "canonical_path": null,
+  "sha256": "af85b167c9bc723306ab3dcb7337d316c67b97283a35e306f40541ff8cc95b5b",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.sop313-the-bank-of-englands-approach-to-enforcement-changes-to-statements-of-pol",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SoP3/13 – The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/statements-of-policy/sop-the-bank-of-englands-approach-to-enforcement/03-03-2026",
+    "content_type": "Statement of Policy",
+    "scrape_date": "2026-03-02T20:58:03.427004",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms",
+      "Non-SII Firms",
+      "Non-authorised persons",
+      "SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS - The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+        "url": "https://www.bankofengland.co.uk/paper/2024/policy-statement/the-bank-of-englands-approach-to-enforcement-changes-to-sop-and-procedure-following-the-fsma-2023"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SoP3/13 – The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+      "slug": "sop-the-bank-of-englands-approach-to-enforcement",
+      "version_dates": [],
+      "boe_references": [
+        {
+          "title": "This Statement of policy has not yet been added to the PRA Rulebook. It is available on the Bank of England website, here.",
+          "url": "https://www.bankofengland.co.uk/paper/2024/policy-statement/the-bank-of-englands-approach-to-enforcement-changes-to-sop-and-procedure-following-the-fsma-2023"
+        },
+        {
+          "title": "PS - The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+          "url": "https://www.bankofengland.co.uk/paper/2024/policy-statement/the-bank-of-englands-approach-to-enforcement-changes-to-sop-and-procedure-following-the-fsma-2023"
+        }
+      ],
+      "total_amendments": 0
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "# The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023\n\nPolicy statement\n\n  *     * [ Consultation paper: The Bank of England’s approach to enforcement: proposed changes to statements of policy and procedure following the Financial Services and Markets Act 2023 ](/paper/2024/cp/the-boes-approach-to-enforcement-proposed-changes-to-sops-and-procedure-following-fsma-2023)\n\nPublished on 12 November 2024",
+  "content_html": "<main class=\"main\" id=\"main-content\" role=\"main\">\n<section class=\"page-banner\">\n<div class=\"page-banner__head\">\n<div class=\"container\">\n<div class=\"col9\">\n\n<h1 itemprop=\"name\">The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023</h1>\n</div>\n</div>\n</div>\n<div class=\"page-banner__body\">\n<div class=\"container\">\n<div class=\"col9 m-3_4\">\n<div class=\"page-description\" itemprop=\"description\">\n<span class=\"hero\">Policy statement </span>\n</div>\n</div>\n<div class=\"col3 m-1_4\">\n<div class=\"related-links-wrap\">\n<ul class=\"accordion\" data-accordion-mobile=\"\">\n<li>\n<div class=\"accordion-head\">\n\n</div>\n<div class=\"accordion-content\">\n<ul class=\"related-links\">\n<li>\n<a href=\"/paper/2024/cp/the-boes-approach-to-enforcement-proposed-changes-to-sops-and-procedure-following-fsma-2023\">\r\n\t\t\tConsultation paper: The Bank of England’s approach to enforcement: proposed changes to statements of policy and procedure following the Financial Services and Markets Act 2023\r\n\t\t</a>\n</li>\n</ul>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section class=\"page-section\">\n<div class=\"container\">\n<div class=\"col9\">\n<div class=\"published-date\">\r\n    Published on  \r\n        12 November 2024\r\n\r\n    \r\n\r\n</div>\n</div>\n<div class=\"clear\"></div>\n</div>\n</section>\n<section class=\"page-section\">\n\n</section>\n<section class=\"page-section\">\n<div class=\"container\">\n<div class=\"col3\">\n<form action=\"/_api/foundation/pdf/HtmlToPdf?id=3ca4ca29f39940eebc4ffb699721ac28\" data-allowed=\"Yes\" data-type=\"makepdf\" method=\"post\"> <div class=\"pdf-button\">\n<button class=\"btn btn-block btn-default\" type=\"submit\">Convert this page to PDF</button>\n<p aria-live=\"assertive\" class=\"visually-hidden\" role=\"alert\"></p>\n</div>\n</form>\n</div>\n<div class=\"clear\"></div>\n</div>\n</section>\n<section class=\"page-section\">\n<div class=\"container\">\n<div class=\"col12\">\n<div class=\"container container-latest\">\n<div class=\"col12\">\n\n</div>\n<div class=\"clear\"></div>\n</div>\n<div class=\"container\">\n<div class=\"col3\">\n<a class=\"release release-pubs\" href=\"/working-paper/2025/sticky-hurdles-the-dynamics-of-firm-hurdle-rates-in-a-tightening-cycle\">\n<div class=\"release-tag-wrap\"><div class=\"release-tag\">Publication // Working Paper</div></div>\n<div class=\"release-content\">\n<div class=\"release-copy\">\n<div class=\"release-meta\">\n<time class=\"release-date\" datetime=\"2025-12-12\" itemprop=\"datePublished\">\r\n\t\t\t\t\t\t\t12 December 2025\r\n\t\t\t\t\t\t</time>\n</div>\n\n\n</div>\n</div>\n</a>\n</div>\n<div class=\"col3\">\n<a class=\"release release-pubs\" href=\"/inflation-attitudes-survey/2025/november-2025\">\n<div class=\"release-tag-wrap\"><div class=\"release-tag\">Publication // Inflation Attitudes Survey</div></div>\n<div class=\"release-content\">\n<div class=\"release-copy\">\n<div class=\"release-meta\">\n<time class=\"release-date\" datetime=\"2025-12-12\" itemprop=\"datePublished\">\r\n\t\t\t\t\t\t\t12 December 2025\r\n\t\t\t\t\t\t</time>\n</div>\n\n\n</div>\n</div>\n</a>\n</div>\n<div class=\"col3\">\n<a class=\"release release-pubs\" href=\"/weekly-report/2025/10-december-2025\">\n<div class=\"release-tag-wrap\"><div class=\"release-tag\">Publication // Weekly report</div></div>\n<div class=\"release-content\">\n<div class=\"release-copy\">\n<div class=\"release-meta\">\n<time class=\"release-date\" datetime=\"2025-12-11\" itemprop=\"datePublished\">\r\n\t\t\t\t\t\t\t11 December 2025\r\n\t\t\t\t\t\t</time>\n</div>\n\n\n</div>\n</div>\n</a>\n</div>\n<div class=\"col3\">\n<a class=\"release release-pubs\" href=\"/paper/2025/cp/exempting-post-trade-risk-reduction-transactions-from-the-clearing-obligation\">\n<div class=\"release-tag-wrap\"><div class=\"release-tag\">Publication // Consultation paper</div></div>\n<div class=\"release-content\">\n<div class=\"release-copy\">\n<div class=\"release-meta\">\n<time class=\"release-date\" datetime=\"2025-12-11\" itemprop=\"datePublished\">\r\n\t\t\t\t\t\t\t11 December 2025\r\n\t\t\t\t\t\t</time>\n</div>\n\n\n</div>\n</div>\n</a>\n</div>\n<div class=\"clear\"></div>\n</div>\n<div class=\"container\">\n<div class=\"col12\">\n<a class=\"release-view-more\" href=\"/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&amp;InfiniteScrolling=False&amp;Direction=Latest\">View more <span class=\"visually-hidden\">Other publications</span></a>\n</div>\n<div class=\"clear\"></div>\n</div>\n</div>\n<div class=\"clear\"></div>\n</div>\n</section> <section class=\"page-section page-section--last\">\n<div class=\"container\">\n<div class=\"col12\">\n<p class=\"txtr\">\n<a class=\"scroll-to-top\" href=\"#\">Back to top</a>\n</p>\n</div>\n</div>\n</section>\n<section class=\"page-section-survey\">\n<div class=\"container\">\n<div class=\"col12\">\n<div class=\"page-survey\">\n<div class=\"page-survey-survey\">\n<iframe class=\"page-survey-iframe\" frameborder=\"0\" id=\"pageSurveya093f3b3e7104d5eaea2b74eca2c7fab\" src=\"/forms/page-survey-page?path=%2fsitecore%2fcontent%2fBoE%2fHome%2fPaper%2f2024%2fpolicy-statement%2fthe-bank-of-englands-approach-to-enforcement-changes-to-sop-and-procedure-following-the-fsma-2023&amp;id=pageSurveya093f3b3e7104d5eaea2b74eca2c7fab\" title=\"Page Survey\"></iframe>\n</div>\n</div>\n</div>\n</div>\n</section>\n</main>",
+  "raw_sha256": "af85b167c9bc723306ab3dcb7337d316c67b97283a35e306f40541ff8cc95b5b",
+  "canonical_json_path": null
+}

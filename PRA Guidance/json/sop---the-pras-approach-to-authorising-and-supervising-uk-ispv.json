@@ -1,0 +1,75 @@
+{
+  "doc_id": "pra.sop425-the-prudential-regulation-authoritys-approach-to-authorising-and-supervis.2026",
+  "title": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+  "short_title": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+  "document_class": "statement_of_policy",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/sop---the-pras-approach-to-authorising-and-supervising-uk-ispv.json",
+  "canonical_path": null,
+  "sha256": "7b63fb3cbc78f8b0a19f2af4423a8adff4d313e154fea1bccfadf44bc94cedd2",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.sop425-the-prudential-regulation-authoritys-approach-to-authorising-and-supervis",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/statements-of-policy/sop---the-pras--approach-to-authorising-and-supervising-uk--lspv/03-03-2026",
+    "content_type": "Statement of Policy",
+    "scrape_date": "2026-03-02T20:58:15.687562",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS9/25 - Changes to the UK ISPV regulatory framework",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/changes-to-the-uk-ispv-policy-statement"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+      "slug": "sop---the-pras--approach-to-authorising-and-supervising-uk--lspv",
+      "version_dates": [],
+      "boe_references": [
+        {
+          "title": "This SoP has not yet been added to the PRA Rulebook. It is available on the Bank of England website, here.",
+          "url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2025/july/ps925app2.pdf"
+        },
+        {
+          "title": "PS9/25 - Changes to the UK ISPV regulatory framework",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/july/changes-to-the-uk-ispv-policy-statement"
+        }
+      ],
+      "total_amendments": 0
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "7b63fb3cbc78f8b0a19f2af4423a8adff4d313e154fea1bccfadf44bc94cedd2",
+  "canonical_json_path": null
+}

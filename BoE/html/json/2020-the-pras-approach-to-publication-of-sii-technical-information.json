@@ -1,0 +1,53 @@
+{
+  "doc_id": "BOE-HTML-2020-the-pras-approach-to-publication-of-sii-technical-information",
+  "title": "SoP1/20 – The PRA’s approach to the publication of Solvency II technical information",
+  "short_title": "SOP1/20",
+  "document_class": "regulatory_publication",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SOP1/20",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/the-pras-approach-to-publication-of-sii-technical-information",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/solvency-ii-technical-information-november-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/sop-june-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2023/the-pras-approach-to-publication-of-sii-technical-information-sop-december-2023.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2022/the-pras-approach-to-publication-of-sii-technical-information-sop-july-2022.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2020/the-pras-approach-to-publication-of-sii-technical-information-sop-june-2021.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2020/the-pras-approach-to-publication-of-sii-technical-information-sop.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss818.2026",
+    "pra.ss918.2026",
+    "pra.ss3015.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "content_markdown": "First published on 02 December 2020\n\n\nThe Prudential Regulation Authority (PRA) is required to publish technical information necessary for the valuation of insurance liabilities for each relevant currency. This Statement of Policy explains how the PRA will fulfil its obligations in this regard.\n",
+  "sha256": "241293f535aa7eb5da59eb2f12e062151b6aff260b050f95036a63bcbf329b78",
+  "scraped_at": "2026-03-25T03:58:49.644583Z",
+  "raw_sha256": "241293f535aa7eb5da59eb2f12e062151b6aff260b050f95036a63bcbf329b78",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2020-the-pras-approach-to-publication-of-sii-technical-information",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

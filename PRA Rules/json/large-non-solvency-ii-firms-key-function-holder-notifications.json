@@ -1,0 +1,211 @@
+{
+  "doc_id": "pra.rules.large-non-solvency-ii-firms-key-function-holder-notifications.2026",
+  "title": "Large Non-Solvency II Firms – Key Function Holder – Notifications",
+  "short_title": "Large Non-Solvency II Firms – Key Function Holder – Notifications (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/large-non-solvency-ii-firms-key-function-holder-notifications.json",
+  "canonical_path": null,
+  "sha256": "5b82ad61fc55eef8722c21ef90b37c348d94d0a31c5037ae5380d3436effeaa4",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.large-non-solvency-ii-firms-key-function-holder-notifications",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Large Non-Solvency II Firms – Key Function Holder – Notifications",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:09.908149",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-SII Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Key Function Holder Notification",
+      "Procedure for Making Applications and Notifications",
+      "Forms",
+      "Transitional Arrangements for Key Function Holders (Deleted)"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS35/15 – Strengthening individual accountability in insurance",
+        "url": "/guidance/supervisory-statements/ss35-15---strengthening-individual-accountability-in-insurance/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS26/15 - \"The prudential regime, and implementation of the Senior Insurance Managers Regime, for non-Solvency II firms\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/prudential-regime-and-implementation-of-the-senior-insurance-managers-regime-for-non-solvency-2"
+      },
+      {
+        "title": "PS30/15 - Amendments to Various Forms",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/amendments-to-various-forms"
+      },
+      {
+        "title": "PS5/16 - Strengthening accountability in banking and insurance: Implementation of SM&CR and SIMR; and PRA requirements on regulatory references",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/strengthening-accountability-in-banking-and-insurance-implementation-of-sm-cr-and-simr"
+      },
+      {
+        "title": "PS15/18 - Strengthening individual accountability in insurance: Extension of the Senior Managers and Certification Regime to insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/strengthening-individual-accountability-in-insurance-extension-of-the-smcr-to-insurers"
+      },
+      {
+        "title": "PS26/18 - Strengthening accountability: Implementing the extension of the SM&CR to insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/strengthening-accountability-implementing-the-extension-of-the-smcr-to-insurers"
+      },
+      {
+        "title": "Non-Directive Firms",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/supervision/non-directive-firms"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Large Non-Solvency II Firms – Key Function Holder – Notifications",
+      "slug": "large-non-solvency-ii-firms-key-function-holder-notifications",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/03-03-2026",
+      "version_dates": [
+        "07-03-2016",
+        "10-12-2018"
+      ],
+      "rule_as_at_dates": [
+        "07/03/2016",
+        "10/12/2018"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.2",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#8eb14282f0e8499eba9915c7e0092b55"
+        },
+        {
+          "rule_ref": "2.1",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#89f306f641c64eef8f41a73252ca73c2"
+        },
+        {
+          "rule_ref": "2.4",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#56f4f18cf996402c829243e440994d02"
+        },
+        {
+          "rule_ref": "3.3",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#423a765638e848ada3fa544ee961375b"
+        },
+        {
+          "rule_ref": "4.1",
+          "changed_before": "10/12/2018",
+          "previous_url": "/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#cc76f87595d24d4fa2354fd7130fd03a"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "Unless otherwise stated, this Part applies to:",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Key Function Holder Notification",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "[Deleted.]",
+            "as_at_date": "10/12/2018"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A firm must provide the information required by [Large Non-Solvency II Firms – Fitness and Propriety 4.1](/pra-rules/large-non-solvency-ii-firms-fitness-and-propriety#a2a577a8dfb7425c974d60107e7b806",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "2.3",
+            "summary": "The PRA directs that, subject to 2.4, the information referred to in [2.2](/pra-rul",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "2.4",
+            "summary": "The PRA directs that:",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Procedure for Making Applications and Notifications",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "The PRA directs that, save as required by 3.2 and [3.3](/pra-rules/large-non-solven",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "3.2",
+            "summary": "If, under any direction or rule in this Part:",
+            "as_at_date": "07/03/2016"
+          },
+          {
+            "rule_number": "3.3",
+            "summary": "The notifications required under 2.3 should be submitted in accordance with [Notifica",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Forms",
+        "rules": [
+          {
+            "rule_number": "4.1",
+            "summary": "The key function holder notification form , Form M, may be found [here](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/authorisations/senior-managers-and-senior-insurance-ma",
+            "as_at_date": "10/12/2018"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Transitional Arrangements for Key Function Holders (Deleted)",
+        "rules": []
+      }
+    ],
+    "section_count": 5,
+    "rule_count": 10
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nUnless otherwise stated, this Part applies to:\n\n  1. (1) a _large non-directive insurer_ ; and\n  2. (2) a _Swiss general insurer_.\n\n*Effective: 07/03/2016*\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\n_key function holder notification form_\n\nmeans Form M.\n\n*Effective: 10/12/2018*\n\n2\n\n###  Key Function Holder Notification\n\n2.1\n\n[Deleted.]\n\n*Effective: 10/12/2018*\n\n2.2\n\nA _firm_ must provide the information required by [Large Non-Solvency II Firms – Fitness and Propriety 4.1](/pra-rules/large-non-solvency-ii-firms-fitness-and-propriety#a2a577a8dfb7425c974d60107e7b8061 \"Large Non-Solvency II Firms – Fitness and Propriety 4.1\") for each _key function holder_ as soon as reasonably practicable after the appointment of the _key function holder_.\n\n*Effective: 07/03/2016*\n\n2.3\n\nThe _PRA_ directs that, subject to [2.4](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#56f4f18cf996402c829243e440994d02 \"2.4\"), the information referred to in [2.2](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84 \"2.2\") must be provided to the _PRA_ in the _key function holder notification form_ in accordance with [3.3](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#423a765638e848ada3fa544ee961375b \"3.3\").\n\n*Effective: 07/03/2016*\n\n2.4\n\nThe _PRA_ directs that:\n\n  1. (1) where the _key function holder_ is to be approved by the _PRA_ to perform a _PRA senior management function_ , the _firm_ must provide the information referred to in [2.2](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84 \"2.2\") to the _PRA_ in whichever Form is required for the _PRA senior management approval application_ , pursuant to [Large Non-Solvency II Firms – Senior Managers Regime - Applications and Notifications 2](/pra-rules/non-solvency-ii-firms-senior-managers-regime-applications-and-notifications#cc8caf1fcb5345c391b6a28c0902f2fb \"Large Non-Solvency II Firms – Senior Insurance Managers Regime - Applications and Notifications 2\"), which must be accompanied by a _statement of responsibilities form_ ; and\n  2. (2) where the _key function holder_ is to be approved by the _FCA_ to perform an _FCA controlled function_ , the _firm_ is not required to submit a _key function holder notification form_ to the _PRA_ to the extent the _firm_ provides the information referred to in [2.2](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84 \"2.2\") to the _FCA_ as part of the application to the _FCA_ , with a _statement of responsibilities form_.\n\n*Effective: 10/12/2018*\n\n3\n\n###  Procedure for Making Applications and Notifications\n\n3.1\n\nThe _PRA_ directs that, save as required by [3.2](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#754cd27be8014b7088784686823493b3 \"3.2\") and [3.3](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#423a765638e848ada3fa544ee961375b \"3.3\"), a _firm_ must make any applications, notifications or submissions required by this Part by submitting the form specified using the _ONA system_.\n\n*Effective: 07/03/2016*\n\n3.2\n\nIf, under any direction or rule in this Part:\n\n(1) a _firm_ is required to make an application, notification or submission online; and\n\n(2) the information technology systems used by the _PRA_ fail and online submission is unavailable for 24 hours or more,\n\nuntil such time as facilities for online submission are restored, a _firm_ must submit the specified form in the way set out in [Notifications 7](/pra-rules/notifications#8e186d20f3cf4d218117e0780f104f7c \"Notifications 7\").\n\n*Effective: 07/03/2016*\n\n3.3\n\nThe notifications required under [2.3](/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#d17b05b1b6f7486384cc628c2b2f41f8 \"2.3\") should be submitted in accordance with [Notifications 7](/pra-rules/notifications#8e186d20f3cf4d218117e0780f104f7c \"Notifications 7\").\n\n*Effective: 10/12/2018*\n\n4\n\n###  Forms\n\n4.1\n\nThe _key function holder notification form_ , Form M, may be found [here](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/authorisations/senior-managers-and-senior-insurance-managers-regimes-approvals/form-m-july-2018 \"Form M\").\n\n*Effective: 10/12/2018*\n\n5\n\n###  Transitional Arrangements for Key Function Holders (Deleted)",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"22bd47781f18467e9b6e725ef03680f9\" id=\"0e6a4dc5db5b4757ab6ad67315486fa8\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"37fe928823d5441692ab1b55a6e8fbd8\" id=\"a9ea6313dde04147a24fccc84c2afafd\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise stated, this Part applies to:</p>\n<ol class=\"new-bullet\">\n<li>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"77326\" data-mce-linktype=\"2\" href=\"#glossary-term-a80e0f791d3f4f619db330e241fc8769\" title=\"large non-directive insurer\">large non-directive insurer</a></em>; and</li>\n<li>(2) a <em><a class=\"glossary-link\" data-glossary-id=\"52910\" data-mce-linktype=\"2\" href=\"#glossary-term-7ecb61ce28ed4c4e947c300a772aa937\" title=\"Swiss General Insurer\">Swiss general insurer</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8e7a5ceb996a44208498673b967bb73f\" id=\"8eb14282f0e8499eba9915c7e0092b55\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"77236\" data-mce-linktype=\"2\" href=\"#glossary-term-6b41e9b251864d889beebf4152f57263\" title=\"key function holder notification form\">key function holder notification form</a></em></p>\n<p style=\"padding-left: 30px;\">means Form M.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#8eb14282f0e8499eba9915c7e0092b55\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"aebbafa755174b069179e63bc0f37cb0\" id=\"4173ca9a3bb849cdb93fd609ca5b16c9\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tKey Function Holder Notification\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"dcbb197bd1b9472e8d7d587f42991bc3\" id=\"89f306f641c64eef8f41a73252ca73c2\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted.]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#89f306f641c64eef8f41a73252ca73c2\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a61edfe9e55e4768b86f183179401033\" id=\"ea2815329bb546148d7f9bf81c0d5b84\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> must provide the information required by <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-fitness-and-propriety#a2a577a8dfb7425c974d60107e7b8061\" title=\"Large Non-Solvency II Firms – Fitness and Propriety 4.1\">Large Non-Solvency II Firms – Fitness and Propriety 4.1</a> for each <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em> as soon as reasonably practicable after the appointment of the <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"da78a3b29e114526a01ff49dc639dbd1\" id=\"d17b05b1b6f7486384cc628c2b2f41f8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that, subject to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#56f4f18cf996402c829243e440994d02\" title=\"2.4\">2.4</a>, the information referred to in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84\" title=\"2.2\">2.2</a> must be provided to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> in the <em><a class=\"glossary-link\" data-glossary-id=\"77236\" data-mce-linktype=\"2\" href=\"#glossary-term-6b41e9b251864d889beebf4152f57263\" title=\"key function holder notification form\">key function holder notification form</a></em> in accordance with <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#423a765638e848ada3fa544ee961375b\" title=\"3.3\">3.3</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"1313341c782e43c39b761e19cd2fbdeb\" id=\"56f4f18cf996402c829243e440994d02\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that:</p>\n<ol class=\"new-bullet\">\n<li>(1) where the <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em> is to be approved by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to perform a <em><a class=\"glossary-link\" data-glossary-id=\"52568\" data-mce-linktype=\"2\" href=\"#glossary-term-1a0e61be7ef34efba8c7c001ca8c26d3\" title=\"PRA senior management function\">PRA senior management function</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> must provide the information referred to in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84\" title=\"2.2\">2.2</a> to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> in whichever Form is required for the <em><a class=\"glossary-link\" data-glossary-id=\"88189\" data-mce-linktype=\"2\" href=\"#glossary-term-037eda30748c4d3e96c59fd0d7048dc4\" title=\"PRA senior management approval application\">PRA senior management approval application</a></em>, pursuant to <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/non-solvency-ii-firms-senior-managers-regime-applications-and-notifications#cc8caf1fcb5345c391b6a28c0902f2fb\" title=\"Large Non-Solvency II Firms – Senior Insurance Managers Regime - Applications and Notifications 2\">Large Non-Solvency II Firms – Senior Managers Regime - Applications and Notifications 2</a>, which must be accompanied by a <em><a class=\"glossary-link\" data-glossary-id=\"77238\" data-mce-linktype=\"2\" href=\"#glossary-term-f7600938374542cd8fb7788a7c2bc735\" title=\"scope of responsibilities form\">statement of responsibilities form</a></em>; and</li>\n<li>(2) where the <em><a class=\"glossary-link\" data-glossary-id=\"52842\" data-mce-linktype=\"2\" href=\"#glossary-term-fd5d0277f5e14a8ea81a9cb3889733d4\" title=\"key function holder\">key function holder</a></em> is to be approved by the <em><a class=\"glossary-link\" data-glossary-id=\"77602\" data-mce-linktype=\"2\" href=\"#glossary-term-3f0334647ebd4d71a8f11872ee999e11\" title=\"FCA\">FCA</a></em> to perform an <em><a class=\"glossary-link\" data-glossary-id=\"67040\" data-mce-linktype=\"2\" href=\"#glossary-term-31addea6b5c34ba2b4855a9bb8177462\" title=\"FCA controlled function\">FCA controlled function</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> is not required to submit a <em><a class=\"glossary-link\" data-glossary-id=\"77236\" data-mce-linktype=\"2\" href=\"#glossary-term-6b41e9b251864d889beebf4152f57263\" title=\"key function holder notification form\">key function holder notification form</a></em> to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> to the extent the <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> provides the information referred to in <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#ea2815329bb546148d7f9bf81c0d5b84\" title=\"2.2\">2.2</a> to the <em><a class=\"glossary-link\" data-glossary-id=\"77602\" data-mce-linktype=\"2\" href=\"#glossary-term-3f0334647ebd4d71a8f11872ee999e11\" title=\"FCA\">FCA</a></em> as part of the application to the <em><a class=\"glossary-link\" data-glossary-id=\"77602\" data-mce-linktype=\"2\" href=\"#glossary-term-3f0334647ebd4d71a8f11872ee999e11\" title=\"FCA\">FCA</a></em>, with a <em><a class=\"glossary-link\" data-glossary-id=\"77238\" data-mce-linktype=\"2\" href=\"#glossary-term-f7600938374542cd8fb7788a7c2bc735\" title=\"scope of responsibilities form\">statement of responsibilities form</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#56f4f18cf996402c829243e440994d02\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.4 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"6c64d85cd2a740b98e5ee7f2d0ae7bcf\" id=\"11aa8c285d014a82aab4cff634b6af19\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tProcedure for Making Applications and Notifications\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ec3e63bfec6c470e8eabdae907818655\" id=\"4663ec9b82524bc18efbc04d32d0d626\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> directs that, save as required by <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#754cd27be8014b7088784686823493b3\" title=\"3.2\">3.2</a> and <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#423a765638e848ada3fa544ee961375b\" title=\"3.3\">3.3</a>, a <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> must make any applications, notifications or submissions required by this Part by submitting the form specified using the <em><a class=\"glossary-link\" data-glossary-id=\"52226\" data-mce-linktype=\"2\" href=\"#glossary-term-0432343f2aa34ff099752e8fb7688e22\" title=\"ONA system\">ONA system</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7d378dd0917e49e2a0a3d6e774906e96\" id=\"754cd27be8014b7088784686823493b3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>If, under any direction or rule in this Part:</p>\n<p>(1) a <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> is required to make an application, notification or submission online; and</p>\n<p>(2) the information technology systems used by the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> fail and online submission is unavailable for 24 hours or more,</p>\n<p>until such time as facilities for online submission are restored, a <em><a class=\"glossary-link\" data-glossary-id=\"77603\" data-mce-linktype=\"2\" href=\"#glossary-term-c789afa49bf44235b6cb6fc15c97bc6d\" title=\"firm\">firm</a></em> must submit the specified form in the way set out in <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/notifications#8e186d20f3cf4d218117e0780f104f7c\" title=\"Notifications 7\">Notifications 7</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t07/03/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ea49b7759b814ce79a13cfef7ffb0609\" id=\"423a765638e848ada3fa544ee961375b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The notifications required under <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications#d17b05b1b6f7486384cc628c2b2f41f8\" title=\"2.3\">2.3</a> should be submitted in accordance with <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/notifications#8e186d20f3cf4d218117e0780f104f7c\" title=\"Notifications 7\">Notifications 7</a>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#423a765638e848ada3fa544ee961375b\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.3 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"39830fba803548918b5a67341df7c32d\" id=\"b71b69a0e0d4465b80731b14141c2922\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t4\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tForms\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"489e3a26ed6046909f11b78e3e076183\" id=\"cc76f87595d24d4fa2354fd7130fd03a\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t4.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"77236\" data-mce-linktype=\"2\" href=\"#glossary-term-6b41e9b251864d889beebf4152f57263\" title=\"key function holder notification form\">key function holder notification form</a></em>, Form M, may be found <span style=\"text-decoration: underline;\"><a class=\"external-link\" data-mce-description=\"Notification of non-SIMF appointment\" data-mce-externalform=\"true\" data-mce-linktype=\"4\" href=\"https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/authorisations/senior-managers-and-senior-insurance-managers-regimes-approvals/form-m-july-2018\" target=\"_blank\" title=\"Form M\">here</a></span>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t10/12/2018\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/large-non-solvency-ii-firms-key-function-holder-notifications/07-03-2016#cc76f87595d24d4fa2354fd7130fd03a\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 4.1 before 10/12/2018\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"49e958307b074e2780e9aa25e75d1922\" id=\"45be27e59fc64fcba3a759fe68a34c10\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t5\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tTransitional Arrangements for Key Function Holders (Deleted)\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "5b82ad61fc55eef8722c21ef90b37c348d94d0a31c5037ae5380d3436effeaa4",
+  "canonical_json_path": null
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "BOE-HTML-2015-solvency2-third-country-branches-ss",
+  "title": "Solvency II: third-country branches",
+  "short_title": "2015-solvency2-third-country-branches-ss",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/solvency2-third-country-branches-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2015/ss1015.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss4415.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "**Update 27 November 2015**\n\n\n****SS10/15 has been superseded by SS44/15 'Solvency II: third-country insurance and pure reinsurance branches'\n\n\n**Published on 20 March 2015**\n\n\nThis supervisory statement sets out the PRA’s expectations of firms with regard to third-country branch undertakings. It is addressed to non-EEA insurance undertakings that have a UK branch (third-country branch undertakings),and should be read alongside the Third Country Branches Part of the Prudential Regulation Authority (PRA) Rulebook, the relevant European legislation, and the relevant provisions of the Financial Services and Markets Act 2000.\n\n\nSS10/15 explains the PRA’s expectations of firms in relation to the following:\n \n\n\n    - worldwide financial resources;\n\n    - scheme of operations;\n\n    - third-country branches as composites; and\n\n    - application of other supervisory statements to third-country branch undertakings.\n",
+  "sha256": "3f28f775f60506447252c47fb5abce23093968bc2c8a03489125a251e7657fab",
+  "scraped_at": "2026-03-25T03:58:48.940749Z",
+  "raw_sha256": "3f28f775f60506447252c47fb5abce23093968bc2c8a03489125a251e7657fab",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2015-solvency2-third-country-branches-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

@@ -1,0 +1,244 @@
+{
+  "doc_id": "pra.rules.fscs-management-expenses-levy-limit-and-base-costs.2026",
+  "title": "FSCS Management Expenses Levy Limit and Base Costs",
+  "short_title": "FSCS Management Expenses Levy Limit and Base Costs (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/fscs-management-expenses-levy-limit-and-base-costs.json",
+  "canonical_path": null,
+  "sha256": "831ce3ac41f8a874282a800e50cc4b8ad070bf8ed20b796be7c93e751fe97bfe",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.fscs-management-expenses-levy-limit-and-base-costs",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "FSCS Management Expenses Levy Limit and Base Costs",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Financial_Conglomerates",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:53:02.569054",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "Non-authorised persons"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Limit on Management Expenses Levies",
+      "Base Costs"
+    ],
+    "related_guidance": [
+      {
+        "title": "SoP3/16 – Calculating risk-based levies for the Financial Services Compensation Scheme deposits class",
+        "url": "/guidance/statements-of-policy/sop---calculating-risk-based-levies-for-the-fscs-deposits-class/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS6/15 - Depositor and dormant account protection",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/depositor-and-dormant-account-protection"
+      },
+      {
+        "title": "PS19/15 - The PRA Rulebook: Part 3",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-part-3"
+      },
+      {
+        "title": "PS7/16 - The PRA Rulebook: Fees",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-fees"
+      },
+      {
+        "title": "PS12/16 - Financial Services Compensation Scheme - management expenses levy limit 2016/17",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/fscs-management-expenses-levy-limit-2016-17"
+      },
+      {
+        "title": "PS6/17 - Financial Services Compensation Scheme - Management Expenses Levy Limit 2017/18",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/financial-services-compensation-scheme-management-expenses-levy-limit-2017-18"
+      },
+      {
+        "title": "PS5/18 - Financial Services Compensation Scheme - Management Expenses Levy Limit 2018/19",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/financial-services-compensation-scheme-management-expenses-levy-limit-2018-19"
+      },
+      {
+        "title": "PS10/19 - Financial Services Compensation Scheme – Management Expenses Levy Limit 2019/20",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2019/financial-services-compensation-scheme-management-expenses-levy-limit-2019-20"
+      },
+      {
+        "title": "PS8/20 - Financial Services Compensation Scheme – Management Expenses Levy Limit 2020/21",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/financial-services-compensation-scheme-management-expenses-levy-limit-2020-2021"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "PS5/21 - Financial Services Compensation Scheme – Management Expenses Levy Limit 2021/22",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/january/financial-services-compensation-scheme-management-expenses-levy-limit-2021-2022"
+      },
+      {
+        "title": "PS3/22 - Financial Services Compensation Scheme – Management Expenses Levy Limit 2022/23",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2022/january/financial-services-compensation-scheme-management-expenses-levy-limit-2022-2023"
+      },
+      {
+        "title": "PS10/22 - Depositor Protection",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2022/november/ps10-depositor-protection"
+      },
+      {
+        "title": "PS3/23 - Financial Services Compensation Scheme – Management Expenses Levy Limit 2023/24",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2023/march/financial-services-compensation-scheme-management-expenses-levy-limit-2023-2024"
+      },
+      {
+        "title": "PS6/24 - Financial Services Compensation Scheme – Management Expenses Levy Limit (MELL) 2024/25",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/march/fscs-management-expenses-levy-limit-2024-2025-policy-statement"
+      },
+      {
+        "title": "PS4/25 - Financial Services Compensation Scheme (FSCS) Management Expenses Levy Limit (MELL) 2025/26",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2025/march/fscs-management-expenses-levy-limit-policy-statement"
+      },
+      {
+        "title": "PRA FSCS webpages",
+        "url": "http://www.bankofengland.co.uk/pra/Pages/authorisations/fscs/default.aspx"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "FSCS Management Expenses Levy Limit and Base Costs",
+      "slug": "fscs-management-expenses-levy-limit-and-base-costs",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-03-2026",
+      "version_dates": [
+        "01-03-2016",
+        "01-04-2016",
+        "01-04-2017",
+        "01-04-2018",
+        "01-04-2019",
+        "01-04-2020",
+        "01-04-2021",
+        "01-04-2022",
+        "01-04-2023",
+        "01-04-2024",
+        "01-04-2025",
+        "03-07-2015",
+        "03-08-2015",
+        "30-11-2022",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "01/04/2023",
+        "01/04/2025",
+        "03/07/2015",
+        "30/11/2022",
+        "31/12/2020"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.2",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/01-03-2016#e9314143f7434be5ab9598d61cc1f184"
+        },
+        {
+          "rule_ref": "1.4",
+          "changed_before": "30/11/2022",
+          "previous_url": "/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-07-2015#34af86ce114c43aa8929ffe002e24806"
+        },
+        {
+          "rule_ref": "2.1",
+          "changed_before": "01/04/2023",
+          "previous_url": "/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/30-11-2022#cff8ea085dec4dcb81842824ed930c2c"
+        },
+        {
+          "rule_ref": "2.1A",
+          "changed_before": "01/04/2025",
+          "previous_url": "/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/01-04-2024#edf5cdeb594f45768907235b94f9088e"
+        },
+        {
+          "rule_ref": "3.1",
+          "changed_before": "30/11/2022",
+          "previous_url": "/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-07-2015#1e4c2871056d48298ed215699f1dc686"
+        }
+      ],
+      "total_amendments": 15
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to the FSCS.",
+            "as_at_date": "03/07/2015"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "In this Part, the following definitions shall apply:",
+            "as_at_date": ""
+          },
+          {
+            "rule_number": "1.3",
+            "summary": "Unless otherwise defined, an italicised expression used in this Part and in the Depositor Protection Part, has the same meaning as in the [Dep",
+            "as_at_date": "03/07/2015"
+          },
+          {
+            "rule_number": "1.4",
+            "summary": "[Deleted.]",
+            "as_at_date": "30/11/2022"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Limit on Management Expenses Levies",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "[Deleted]",
+            "as_at_date": "01/04/2023"
+          },
+          {
+            "rule_number": "2.1A",
+            "summary": "The amount which the FSCS may recover from the sums levied under the compensation scheme as management expenses attributable to the period 1 April 2025 to 31 March 2026 may not exceed £108,579,2",
+            "as_at_date": "01/04/2025"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "This amount is the combined limit in respect of the deposit guarantee scheme , the policyholder protection scheme and the FCA compensation scheme rules.",
+            "as_at_date": "01/04/2023"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Base Costs",
+        "rules": [
+          {
+            "rule_number": "3.1",
+            "summary": "The FSCS must calculate a share of a base costs levy for a firm and, where applicable, the Society by:",
+            "as_at_date": "30/11/2022"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 8
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to the _FSCS_.\n\n*Effective: 03/07/2015*\n\n1.2\n\nIn this Part, the following definitions shall apply:\n\n_contracts of insurance_\n\nhas the meaning given in Article 3(1) of the _Regulated Activities Order_.\n\n_CRO insurer_\n\nhas the meaning given in the [Policyholder Protection](/pra-rules/policyholder-protection \"Policyholder Protection\") Part.\n\n_FCA compensation scheme rules_\n\nmeans the rules of the _compensation scheme_ that are _FCA rules_.\n\n_management expenses levy_\n\nmeans a levy imposed by the _FSCS_ to meet _management expenses_.\n\n_participant firm_\n\n  1. (1) has the meaning given in paragraph A (2) of the _PRA Handbook_ Glossary definition of ‘participant firm’ as at 29 February 2016 for the purposes of the PRA’s rules and has the meaning given in the FCA Handbook for the purposes of the _FCA’s_ rules in FEES 1; and\n  2. (2) includes _CRO insurers_.\n\n_policyholder protection scheme_\n\nmeans the _compensation scheme_ for claims under _contracts of insurance_.\n\n_PRA class_\n\nmeans a _class_ to which the _FSCS_ allocates levies in accordance with _PRA_ rules.\n\n_regulatory costs_\n\nmeans the periodic fees payable to the _PRA_ or _FCA_ by a _participant firm_ (and where applicable _theSociety_ ) in accordance with the _PRA’s_ rules in [Fees 3](/pra-rules/fees-fees-manual-1#b090e1139c4b4404b0b1175cf473a1d7 \"Fees 3\") and in accordance with [FEES 4](/pra-rules/fees-fees-manual-1#d02fe14a464c45839520e431ce6f0737 \"FEES 4\") in the _FCA Handbook_.\n\n*Effective: 31/12/2020*\n\n1.3\n\nUnless otherwise defined, an italicised expression used in this Part and in the [Depositor Protection](/pra-rules/depositor-protection \"Depositor Protection\") Part, has the same meaning as in the [Depositor Protection](/pra-rules/depositor-protection \"Depositor Protection\") Part.\n\n*Effective: 03/07/2015*\n\n1.4\n\n[Deleted.]\n\n*Effective: 30/11/2022*\n\n2\n\n###  Limit on Management Expenses Levies\n\n2.1\n\n[Deleted]\n\n*Effective: 01/04/2023*\n\n2.1A\n\nThe amount which the _FSCS_ may recover from the sums levied under the _compensation scheme_ as _management expenses_ attributable to the period 1 April 2025 to 31 March 2026 may not exceed £108,579,230.\n\n*Effective: 01/04/2025*\n\n2.2\n\nThis amount is the combined limit in respect of the _deposit guarantee scheme_ , the _policyholder protection scheme_ and the _FCA compensation scheme rules_.\n\n*Effective: 01/04/2023*\n\n3\n\n###  Base Costs\n\n3.1\n\nThe _FSCS_ must calculate a share of a _base costs levy_ for a _firm_ and, where applicable, the _Society_ by:\n\n  1. (1) identifying the _base costs_ which the _FSCS_ has incurred, or expects to incur, in the relevant financial year of the _compensation scheme_ but has not yet levied and allocating 50% of those _base costs_ as the sum to be levied on participants in _PRA classes_ ;\n  2. (2) calculating the amount of the _regulatory costs_ of the _firm_ (or, where applicable, the _Society_) as a proportion of the total _regulatory costs_ of all _participant firms_ (and, where applicable, the _Society_) for the relevant financial year; and\n  3. (3) applying the proportion calculated in (2), if any to the sum in (1).\n\n*Effective: 30/11/2022*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"233fc335592048e7869296851a8a8a0e\" id=\"aa615324a88341f786fe5a6e5ebb9994\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"520f1d07783d4455bfde6618b4e78fac\" id=\"d19db2560b7a49a988ba01d21131cee9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to the <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/07/2015\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a4074bbeabfc49fb965e30163d37c4ae\" id=\"e9314143f7434be5ab9598d61cc1f184\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In this Part, the following definitions shall apply:</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53181\" data-mce-linktype=\"2\" href=\"#glossary-term-1bd7a65e926d4628b2ae7875d2f4f347\" title=\"contracts of insurance\">contracts of insurance</a></em></p>\n<p style=\"padding-left: 30px;\">has the meaning given in Article 3(1) of the <em><a class=\"glossary-link\" data-glossary-id=\"52150\" data-mce-linktype=\"2\" href=\"#glossary-term-343c281a2e2346ad82e8aafc7367cc75\" title=\"Regulated Activities Order\">Regulated Activities Order</a></em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"98273\" data-mce-linktype=\"2\" href=\"#glossary-term-82c1e6fa3bad49de870241109b55a923\" title=\"CRO insurer\">CRO insurer</a></em></p>\n<p style=\"padding-left: 30px;\">has the meaning given in the <a data-mce-contenttype=\"4\" data-mce-linktype=\"1\" data-rb-content-link=\"Part\" href=\"/pra-rules/policyholder-protection\" title=\"Policyholder Protection\">Policyholder Protection</a> Part.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53182\" data-mce-linktype=\"2\" href=\"#glossary-term-ba3aeb02817542abb85e8d0f1efe4606\" title=\"FCA compensation scheme rules\">FCA compensation scheme rules</a></em></p>\n<p style=\"padding-left: 30px;\">means the rules of the <em><a class=\"glossary-link\" data-glossary-id=\"52959\" data-mce-linktype=\"2\" href=\"#glossary-term-4062e84e548448d6a7231c9014be20d2\" title=\"compensation scheme\">compensation scheme</a></em> that are <em>FCA rules</em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53183\" data-mce-linktype=\"2\" href=\"#glossary-term-6e42d9c4dae84d1c8a33fe7b8cc6a5e6\" title=\"management expenses levy\">management expenses levy</a></em></p>\n<p style=\"padding-left: 30px;\">means a levy imposed by the <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em> to meet <em>management expenses</em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53185\" data-mce-linktype=\"2\" href=\"#glossary-term-02923da9d43e49bfbf53e4631d5fe793\" title=\"participant firm\">participant firm</a></em></p>\n<ol class=\"new-bullet\">\n<li>(1) has the meaning given in paragraph A (2) of the <em><a class=\"glossary-link\" data-glossary-id=\"52206\" data-mce-linktype=\"2\" href=\"#glossary-term-10515d7817d74ae181245d1eec49471b\" title=\"PRA Handbook\">PRA Handbook</a></em> Glossary definition of ‘participant firm’ as at 29 February 2016 for the purposes of the <a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a> rules and has the meaning given in the FCA Handbook for the purposes of the <em><a class=\"glossary-link\" data-glossary-id=\"52718\" data-mce-linktype=\"2\" href=\"#glossary-term-a6adfc5faca24b3186f3f7bee3c6db22\" title=\"FCA’s\">FCA’s</a></em> rules in FEES 1; and</li>\n<li>(2) includes <em><a class=\"glossary-link\" data-glossary-id=\"98273\" data-mce-linktype=\"2\" href=\"#glossary-term-82c1e6fa3bad49de870241109b55a923\" title=\"CRO insurers\">CRO insurers</a></em>.</li>\n</ol>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53186\" data-mce-linktype=\"2\" href=\"#glossary-term-4ff1dcf896e84ea89fbafcfc22b40aa4\" title=\"policyholder protection scheme\">policyholder protection scheme</a></em></p>\n<p style=\"padding-left: 30px;\">means the <em><a class=\"glossary-link\" data-glossary-id=\"52959\" data-mce-linktype=\"2\" href=\"#glossary-term-4062e84e548448d6a7231c9014be20d2\" title=\"compensation scheme\">compensation scheme</a></em> for claims under <em><a class=\"glossary-link\" data-glossary-id=\"53181\" data-mce-linktype=\"2\" href=\"#glossary-term-1bd7a65e926d4628b2ae7875d2f4f347\" title=\"contracts of insurance\">contracts of insurance</a></em>.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53187\" data-mce-linktype=\"2\" href=\"#glossary-term-7c090d72305c4b69bd30c240c86d44a1\" title=\"PRA class\">PRA class</a></em></p>\n<p style=\"padding-left: 30px;\">means a <em><a class=\"glossary-link\" data-glossary-id=\"52806\" data-mce-linktype=\"2\" href=\"#glossary-term-9102b1a1c10d44c6a8e08ba51c2394c7\" title=\"class\">class</a></em> to which the <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em> allocates levies in accordance with <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA</a></em> rules.</p>\n<p><em><a class=\"glossary-link\" data-glossary-id=\"53188\" data-mce-linktype=\"2\" href=\"#glossary-term-5e94ab91a0c2436a87470b1abffa177b\" title=\"regulatory costs\">regulatory costs</a></em></p>\n<p style=\"padding-left: 30px;\">means the periodic fees payable to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"52718\" data-mce-linktype=\"2\" href=\"#glossary-term-a6adfc5faca24b3186f3f7bee3c6db22\" title=\"FCA\">FCA</a></em> by a <em><a class=\"glossary-link\" data-glossary-id=\"53185\" data-mce-linktype=\"2\" href=\"#glossary-term-02923da9d43e49bfbf53e4631d5fe793\" title=\"participant firm\">participant firm</a></em> (and where applicable <em>the <a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em> ) in accordance with the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA’s\">PRA’s</a></em> rules in <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/fees-fees-manual-1#b090e1139c4b4404b0b1175cf473a1d7\" title=\"Fees 3\">Fees 3</a> and in accordance with <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/fees-fees-manual-1#d02fe14a464c45839520e431ce6f0737\" title=\"FEES 4\">FEES 4</a> in the <em><a class=\"glossary-link\" data-glossary-id=\"52827\" data-mce-linktype=\"2\" href=\"#glossary-term-32be3c2dd21146a7805f3079824eae67\" title=\"FCA Handbook\">FCA Handbook</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/01-03-2016#e9314143f7434be5ab9598d61cc1f184\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"48ceec234ca44843b582e572290d69a7\" id=\"0f1198867db843a0a0220774e345dd3b\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise defined, an italicised expression used in this Part and in the <a data-mce-contenttype=\"4\" data-mce-linktype=\"1\" data-rb-content-link=\"Part\" href=\"/pra-rules/depositor-protection\" title=\"Depositor Protection\">Depositor Protection</a> Part, has the same meaning as in the <a data-mce-contenttype=\"4\" data-mce-linktype=\"1\" data-rb-content-link=\"Part\" href=\"/pra-rules/depositor-protection\" title=\"Depositor Protection\">Depositor Protection</a> Part.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/07/2015\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"32e09973740d4d05aa77e03c93366f1f\" id=\"34af86ce114c43aa8929ffe002e24806\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted.]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/11/2022\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-07-2015#34af86ce114c43aa8929ffe002e24806\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.4 before 30/11/2022\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"eb2da37606064f98ae66fb6f9e240295\" id=\"e20060df4ae44835b16e165708a528fc\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tLimit on Management Expenses Levies\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"80f1d159e37a4f0ca0c19d4726a34263\" id=\"cff8ea085dec4dcb81842824ed930c2c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/04/2023\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/30-11-2022#cff8ea085dec4dcb81842824ed930c2c\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 01/04/2023\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"760ff5aa757046928dc8760f3260d486\" id=\"edf5cdeb594f45768907235b94f9088e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1A\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The amount which the <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em> may recover from the sums levied under the <a class=\"glossary-link\" data-glossary-id=\"52959\" data-mce-linktype=\"2\" href=\"#glossary-term-4062e84e548448d6a7231c9014be20d2\" title=\"compensation scheme\"><em>compensation scheme</em></a> as <em><a class=\"glossary-link\" data-glossary-id=\"77336\" data-mce-linktype=\"2\" href=\"#glossary-term-1ca89ef1098d452880bca07eb9a1ea3d\" title=\"management expenses\">management expenses</a></em> attributable to the period 1 April 2025 to 31 March 2026 may not exceed £108,579,230.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/04/2025\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/01-04-2024#edf5cdeb594f45768907235b94f9088e\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1A before 01/04/2025\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8be51ef18ba943e69c7b332ae6115c68\" id=\"19b4423a7ac14449bb9be7298338b939\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This amount is the combined limit in respect of the <em><a class=\"glossary-link\" data-glossary-id=\"53132\" data-mce-linktype=\"2\" href=\"#glossary-term-086f52e8b3c44c638c780860bf79c7f7\" title=\"deposit guarantee scheme\">deposit guarantee scheme</a></em>, the <em><a class=\"glossary-link\" data-glossary-id=\"52965\" data-mce-linktype=\"2\" href=\"#glossary-term-44d4f614b8fa4092af31b1fb305ebd4f\" title=\"policyholder protection scheme\">policyholder protection scheme</a></em> and the <em><a class=\"glossary-link\" data-glossary-id=\"53182\" data-mce-linktype=\"2\" href=\"#glossary-term-ba3aeb02817542abb85e8d0f1efe4606\" title=\"FCA compensation scheme rules\">FCA compensation scheme rules</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/04/2023\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"3b5a191426fe4d2798f3d0b7c798aab8\" id=\"9d66434fd2ae47b4adafd4abc4a2aaea\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tBase Costs\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d506f7304d6b435aa7af28bebcf96638\" id=\"1e4c2871056d48298ed215699f1dc686\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em> must calculate a share of a <em><a class=\"glossary-link\" data-glossary-id=\"53059\" data-mce-linktype=\"2\" href=\"#glossary-term-43c8d5982e7b4c98aadf57713b2d17e3\" title=\"base costs levy\">base costs levy</a></em> for a<em> <a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> and, where applicable, the <em><a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em> by:</p>\n<ol class=\"new-bullet\">\n<li>(1) identifying the <em><a class=\"glossary-link\" data-glossary-id=\"53058\" data-mce-linktype=\"2\" href=\"#glossary-term-9938b0346cfc433499d5b644bdb10b57\" title=\"base costs\">base costs</a></em> which the <em><a class=\"glossary-link\" data-glossary-id=\"52961\" data-mce-linktype=\"2\" href=\"#glossary-term-8e7c90e21df1457898ae7d4dc6cd2f44\" title=\"FSCS\">FSCS</a></em> has incurred, or expects to incur, in the relevant financial year of the <em><a class=\"glossary-link\" data-glossary-id=\"53065\" data-mce-linktype=\"2\" href=\"#glossary-term-9174f6705c7a479583a07b61e2ab53a3\" title=\"compensation scheme\">compensation scheme</a></em> but has not yet levied and allocating 50% of those <em><a class=\"glossary-link\" data-glossary-id=\"53058\" data-mce-linktype=\"2\" href=\"#glossary-term-9938b0346cfc433499d5b644bdb10b57\" title=\"base costs\">base costs</a></em> as the sum to be levied on participants in <em><a class=\"glossary-link\" data-glossary-id=\"53187\" data-mce-linktype=\"2\" href=\"#glossary-term-7c090d72305c4b69bd30c240c86d44a1\" title=\"PRA classes\">PRA classes</a></em>;</li>\n<li>(2) calculating the amount of the <em><a class=\"glossary-link\" data-glossary-id=\"53188\" data-mce-linktype=\"2\" href=\"#glossary-term-5e94ab91a0c2436a87470b1abffa177b\" title=\"regulatory costs\">regulatory costs</a></em> of the <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> (or, where applicable, the <em><a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em>) as a proportion of the total <em><a class=\"glossary-link\" data-glossary-id=\"53188\" data-mce-linktype=\"2\" href=\"#glossary-term-5e94ab91a0c2436a87470b1abffa177b\" title=\"regulatory costs\">regulatory costs</a></em> of all <em><a class=\"glossary-link\" data-glossary-id=\"53185\" data-mce-linktype=\"2\" href=\"#glossary-term-02923da9d43e49bfbf53e4631d5fe793\" title=\"participant firms\">participant firms</a></em> (and, where applicable, the <em><a class=\"glossary-link\" data-glossary-id=\"52231\" data-mce-linktype=\"2\" href=\"#glossary-term-c757d61ac22a4f43b4565c1a14c53dfd\" title=\"Society\">Society</a></em>) for the relevant financial year; and</li>\n<li>(3) applying the proportion calculated in (2), if any to the sum in (1).</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t30/11/2022\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/fscs-management-expenses-levy-limit-and-base-costs/03-07-2015#1e4c2871056d48298ed215699f1dc686\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 3.1 before 30/11/2022\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "831ce3ac41f8a874282a800e50cc4b8ad070bf8ed20b796be7c93e751fe97bfe",
+  "canonical_json_path": null
+}

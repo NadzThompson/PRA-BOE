@@ -1,0 +1,82 @@
+{
+  "doc_id": "pra.ss218.2026",
+  "title": "SS2/18 – International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision (Deleted)",
+  "short_title": "SS2/18",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/deleted-ss02-18-international-insurers-the-pras-approach-to-branch-authorisation-and-supervision.json",
+  "canonical_path": null,
+  "sha256": "781e26a681f982553c55a4dad84380a927c09158ed8ca466d29988b4bd44fb48",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss218",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS2/18",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/deleted-ss02-18-international-insurers-the-pras-approach-to-branch-authorisation-and-supervision/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:56:23.366261",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS4/18 - International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/international-insurers-pras-approach-to-branch-authorisation-and-supervision"
+      },
+      {
+        "title": "PS8 24 - The PRA's approach to the authorisation and supervision of insurance branches",
+        "url": "http://www.bankofengland.co.uk/prudential-regulation/publication/2024/may/the-pras-approach-to-the-authorisation-and-supervision-of-insurance-branches"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS2/18 – International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision (Deleted)",
+      "slug": "deleted-ss02-18-international-insurers-the-pras-approach-to-branch-authorisation-and-supervision",
+      "version_dates": [
+        "23-05-2024",
+        "28-03-2018"
+      ],
+      "boe_references": [
+        {
+          "title": "PS4/18 - International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/international-insurers-pras-approach-to-branch-authorisation-and-supervision"
+        },
+        {
+          "title": "PS8 24 - The PRA's approach to the authorisation and supervision of insurance branches",
+          "url": "http://www.bankofengland.co.uk/prudential-regulation/publication/2024/may/the-pras-approach-to-the-authorisation-and-supervision-of-insurance-branches"
+        }
+      ],
+      "total_amendments": 2
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "###\n\nThis Supervisory Statement was replaced by [SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision](/guidance/statements-of-policy/sop---the-pra-approach-to-insurance-branch-authorisation-and-supervision) with effect from 23 May 2024.\n\n*Effective: 23/05/2024*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"23e7f1daf3494bee92ea29748a56863a\" id=\"4e70058f866545b1876fa36a0aaa4720\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3481259ea3324b7693b2384679451cdd\" id=\"193c13ccf62e4daea0a5769228a307e8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Supervisory Statement was replaced by <a data-rb-content-link=\"Guidance\" href=\"/guidance/statements-of-policy/sop---the-pra-approach-to-insurance-branch-authorisation-and-supervision\">SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision</a> with effect from 23 May 2024.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/05/2024\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n</div>\n</div>",
+  "raw_sha256": "781e26a681f982553c55a4dad84380a927c09158ed8ca466d29988b4bd44fb48",
+  "canonical_json_path": null
+}

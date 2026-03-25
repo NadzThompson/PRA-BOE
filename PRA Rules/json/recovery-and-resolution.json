@@ -1,0 +1,76 @@
+{
+  "doc_id": "pra.rules.recovery-and-resolution.2026",
+  "title": "Recovery and Resolution (Deleted)",
+  "short_title": "Recovery and Resolution (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/recovery-and-resolution.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.recovery-and-resolution",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Recovery and Resolution (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/recovery-and-resolution/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:54.923533",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS8/13 - Supervisory tools: Recovery and resolution plans",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/supervisory-tools-recovery-and-resolution-plans"
+      },
+      {
+        "title": "PS1/15 - Implementing the Bank Recovery and Resolution Directive",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/implementing-the-bank-recovery-and-resolution-directive"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Recovery and Resolution (Deleted)",
+      "slug": "recovery-and-resolution",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/recovery-and-resolution/03-03-2026",
+      "version_dates": [
+        "01-01-2014",
+        "19-01-2015"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 2
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

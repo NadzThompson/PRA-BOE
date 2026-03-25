@@ -1,0 +1,52 @@
+{
+  "doc_id": "BOE-HTML-2015-whistleblowing-in-deposit-takers-pra-designated-investment-firms-and-insurers",
+  "title": "Whistleblowing in deposit-takers, PRA-designated investment firms and insurers",
+  "short_title": "2015-whistleblowing-in-deposit-takers-pra-designated-investment-firms-and-insurers",
+  "document_class": "regulatory_publication",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "",
+  "sector": [
+    "banking",
+    "insurance",
+    "investment_firms"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/whistleblowing-in-deposit-takers-pra-designated-investment-firms-and-insurers",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2015/ps2415.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2015/ps2415app1.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2015/ps2415app2.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2015/ps2415app3.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2015/cp615.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss3915.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "content_markdown": "Published on 6 October 2015\n\n\n### Whistleblowing in deposit-takers, PRA-designated investment firms and insurers - PS24/15\n\n\nThis Prudential Regulation Authority (PRA) policy statement (PS) provides feedback on the responses received on PRA Consultation Paper 6/15 ‘Whistleblowing in UK deposit-takers, PRA-designated investment firms and insurers’. The consultation was published jointly with the Financial Conduct Authority (FCA) in February.\n\n\nThis PS will be of interest to the relevant firms (deposit-takers with assets greater than £250 million, PRA-designated investment firms and insurers - meaning insurance and reinsurance firms within the scope of Solvency II - and to the Society of Lloyd’s and managing agents), but also to individuals working in the financial services sector. It will also be of interest to a wider range of firms that may wish to comply voluntarily.\n\n\nMost of the proposals in CP6/15 were broadly supported by respondents, and as such, the changes are relatively minor and mainly seek to offer clarifications as to the intent of the policy. The PRA will, therefore, take forward requirements that:\n\n\n    - firms establish internal whistleblowing channels and inform their staff about these arrangements;\n\n    - firms inform their staff about the whistleblowing services of the PRA and the FCA, as well as informing them of the legal protections offered under the Public Interest Disclosure Act 1998 (PIDA); and\n\n    - wording in employment contracts and settlement agreements should not deter staff from whistleblowing.\n\n\nThe proposals that have changed due to consultation responses are in the following areas:\n\n\n    - Chapter 2: the scope of the rules;\n\n    - Chapter 3: internal whistleblowing procedures;\n\n    - Chapter 4: employment contracts and settlement agreements; and\n\n    - Chapter 5: the ’whistleblowers’ champion’.\n\n\nPRA Supervisory Statement SS39/15 ‘[Whistleblowing in deposit-takers, PRA-designated investment firms and insurers](https://www.bankofengland.co.uk/prudential-regulation/publication/2015/whistleblowing-in-deposit-takers-pra-designated-investment-firms-and-insurers-ss)’ has also been published alongside this PS.\n\n\n**Appendices**\n\n\n    -\n\n    -\n\n    -\n\n\nPublished on 23 February 2015\n\n\n### Whistleblowing in deposit-takers, PRA-designated investment firms and insurers – CP6/15\n\n\nIn response to the recommendation made by the Parliamentary Commission on Banking Standards (PCBS), the PRA and Financial Conduct Authority (FCA) propose a package of measures which seek to formalise firms’ whistleblowing procedures. These proposals aim to move towards a more consistent approach, building on existing good practice in firms. They aim to ensure that all employees are encouraged to blow the whistle where they suspect misconduct, confident that their concerns will be considered and that there will be no personal repercussions.\n\n\nThis consultation is intended to build upon current good practice in the banking and insurance sector, and the FCA’s existing guidance on how firms handle whistleblowers. The PRA and FCA propose a set of rules that will apply to UK banks, building societies, credit unions, PRA-designated investment firms and insurers. The FCA intends to consult in the future on whether to require similar whistleblowing mechanisms to be introduced by a wider range of firms it regulates.\n\n\n**Summary of proposals**\n\n\nThe PRA and FCA propose that relevant firms should:\n\n\n    - Put internal whistleblowing arrangements in place (if they are not already), and inform their UK-based employees about these arrangements.\n\n    - Inform their employees that they can blow the whistle to the FCA or the PRA.\n\n    - Offer protections to all whistleblowers, whatever their relationship with the firm and whatever the topic of their disclosure.\n\n    - Include provisions in new employment contracts and settlement agreements which clarify that nothing in that agreement prevents an employee (or ex-employee) from making a protected disclosure.\n\n    - Allocate the prescribed responsibility for whistleblowing under the Senior Managers Regime and Senior Insurance Managers Regime to an individual (the “whistleblowers’ champion”) with responsibility for:\n\n\n- overseeing the effectiveness of internal whistleblowing arrangements, including arrangements for protecting whistleblowers against detrimental treatment;\n\n- preparing an annual report to the board about their operation; and\n\n- reporting to the FCA where, in a case before an employment tribunal contested by the firm, the tribunal finds in favour of a whistleblower.\n\n\n**Responses**\n\n\nThis consultation closed on Friday 22 May 2015.\n",
+  "sha256": "91ee968e1050bceddfa1db58d0709524c88d0d4b62a4ce73cdeccfec5cba74ea",
+  "scraped_at": "2026-03-25T03:58:49.069616Z",
+  "raw_sha256": "91ee968e1050bceddfa1db58d0709524c88d0d4b62a4ce73cdeccfec5cba74ea",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2015-whistleblowing-in-deposit-takers-pra-designated-investment-firms-and-insurers",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

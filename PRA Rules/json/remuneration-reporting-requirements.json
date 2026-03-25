@@ -1,0 +1,76 @@
+{
+  "doc_id": "pra.rules.remuneration-reporting-requirements.2026",
+  "title": "Remuneration Reporting Requirements (Deleted)",
+  "short_title": "Remuneration Reporting Requirements (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/remuneration-reporting-requirements.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.remuneration-reporting-requirements",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Remuneration Reporting Requirements (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/remuneration-reporting-requirements/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:55.934988",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS11/14 - CRD IV: data collection on remuneration practices",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/crdiv-data-collection-on-remuneration-practices"
+      },
+      {
+        "title": "PS12/15 - Strengthening the alignment of risk and reward: new remuneration rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/strengthening-the-alignment-of-risk-and-reward-new-remuneration-rules"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Remuneration Reporting Requirements (Deleted)",
+      "slug": "remuneration-reporting-requirements",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/remuneration-reporting-requirements/03-03-2026",
+      "version_dates": [
+        "01-07-2015",
+        "07-11-2014"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 2
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

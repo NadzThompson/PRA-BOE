@@ -1,0 +1,48 @@
+{
+  "doc_id": "BOE-HTML-2015-with-profits-ss",
+  "title": "SS14/15 - With-profits",
+  "short_title": "SS14/15",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS14/15",
+  "sector": [
+    "insurance"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/with-profits-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/ss1415-november-2024-update.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2015/ss1415.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.ss519.2026",
+    "pra.ss2215.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "content_markdown": "First published on 20 March 2015\n\n\nThis supervisory statement sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms that write with-profits insurance business.\n\n\nThe statement should be read alongside all relevant rules and regulations, in particular: for Solvency II firms, the Solvency II Regulations including ring-fenced fund provisions, and for non-Directive firms any PRA-designated rules in prudential sourcebooks; the PRA Rulebook and any relevant supervisory statements; and the Financial Conduct Authority’s Handbook.\n",
+  "sha256": "65685026d89a5417dc3bce605b5254488780f343d2ad8e34dd7e45eaae12fe5c",
+  "scraped_at": "2026-03-25T03:58:49.109160Z",
+  "raw_sha256": "65685026d89a5417dc3bce605b5254488780f343d2ad8e34dd7e45eaae12fe5c",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2015-with-profits-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

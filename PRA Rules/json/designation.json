@@ -1,0 +1,131 @@
+{
+  "doc_id": "pra.rules.designation.2026",
+  "title": "Designation",
+  "short_title": "Designation (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/designation.json",
+  "canonical_path": null,
+  "sha256": "91b2c69ee4d89b8473ac1420a2c74cc9c7287de9dc67ee7a7104e8aeb418a743",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.designation",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Designation",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/designation/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:49:33.775011",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Consolidation Requirements"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS29/20 - Capital Requirements Directive V (CRD V)",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/capital-requirements-directive-v-further-implementation"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Designation",
+      "slug": "designation",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/designation/03-03-2026",
+      "version_dates": [
+        "01-01-2027",
+        "28-12-2020",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [
+        "28/12/2020",
+        "31/12/2020"
+      ],
+      "past_versions": [
+        {
+          "rule_ref": "1.1",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/designation/28-12-2020#8f8e36c6a9b74d96b4715c9044487175"
+        },
+        {
+          "rule_ref": "1.2",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/designation/28-12-2020#482f95f1c5824dca8ae197aae4d593ef"
+        },
+        {
+          "rule_ref": "2.1",
+          "changed_before": "31/12/2020",
+          "previous_url": "/pra-rules/designation/28-12-2020#5a80f24b9aec4e63903f204141170d5e"
+        }
+      ],
+      "total_amendments": 3
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to a CRR firm controlled by a UK parent financial holding company or a UK parent mixed financial holding company that would be under an obligation to comply with CRR requirem",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "[Deleted.]",
+            "as_at_date": "31/12/2020"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Consolidation Requirements",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "Subject to 2.2, a firm must comply with all CRR consolidation requirements with which its UK parent financial holding company or ",
+            "as_at_date": "31/12/2020"
+          },
+          {
+            "rule_number": "2.2",
+            "summary": "A firm is not required to comply with 2.1 if the PRA has approved or designated under Part 12B FSMA another undertaking within the ",
+            "as_at_date": "28/12/2020"
+          }
+        ]
+      }
+    ],
+    "section_count": 2,
+    "rule_count": 4
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to a _CRR firm_ controlled by a _UK parent financial holding company_ or a _UK parent mixed financial holding company_ that would be under an obligation to comply with _CRR_ requirements on a _consolidated basis_ if Article 11(2) _CRR_ was in force as it had effect in the _UK_ on 27 December 2020.\n\n*Effective: 31/12/2020*\n\n1.2\n\n[Deleted.]\n\n*Effective: 31/12/2020*\n\n2\n\n###  Consolidation Requirements\n\n2.1\n\nSubject to [2.2](/pra-rules/designation#99ff097cf24c4c848d9dc14c716d18e8 \"2.2\"), a _firm_ must comply with all _CRR_ consolidation requirements with which its _UK parent financial holding company_ or _UK parent mixed financial holding company_ would be required to comply if it was approved or designated under Part 12B FSMA for the purpose of ensuring that _CRR_ requirements are applied on a _consolidated basis_.\n\n*Effective: 31/12/2020*\n\n2.2\n\nA _firm_ is not required to comply with [2.1](/pra-rules/designation#5a80f24b9aec4e63903f204141170d5e \"2.1\") if the _PRA_ has approved or designated under Part 12B FSMA another undertaking within the _firm’s consolidation group_ for the purpose of ensuring that _CRR_ requirements are applied on a _consolidated basis_.\n\n*Effective: 28/12/2020*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"22f50d428f2c48bd9fd4ff606e548106\" id=\"7a314b07e5db4a08adbf0b85d4774a10\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"0e7cf667609b468188a9da188f7a62f9\" id=\"8f8e36c6a9b74d96b4715c9044487175\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em> controlled by a <a class=\"glossary-link\" data-glossary-id=\"98247\" data-mce-linktype=\"2\" href=\"#glossary-term-ea5105190d814b62aeb0dcec3e5c43eb\" title=\"UK parent financial holding company\"><em>UK parent financial holding company</em></a> or a <em><a class=\"glossary-link\" data-glossary-id=\"98249\" data-mce-linktype=\"2\" href=\"#glossary-term-70b67a63fa2d47948b71f78a5fe97dbf\" title=\"UK parent mixed financial holding company\">UK parent mixed financial holding company</a></em> that would be under an obligation to comply with <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> requirements on a <em><a class=\"glossary-link\" data-glossary-id=\"66960\" data-mce-linktype=\"2\" href=\"#glossary-term-dee57c59546b48e8a9a5112293fe79b8\" title=\"consolidated basis\">consolidated basis</a></em> if Article 11(2) <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> was in force as it had effect in the <em><a class=\"glossary-link\" data-glossary-id=\"52122\" data-mce-linktype=\"2\" href=\"#glossary-term-f7844a8cbb824a52a26c043e3f6b584e\" title=\"UK\">UK</a></em> on 27 December 2020.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/designation/28-12-2020#8f8e36c6a9b74d96b4715c9044487175\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"656ff1eeafa8437ab1a261ae338254a5\" id=\"482f95f1c5824dca8ae197aae4d593ef\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Deleted.]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/designation/28-12-2020#482f95f1c5824dca8ae197aae4d593ef\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"17398de2f1ba46a4b1b7c47345228bfe\" id=\"8b9cd5e8dd7e47c5b7d70cfab23b0b68\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tConsolidation Requirements\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b01ca21ad3b74bee8653a3f47f02e290\" id=\"5a80f24b9aec4e63903f204141170d5e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Subject to <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/designation#99ff097cf24c4c848d9dc14c716d18e8\" title=\"2.2\">2.2</a>, a <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> must comply with all <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> consolidation requirements with which its <em><a class=\"glossary-link\" data-glossary-id=\"98247\" data-mce-linktype=\"2\" href=\"#glossary-term-ea5105190d814b62aeb0dcec3e5c43eb\" title=\"UK parent financial holding company\">UK parent financial holding company</a></em> or <em><a class=\"glossary-link\" data-glossary-id=\"98249\" data-mce-linktype=\"2\" href=\"#glossary-term-70b67a63fa2d47948b71f78a5fe97dbf\" title=\"UK parent mixed financial holding company\">UK parent mixed financial holding company</a></em> would be required to comply if it was approved or designated under Part 12B FSMA for the purpose of ensuring that <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> requirements are applied on a <em><a class=\"glossary-link\" data-glossary-id=\"66960\" data-mce-linktype=\"2\" href=\"#glossary-term-dee57c59546b48e8a9a5112293fe79b8\" title=\"consolidated basis\">consolidated basis</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2020\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/designation/28-12-2020#5a80f24b9aec4e63903f204141170d5e\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 31/12/2020\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2d5a513b7d024a4c90b8670d95d3b671\" id=\"99ff097cf24c4c848d9dc14c716d18e8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm\">firm</a></em> is not required to comply with <a data-mce-contenttype=\"7\" data-mce-linktype=\"1\" data-rb-content-link=\"Rule\" href=\"/pra-rules/designation#5a80f24b9aec4e63903f204141170d5e\" title=\"2.1\">2.1</a> if the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em> has approved or designated under Part 12B FSMA another undertaking within the <em><a class=\"glossary-link\" data-glossary-id=\"77615\" data-mce-linktype=\"2\" href=\"#glossary-term-80a177da38e548b8b6785c53ce6c3851\" title=\"firm’s\">firm’s</a> <a class=\"glossary-link\" data-glossary-id=\"66961\" data-mce-linktype=\"2\" href=\"#glossary-term-3ab198df3a9a4fecbf13392b34234609\" title=\"consolidation group\">consolidation group</a></em> for the purpose of ensuring that <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> requirements are applied on a <em><a class=\"glossary-link\" data-glossary-id=\"66960\" data-mce-linktype=\"2\" href=\"#glossary-term-dee57c59546b48e8a9a5112293fe79b8\" title=\"consolidated basis\">consolidated basis</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/12/2020\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "91b2c69ee4d89b8473ac1420a2c74cc9c7287de9dc67ee7a7104e8aeb418a743",
+  "canonical_json_path": null
+}

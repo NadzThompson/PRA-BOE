@@ -1,0 +1,121 @@
+{
+  "doc_id": "pra.ss2013.2026",
+  "title": "SS20/13 – Third country equivalence aspects of the credit risk provisions in the CRR, and recognised exchanges",
+  "short_title": "SS20/13",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss20-13---third-country-equivalence-aspects.json",
+  "canonical_path": null,
+  "sha256": "6a01ed2d526835ac3bbca87711b1a6e7b4fd94bedb62772961ee2ad8e7b0396f",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss2013",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS20/13",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss20-13---third-country-equivalence-aspects/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:56:31.232126",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "Exposures to entities in third countries eligible for particular credit risk treatments during 2014",
+      "Recognised exchanges"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "PS9/17 - Implementation of MiFID II: Part 2",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/implementation-of-mifid-2-part-2"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS20/13 – Third country equivalence aspects of the credit risk provisions in the CRR, and recognised exchanges",
+      "slug": "ss20-13---third-country-equivalence-aspects",
+      "version_dates": [
+        "28-04-2017"
+      ],
+      "boe_references": [
+        {
+          "title": "PS9/17 - Implementation of MiFID II: Part 2",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2016/implementation-of-mifid-2-part-2"
+        }
+      ],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement (SS) sets out the approach of the Prudential Regulation Authority (PRA) in respect of the identification of recognised exchanges prior to the adoption by the European Commis",
+            "as_at_date": "28/04/2017"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "This SS supplements SS17/13 and is aimed at firms to which CRD IV2 applies.",
+            "as_at_date": "28/04/2017"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Exposures to entities in third countries eligible for particular credit risk treatments during 2014",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "Update 23 January 2015. The part of SS20/13 dealing with third country equivalence aspects of the credit risk provisions in the CRR is no longer applicable with effect from 1 January 2015, and has bee",
+            "as_at_date": "28/04/2017"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Recognised exchanges",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "The CRR defines the term ‘recognised exchange’. This term is used in: the part of the CRR definitions of ‘repurchase agreement’ and ‘repurchase agreement’; the criteria for determining own funds requi",
+            "as_at_date": "28/04/2017"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "Until such time as the ESMA implementing technical standards specifying the list of recognised exchanges are adopted by the European Commission, the PRA considers the following to qualify as recognise",
+            "as_at_date": "28/04/2017"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 5
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement (SS) sets out the approach of the Prudential Regulation Authority (PRA) in respect of the identification of recognised exchanges prior to the adoption by the European Commission of a European Securities and Markets Authority (ESMA) Implementing Technical Standard specifying the individual markets and exchanges that qualify as recognised exchanges under the Capital Requirements Regulation (CRR).1\n\n#### Footnotes\n\n  * 1\\.  On 28 April 2017 this SS was updated – see the annex for details.\n\n*Effective: 28/04/2017*\n\n1.2\n\nThis SS supplements SS17/13 and is aimed at firms to which CRD IV2 applies.\n\n#### Footnotes\n\n  * 2\\.  Capital Requirements Directive (2013/36/EU) (CRD) and Capital Requirements Regulation (575/2013) (CRR) – jointly ‘CRD IV’.\n\n*Effective: 28/04/2017*\n\n2\n\n###  Exposures to entities in third countries eligible for particular credit risk treatments during 2014\n\n2.1\n\nUpdate 23 January 2015. The part of SS20/13 dealing with third country equivalence aspects of the credit risk provisions in the CRR is no longer applicable with effect from 1 January 2015, and has been deleted. On 12 December 2014, the European Commission published a decision of binding effect as to which third countries apply supervisory and regulatory arrangements at least equivalent to those applied in the European Union. The decision came into effect on 1 January 2015 and is available on the Commission Implementing Acts webpage,3 and has effect in place of the relevant part of SS20/13.\n\n#### Footnotes\n\n  * 3\\.  See <http://ec.europa.eu/finance/bank/regcapital/acts/implementing/index_en.htm>.\n\n*Effective: 28/04/2017*\n\n3\n\n###  Recognised exchanges\n\n3.1\n\nThe CRR defines the term ‘recognised exchange’. This term is used in: the part of the CRR definitions of ‘repurchase agreement’ and ‘repurchase agreement’; the criteria for determining own funds requirements for investment firms; and in determining aspects of collateral eligibility and collateral volatility adjustments. To qualify as a recognised exchange under the CRR, an exchange must, among other things, meet the definition of a ‘regulated market’ set out in Directive 2014/65/EU (the Markets in Financial Instruments Directive (MIFID II)). The MIFID II definition of a regulated market requires authorisation and functioning of that market in accordance with MIFID II.\n\n*Effective: 28/04/2017*\n\n3.2\n\nUntil such time as the ESMA implementing technical standards specifying the list of recognised exchanges are adopted by the European Commission, the PRA considers the following to qualify as recognised exchanges under the CRR:\n\n  * ICE Futures Europe;\n  * BATS Europe Regulated Market;\n  * ICAP Securities and Derivatives Exchange — Main Board;\n  * NYSE Euronext London;\n  * London Stock Exchange — Regulated Market;\n  * The London International Financial Futures and Options Exchange (LIFFE);\n  * London Metal Exchange; and\n  * any other exchange that has been authorised by another EEA competent authority and has been found by that authority to meet the CRR definition of recognised exchange set out in CRR Article 4(1)(72).\n\n(CRR Articles 4(1)(72), 4(1)(82), 96(1)(a), 197(4) and (8), 198(1) and 224)\n\n*Effective: 28/04/2017*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"7585d9eb19fa4af4ae8dbf09358aef3e\" id=\"772dea01e7b945e2bad369dc1d27aa73\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"a61419b0c6634039b20e4ab0b328ef5c\" id=\"7c0f53c5844b445bb4f061afb441c193\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span style=\"color: rgb(38, 38, 38);\">This supervisory statement (SS) sets out the approach of the Prudential Regulation Authority (PRA) in respect of the identification of recognised exchanges prior to the adoption by the European Commission of a European Securities and Markets Authority (ESMA) Implementing Technical Standard specifying the individual markets and exchanges that qualify as recognised exchanges under the Capital Requirements Regulation (CRR).</span><sup style=\"color: rgb(38, 38, 38);\"><a href=\"#footnote-1\">1</a> </sup></p>\n<div>\n</div>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tOn 28 April 2017 this SS was updated – see the annex for details.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/04/2017\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"45d5b8e3df4640e7a649756f493671e0\" id=\"00289c27adc94bed86065f53e24eabc6\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This SS supplements SS17/13 and is aimed at firms to which CRD IV<sup><a href=\"#footnote-2\">2</a></sup>  applies. </p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tCapital Requirements Directive (2013/36/EU) (CRD) and Capital Requirements Regulation (575/2013) (CRR) – jointly ‘CRD IV’.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/04/2017\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"6428d4b23808457e804afd12805af51c\" id=\"f56b7cd3c5374f9caeab3bb5068c2c81\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tExposures to entities in third countries eligible for particular credit risk treatments during 2014 \r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"deb2961e79ca4ab2b6e587b38e77a345\" id=\"4e155abbe9434e7e9650a79782fa2400\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Update 23 January 2015. The part of SS20/13 dealing with third country equivalence aspects of the credit risk provisions in the CRR is no longer applicable with effect from 1 January 2015, and has been deleted. On 12 December 2014, the European Commission published a decision of binding effect as to which third countries apply supervisory and regulatory arrangements at least equivalent to those applied in the European Union. The decision came into effect on 1 January 2015 and is available on the Commission Implementing Acts webpage,<sup><a href=\"#footnote-3\">3</a></sup> and has effect in place of the relevant part of SS20/13. </p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-3\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t3.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tSee <a href=\"http://ec.europa.eu/finance/bank/regcapital/acts/implementing/index_en.htm\">http://ec.europa.eu/finance/bank/regcapital/acts/implementing/index_en.htm</a>.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/04/2017\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"4921fb53b7dc444cb22914aa917f4263\" id=\"f2c78261c7a742a4b6cbfaf6fccb63a5\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tRecognised exchanges  \r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"48ed46918d3440c8900e35d2d2bc9ab9\" id=\"c0367421eccc4b6b8c510546919638d9\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><span style=\"color: rgb(38, 38, 38);\">The CRR defines the term ‘recognised exchange’. This term is used in: the part of the CRR definitions of ‘repurchase agreement’ and ‘repurchase agreement’; the criteria for determining own funds requirements for investment firms; and in determining aspects of collateral eligibility and collateral volatility adjustments. To qualify as a recognised exchange under the CRR, an exchange must, among other things, meet the definition of a ‘regulated market’ set out in Directive 2014/65/EU (the Markets in Financial Instruments Directive (MIFID II)). The MIFID II definition of a regulated market requires authorisation and functioning of that market in accordance with MIFID II.  </span></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/04/2017\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"846878b54b3e48a1aafbf75c491aeb12\" id=\"1f945e5f14bd4a63ba9c8af7a5fb97e1\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Until such time as the ESMA implementing technical standards specifying the list of recognised exchanges are adopted by the European Commission, the PRA considers the following to qualify as recognised exchanges under the CRR: </p>\n<ul>\n<li>ICE Futures Europe; </li>\n<li>BATS Europe Regulated Market;</li>\n<li>ICAP Securities and Derivatives Exchange — Main Board;</li>\n<li>NYSE Euronext London; </li>\n<li>London Stock Exchange — Regulated Market;</li>\n<li>The London International Financial Futures and Options Exchange (LIFFE);</li>\n<li>London Metal Exchange; and</li>\n<li>any other exchange that has been authorised by another EEA competent authority and has been found by that authority to meet the CRR definition of recognised exchange set out in CRR Article 4(1)(72). </li>\n</ul>\n<div></div>\n<p>(CRR Articles 4(1)(72), 4(1)(82), 96(1)(a), 197(4) and (8), 198(1) and 224) </p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t28/04/2017\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "6a01ed2d526835ac3bbca87711b1a6e7b4fd94bedb62772961ee2ad8e7b0396f",
+  "canonical_json_path": null
+}

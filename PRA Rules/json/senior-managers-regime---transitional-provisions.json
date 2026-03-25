@@ -1,0 +1,103 @@
+{
+  "doc_id": "pra.rules.senior-managers-regime---transitional-provisions.2026",
+  "title": "Senior Managers Regime - Transitional Provisions (Deleted)",
+  "short_title": "Senior Managers Regime - Transitional Provisions (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/senior-managers-regime---transitional-provisions.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.senior-managers-regime---transitional-provisions",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Senior Managers Regime - Transitional Provisions (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/senior-managers-regime---transitional-provisions/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:53:08.626541",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [
+      {
+        "title": "SS28/15 – Strengthening individual accountability in banking",
+        "url": "/guidance/supervisory-statements/ss28-15---strengthening-individual-accountability-in-banking/03-03-2026"
+      },
+      {
+        "title": "SoP4/15 – Conditions, time limits and variations of approval",
+        "url": "/guidance/statements-of-policy/sop---conditions-time-limits-and-variations/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS16/15 - \"Strengthening individual accountability in banking: responses to CP14/14, CP28/14 and CP7/15\"",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/strengthening-individual-accountability-in-banking-responses"
+      },
+      {
+        "title": "- PRA Rulebook: Administration Instrument (No 2) 2015",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/pra-rulebook-administration-instrument-no-2-2015"
+      },
+      {
+        "title": "PS29/15 - Strengthening individual accountability in banking: UK branches of non-EEA banks",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/strengthening-accountability-in-banking-uk-branches-of-foreign-banks"
+      },
+      {
+        "title": "PS15/18 - Strengthening individual accountability in insurance: Extension of the Senior Managers and Certification Regime to insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2018/strengthening-individual-accountability-in-insurance-extension-of-the-smcr-to-insurers"
+      },
+      {
+        "title": "Senior Managers Regime - submitting, amending, withdrawing",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/Authorisations/senior-managers-regime-approvals"
+      },
+      {
+        "title": "CRD firms – reporting forms and guidance",
+        "url": "http://www.bankofengland.co.uk/pra/Pages/regulatorydata/crdfirms.aspx"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Senior Managers Regime - Transitional Provisions (Deleted)",
+      "slug": "senior-managers-regime---transitional-provisions",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/senior-managers-regime---transitional-provisions/03-03-2026",
+      "version_dates": [
+        "01-10-2015",
+        "10-12-2018",
+        "13-07-2015",
+        "16-12-2015"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 4
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

@@ -1,0 +1,110 @@
+{
+  "doc_id": "pra.rules.dormant-account-scheme.2026",
+  "title": "Dormant Account Scheme (Deleted)",
+  "short_title": "Dormant Account Scheme (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/dormant-account-scheme.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.dormant-account-scheme",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Dormant Account Scheme (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking, Financial_Conglomerates",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/dormant-account-scheme/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:52:35.685567",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms",
+      "Non-authorised persons",
+      "Non-CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [
+      {
+        "title": "SS18/15 – Depositor protection",
+        "url": "/guidance/supervisory-statements/ss18-15-depositor-protection/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS6/15 - Depositor and dormant account protection",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/depositor-and-dormant-account-protection"
+      },
+      {
+        "title": "PS9/15 - Depositor and dormant account protection - further amendments",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/depositor-and-dormant-account-protection-further-amendments"
+      },
+      {
+        "title": "PS14/15 - Depositor and dormant account protection - the protection limit",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/depositor-and-dormant-account-protection-the-protection-limit"
+      },
+      {
+        "title": "PS18/15 - Depositor and dormant account protection - consequential amendments",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/depositor-and-dormant-account-protection-consequential-amendments"
+      },
+      {
+        "title": "PS19/15 - The PRA Rulebook: Part 3",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-part-3"
+      },
+      {
+        "title": "PS7/16 - The PRA Rulebook: Fees",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2015/the-pra-rulebook-fees"
+      },
+      {
+        "title": "PS30/20 - The Bank of England’s amendments under the European Union (Withdrawal) Act 2018: Changes before the end of the transition period",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2020/uk-withdrawal-from-the-eu-changes-before-the-end-of-the-transition-period"
+      },
+      {
+        "title": "PS10/22 - Depositor Protection",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2022/november/ps10-depositor-protection"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Dormant Account Scheme (Deleted)",
+      "slug": "dormant-account-scheme",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/dormant-account-scheme/03-03-2026",
+      "version_dates": [
+        "01-03-2016",
+        "01-08-2015",
+        "03-07-2015",
+        "03-08-2015",
+        "30-11-2022",
+        "31-12-2020"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 6
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

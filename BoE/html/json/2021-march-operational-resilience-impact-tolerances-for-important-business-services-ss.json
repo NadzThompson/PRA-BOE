@@ -1,0 +1,50 @@
+{
+  "doc_id": "BOE-HTML-2021-march-operational-resilience-impact-tolerances-for-important-business-services-ss",
+  "title": "SS1/21 Operational resilience: Impact tolerances for important business services",
+  "short_title": "SS1/21",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "issuing_body": "Bank of England",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "current",
+  "effective_date_start": "2026-03-18",
+  "guideline_number": "SS1/21",
+  "sector": [
+    "banking",
+    "insurance",
+    "investment_firms"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/march/operational-resilience-impact-tolerances-for-important-business-services-ss",
+  "source_format": "html",
+  "boe_pdf_downloads": [
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss121-march-22.pdf",
+    "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss121-march-21.pdf"
+  ],
+  "pra_parent_documents": [
+    "pra.sop121-operational-resilience.2026",
+    "pra.ss421.2026"
+  ],
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "content_markdown": "First published on 29 March 2021\n\n\nThis Supervisory Statement (SS) sets out the Prudential Regulation Authority’s (PRA) expectations for the operational resilience of firms’ important business services, for which they are required to set impact tolerances. The policy objective is to improve the resilience of both firms and the wider financial sector to operational disruptions.\n\n\nThe policy addresses risks to operational resilience from the interconnectedness of the financial system and the complex and dynamic environment in which firms operate. The PRA considers that there is a need for a proportionate minimum standard of operational resilience that incentivises firms to prepare for disruptions and to invest where it is needed. Disruptions can affect firms’ safety and soundness, undermine policyholder protection and, where appropriate, affect financial stability.\n\n\nThis SS is relevant to all:\n\n\n    - UK banks, building societies, and PRA-designated investment firms; and\n\n    - UK Solvency II firms, the Society of Lloyd’s, and its managing agents.\n",
+  "sha256": "a6ad34940e1c5161beab4f08ab65122f3a5acd059e27eac09af922f0603ccc45",
+  "scraped_at": "2026-03-25T03:58:49.719761Z",
+  "raw_sha256": "a6ad34940e1c5161beab4f08ab65122f3a5acd059e27eac09af922f0603ccc45",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "BOE-HTML-2021-march-operational-resilience-impact-tolerances-for-important-business-services-ss",
+  "version_id": "2026-03-18",
+  "version_label": "March 2026",
+  "version_sort_key": "2026-03-18",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0
+}

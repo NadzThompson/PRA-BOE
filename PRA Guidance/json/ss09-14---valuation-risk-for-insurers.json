@@ -1,0 +1,169 @@
+{
+  "doc_id": "pra.ss914.2026",
+  "title": "SS9/14 – Valuation risk for insurers",
+  "short_title": "SS9/14",
+  "document_class": "supervisory_statement",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Guidance/json/ss09-14---valuation-risk-for-insurers.json",
+  "canonical_path": null,
+  "sha256": "8b297363bae59a7a2b714b6c01f7cf0ba45856a0cdea6fd94cc4584d8d8e2768",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.ss914",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "SS9/14",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "interpretive",
+  "authority_level": 2,
+  "nova_tier": 2,
+  "jurisdiction": "United Kingdom",
+  "sector": "Insurance",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/guidance/supervisory-statements/ss09-14---valuation-risk-for-insurers/03-03-2026",
+    "content_type": "Supervisory Statement",
+    "scrape_date": "2026-03-02T20:57:32.519767",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "SII Firms",
+      "Non-SII Firms"
+    ],
+    "chapters": [
+      "Introduction",
+      "PRA expectations regarding valuation uncertainty and prudent valuation",
+      "PRA expectations regarding client-supplied prices"
+    ],
+    "related_guidance": [],
+    "related_policy_statements": [
+      {
+        "title": "CP10/14 - Valuation risk for insurers",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/model-risk-management-principles-for-stress-testing"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "SS9/14 – Valuation risk for insurers",
+      "slug": "ss09-14---valuation-risk-for-insurers",
+      "version_dates": [
+        "01-01-2016"
+      ],
+      "boe_references": [
+        {
+          "title": "The Supervisory Statement (SS) shown on this page is effective from 01/01/2016. Past versions of this SS can be found here",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2014/valuation-risk-for-insurers-ss"
+        },
+        {
+          "title": "CP10/14 - Valuation risk for insurers",
+          "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2017/model-risk-management-principles-for-stress-testing"
+        },
+        {
+          "title": "www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx",
+          "url": "http://www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx"
+        },
+        {
+          "title": "http://www.bankofengland.co.uk/pra/Pages/publications/cp/2014/cp1014.aspx",
+          "url": "http://www.bankofengland.co.uk/pra/Pages/publications/cp/2014/cp1014.aspx"
+        }
+      ],
+      "total_amendments": 1
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Introduction",
+        "paragraphs": [
+          {
+            "paragraph_number": "1.1",
+            "summary": "This supervisory statement sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms outside the scope of Solvency II from 1 January 2016, in relation to rules on the valuation of f",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "1.2",
+            "summary": "The statement seeks to reduce the risk to the PRA’s objectives caused by intended or unintended misstatement of values and hence misstatement of capital resources, by clarifying the PRA’s existing exp",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "1.3",
+            "summary": "The PRA’s public consultation2 on this statement ended on 11 July 2014. At consultation, the PRA considered the way in which the policy advances the PRA’s objectives, the impact on mutual, consistency",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "1.4",
+            "summary": "This statement does not represent a change of policy. Future clarifications or expectations on the topic of valuation risk may be added to the statement.",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "PRA expectations regarding valuation uncertainty and prudent valuation",
+        "paragraphs": [
+          {
+            "paragraph_number": "2.1",
+            "summary": "The PRA reminds governing bodies of NDFs to review their compliance with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook on valuation uncertainty and prudent valuation",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "2.2",
+            "summary": "In order to comply with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook, NDFs must monitor and manage valuation risk. This risk is often most material for portfolios o",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "2.3",
+            "summary": "The assessment and quantification of valuation uncertainty needs to be underpinned by adequate standards of financial asset valuation governance and control. This includes sufficient independence in v",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "PRA expectations regarding client-supplied prices",
+        "paragraphs": [
+          {
+            "paragraph_number": "3.1",
+            "summary": "One example of the governance and control failings referred to in paragraph 2.3, is the lack of appropriate controls around what are commonly referred to as ‘client-supplied’ prices.",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "3.2",
+            "summary": "For the purposes of this statement, the term ‘client-supplied’ prices, refers to prices or pricing inputs that are sourced by external valuation providers directly from their clients (insurers/investm",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "3.3",
+            "summary": "The lack of independence inherent in ‘client-supplied’ prices may allow investment managers to manipulate their performance. In the absence of effective controls to highlight ‘client-supplied’ prices,",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "3.4",
+            "summary": "The PRA expects firms to monitor and limit their use of ‘client-supplied’ prices and to have clear visibility of all price sources used, in particular where ‘client-supplied’ prices are used in their ",
+            "as_at_date": "01/01/2016"
+          },
+          {
+            "paragraph_number": "3.5",
+            "summary": "In situations where practical alternatives to ‘client-supplied’ pricing are not available, the PRA expects to see robust controls including (but not limited to) independent price verification and repo",
+            "as_at_date": "01/01/2016"
+          }
+        ]
+      }
+    ],
+    "section_count": 3,
+    "rule_count": 12
+  },
+  "content_markdown": "1\n\n###  Introduction\n\n**Update** : on 20 November 2015 the PRA updated this supervisory statement to reflect the changes to the PRA Rulebook that will occur when the new Solvency II and non-Directive firm (NDF) regimes come into force on 1 January 2016. The statement is not addressed to firms within the scope of Solvency II who will need to value their assets in accordance with the Valuation Part of the PRA Rulebook and must have the necessary governance and internal controls in place to control their valuation risks. For the avoidance of doubt, Solvency II contains the same requirements covered in this statement. Paragraphs 1.1, 2.1 and 2.2 have been updated. The response to consultation feedback in paragraph 1.5 has been deleted, and is available for reference in the August 2014 version1.\n\n#### Footnotes\n\n  * 1\\.  PRA Supervisory Statement 9/14 Valuation risk for insurers, August 2014; [www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx](http://www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx)\n\n*Effective: 01/01/2016*\n\n1.1\n\nThis supervisory statement sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms outside the scope of Solvency II from 1 January 2016, in relation to rules on the valuation of financial assets. Collectively, these firms are referred to as non-Directive firms (NDFs).\n\n*Effective: 01/01/2016*\n\n1.2\n\nThe statement seeks to reduce the risk to the PRA’s objectives caused by intended or unintended misstatement of values and hence misstatement of capital resources, by clarifying the PRA’s existing expectations. The statement is therefore designed to help the PRA meet its statutory objectives of promoting safety and soundness of the firms it regulates and, specifically for insurers, to contribute to securing an appropriate degree of protection for policyholders, along with its secondary objective; to promote effective competition.\n\n*Effective: 01/01/2016*\n\n1.3\n\nThe PRA’s public consultation2 on this statement ended on 11 July 2014. At consultation, the PRA considered the way in which the policy advances the PRA’s objectives, the impact on mutual, consistency with the Regulatory Principles3, the impact on equality and diversity and the costs and benefits of the proposed policy. The PRA’s findings on these issues are unchanged following consultation and the PRA’s consideration of the feedback received.\n\n#### Footnotes\n\n  * 2\\.  PRA Consultation Paper 10/14 Valuation risk for insurers, May 2014; <http://www.bankofengland.co.uk/pra/Pages/publications/cp/2014/cp1014.aspx>\n  * 3\\.  Section 3B of the Financial Services and Markets Act (FSMA) 2000.\n\n*Effective: 01/01/2016*\n\n1.4\n\nThis statement does not represent a change of policy. Future clarifications or expectations on the topic of valuation risk may be added to the statement.\n\n*Effective: 01/01/2016*\n\n2\n\n###  PRA expectations regarding valuation uncertainty and prudent valuation\n\n2.1\n\nThe PRA reminds governing bodies of NDFs to review their compliance with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook on valuation uncertainty and prudent valuation and expects firms to have governance and processes in place to meet these requirements.\n\n*Effective: 01/01/2016*\n\n2.2\n\nIn order to comply with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook, NDFs must monitor and manage valuation risk. This risk is often most material for portfolios of structured products or illiquid securities. In such cases, the insurers’ assessment and quantification of valuation uncertainty needs to be sufficiently robust and complete. Valuation uncertainty is the term used to refer to the existence, at the reporting date and time, of a range of plausible values for a financial instrument or portfolio of positions. Determining a prudent valuation requires an assessment of valuation uncertainty, which is a measure of valuation risk.\n\n*Effective: 01/01/2016*\n\n2.3\n\nThe assessment and quantification of valuation uncertainty needs to be underpinned by adequate standards of financial asset valuation governance and control. This includes sufficient independence in valuing assets, adequate documentation of policies and procedures, appropriate control over valuation models (including an understanding of model assumptions and limitations), suitable management information and consistent governance between internally and externally managed funds. Where governance and control failings over asset valuations exist, the increased valuation uncertainty should be reflected in reporting on the affected portfolio.\n\n*Effective: 01/01/2016*\n\n3\n\n###  PRA expectations regarding client-supplied prices\n\n3.1\n\nOne example of the governance and control failings referred to in paragraph 2.3, is the lack of appropriate controls around what are commonly referred to as ‘client-supplied’ prices.\n\n*Effective: 01/01/2016*\n\n3.2\n\nFor the purposes of this statement, the term ‘client-supplied’ prices, refers to prices or pricing inputs that are sourced by external valuation providers directly from their clients (insurers/investment managers/other relevant entities). Such prices, when received from external valuation providers, may have the appearance of being independent when they are not. We have seen utilisation of ‘client-supplied’ prices where the valuation function has been outsourced by an insurer, investment manager or other relevant entity.\n\n*Effective: 01/01/2016*\n\n3.3\n\nThe lack of independence inherent in ‘client-supplied’ prices may allow investment managers to manipulate their performance. In the absence of effective controls to highlight ‘client-supplied’ prices, insurers, investment managers or other relevant entities may be unable to identify and address the lack of independence and potential manipulation.\n\n*Effective: 01/01/2016*\n\n3.4\n\nThe PRA expects firms to monitor and limit their use of ‘client-supplied’ prices and to have clear visibility of all price sources used, in particular where ‘client-supplied’ prices are used in their valuations. The PRA expects that insurers and their investment managers will not supply their own prices or pricing inputs to external valuation providers without additional governance (eg appropriate sign-off) and documented justification.\n\n*Effective: 01/01/2016*\n\n3.5\n\nIn situations where practical alternatives to ‘client-supplied’ pricing are not available, the PRA expects to see robust controls including (but not limited to) independent price verification and reporting of the materiality of ‘client-supplied’ prices to senior management.\n\n*Effective: 01/01/2016*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"9ed16891dcb14ccaa5bbd9bd2e41b9f7\" id=\"ecabea014857440096b267a22bad1a1f\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5da882a3b12a4a239d39c5e3bc945831\" id=\"7ba4f2d9a36d46d190ad22cf524f2eaa\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p><strong>Update</strong>: on 20 November 2015 the PRA updated this supervisory statement to reflect the changes to the PRA Rulebook that will occur when the new Solvency II and non-Directive firm (NDF) regimes come into force on 1 January 2016. The statement is not addressed to firms within the scope of Solvency II who will need to value their assets in accordance with the Valuation Part of the PRA Rulebook and must have the necessary governance and internal controls in place to control their valuation risks. For the avoidance of doubt, Solvency II contains the same requirements covered in this statement. Paragraphs 1.1, 2.1 and 2.2 have been updated. The response to consultation feedback in paragraph 1.5 has been deleted, and is available for reference in the August 2014 version<sup><a href=\"#footnote-1\">1</a></sup>.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Supervisory Statement 9/14 Valuation risk for insurers, August 2014; <a href=\"http://www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx\">www.bankofengland.co.uk/pra/Pages/publications/ss/2014/ss914.aspx</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"566878cfa356454e901d91c5be5cf831\" id=\"87e2d3df4f594a2b91fdcad40f907e5f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement sets out the Prudential Regulation Authority’s (PRA’s) expectations of firms outside the scope of Solvency II from 1 January 2016, in relation to rules on the valuation of financial assets. Collectively, these firms are referred to as non-Directive firms (NDFs).</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"6eb62389218744b098ac8aacbbc75e59\" id=\"043d560cdc2e4222a9a290ec86e66116\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The statement seeks to reduce the risk to the PRA’s objectives caused by intended or unintended misstatement of values and hence misstatement of capital resources, by clarifying the PRA’s existing expectations. The statement is therefore designed to help the PRA meet its statutory objectives of promoting safety and soundness of the firms it regulates and, specifically for insurers, to contribute to securing an appropriate degree of protection for policyholders, along with its secondary objective; to promote effective competition.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ed53f853c6e7473082c30e057efd57d6\" id=\"181685a8084b4ab787f920c9c54e9749\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA’s public consultation<sup><a href=\"#footnote-2\">2</a></sup> on this statement ended on 11 July 2014. At consultation, the PRA considered the way in which the policy advances the PRA’s objectives, the impact on mutual, consistency with the Regulatory Principles<sup><a href=\"#footnote-3\">3</a></sup>, the impact on equality and diversity and the costs and benefits of the proposed policy. The PRA’s findings on these issues are unchanged following consultation and the PRA’s consideration of the feedback received.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Consultation Paper 10/14 Valuation risk for insurers, May 2014; <a href=\"http://www.bankofengland.co.uk/pra/Pages/publications/cp/2014/cp1014.aspx\">http://www.bankofengland.co.uk/pra/Pages/publications/cp/2014/cp1014.aspx</a>\n</span>\n</li>\n<li class=\"rb-footnote\" id=\"footnote-3\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t3.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tSection 3B of the Financial Services and Markets Act (FSMA) 2000.\r\n\t\t\t\t\t</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ba0c702d730a45f2a288ce5fef19a7be\" id=\"58b525692cd9498c96aacb0c1139d385\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement does not represent a change of policy. Future clarifications or expectations on the topic of valuation risk may be added to the statement.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"650847aa618c423e80a5869f1f3d92ec\" id=\"d3851391bbd64c86a441146c3ea271ed\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPRA expectations regarding valuation uncertainty and prudent valuation\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ba40ea1885214a3e969b37e18b13d298\" id=\"d3faa952f316436a9dfb6181820dc070\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA reminds governing bodies of NDFs to review their compliance with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook on valuation uncertainty and prudent valuation and expects firms to have governance and processes in place to meet these requirements.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"ef5d765650a2443d95123855a0893b9b\" id=\"43ba6f73eb2443559dd0d919bb343487\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In order to comply with the Insurance Company – Overall Resources and Valuation Part of the PRA Rulebook, NDFs must monitor and manage valuation risk. This risk is often most material for portfolios of structured products or illiquid securities. In such cases, the insurers’ assessment and quantification of valuation uncertainty needs to be sufficiently robust and complete. Valuation uncertainty is the term used to refer to the existence, at the reporting date and time, of a range of plausible values for a financial instrument or portfolio of positions. <span style=\"color: rgb(38, 38, 38); line-height: 101%;\">Determining a prudent valuation requires an assessment of valuation uncertainty, which is a measure of valuation risk.</span></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"5f5e6f00947e4b0e849ab9664da2d0ec\" id=\"2742b71ef96e43f79c51634440d87342\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The assessment and quantification of valuation uncertainty needs to be underpinned by adequate standards of financial asset valuation governance and control. This includes sufficient independence in valuing assets, adequate documentation of policies and procedures, appropriate control over valuation models (including an understanding of model assumptions and limitations), suitable management information and consistent governance between internally and externally managed funds. Where governance and control failings over asset valuations exist, the increased valuation uncertainty should be reflected in reporting on the affected portfolio.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"d29fa046eb1a44fc8f7a49b0dc9df920\" id=\"6821c07c682c4311804bcface027fb39\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPRA expectations regarding client-supplied prices\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e65b5fdb2fb54c7380db7e2f74e72931\" id=\"a641c8e3a31a47adbe54436e121424f3\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>One example of the governance and control failings referred to in paragraph 2.3, is the lack of appropriate controls around what are commonly referred to as ‘client-supplied’ prices.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"2572e1fee0d846d9a29f0e18908ebf26\" id=\"2039f0de7d5146d5ac61cbae8426e480\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>For the purposes of this statement, the term ‘client-supplied’ prices, refers to prices or pricing inputs that are sourced by external valuation providers directly from their clients (insurers/investment managers/other relevant entities). Such prices, when received from external valuation providers, may have the appearance of being independent when they are not. We have seen utilisation of ‘client-supplied’ prices where the valuation function has been outsourced by an insurer, investment manager or other relevant entity.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"de4c2034a663431f9a34b078fd30979b\" id=\"70d7269964d1430bb3883fe98d44d0fa\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The lack of independence inherent in ‘client-supplied’ prices may allow investment managers to manipulate their performance. In the absence of effective controls to highlight ‘client-supplied’ prices, insurers, investment managers or other relevant entities may be unable to identify and address the lack of independence and potential manipulation.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"b1179361b56a4ec3858097a0055a8069\" id=\"0580e6fb3a0443b7a9739edeebe1a0fc\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.4\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA expects firms to monitor and limit their use of ‘client-supplied’ prices and to have clear visibility of all price sources used, in particular where ‘client-supplied’ prices are used in their valuations. The PRA expects that insurers and their investment managers will not supply their own prices or pricing inputs to external valuation providers without additional governance (eg appropriate sign-off) and documented justification.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"bfced47ce2c14e33962073101adc1289\" id=\"25cd5ad607ef4f2ea691e45b8fcb903e\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t3.5\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In situations where practical alternatives to ‘client-supplied’ pricing are not available, the PRA expects to see robust controls including (but not limited to) independent price verification and reporting of the materiality of ‘client-supplied’ prices to senior management.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "8b297363bae59a7a2b714b6c01f7cf0ba45856a0cdea6fd94cc4584d8d8e2768",
+  "canonical_json_path": null
+}

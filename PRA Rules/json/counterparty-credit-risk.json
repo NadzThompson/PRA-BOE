@@ -1,0 +1,85 @@
+{
+  "doc_id": "pra.rules.counterparty-credit-risk.2026",
+  "title": "Counterparty Credit Risk (Deleted)",
+  "short_title": "Counterparty Credit Risk (Deleted) (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/counterparty-credit-risk.json",
+  "canonical_path": null,
+  "sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.counterparty-credit-risk",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Counterparty Credit Risk (Deleted)",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/counterparty-credit-risk/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:49:29.041149",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [],
+    "related_guidance": [
+      {
+        "title": "SS12/13 – Counterparty credit risk",
+        "url": "/guidance/supervisory-statements/ss12-13---counterparty-credit-risk/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS7/13 - Strengthening capital standards: implementing CRD IV, feedback and final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/strengthening-capital-standards-implementing-crd-4"
+      },
+      {
+        "title": "PS20/21 - Financial holding companies: Further implementation",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/june/financial-holding-companies-further-implementation"
+      },
+      {
+        "title": "PS22/21 - Implementation of Basel standards: Final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2021/october/implementation-of-basel-standards"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Counterparty Credit Risk (Deleted)",
+      "slug": "counterparty-credit-risk",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/counterparty-credit-risk/03-03-2026",
+      "version_dates": [
+        "01-01-2014",
+        "01-01-2022",
+        "17-09-2021"
+      ],
+      "rule_as_at_dates": [],
+      "past_versions": [],
+      "total_amendments": 3
+    },
+    "sections": [],
+    "section_count": 0,
+    "rule_count": 0
+  },
+  "content_markdown": "",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
+  "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
+  "canonical_json_path": null
+}

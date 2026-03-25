@@ -1,0 +1,117 @@
+{
+  "doc_id": "pra.rules.benchmarking-of-internal-approaches.2026",
+  "title": "Benchmarking of Internal Approaches",
+  "short_title": "Benchmarking of Internal Approaches (PRA Rule)",
+  "document_class": "rulebook_rule",
+  "source_type": "external_regulatory",
+  "raw_path": "PRA Rules/json/benchmarking-of-internal-approaches.json",
+  "canonical_path": null,
+  "sha256": "9af7b49313baddc21b433dae33e400c95caf8eaadc2d5169b753808d3d762008",
+  "parser_version": "pra-nova-enrichment-v1.0.0",
+  "quality_score": 1.0,
+  "regulator": "PRA",
+  "regulator_acronym": "PRA",
+  "doc_family_id": "pra.rules.benchmarking-of-internal-approaches",
+  "version_id": "2026-03-03",
+  "version_label": "2026",
+  "version_sort_key": "2026-03-03",
+  "guideline_number": "Benchmarking of Internal Approaches",
+  "status": "active",
+  "current_version_flag": true,
+  "effective_date_start": "2026-03-03",
+  "effective_date_end": null,
+  "authority_class": "primary_normative",
+  "authority_level": 1,
+  "nova_tier": 1,
+  "jurisdiction": "United Kingdom",
+  "sector": "Banking",
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "boe_pdf_urls": [],
+  "pra_metadata": {
+    "source_url": "https://www.prarulebook.co.uk/pra-rules/benchmarking-of-internal-approaches/03-03-2026",
+    "content_type": "PRA Rule",
+    "scrape_date": "2026-03-02T20:49:24.173073",
+    "as_at_date": "03-03-2026",
+    "applies_to": [
+      "CRR Firms"
+    ],
+    "chapters": [
+      "Application and Definitions",
+      "Supervisory Benchmarking of Internal Approaches for Calculating Own Funds Requirements"
+    ],
+    "related_guidance": [
+      {
+        "title": "SS9/13 – Securitisation: Significant Risk Transfer",
+        "url": "/guidance/supervisory-statements/ss09-13-securitisation---significant-risk-transfer/03-03-2026"
+      },
+      {
+        "title": "SS10/13 – Credit risk - standardised approach",
+        "url": "/guidance/supervisory-statements/ss10-13----credit-risk---standardised-approach/03-03-2026"
+      },
+      {
+        "title": "SS11/13 – Internal Ratings Based (IRB) approaches",
+        "url": "/guidance/supervisory-statements/ss11-13--internal-ratings-based-irb-approaches/03-03-2026"
+      }
+    ],
+    "related_policy_statements": [
+      {
+        "title": "PS7/13 - Strengthening capital standards: implementing CRD IV, feedback and final rules",
+        "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2013/strengthening-capital-standards-implementing-crd-4"
+      }
+    ],
+    "related_legal_instruments": [],
+    "timeline": {
+      "title": "Benchmarking of Internal Approaches",
+      "slug": "benchmarking-of-internal-approaches",
+      "source_url": "https://www.prarulebook.co.uk/pra-rules/benchmarking-of-internal-approaches/03-03-2026",
+      "version_dates": [
+        "01-01-2014",
+        "01-01-2027"
+      ],
+      "rule_as_at_dates": [
+        "01/01/2014"
+      ],
+      "past_versions": [],
+      "total_amendments": 2
+    },
+    "sections": [
+      {
+        "chapter_number": "",
+        "chapter_title": "Application and Definitions",
+        "rules": [
+          {
+            "rule_number": "1.1",
+            "summary": "This Part applies to every firm that is a CRR firm.",
+            "as_at_date": "01/01/2014"
+          },
+          {
+            "rule_number": "1.2",
+            "summary": "Unless otherwise defined, any italicised expression used in this Part and in the CRD has the same meaning as in the CRD.",
+            "as_at_date": "01/01/2014"
+          }
+        ]
+      },
+      {
+        "chapter_number": "",
+        "chapter_title": "Supervisory Benchmarking of Internal Approaches for Calculating Own Funds Requirements",
+        "rules": [
+          {
+            "rule_number": "2.1",
+            "summary": "Except for operational risk , a firm that is permitted to use internal approaches for the calculation of risk weighted exposure amounts or own funds requirements must report annually to the _P",
+            "as_at_date": "01/01/2014"
+          }
+        ]
+      }
+    ],
+    "section_count": 2,
+    "rule_count": 3
+  },
+  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to every _firm_ that is a _CRR firm_.\n\n*Effective: 01/01/2014*\n\n1.2\n\nUnless otherwise defined, any italicised expression used in this Part and in the _CRD_ has the same meaning as in the _CRD_.\n\n*Effective: 01/01/2014*\n\n2\n\n###  Supervisory Benchmarking of Internal Approaches for Calculating Own Funds Requirements\n\n2.1\n\nExcept for _operational risk_ , a _firm_ that is permitted to use _internal approaches_ for the calculation of risk weighted exposure amounts or _own funds_ requirements must report annually to the _PRA_ :\n\n  1. (1) the results of the calculations of their _internal approaches_ for their exposures or positions that are included in the benchmark portfolios; and\n  2. (2) an explanation of the methodologies used to produce those calculations.\n\n*Effective: 01/01/2014*",
+  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"8dc1ff78f47946e1a4ef5d721c77d39a\" id=\"ae7b00f7983142f5a302d1ed4a8c7a01\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"13a56d68b30a4d5fb576dc0d58e4ae27\" id=\"73cc225c9b9d48c0a9d377f2e1372d5c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"6849987ced3e48c1bfdf32512aed1c4c\" id=\"07a1b8fad6bd4d779f4f20a8eaca049f\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise defined, any italicised expression used in this Part and in the <em><a class=\"glossary-link\" data-glossary-id=\"52109\" data-mce-linktype=\"2\" href=\"#glossary-term-31e4b635ac0e45079e29954e3d518bec\" title=\"CRD\">CRD</a></em> has the same meaning as in the <em><a class=\"glossary-link\" data-glossary-id=\"52109\" data-mce-linktype=\"2\" href=\"#glossary-term-31e4b635ac0e45079e29954e3d518bec\" title=\"CRD\">CRD</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"9f135dbb95bb470c977c701fc55944af\" id=\"f33c583f188a47bea144639689e356d6\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tSupervisory Benchmarking of Internal Approaches for Calculating Own Funds Requirements\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c9c5f1d15a4c4055be93eb3ecc913baf\" id=\"2a2079579f194ea9868637c2c9b49437\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Except for <em><a class=\"glossary-link\" data-glossary-id=\"52360\" data-mce-linktype=\"2\" href=\"#glossary-term-fc8f60f6dc8c4b9d8795a64c8c48609b\" title=\"operational risk\">operational risk</a></em>, a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that is permitted to use <em><a class=\"glossary-link\" data-glossary-id=\"52359\" data-mce-linktype=\"2\" href=\"#glossary-term-ba5d27994894490cbc8351ff2424c728\" title=\"internal approaches\">internal approaches</a></em> for the calculation of risk weighted exposure amounts or <em><a class=\"glossary-link\" data-glossary-id=\"52361\" data-mce-linktype=\"2\" href=\"#glossary-term-74d0d02f425f4415ab15cb5008d66a31\" title=\"own funds\">own funds</a></em> requirements must report annually to the <em><a class=\"glossary-link\" data-glossary-id=\"52117\" data-mce-linktype=\"2\" href=\"#glossary-term-494fbb81077e408f84519b8c66998fef\" title=\"PRA\">PRA</a></em>:</p>\n<ol class=\"new-bullet\">\n<li>(1) the results of the calculations of their <em style=\"text-indent: 0px;\"><a class=\"glossary-link\" data-glossary-id=\"52359\" data-mce-linktype=\"2\" href=\"#glossary-term-ba5d27994894490cbc8351ff2424c728\" title=\"internal approaches\">internal approaches</a></em> for their exposures or positions that are included in the benchmark portfolios; and</li>\n<li>(2) an explanation of the methodologies used to produce those calculations.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
+  "raw_sha256": "9af7b49313baddc21b433dae33e400c95caf8eaadc2d5169b753808d3d762008",
+  "canonical_json_path": null
+}
