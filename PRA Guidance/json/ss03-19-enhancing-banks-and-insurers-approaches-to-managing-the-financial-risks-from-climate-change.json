@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.ss319",
-  "version_id": "2026-03-03",
-  "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_id": "2025-12-03",
+  "version_label": "2025",
+  "version_sort_key": "2025-12-03",
   "guideline_number": "SS3/19",
-  "status": "active",
-  "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "status": "superseded",
+  "current_version_flag": false,
+  "effective_date_start": "2025-12-03",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -26,7 +26,7 @@
   "jurisdiction": "United Kingdom",
   "sector": "Insurance",
   "supersedes_doc_id": null,
-  "superseded_by_doc_id": null,
+  "superseded_by_doc_id": "pra.ss525.2026",
   "contains_definition": false,
   "contains_formula": false,
   "contains_requirement": false,
@@ -85,8 +85,33 @@
     "section_count": 0,
     "rule_count": 0
   },
-  "content_markdown": "###\n\nThis Supervisory Statement was replaced by [SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks](/guidance/supervisory-statements/ss05-25---enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks) with effect from 3 December 2025.\n\n*Effective: 03/12/2025*",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"15e44499846249dfaa87411ffacff530\" id=\"72522693c9c6481a897768bac45f71ab\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d4bfe17750dd4dc494db0f1a1b6e379c\" id=\"1104fb5c00614049959849b72cff610c\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\tThis Supervisory Statement was replaced by <a data-rb-content-link=\"Guidance\" href=\"/guidance/supervisory-statements/ss05-25---enhancing-banks-and-insurers-approaches-to-managing-climate-related-risks\">SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks</a> with effect from 3 December 2025.\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t03/12/2025\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n</div>\n</div>",
   "raw_sha256": "aa5ed41b6d46f3f8f356d13df4ab08a1486282cfec6d24c163fcd348e994ac2b",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_dates_all": [
+    "2025-12-03"
+  ],
+  "effective_date_source": "body_effective_tag",
+  "heading_path": [
+    "SS3/19 – Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change [Deleted]",
+    "This Supervisory Statement was replaced by SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks with effect from 3 December 2025."
+  ],
+  "section_path": "SS3/19 – Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change [Deleted] > This Supervisory Statement was replaced by SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks with effect from 3 December 2025.",
+  "citation_anchor": "pra.ss319.2026::ss3_19___enhancing_banks__and_insurers__",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "SS3/19 – Enhancing banks’ and insurers’ approaches to managing the financial risks from climate change [Deleted]",
+      "id": "h1-0"
+    },
+    {
+      "level": 3,
+      "text": "This Supervisory Statement was replaced by SS5/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks with effect from 3 December 2025.",
+      "id": "h3-1"
+    }
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "superseded_by_text": "Superseded by SS5/25 – Enhancing banks' and insurers' approaches to managing climate-related risks (effective 31 December 2024, published 3 December 2025)"
 }

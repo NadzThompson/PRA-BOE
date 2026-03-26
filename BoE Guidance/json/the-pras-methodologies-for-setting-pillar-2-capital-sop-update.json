@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2-capital-sop-update",
+  "title": "The Pras Methodologies For Setting Pillar 2 Capital Sop Update",
+  "short_title": "the-pras-methodologies-for-setting-pillar-2-capital-sop-update",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2017-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2017/the-pras-methodologies-for-setting-pillar-2-capital-sop-update.pdf",
+  "source_format": "pdf",
+  "pages": 43,
+  "pra_parent_documents": [
+    "pra.sop515-the-pras-methodologies-for-setting-pillar-2-capital.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2-capital-sop-update",
+  "version_id": "2017-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "e9d108fcee0dc9c520d2c982dd33a6425f43fc72577a79fa42054f1fb38f0c24",
+  "scraped_at": "2026-03-25T03:32:28.984056Z",
+  "raw_sha256": "e9d108fcee0dc9c520d2c982dd33a6425f43fc72577a79fa42054f1fb38f0c24",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2017",
+  "version_sort_key": "2017-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Methodologies For Setting Pillar 2 Capital Sop Update"
+  ],
+  "section_path": "The Pras Methodologies For Setting Pillar 2 Capital Sop Update",
+  "citation_anchor": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2-capital-sop-update::root",
+  "section_headings": []
+}

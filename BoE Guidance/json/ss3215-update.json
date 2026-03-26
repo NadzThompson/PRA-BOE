@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss3215-update",
+  "title": "SS3215/ – Ss3215 Update",
+  "short_title": "SS3215/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2016-01-01",
+  "guideline_number": "SS3215/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss3215-update.pdf",
+  "source_format": "pdf",
+  "pages": 7,
+  "pra_parent_documents": [
+    "pra.ss3215.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss3215-update",
+  "version_id": "2016-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "1046ec0ddc732fcaaa2446df8be06bdb170a9d1b34b805532b73ae813ab4115f",
+  "scraped_at": "2026-03-25T03:32:27.760407Z",
+  "raw_sha256": "1046ec0ddc732fcaaa2446df8be06bdb170a9d1b34b805532b73ae813ab4115f",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2016",
+  "version_sort_key": "2016-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS3215/ – Ss3215 Update"
+  ],
+  "section_path": "SS3215/ – Ss3215 Update",
+  "citation_anchor": "PRA-BOE-ss3215-update::root",
+  "section_headings": []
+}

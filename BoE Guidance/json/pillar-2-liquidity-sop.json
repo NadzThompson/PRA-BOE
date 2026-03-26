@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-pillar-2-liquidity-sop",
+  "title": "Pillar 2 Liquidity Sop",
+  "short_title": "pillar-2-liquidity-sop",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2018/pillar-2-liquidity-sop.pdf",
+  "source_format": "pdf",
+  "pages": 21,
+  "pra_parent_documents": [
+    "pra.sop118-pillar-2-liquidity.2026"
+  ],
+  "doc_family_id": "PRA-BOE-pillar-2-liquidity-sop",
+  "version_id": "2018-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "be9c3d95c0ca242c1588135e33daf87bae167776f2b4460b6296f58c58ef7f19",
+  "scraped_at": "2026-03-25T03:32:25.580631Z",
+  "raw_sha256": "be9c3d95c0ca242c1588135e33daf87bae167776f2b4460b6296f58c58ef7f19",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2018",
+  "version_sort_key": "2018-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Pillar 2 Liquidity Sop"
+  ],
+  "section_path": "Pillar 2 Liquidity Sop",
+  "citation_anchor": "PRA-BOE-pillar-2-liquidity-sop::root",
+  "section_headings": []
+}

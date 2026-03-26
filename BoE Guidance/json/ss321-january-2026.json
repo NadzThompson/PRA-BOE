@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss321-january-2026",
+  "title": "SS321/ – Ss321 January 2026",
+  "short_title": "SS321/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2026-01-01",
+  "guideline_number": "SS321/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2026/ss321-january-2026.pdf",
+  "source_format": "pdf",
+  "pages": 30,
+  "pra_parent_documents": [
+    "pra.ss321.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss321-january-2026",
+  "version_id": "2026-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "bdee16fdb4b6248f9ce6f039e4648648a0d0fe54c460acb3e0bdf36bca6b2fbf",
+  "scraped_at": "2026-03-25T03:32:27.696568Z",
+  "raw_sha256": "bdee16fdb4b6248f9ce6f039e4648648a0d0fe54c460acb3e0bdf36bca6b2fbf",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2026",
+  "version_sort_key": "2026-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS321/ – Ss321 January 2026"
+  ],
+  "section_path": "SS321/ – Ss321 January 2026",
+  "citation_anchor": "PRA-BOE-ss321-january-2026::root",
+  "section_headings": []
+}

@@ -38,6 +38,32 @@
     "as_at_date": "03-03-2026",
     "title": "CRR Firms (Capital Requirements Regulation)"
   },
-  "content_markdown": "# CRR Firms (Capital Requirements Regulation)\n\n**Description:** UK banks, building societies, or UK designated investment firms subject to the CRR\n**Total Rules:** 0\n**Effective Date:** 03-03-2026\n\n## Rules\n",
-  "content_html": "<h1>CRR Firms (Capital Requirements Regulation)</h1>\n<p><strong>Description:</strong> UK banks, building societies, or UK designated investment firms subject to the CRR</p>\n<p><strong>Total Rules:</strong> 0</p>\n<table><thead><tr><th>#</th><th>Rule</th><th>Also Applies To</th><th>Status</th></tr></thead><tbody>\n</tbody></table>"
+  "heading_path": [
+    "CRR Firms (Capital Requirements Regulation)",
+    "CRR Firms (Capital Requirements Regulation)",
+    "Rules"
+  ],
+  "section_path": "CRR Firms (Capital Requirements Regulation) > CRR Firms (Capital Requirements Regulation) > Rules",
+  "citation_anchor": "PRA-crr-firms::crr_firms__capital_requirements_regulati",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "CRR Firms (Capital Requirements Regulation)",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "CRR Firms (Capital Requirements Regulation)",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Rules",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

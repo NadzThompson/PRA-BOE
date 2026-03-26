@@ -48,6 +48,10 @@
       "total_amendments": 0
     }
   },
-  "content_markdown": "# PRA Rulebook - Rules Index\n\nTotal: 0",
-  "content_html": "<h1>PRA Rulebook - Rules Index</h1><p>Total: 0</p><ol></ol>"
+  "heading_path": [
+    "PRA Rulebook - Rules Index"
+  ],
+  "section_path": "PRA Rulebook - Rules Index",
+  "citation_anchor": "PRA-pra-rules-index::root",
+  "section_headings": []
 }

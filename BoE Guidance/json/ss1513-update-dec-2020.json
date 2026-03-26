@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1513-update-dec-2020",
+  "title": "SS1513/ – Ss1513 Update Dec 2020",
+  "short_title": "SS1513/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2020-12-01",
+  "guideline_number": "SS1513/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss1513-update-dec-2020.pdf",
+  "source_format": "pdf",
+  "pages": 8,
+  "pra_parent_documents": [
+    "pra.ss1513.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1513-update-dec-2020",
+  "version_id": "2020-12-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "sha256": "ae7af104667b435523b0f459f56c6773d4f8351cdc344e4d22d40343c796cbee",
+  "scraped_at": "2026-03-25T03:32:26.324235Z",
+  "raw_sha256": "ae7af104667b435523b0f459f56c6773d4f8351cdc344e4d22d40343c796cbee",
+  "regulator_acronym": "PRA",
+  "version_label": "December 2020",
+  "version_sort_key": "2020-12-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS1513/ – Ss1513 Update Dec 2020"
+  ],
+  "section_path": "SS1513/ – Ss1513 Update Dec 2020",
+  "citation_anchor": "PRA-BOE-ss1513-update-dec-2020::root",
+  "section_headings": []
+}

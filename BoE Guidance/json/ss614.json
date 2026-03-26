@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss614",
+  "title": "SS614 – Ss614",
+  "short_title": "SS614",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2014-01-01",
+  "guideline_number": "SS614",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2014/ss614.pdf",
+  "source_format": "pdf",
+  "pages": 6,
+  "pra_parent_documents": [
+    "pra.ss614.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss614",
+  "version_id": "2014-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "sha256": "15cc157b273c9f4c735c4da84dc85315b5b978fa7ac639ddbf8f18255777c8ec",
+  "scraped_at": "2026-03-25T03:32:28.523412Z",
+  "raw_sha256": "15cc157b273c9f4c735c4da84dc85315b5b978fa7ac639ddbf8f18255777c8ec",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2014",
+  "version_sort_key": "2014-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS614 – Ss614"
+  ],
+  "section_path": "SS614 – Ss614",
+  "citation_anchor": "PRA-BOE-ss614::root",
+  "section_headings": []
+}

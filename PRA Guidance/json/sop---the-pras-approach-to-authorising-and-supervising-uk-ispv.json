@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop425-the-prudential-regulation-authoritys-approach-to-authorising-and-supervis",
-  "version_id": "2026-03-03",
+  "version_id": null,
   "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_sort_key": null,
   "guideline_number": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "effective_date_start": null,
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -68,8 +68,23 @@
     "section_count": 0,
     "rule_count": 0
   },
-  "content_markdown": "",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n<div class=\"part-content\">\n\n</div>\n</div>",
   "raw_sha256": "7b63fb3cbc78f8b0a19f2af4423a8adff4d313e154fea1bccfadf44bc94cedd2",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_date_source": "unknown_no_content",
+  "heading_path": [
+    "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles"
+  ],
+  "section_path": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+  "citation_anchor": "pra.sop425-the-prudential-regulation-authoritys-approach-to-authorising-and-supervis.2026::sop4_25___the_prudential_regulation_auth",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "SoP4/25 – The Prudential Regulation Authority’s approach to authorising and supervising UK Insurance Special Purpose Vehicles",
+      "id": "h1-0"
+    }
+  ],
+  "toc_depth": 1,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0
 }

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1616--the-minimum-requirement-for-own-funds-and-eligible-liabilities-mrel--buffers-and-threshold-c",
+  "title": "SS1616/ – Ss1616 The Minimum Requirement For Own Funds And Eligible Liabilities Mrel Buffers And Threshold C",
+  "short_title": "SS1616/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2016-01-01",
+  "guideline_number": "SS1616/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss1616--the-minimum-requirement-for-own-funds-and-eligible-liabilities-mrel--buffers-and-threshold-c.pdf",
+  "source_format": "pdf",
+  "pages": 7,
+  "pra_parent_documents": [
+    "pra.ss1616.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1616--the-minimum-requirement-for-own-funds-and-eligible-liabilities-mrel--buffers-and-threshold-c",
+  "version_id": "2016-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "a7cbf1bd266e42017a5966e55f89aaabbd3e33aaa79b78e2fd791c2f8359ad24",
+  "scraped_at": "2026-03-25T03:32:26.373299Z",
+  "raw_sha256": "a7cbf1bd266e42017a5966e55f89aaabbd3e33aaa79b78e2fd791c2f8359ad24",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2016",
+  "version_sort_key": "2016-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS1616/ – Ss1616 The Minimum Requirement For Own Funds And Eligible Liabilities Mrel Buffers And Threshold C"
+  ],
+  "section_path": "SS1616/ – Ss1616 The Minimum Requirement For Own Funds And Eligible Liabilities Mrel Buffers And Threshold C",
+  "citation_anchor": "PRA-BOE-ss1616--the-minimum-requirement-for-own-funds-and-eligible-liabilities-mrel--buffers-and-threshold-c::root",
+  "section_headings": []
+}

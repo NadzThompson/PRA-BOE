@@ -32,6 +32,56 @@
   "contains_requirement": false,
   "source_url": "",
   "pra_metadata": {},
-  "content_markdown": "# PRA Glossary - Q\n\n## qualified investor scheme\n\nmeans anICVC,authorised unit trust schemeor anauthorised contractual schemewhose instrument constituting the scheme contains the statement in COLL 8.2.6 R 1(2) of theFCA Handbookthat it is a qualified investor scheme.\n\n## qualifying infrastructure corporate investment\n\nmeans an investment in aninfrastructure entitythat meets all the requirements set out inSolvency Capital Requirement – Standard Formula 3D3.\n\n## qualifying infrastructure investment\n\nmeans an investment in aninfrastructure entitythat meets all the requirements set out inSolvency Capital Requirement – Standard Formula 3D2.\n\n## qualifying parent undertaking\n\nhas the meaning given in section 192B ofFSMA.\n\n## quasi-derivative\n\na contract or asset having the effect of aderivativecontract.\n",
-  "content_html": "<h1>PRA Glossary - Q</h1>\n<dl>\n\n  <dt><strong>qualified investor scheme</strong></dt>\n\n  <dd>means anICVC,authorised unit trust schemeor anauthorised contractual schemewhose instrument constituting the scheme contains the statement in COLL 8.2.6 R 1(2) of theFCA Handbookthat it is a qualified investor scheme.</dd>\n\n  <dt><strong>qualifying infrastructure corporate investment</strong></dt>\n\n  <dd>means an investment in aninfrastructure entitythat meets all the requirements set out inSolvency Capital Requirement – Standard Formula 3D3.</dd>\n\n  <dt><strong>qualifying infrastructure investment</strong></dt>\n\n  <dd>means an investment in aninfrastructure entitythat meets all the requirements set out inSolvency Capital Requirement – Standard Formula 3D2.</dd>\n\n  <dt><strong>qualifying parent undertaking</strong></dt>\n\n  <dd>has the meaning given in section 192B ofFSMA.</dd>\n\n  <dt><strong>quasi-derivative</strong></dt>\n\n  <dd>a contract or asset having the effect of aderivativecontract.</dd>\n\n</dl>"
+  "heading_path": [
+    "PRA Glossary - Q",
+    "PRA Glossary - Q",
+    "qualified investor scheme",
+    "qualifying infrastructure corporate investment",
+    "qualifying infrastructure investment",
+    "qualifying parent undertaking",
+    "quasi-derivative"
+  ],
+  "section_path": "PRA Glossary - Q > PRA Glossary - Q > qualified investor scheme > qualifying infrastructure corporate investment > qualifying infrastructure investment",
+  "citation_anchor": "PRA-glossary-q::pra_glossary___q",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "PRA Glossary - Q",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "PRA Glossary - Q",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "qualified investor scheme",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "qualifying infrastructure corporate investment",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "qualifying infrastructure investment",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "qualifying parent undertaking",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "quasi-derivative",
+      "id": "h2-6"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

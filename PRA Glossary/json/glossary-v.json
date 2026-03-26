@@ -32,6 +32,32 @@
   "contains_requirement": false,
   "source_url": "",
   "pra_metadata": {},
-  "content_markdown": "# PRA Glossary - V\n\n## volatility adjustment\n\nmeans the adjustment to therelevant risk-free interest rate term structureused to calculate thebest estimatein accordance with:(1)Technical Provisions 8andTechnical Provisions – Further Requirements Part; and(2) [deleted](3) the relevant technical information published by thePRAin accordance with regulation 3(1) of theIRPR regulations.\n",
-  "content_html": "<h1>PRA Glossary - V</h1>\n<dl>\n\n  <dt><strong>volatility adjustment</strong></dt>\n\n  <dd>means the adjustment to therelevant risk-free interest rate term structureused to calculate thebest estimatein accordance with:(1)Technical Provisions 8andTechnical Provisions – Further Requirements Part; and(2) [deleted](3) the relevant technical information published by thePRAin accordance with regulation 3(1) of theIRPR regulations.</dd>\n\n</dl>"
+  "heading_path": [
+    "PRA Glossary - V",
+    "PRA Glossary - V",
+    "volatility adjustment"
+  ],
+  "section_path": "PRA Glossary - V > PRA Glossary - V > volatility adjustment",
+  "citation_anchor": "PRA-glossary-v::pra_glossary___v",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "PRA Glossary - V",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "PRA Glossary - V",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "volatility adjustment",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

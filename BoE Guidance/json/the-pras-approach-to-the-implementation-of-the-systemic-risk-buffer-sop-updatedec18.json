@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-approach-to-the-implementation-of-the-systemic-risk-buffer-sop-updatedec18",
+  "title": "The Pras Approach TO The Implementation OF The Systemic Risk Buffer Sop Updatedec18",
+  "short_title": "the-pras-approach-to-the-implementation-of-the-systemic-risk-buffer-sop-updatedec18",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-12-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2018/the-pras-approach-to-the-implementation-of-the-systemic-risk-buffer-sop-updatedec18.pdf",
+  "source_format": "pdf",
+  "pages": 7,
+  "pra_parent_documents": [
+    "pra.sop416-the-pras-approach-to-the-implementation-of-the-o-sii-buffer.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-approach-to-the-implementation-of-the-systemic-risk-buffer-sop-updatedec18",
+  "version_id": "2018-12-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "b4b4635ea4d21bf7e191fd6cdd5eb42ac288ac485028a32badca554ae5131798",
+  "scraped_at": "2026-03-25T03:32:28.946425Z",
+  "raw_sha256": "b4b4635ea4d21bf7e191fd6cdd5eb42ac288ac485028a32badca554ae5131798",
+  "regulator_acronym": "PRA",
+  "version_label": "December 2018",
+  "version_sort_key": "2018-12-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Approach TO The Implementation OF The Systemic Risk Buffer Sop Updatedec18"
+  ],
+  "section_path": "The Pras Approach TO The Implementation OF The Systemic Risk Buffer Sop Updatedec18",
+  "citation_anchor": "PRA-BOE-the-pras-approach-to-the-implementation-of-the-systemic-risk-buffer-sop-updatedec18::root",
+  "section_headings": []
+}

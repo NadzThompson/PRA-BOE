@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-updated-pillar-2-reporting-instructions",
+  "title": "Updated Pillar 2 Reporting Instructions",
+  "short_title": "updated-pillar-2-reporting-instructions",
+  "document_class": "regulatory_document",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/regulatory-reporting/banking/updated-pillar-2-reporting-instructions.pdf",
+  "source_format": "pdf",
+  "pages": 1,
+  "pra_parent_documents": [
+    "pra.ss3215.2026"
+  ],
+  "doc_family_id": "PRA-BOE-updated-pillar-2-reporting-instructions",
+  "version_id": "unknown",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "sha256": "6d62913b7918031b7d5153aae8c43c0b2552ea1c6460a9fe647285639941e837",
+  "scraped_at": "2026-03-25T03:32:29.189031Z",
+  "raw_sha256": "6d62913b7918031b7d5153aae8c43c0b2552ea1c6460a9fe647285639941e837",
+  "regulator_acronym": "PRA",
+  "version_label": "unknown",
+  "version_sort_key": "9999-12-31",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Updated Pillar 2 Reporting Instructions"
+  ],
+  "section_path": "Updated Pillar 2 Reporting Instructions",
+  "citation_anchor": "PRA-BOE-updated-pillar-2-reporting-instructions::root",
+  "section_headings": []
+}

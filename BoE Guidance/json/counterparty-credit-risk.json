@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-counterparty-credit-risk",
+  "title": "Counterparty Credit Risk",
+  "short_title": "counterparty-credit-risk",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2013-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2013/counterparty-credit-risk.pdf",
+  "source_format": "pdf",
+  "pages": 9,
+  "pra_parent_documents": [
+    "pra.ss1213.2026"
+  ],
+  "doc_family_id": "PRA-BOE-counterparty-credit-risk",
+  "version_id": "2013-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "faab8ef9572e78f72743030579047bcba5157b8822f63460bfc3459dfc2ea2c1",
+  "scraped_at": "2026-03-25T03:32:25.003685Z",
+  "raw_sha256": "faab8ef9572e78f72743030579047bcba5157b8822f63460bfc3459dfc2ea2c1",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2013",
+  "version_sort_key": "2013-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Counterparty Credit Risk"
+  ],
+  "section_path": "Counterparty Credit Risk",
+  "citation_anchor": "PRA-BOE-counterparty-credit-risk::root",
+  "section_headings": []
+}

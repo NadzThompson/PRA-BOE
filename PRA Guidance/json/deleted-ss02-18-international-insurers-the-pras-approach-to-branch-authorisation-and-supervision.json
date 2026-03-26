@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.ss218",
-  "version_id": "2026-03-03",
-  "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_id": "2024-05-23",
+  "version_label": "2024",
+  "version_sort_key": "2024-05-23",
   "guideline_number": "SS2/18",
-  "status": "active",
-  "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "status": "deleted",
+  "current_version_flag": false,
+  "effective_date_start": "2024-05-23",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -75,8 +75,33 @@
     "section_count": 0,
     "rule_count": 0
   },
-  "content_markdown": "###\n\nThis Supervisory Statement was replaced by [SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision](/guidance/statements-of-policy/sop---the-pra-approach-to-insurance-branch-authorisation-and-supervision) with effect from 23 May 2024.\n\n*Effective: 23/05/2024*",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"23e7f1daf3494bee92ea29748a56863a\" id=\"4e70058f866545b1876fa36a0aaa4720\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\n</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"3481259ea3324b7693b2384679451cdd\" id=\"193c13ccf62e4daea0a5769228a307e8\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Supervisory Statement was replaced by <a data-rb-content-link=\"Guidance\" href=\"/guidance/statements-of-policy/sop---the-pra-approach-to-insurance-branch-authorisation-and-supervision\">SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision</a> with effect from 23 May 2024.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t23/05/2024\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n</div>\n</div>",
   "raw_sha256": "781e26a681f982553c55a4dad84380a927c09158ed8ca466d29988b4bd44fb48",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_dates_all": [
+    "2024-05-23"
+  ],
+  "effective_date_source": "body_effective_tag",
+  "heading_path": [
+    "SS2/18 – International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision (Deleted)",
+    "This Supervisory Statement was replaced by SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision with effect from 23 May 2024."
+  ],
+  "section_path": "SS2/18 – International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision (Deleted) > This Supervisory Statement was replaced by SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision with effect from 23 May 2024.",
+  "citation_anchor": "pra.ss218.2026::ss2_18___international_insurers__the_pru",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "SS2/18 – International insurers: the Prudential Regulation Authority’s approach to branch authorisation and supervision (Deleted)",
+      "id": "h1-0"
+    },
+    {
+      "level": 3,
+      "text": "This Supervisory Statement was replaced by SoP The Prudential Regulation Authority's approach to insurance branch authorisation and supervision with effect from 23 May 2024.",
+      "id": "h3-1"
+    }
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "superseded_by_text": "Deleted and replaced by SoP – The PRA's approach to insurance branch authorisation and supervision (PS8/24, May 2024)"
 }

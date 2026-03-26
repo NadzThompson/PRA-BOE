@@ -38,6 +38,32 @@
     "as_at_date": "03-03-2026",
     "title": "Non-SII Firms"
   },
-  "content_markdown": "# Non-SII Firms\n\n**Description:** Insurance firms not subject to Solvency II\n**Total Rules:** 0\n**Effective Date:** 03-03-2026\n\n## Rules\n",
-  "content_html": "<h1>Non-SII Firms</h1>\n<p><strong>Description:</strong> Insurance firms not subject to Solvency II</p>\n<p><strong>Total Rules:</strong> 0</p>\n<table><thead><tr><th>#</th><th>Rule</th><th>Also Applies To</th><th>Status</th></tr></thead><tbody>\n</tbody></table>"
+  "heading_path": [
+    "Non-SII Firms",
+    "Non-SII Firms",
+    "Rules"
+  ],
+  "section_path": "Non-SII Firms > Non-SII Firms > Rules",
+  "citation_anchor": "PRA-non-sii-firms::non_sii_firms",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Non-SII Firms",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "Non-SII Firms",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Rules",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

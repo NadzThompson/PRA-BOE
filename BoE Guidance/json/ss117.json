@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss117",
+  "title": "SS117 – Ss117",
+  "short_title": "SS117",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2017-01-01",
+  "guideline_number": "SS117",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2017/ss117.pdf",
+  "source_format": "pdf",
+  "pages": 6,
+  "pra_parent_documents": [
+    "pra.ss117.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss117",
+  "version_id": "2017-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "sha256": "e10b0e74085a281713c8bad9837985eb6f0ce9ad9e4a9d1e4d5ad3bbb28cc8a4",
+  "scraped_at": "2026-03-25T03:32:26.064625Z",
+  "raw_sha256": "e10b0e74085a281713c8bad9837985eb6f0ce9ad9e4a9d1e4d5ad3bbb28cc8a4",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2017",
+  "version_sort_key": "2017-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS117 – Ss117"
+  ],
+  "section_path": "SS117 – Ss117",
+  "citation_anchor": "PRA-BOE-ss117::root",
+  "section_headings": []
+}

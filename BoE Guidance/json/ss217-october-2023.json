@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss217-october-2023",
+  "title": "SS217/ – Ss217 October 2023",
+  "short_title": "SS217/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2023-10-01",
+  "guideline_number": "SS217/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2023/ss217-october-2023.pdf",
+  "source_format": "pdf",
+  "pages": 32,
+  "pra_parent_documents": [
+    "pra.ss217.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss217-october-2023",
+  "version_id": "2023-10-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "36fe4516d6209cbb2ff0b26a12d78bd7ba9ba47085463961046a6a11cd904c73",
+  "scraped_at": "2026-03-25T03:32:26.871258Z",
+  "raw_sha256": "36fe4516d6209cbb2ff0b26a12d78bd7ba9ba47085463961046a6a11cd904c73",
+  "regulator_acronym": "PRA",
+  "version_label": "October 2023",
+  "version_sort_key": "2023-10-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS217/ – Ss217 October 2023"
+  ],
+  "section_path": "SS217/ – Ss217 October 2023",
+  "citation_anchor": "PRA-BOE-ss217-october-2023::root",
+  "section_headings": []
+}

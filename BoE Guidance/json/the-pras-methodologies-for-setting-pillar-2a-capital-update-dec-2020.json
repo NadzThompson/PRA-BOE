@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020",
+  "title": "The Pras Methodologies For Setting Pillar 2A Capital Update Dec 2020",
+  "short_title": "the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2020-12-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2020/the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020.pdf",
+  "source_format": "pdf",
+  "pages": 38,
+  "pra_parent_documents": [
+    "pra.sop515-the-pras-methodologies-for-setting-pillar-2-capital.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020",
+  "version_id": "2020-12-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "d450303ac78ed17431c712fd60c8d044ead80b78f5c8e0d2d991f95d305fc1dd",
+  "scraped_at": "2026-03-25T03:32:29.071964Z",
+  "raw_sha256": "d450303ac78ed17431c712fd60c8d044ead80b78f5c8e0d2d991f95d305fc1dd",
+  "regulator_acronym": "PRA",
+  "version_label": "December 2020",
+  "version_sort_key": "2020-12-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Methodologies For Setting Pillar 2A Capital Update Dec 2020"
+  ],
+  "section_path": "The Pras Methodologies For Setting Pillar 2A Capital Update Dec 2020",
+  "citation_anchor": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-dec-2020::root",
+  "section_headings": []
+}

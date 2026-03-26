@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ps317app6",
+  "title": "PS317 – Ps317app6",
+  "short_title": "PS317",
+  "document_class": "policy_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2017-01-01",
+  "guideline_number": "PS317",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2017/ps317app6.pdf",
+  "source_format": "pdf",
+  "pages": 11,
+  "pra_parent_documents": [
+    "pra.ss3215.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ps317app6",
+  "version_id": "2017-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "a72b582551118c15a799d95e50bc5fac7c69a03e9638a19a376d21c39939c937",
+  "scraped_at": "2026-03-25T03:32:25.789249Z",
+  "raw_sha256": "a72b582551118c15a799d95e50bc5fac7c69a03e9638a19a376d21c39939c937",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2017",
+  "version_sort_key": "2017-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "PS317 – Ps317app6"
+  ],
+  "section_path": "PS317 – Ps317app6",
+  "citation_anchor": "PRA-BOE-ps317app6::root",
+  "section_headings": []
+}

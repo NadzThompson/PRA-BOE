@@ -32,6 +32,38 @@
   "contains_requirement": false,
   "source_url": "",
   "pra_metadata": {},
-  "content_markdown": "# PRA Glossary - J\n\n## joint account\n\nmeans an account opened in the name of two or morepersonsover which two or morepersonshave rights that are exercised by means of the signature of one or more of thosepersons.\n\n## jointly controlled body\n\nmeans a body thatfriendly societyhas joint control of in accordance with section 13 of the Friendly Societies Act 1992.\n",
-  "content_html": "<h1>PRA Glossary - J</h1>\n<dl>\n\n  <dt><strong>joint account</strong></dt>\n\n  <dd>means an account opened in the name of two or morepersonsover which two or morepersonshave rights that are exercised by means of the signature of one or more of thosepersons.</dd>\n\n  <dt><strong>jointly controlled body</strong></dt>\n\n  <dd>means a body thatfriendly societyhas joint control of in accordance with section 13 of the Friendly Societies Act 1992.</dd>\n\n</dl>"
+  "heading_path": [
+    "PRA Glossary - J",
+    "PRA Glossary - J",
+    "joint account",
+    "jointly controlled body"
+  ],
+  "section_path": "PRA Glossary - J > PRA Glossary - J > joint account > jointly controlled body",
+  "citation_anchor": "PRA-glossary-j::pra_glossary___j",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "PRA Glossary - J",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "PRA Glossary - J",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "joint account",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "jointly controlled body",
+      "id": "h2-3"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

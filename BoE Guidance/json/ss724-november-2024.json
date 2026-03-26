@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss724-november-2024",
+  "title": "SS724/ – Ss724 November 2024",
+  "short_title": "SS724/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2024-11-01",
+  "guideline_number": "SS724/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/ss724-november-2024.pdf",
+  "source_format": "pdf",
+  "pages": 13,
+  "pra_parent_documents": [
+    "pra.ss724.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss724-november-2024",
+  "version_id": "2024-11-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "sha256": "7d2557b0775a53a1129eba24caddd252b7118302b85aaff100f6ef64cd3b70cf",
+  "scraped_at": "2026-03-25T03:32:28.598885Z",
+  "raw_sha256": "7d2557b0775a53a1129eba24caddd252b7118302b85aaff100f6ef64cd3b70cf",
+  "regulator_acronym": "PRA",
+  "version_label": "November 2024",
+  "version_sort_key": "2024-11-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS724/ – Ss724 November 2024"
+  ],
+  "section_path": "SS724/ – Ss724 November 2024",
+  "citation_anchor": "PRA-BOE-ss724-november-2024::root",
+  "section_headings": []
+}

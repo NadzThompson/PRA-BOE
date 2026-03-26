@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss2415update-april-2018",
+  "title": "SS24/15 – Ss2415update April 2018",
+  "short_title": "SS24/15",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-04-01",
+  "guideline_number": "SS24/15",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss2415update-april-2018.pdf",
+  "source_format": "pdf",
+  "pages": 25,
+  "pra_parent_documents": [
+    "pra.ss2415.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss2415update-april-2018",
+  "version_id": "2018-04-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "10e83134a7a81f4e1fe36e874f33b83c9410da6f8accfc1b657c92f7c51293ad",
+  "scraped_at": "2026-03-25T03:32:27.088092Z",
+  "raw_sha256": "10e83134a7a81f4e1fe36e874f33b83c9410da6f8accfc1b657c92f7c51293ad",
+  "regulator_acronym": "PRA",
+  "version_label": "April 2018",
+  "version_sort_key": "2018-04-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS24/15 – Ss2415update April 2018"
+  ],
+  "section_path": "SS24/15 – Ss2415update April 2018",
+  "citation_anchor": "PRA-BOE-ss2415update-april-2018::root",
+  "section_headings": []
+}

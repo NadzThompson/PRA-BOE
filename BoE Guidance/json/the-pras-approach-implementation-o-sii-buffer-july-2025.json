@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-approach-implementation-o-sii-buffer-july-2025",
+  "title": "The Pras Approach Implementation O Sii Buffer July 2025",
+  "short_title": "the-pras-approach-implementation-o-sii-buffer-july-2025",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2025-07-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2025/the-pras-approach-implementation-o-sii-buffer-july-2025.pdf",
+  "source_format": "pdf",
+  "pages": 11,
+  "pra_parent_documents": [
+    "pra.sop416-the-pras-approach-to-the-implementation-of-the-o-sii-buffer.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-approach-implementation-o-sii-buffer-july-2025",
+  "version_id": "2025-07-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "5fcb2d05e1cffbe224ad52ed1350f04b9c63e268dacac1476a7342804e7d156b",
+  "scraped_at": "2026-03-25T03:32:28.897158Z",
+  "raw_sha256": "5fcb2d05e1cffbe224ad52ed1350f04b9c63e268dacac1476a7342804e7d156b",
+  "regulator_acronym": "PRA",
+  "version_label": "July 2025",
+  "version_sort_key": "2025-07-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Approach Implementation O Sii Buffer July 2025"
+  ],
+  "section_path": "The Pras Approach Implementation O Sii Buffer July 2025",
+  "citation_anchor": "PRA-BOE-the-pras-approach-implementation-o-sii-buffer-july-2025::root",
+  "section_headings": []
+}

@@ -32,6 +32,68 @@
   "contains_requirement": false,
   "source_url": "",
   "pra_metadata": {},
-  "content_markdown": "# PRA Glossary - H\n\n## Head of Internal Audit function\n\nhas the meaning given inSenior Management Functions 3.5.\n\n## Head of Third Country Branch function\n\nhas the meaning given in6.2.\n\n## health catastrophe risk\n\nmeans the risk of loss, or of adverse change, in the value of insurance obligations resulting from the significant uncertainty of pricing and provisioning assumptions related to outbreaks of major epidemics, as well as the unusual accumulation of risks under such extreme circumstances.\n\n## health insurance obligation\n\nmeans an insurance obligation that covers one or both of the following:(1) the provision of medical treatment or care including preventive or curative medical treatment or care due to illness, accident, disability or infirmity, or financial compensation for such treatment or care; or(2) financial compensation arising from illness, accident, disability or infirmity.\n\n## health reinsurance obligation\n\nmeans areinsuranceobligation which arises from acceptedreinsurancecoveringhealth insurance obligations.\n\n## health revision risk\n\nmeans the risk of loss, or of adverse change, in the value of insurance obligations, resulting from changes in the level, trend or volatility of the revision rates applied to annuities, due to changes in inflation, the legal environment or in the state of health of thepersoninsured.\n\n## Holloway sickness policy\n\nmeans acontract of long-term insuranceoffered or effected by afriendly societyunder the Holloway system, providing permanent health benefits and, in addition, investment benefits, where the investment benefits:(1) are derived from surpluses accrued by thefriendly societyand apportioned topolicyholders; and(2) are payable topolicyholdersat maturity, on retirement, on death, or as otherwise specified by contractual provisions or individual society rules.\n",
-  "content_html": "<h1>PRA Glossary - H</h1>\n<dl>\n\n  <dt><strong>Head of Internal Audit function</strong></dt>\n\n  <dd>has the meaning given inSenior Management Functions 3.5.</dd>\n\n  <dt><strong>Head of Third Country Branch function</strong></dt>\n\n  <dd>has the meaning given in6.2.</dd>\n\n  <dt><strong>health catastrophe risk</strong></dt>\n\n  <dd>means the risk of loss, or of adverse change, in the value of insurance obligations resulting from the significant uncertainty of pricing and provisioning assumptions related to outbreaks of major epidemics, as well as the unusual accumulation of risks under such extreme circumstances.</dd>\n\n  <dt><strong>health insurance obligation</strong></dt>\n\n  <dd>means an insurance obligation that covers one or both of the following:(1) the provision of medical treatment or care including preventive or curative medical treatment or care due to illness, accident, disability or infirmity, or financial compensation for such treatment or care; or(2) financial compensation arising from illness, accident, disability or infirmity.</dd>\n\n  <dt><strong>health reinsurance obligation</strong></dt>\n\n  <dd>means areinsuranceobligation which arises from acceptedreinsurancecoveringhealth insurance obligations.</dd>\n\n  <dt><strong>health revision risk</strong></dt>\n\n  <dd>means the risk of loss, or of adverse change, in the value of insurance obligations, resulting from changes in the level, trend or volatility of the revision rates applied to annuities, due to changes in inflation, the legal environment or in the state of health of thepersoninsured.</dd>\n\n  <dt><strong>Holloway sickness policy</strong></dt>\n\n  <dd>means acontract of long-term insuranceoffered or effected by afriendly societyunder the Holloway system, providing permanent health benefits and, in addition, investment benefits, where the investment benefits:(1) are derived from surpluses accrued by thefriendly societyand apportioned topolicyholders; and(2) are payable topolicyholdersat maturity, on retirement, on death, or as otherwise specified by contractual provisions or individual society rules.</dd>\n\n</dl>"
+  "heading_path": [
+    "PRA Glossary - H",
+    "PRA Glossary - H",
+    "Head of Internal Audit function",
+    "Head of Third Country Branch function",
+    "health catastrophe risk",
+    "health insurance obligation",
+    "health reinsurance obligation",
+    "health revision risk",
+    "Holloway sickness policy"
+  ],
+  "section_path": "PRA Glossary - H > PRA Glossary - H > Head of Internal Audit function > Head of Third Country Branch function > health catastrophe risk",
+  "citation_anchor": "PRA-glossary-h::pra_glossary___h",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "PRA Glossary - H",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "PRA Glossary - H",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Head of Internal Audit function",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Head of Third Country Branch function",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "health catastrophe risk",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "health insurance obligation",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "health reinsurance obligation",
+      "id": "h2-6"
+    },
+    {
+      "level": 2,
+      "text": "health revision risk",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "Holloway sickness policy",
+      "id": "h2-8"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

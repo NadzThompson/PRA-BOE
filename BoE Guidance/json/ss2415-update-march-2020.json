@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss2415-update-march-2020",
+  "title": "SS2415/ – Ss2415 Update March 2020",
+  "short_title": "SS2415/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2020-03-01",
+  "guideline_number": "SS2415/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss2415-update-march-2020.pdf",
+  "source_format": "pdf",
+  "pages": 24,
+  "pra_parent_documents": [
+    "pra.ss2415.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss2415-update-march-2020",
+  "version_id": "2020-03-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "6cfa676a70197ab05f7165ae9a99611311dd1e1e9095f009b97ba24067e25675",
+  "scraped_at": "2026-03-25T03:32:27.027991Z",
+  "raw_sha256": "6cfa676a70197ab05f7165ae9a99611311dd1e1e9095f009b97ba24067e25675",
+  "regulator_acronym": "PRA",
+  "version_label": "March 2020",
+  "version_sort_key": "2020-03-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS2415/ – Ss2415 Update March 2020"
+  ],
+  "section_path": "SS2415/ – Ss2415 Update March 2020",
+  "citation_anchor": "PRA-BOE-ss2415-update-march-2020::root",
+  "section_headings": []
+}

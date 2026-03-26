@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss3115-october-2025-final",
+  "title": "SS3115/ – Ss3115 October 2025 Final",
+  "short_title": "SS3115/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2025-10-01",
+  "guideline_number": "SS3115/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss3115-october-2025-final.pdf",
+  "source_format": "pdf",
+  "pages": 45,
+  "pra_parent_documents": [
+    "pra.ss3115.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss3115-october-2025-final",
+  "version_id": "2025-10-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "25b6ed1b21845c5e3c7f46c502992b6db26c1e54b1309df143f7d9765325a406",
+  "scraped_at": "2026-03-25T03:32:27.410100Z",
+  "raw_sha256": "25b6ed1b21845c5e3c7f46c502992b6db26c1e54b1309df143f7d9765325a406",
+  "regulator_acronym": "PRA",
+  "version_label": "October 2025",
+  "version_sort_key": "2025-10-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS3115/ – Ss3115 October 2025 Final"
+  ],
+  "section_path": "SS3115/ – Ss3115 October 2025 Final",
+  "citation_anchor": "PRA-BOE-ss3115-october-2025-final::root",
+  "section_headings": []
+}

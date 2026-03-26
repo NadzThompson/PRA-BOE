@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-underwriting-standards-for-buy-to-let-mortgage-contracts-ss",
+  "title": "Underwriting Standards For Buy TO Let Mortgage Contracts SS",
+  "short_title": "underwriting-standards-for-buy-to-let-mortgage-contracts-ss",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2024-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/underwriting-standards-for-buy-to-let-mortgage-contracts-ss.pdf",
+  "source_format": "pdf",
+  "pages": 13,
+  "pra_parent_documents": [
+    "pra.ss1316.2026"
+  ],
+  "doc_family_id": "PRA-BOE-underwriting-standards-for-buy-to-let-mortgage-contracts-ss",
+  "version_id": "2024-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "2aeeb6c6d49517db112e36db4fe9447cec22b178969b29f9e82495b27dc8a8aa",
+  "scraped_at": "2026-03-25T03:32:29.180641Z",
+  "raw_sha256": "2aeeb6c6d49517db112e36db4fe9447cec22b178969b29f9e82495b27dc8a8aa",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2024",
+  "version_sort_key": "2024-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Underwriting Standards For Buy TO Let Mortgage Contracts SS"
+  ],
+  "section_path": "Underwriting Standards For Buy TO Let Mortgage Contracts SS",
+  "citation_anchor": "PRA-BOE-underwriting-standards-for-buy-to-let-mortgage-contracts-ss::root",
+  "section_headings": []
+}

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-april-2021",
+  "title": "The Pras Methodologies For Setting Pillar 2A Capital Update April 2021",
+  "short_title": "the-pras-methodologies-for-setting-pillar-2a-capital-update-april-2021",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2021-04-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2021/the-pras-methodologies-for-setting-pillar-2a-capital-update-april-2021.pdf",
+  "source_format": "pdf",
+  "pages": 38,
+  "pra_parent_documents": [
+    "pra.sop515-the-pras-methodologies-for-setting-pillar-2-capital.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-april-2021",
+  "version_id": "2021-04-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": false,
+  "sha256": "5346e45fd54fbedb4991a3850ef2b398a8156db226cf0e055398df9b5bef5a56",
+  "scraped_at": "2026-03-25T03:32:29.044370Z",
+  "raw_sha256": "5346e45fd54fbedb4991a3850ef2b398a8156db226cf0e055398df9b5bef5a56",
+  "regulator_acronym": "PRA",
+  "version_label": "April 2021",
+  "version_sort_key": "2021-04-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Methodologies For Setting Pillar 2A Capital Update April 2021"
+  ],
+  "section_path": "The Pras Methodologies For Setting Pillar 2A Capital Update April 2021",
+  "citation_anchor": "PRA-BOE-the-pras-methodologies-for-setting-pillar-2a-capital-update-april-2021::root",
+  "section_headings": []
+}

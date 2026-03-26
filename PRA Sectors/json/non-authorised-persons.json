@@ -38,6 +38,32 @@
     "as_at_date": "03-03-2026",
     "title": "Non-authorised Persons"
   },
-  "content_markdown": "# Non-authorised Persons\n\n**Description:** Persons or firms not authorised by the PRA but subject to PRA rules\n**Total Rules:** 0\n**Effective Date:** 03-03-2026\n\n## Rules\n",
-  "content_html": "<h1>Non-authorised Persons</h1>\n<p><strong>Description:</strong> Persons or firms not authorised by the PRA but subject to PRA rules</p>\n<p><strong>Total Rules:</strong> 0</p>\n<table><thead><tr><th>#</th><th>Rule</th><th>Also Applies To</th><th>Status</th></tr></thead><tbody>\n</tbody></table>"
+  "heading_path": [
+    "Non-authorised Persons",
+    "Non-authorised Persons",
+    "Rules"
+  ],
+  "section_path": "Non-authorised Persons > Non-authorised Persons > Rules",
+  "citation_anchor": "PRA-non-authorised-persons::non_authorised_persons",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Non-authorised Persons",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "Non-authorised Persons",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Rules",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

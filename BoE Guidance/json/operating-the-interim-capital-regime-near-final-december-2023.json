@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-operating-the-interim-capital-regime-near-final-december-2023",
+  "title": "Operating The Interim Capital Regime Near Final December 2023",
+  "short_title": "operating-the-interim-capital-regime-near-final-december-2023",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2023-12-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2023/operating-the-interim-capital-regime-near-final-december-2023.pdf",
+  "source_format": "pdf",
+  "pages": 8,
+  "pra_parent_documents": [
+    "pra.sop323-operating-the-interim-capital-regime.2026"
+  ],
+  "doc_family_id": "PRA-BOE-operating-the-interim-capital-regime-near-final-december-2023",
+  "version_id": "2023-12-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": false,
+  "contains_requirement": true,
+  "sha256": "3fe93402394b95d3cd00f649c65252dce46eb99ab1963b928dc8552e31a6f472",
+  "scraped_at": "2026-03-25T03:32:25.537414Z",
+  "raw_sha256": "3fe93402394b95d3cd00f649c65252dce46eb99ab1963b928dc8552e31a6f472",
+  "regulator_acronym": "PRA",
+  "version_label": "December 2023",
+  "version_sort_key": "2023-12-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Operating The Interim Capital Regime Near Final December 2023"
+  ],
+  "section_path": "Operating The Interim Capital Regime Near Final December 2023",
+  "citation_anchor": "PRA-BOE-operating-the-interim-capital-regime-near-final-december-2023::root",
+  "section_headings": []
+}

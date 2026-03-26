@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1013update-may-2020",
+  "title": "SS10/13 – Ss1013update May 2020",
+  "short_title": "SS10/13",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2020-05-01",
+  "guideline_number": "SS10/13",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss1013update-may-2020.pdf",
+  "source_format": "pdf",
+  "pages": 9,
+  "pra_parent_documents": [
+    "pra.ss1013.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1013update-may-2020",
+  "version_id": "2020-05-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "sha256": "5bfe2b03b105c6b011dd5c0c9a29d2aaa21338ef168f23cbbbddd35eaca9ebbe",
+  "scraped_at": "2026-03-25T03:32:25.985993Z",
+  "raw_sha256": "5bfe2b03b105c6b011dd5c0c9a29d2aaa21338ef168f23cbbbddd35eaca9ebbe",
+  "regulator_acronym": "PRA",
+  "version_label": "May 2020",
+  "version_sort_key": "2020-05-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS10/13 – Ss1013update May 2020"
+  ],
+  "section_path": "SS10/13 – Ss1013update May 2020",
+  "citation_anchor": "PRA-BOE-ss1013update-may-2020::root",
+  "section_headings": []
+}

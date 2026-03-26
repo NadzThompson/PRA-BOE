@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.rules.credit-valuation-adjustment-risk-crr",
-  "version_id": "2026-03-03",
-  "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_id": "2022-01-01",
+  "version_label": "2022",
+  "version_sort_key": "2022-01-01",
   "guideline_number": "Credit Valuation Adjustment Risk (CRR)",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "effective_date_start": "2022-01-01",
   "effective_date_end": null,
   "authority_class": "primary_normative",
   "authority_level": 1,
@@ -114,8 +114,56 @@
     "section_count": 5,
     "rule_count": 2
   },
-  "content_markdown": "1\n\n###  Application\n\n1.1\n\nThis Part applies to:\n\n  1. (a) a _firm_ that is a _CRR firm_ ; and\n  2. (b) a _CRR consolidation entity_.\n\n*Effective: 01/01/2022*\n\n2\n\n###  Level of Application\n\n2.1\n\nTitle II of Part One (Level of application) of the _CRR_ applies to [Chapter 3](/pra-rules/credit-valuation-adjustment-risk-crr#d73b9e5c8b43432692ba2d296a005dff \"Chapter 3\") of this Part as that Title applies to Part Three (Capital Requirements) of the _CRR_.\n\n*Effective: 01/01/2022*\n\n3\n\n###  Own Funds Requirements for Credit Valuation Adjustment Risk (Part Three CRR, Title VI CRR)\n\n[Note: Articles 381 to 384 remain in the _CRR_]\n\n*Effective: 01/01/2022*\n\n### Article 385 Alternative to Using CVA Methods for Calculating Own Funds Requirements\n\nAs an alternative to Article 384, for instruments referred to in Article 382 and subject to the prior consent of the competent authority, institutions using the Original Exposure Method as laid down in [Article 282](/pra-rules/counterparty-credit-risk-crr#811980a64d8146dab0867ae9f41edbc0 \"Article 282\") may apply a multiplication factor of 10 to the resulting risk-weighted exposure amounts for counterparty credit risk for those exposures instead of calculating the own funds requirements for credit valuation adjustment (CVA) risk.\n\n[Note: This is a permission under section 144G and 192XC of _FSMA_ to which Part 8 of the _Capital Requirements Regulations_ applies]\n\n[Note: This rule corresponds to Article 385 of the _CRR_ as it applied immediately before revocation by the _Treasury_.]\n\n[Note: Article 386 remains in the _CRR_]\n\n*Effective: 01/01/2022*\n\n### Export Article as",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"841d92c0f71e442cb1797e17f018a7e8\" id=\"8084ca01cea246a6b014a51c646ef912\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"4c14a3b10c084ba98ae1a75a03fb871f\" id=\"c6071d839f8f46839786d8ea61e1ffed\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to:</p>\n<ol class=\"new-bullet\">\n<li>(a) a <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>; and</li>\n<li>(b) a <em><a class=\"glossary-link\" data-glossary-id=\"128409\" data-mce-linktype=\"2\" href=\"#glossary-term-9abc7072e33941cca650790aec3d4ad6\" title=\"CRR consolidation entity\">CRR consolidation entity</a></em>.</li>\n</ol>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"cc9376d123134cd09531f17e4fa278db\" id=\"dbcd25614ad04cd2adbd987de531cc5a\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tLevel of Application\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"e80addaff2224d8ebb519665d3c0e656\" id=\"1282a53e297d4a649fe8a2807a2388b7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Title II of Part One (Level of application) of the<em> <a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> applies to <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"Chapter\" href=\"/pra-rules/credit-valuation-adjustment-risk-crr#d73b9e5c8b43432692ba2d296a005dff\" title=\"Chapter 3\">Chapter 3</a> of this Part as that Title applies to Part Three (Capital Requirements) of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"b4439ad5b4cd4df7b6d641bd9402b7e5\" id=\"d73b9e5c8b43432692ba2d296a005dff\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tOwn Funds Requirements for Credit Valuation Adjustment Risk (Part Three CRR, Title VI CRR)\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"94f01d878a1f4b1586140f969f792540\" id=\"e85002f1615f48af802e39ae68275bf7\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>[Note: Articles 381 to 384 remain in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"a28e5b10a2ec4ee981a5a1867b5141ea\" id=\"e04e394a8ade42b693f58adb5d21d421\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">Article 385 Alternative to Using CVA Methods for Calculating Own Funds Requirements</h3> </div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"98592ae21ca24cd389de13c23e1900fb\" id=\"4ee022ebee434f6aa8ac999c8ea861bc\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\n</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>As an alternative to Article 384, for instruments referred to in Article 382 and subject to the prior consent of the competent authority, institutions using the Original Exposure Method as laid down in <a data-mce-contenttype=\"5\" data-mce-linktype=\"1\" data-rb-content-link=\"SubChapter\" href=\"/pra-rules/counterparty-credit-risk-crr#811980a64d8146dab0867ae9f41edbc0\" title=\"Article 282\">Article 282</a> may apply a multiplication factor of 10 to the resulting risk-weighted exposure amounts for counterparty credit risk for those exposures instead of calculating the own funds requirements for credit valuation adjustment (CVA) risk.</p>\n<p>[Note: This is a permission under section 144G and 192XC of <em><a class=\"glossary-link\" data-glossary-id=\"52115\" data-mce-linktype=\"2\" href=\"#glossary-term-d7aa340192de4d37b63a54ba1489ac08\" title=\"FSMA\">FSMA</a></em> to which Part 8 of the <em><a class=\"glossary-link\" data-glossary-id=\"52173\" data-mce-linktype=\"2\" href=\"#glossary-term-7de0fdcf2a554161ac204f43b655f99d\" title=\"Capital Requirements Regulations\">Capital Requirements Regulations</a></em> applies]</p>\n<p>[Note: This rule corresponds to Article 385 of the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> as it applied immediately before revocation by the <em><a class=\"glossary-link\" data-glossary-id=\"138463\" data-mce-linktype=\"2\" href=\"#glossary-term-eb1ab06c495442698cab73591d2e19e8\" title=\"Treasury\">Treasury</a></em>.]</p>\n<p>[Note: Article 386 remains in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>]</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey page-utilities--bg-lightaqua\">\n<h3 class=\"h5 page-utilities__title\">Export Article as</h3>\n\n\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
   "raw_sha256": "6a1ad43ff0b7b492443e765922bdd9a62f1a983d826e8d9efa82c3a6be27996f",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_dates_all": [
+    "2022-01-01"
+  ],
+  "effective_date_source": "body_effective_tag",
+  "heading_path": [
+    "Credit Valuation Adjustment Risk (CRR)",
+    "Application",
+    "Level of Application",
+    "Own Funds Requirements for Credit Valuation Adjustment Risk (Part Three CRR, Title VI CRR)",
+    "Article 385 Alternative to Using CVA Methods for Calculating Own Funds Requirements",
+    "Export Article as"
+  ],
+  "section_path": "Credit Valuation Adjustment Risk (CRR) > Application > Level of Application > Own Funds Requirements for Credit Valuation Adjustment Risk (Part Three CRR, Title VI CRR) > Article 385 Alternative to Using CVA Methods for Calculating Own Funds Requirements",
+  "citation_anchor": "pra.rules.credit-valuation-adjustment-risk-crr.2026::credit_valuation_adjustment_risk__crr_",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Credit Valuation Adjustment Risk (CRR)",
+      "id": "h1-0"
+    },
+    {
+      "level": 3,
+      "text": "Application",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Level of Application",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Own Funds Requirements for Credit Valuation Adjustment Risk (Part Three CRR, Title VI CRR)",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Article 385 Alternative to Using CVA Methods for Calculating Own Funds Requirements",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Export Article as",
+      "id": "h3-5"
+    }
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0
 }

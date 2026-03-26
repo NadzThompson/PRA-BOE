@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.ss115",
-  "version_id": "2026-03-03",
-  "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_id": "2024-12-31",
+  "version_label": "2024",
+  "version_sort_key": "2024-12-31",
   "guideline_number": "SS1/15",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "effective_date_start": "2024-12-31",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -124,8 +124,49 @@
     "section_count": 2,
     "rule_count": 5
   },
-  "content_markdown": "1\n\n###  Introduction\n\n1.1\n\nThis supervisory statement is addressed to all firms and to Lloyd’s. The statement should be read alongside the Insurance General Application Part of the Prudential Regulation Authority Rulebook. It explains the scope of application of the PRA Rulebook Parts on Solvency II to UK Solvency II firms and to Lloyd’s.\n\n*Effective: 01/01/2016*\n\n1.2\n\nThe PRA is publishing this statement to ensure that firms understand the requirements that they are expected to fulfil in order to comply with the PRA’s rules. It expands on the general approach as set out in its insurance approach document1. By clarifying the scope of Solvency II, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.\n\n#### Footnotes\n\n  * 1\\.  The Prudential Regulation Authority’s approach to insurance supervision, July 2023; [www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors](http://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors)\n\n*Effective: 31/12/2024*\n\n1.3\n\nThis statement has been subject to public consultation and reflects the feedback that was received by the PRA.2\n\n#### Footnotes\n\n  * 2\\.  PRA Consultation Paper CP16/14, ‘Transposition of Solvency II: Part 3’, August 2014; <https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2014/cp1614>\n\n*Effective: 31/12/2024*\n\n2\n\n###  Scope of application of Solvency II\n\n2.1\n\nIn the PRA Rulebook, the Solvency II rules apply to a UK Solvency II firm. They also apply to Lloyd’s by virtue of the application of various provisions to the Society and, where specified, to managing agents (see [Insurance General Application 3](/pra-rules/insurance-general-application#2e5a9cd32e6d4026895a5d543b990108)). The Lloyd’s instrument of the PRA Rulebook contains provisions relevant to the application of the Solvency II rules and certain other rules to Lloyd’s.\n\n*Effective: 31/12/2024*\n\n2.2\n\nThough a firm might otherwise be excluded from the scope of ‘UK Solvency II firm’ under Insurance General Application 2.2, the provisions in the Solvency II rules will apply if the firm’s Part 4A permission includes a requirement that it must comply with the Solvency II rules. This will be the case where a firm has opted in to the Solvency II regime or where a firm might otherwise be excluded pursuant to the Solvency II Directive but the PRA has decided to apply the Solvency II rules to that firm.\n\n*Effective: 01/01/2016*",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"6139f2889cac4dbebf226668e80b27e8\" id=\"294dcb5058f849868a2235ba5ee81248\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tIntroduction\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"eef7604215e746c88f0178fe68108e67\" id=\"e12e0d9d03c645faa242660c0e909402\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This supervisory statement is addressed to all firms and to Lloyd’s. The statement should be read alongside the Insurance General Application Part of the Prudential Regulation Authority Rulebook. It explains the scope of application of the PRA Rulebook Parts on Solvency II to UK Solvency II firms and to Lloyd’s.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"47b5c55750df4343875e3d9b65ac0df4\" id=\"ac2d5e5ff5d54a4aa27bb6dc66e93216\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>The PRA is publishing this statement to ensure that firms understand the requirements that they are expected to fulfil in order to comply with the PRA’s rules. It expands on the general approach as set out in its insurance approach document<sup><a href=\"#footnote-1\">1</a></sup>. By clarifying the scope of Solvency II, the PRA seeks to advance its statutory objectives of ensuring the safety and soundness of the firms it regulates, and contributing to securing an appropriate degree of protection for policyholders. The PRA has considered matters to which it is required to have regard, and it considers that this statement is compatible with the Regulatory Principles and relevant provisions of the Legislative and Regulatory Reform Act 2006. This statement is not expected to have any direct or indirect discriminatory impact under existing UK law.</p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-1\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t1.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tThe Prudential Regulation Authority’s approach to insurance supervision, July 2023; <a href=\"http://www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors\">www.bankofengland.co.uk/prudential-regulation/publication/pras-approach-to-supervision-of-the-banking-and-insurance-sectors</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss01-15---insurance-general-application/01-01-2016#ac2d5e5ff5d54a4aa27bb6dc66e93216\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c10fe582a4b4490dbe36bcb29dacaaa6\" id=\"f9101db5974c4c28ad0296ce22a1ce08\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This statement has been subject to public consultation and reflects the feedback that was received by the PRA.<sup><a href=\"#footnote-2\">2</a></sup></p>\n<div class=\"rb-footnotes text-small img-note\">\n<h4 class=\"visually-hidden\" id=\"footnote-label\">Footnotes</h4>\n<ul class=\"list-no-style\">\n<li class=\"rb-footnote\" id=\"footnote-2\">\n<span class=\"fn-col-1\">\r\n\t\t\t\t\t\t2.\r\n\t\t\t\t\t</span>\n<span class=\"fn-col-2\">\r\n\t\t\t\t\t\tPRA Consultation Paper CP16/14, ‘Transposition of Solvency II:  Part 3’, August 2014; <a href=\"https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2014/cp1614\">https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/consultation-paper/2014/cp1614</a>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss01-15---insurance-general-application/01-01-2016#f9101db5974c4c28ad0296ce22a1ce08\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.3 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"77e2dd21945546e4b42bb17b6a93545d\" id=\"5f6a3a1665b24535a9ffa99e4485dff6\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tScope of application of Solvency II\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"7120f03f3fbd4cf5851867697bfd29d6\" id=\"01427702a9574a62812716561d630f4d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>In the PRA Rulebook, the Solvency II rules apply to a UK Solvency II firm. They also apply to Lloyd’s by virtue of the application of various provisions to the Society and, where specified, to managing agents (see <a data-rb-content-link=\"Chapter\" href=\"/pra-rules/insurance-general-application#2e5a9cd32e6d4026895a5d543b990108\">Insurance General Application 3</a>).  The Lloyd’s instrument of the PRA Rulebook contains provisions relevant to the application of the Solvency II rules and certain other rules to Lloyd’s.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t31/12/2024\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/guidance/supervisory-statements/ss01-15---insurance-general-application/01-01-2016#01427702a9574a62812716561d630f4d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 2.1 before 31/12/2024\r\n\t\t\t</span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"12d8235ed8814be3985cf77b56eed2ff\" id=\"f4c45d8721464854bb14153a044b7eb0\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\tThough a firm might otherwise be excluded from the scope of ‘UK Solvency II firm’ under Insurance General Application 2.2, the provisions in the Solvency II rules will apply if the firm’s Part 4A permission includes a requirement that it must comply with the Solvency II rules. This will be the case where a firm has opted in to the Solvency II regime or where a firm might otherwise be excluded pursuant to the Solvency II Directive but the PRA has decided to apply the Solvency II rules to that firm.\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n</div>\n</div></div>\n</div>",
   "raw_sha256": "f7cfd8f0b69b25940a9bc42a82c9e6de6865ccac2db264820b302933b3682d81",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_dates_all": [
+    "2016-01-01",
+    "2024-12-31"
+  ],
+  "effective_date_source": "body_effective_tag",
+  "heading_path": [
+    "SS1/15 – Insurance general application",
+    "Introduction",
+    "Scope of application of Solvency II"
+  ],
+  "section_path": "SS1/15 – Insurance general application > Introduction > Footnotes > Footnotes > Scope of application of Solvency II",
+  "citation_anchor": "pra.ss115.2026::ss1_15___insurance_general_application",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "SS1/15 – Insurance general application",
+      "id": "h1-0"
+    },
+    {
+      "level": 3,
+      "text": "Introduction",
+      "id": "h3-1"
+    },
+    {
+      "level": 4,
+      "text": "Footnotes",
+      "id": "h4-2"
+    },
+    {
+      "level": 4,
+      "text": "Footnotes",
+      "id": "h4-3"
+    },
+    {
+      "level": 3,
+      "text": "Scope of application of Solvency II",
+      "id": "h3-4"
+    }
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0
 }

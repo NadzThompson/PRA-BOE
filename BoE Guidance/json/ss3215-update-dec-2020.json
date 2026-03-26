@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss3215-update-dec-2020",
+  "title": "SS3215/ – Ss3215 Update Dec 2020",
+  "short_title": "SS3215/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2020-12-01",
+  "guideline_number": "SS3215/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2020/ss3215-update-dec-2020.pdf",
+  "source_format": "pdf",
+  "pages": 10,
+  "pra_parent_documents": [
+    "pra.ss3215.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss3215-update-dec-2020",
+  "version_id": "2020-12-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "c8c6737ec3e0400ad23e561e95e1e03321b392a5c896731e6cc0262b3d8b01a5",
+  "scraped_at": "2026-03-25T03:32:27.750937Z",
+  "raw_sha256": "c8c6737ec3e0400ad23e561e95e1e03321b392a5c896731e6cc0262b3d8b01a5",
+  "regulator_acronym": "PRA",
+  "version_label": "December 2020",
+  "version_sort_key": "2020-12-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS3215/ – Ss3215 Update Dec 2020"
+  ],
+  "section_path": "SS3215/ – Ss3215 Update Dec 2020",
+  "citation_anchor": "PRA-BOE-ss3215-update-dec-2020::root",
+  "section_headings": []
+}

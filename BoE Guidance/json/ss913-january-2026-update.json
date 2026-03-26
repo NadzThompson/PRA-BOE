@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss913-january-2026-update",
+  "title": "SS913/ – Ss913 January 2026 Update",
+  "short_title": "SS913/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2026-01-01",
+  "guideline_number": "SS913/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2026/ss913-january-2026-update.pdf",
+  "source_format": "pdf",
+  "pages": 23,
+  "pra_parent_documents": [
+    "pra.ss913.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss913-january-2026-update",
+  "version_id": "2026-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "31fbd67565c0d8b21f007ac3b1edc9f410f2b6f1a6434823917f639b2f431696",
+  "scraped_at": "2026-03-25T03:32:28.737361Z",
+  "raw_sha256": "31fbd67565c0d8b21f007ac3b1edc9f410f2b6f1a6434823917f639b2f431696",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2026",
+  "version_sort_key": "2026-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS913/ – Ss913 January 2026 Update"
+  ],
+  "section_path": "SS913/ – Ss913 January 2026 Update",
+  "citation_anchor": "PRA-BOE-ss913-january-2026-update::root",
+  "section_headings": []
+}

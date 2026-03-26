@@ -38,6 +38,32 @@
     "as_at_date": "03-03-2026",
     "title": "SII Firms (Solvency II Insurance)"
   },
-  "content_markdown": "# SII Firms (Solvency II Insurance)\n\n**Description:** Insurance firms subject to Solvency II\n**Total Rules:** 0\n**Effective Date:** 03-03-2026\n\n## Rules\n",
-  "content_html": "<h1>SII Firms (Solvency II Insurance)</h1>\n<p><strong>Description:</strong> Insurance firms subject to Solvency II</p>\n<p><strong>Total Rules:</strong> 0</p>\n<table><thead><tr><th>#</th><th>Rule</th><th>Also Applies To</th><th>Status</th></tr></thead><tbody>\n</tbody></table>"
+  "heading_path": [
+    "SII Firms (Solvency II Insurance)",
+    "SII Firms (Solvency II Insurance)",
+    "Rules"
+  ],
+  "section_path": "SII Firms (Solvency II Insurance) > SII Firms (Solvency II Insurance) > Rules",
+  "citation_anchor": "PRA-sii-firms::sii_firms__solvency_ii_insurance_",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "SII Firms (Solvency II Insurance)",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "SII Firms (Solvency II Insurance)",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Rules",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

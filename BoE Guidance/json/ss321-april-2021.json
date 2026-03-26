@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss321-april-2021",
+  "title": "SS321/ – Ss321 April 2021",
+  "short_title": "SS321/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2021-04-01",
+  "guideline_number": "SS321/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss321-april-2021.pdf",
+  "source_format": "pdf",
+  "pages": 30,
+  "pra_parent_documents": [
+    "pra.ss321.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss321-april-2021",
+  "version_id": "2021-04-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "eabf3605908925be035712ba2146ab8d6b828ae300d5ba7abafc74ec7dbe5304",
+  "scraped_at": "2026-03-25T03:32:27.678936Z",
+  "raw_sha256": "eabf3605908925be035712ba2146ab8d6b828ae300d5ba7abafc74ec7dbe5304",
+  "regulator_acronym": "PRA",
+  "version_label": "April 2021",
+  "version_sort_key": "2021-04-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS321/ – Ss321 April 2021"
+  ],
+  "section_path": "SS321/ – Ss321 April 2021",
+  "citation_anchor": "PRA-BOE-ss321-april-2021::root",
+  "section_headings": []
+}

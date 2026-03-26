@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1313-update",
+  "title": "SS1313/ – Ss1313 Update",
+  "short_title": "SS1313/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2014-01-01",
+  "guideline_number": "SS1313/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2014/ss1313-update.pdf",
+  "source_format": "pdf",
+  "pages": 12,
+  "pra_parent_documents": [
+    "pra.ss1313.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1313-update",
+  "version_id": "2014-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "33be97cc506770a96683eaf2f659305d7e00552b60f7e7be233881feea0e7f6d",
+  "scraped_at": "2026-03-25T03:32:26.223196Z",
+  "raw_sha256": "33be97cc506770a96683eaf2f659305d7e00552b60f7e7be233881feea0e7f6d",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2014",
+  "version_sort_key": "2014-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS1313/ – Ss1313 Update"
+  ],
+  "section_path": "SS1313/ – Ss1313 Update",
+  "citation_anchor": "PRA-BOE-ss1313-update::root",
+  "section_headings": []
+}

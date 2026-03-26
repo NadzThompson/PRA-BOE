@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss4515-july-2022",
+  "title": "SS4515/ – Ss4515 July 2022",
+  "short_title": "SS4515/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2021-07-01",
+  "guideline_number": "SS4515/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss4515-july-2022.pdf",
+  "source_format": "pdf",
+  "pages": 14,
+  "pra_parent_documents": [
+    "pra.ss4515.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss4515-july-2022",
+  "version_id": "2021-07-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "1552df71905728d3479698cb4acf477255c5d503ca5c1a9c5c9ddbe4084e481b",
+  "scraped_at": "2026-03-25T03:32:28.370120Z",
+  "raw_sha256": "1552df71905728d3479698cb4acf477255c5d503ca5c1a9c5c9ddbe4084e481b",
+  "regulator_acronym": "PRA",
+  "version_label": "July 2021",
+  "version_sort_key": "2021-07-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS4515/ – Ss4515 July 2022"
+  ],
+  "section_path": "SS4515/ – Ss4515 July 2022",
+  "citation_anchor": "PRA-BOE-ss4515-july-2022::root",
+  "section_headings": []
+}

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss317update",
+  "title": "SS317 – Ss317update",
+  "short_title": "SS317",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-01-01",
+  "guideline_number": "SS317",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss317update.pdf",
+  "source_format": "pdf",
+  "pages": 13,
+  "pra_parent_documents": [
+    "pra.ss2415.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss317update",
+  "version_id": "2018-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "4b600fe892227830e3bb0b1bc44b70b2d7f977b27d295041b77d752bfe48f561",
+  "scraped_at": "2026-03-25T03:32:27.667562Z",
+  "raw_sha256": "4b600fe892227830e3bb0b1bc44b70b2d7f977b27d295041b77d752bfe48f561",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2018",
+  "version_sort_key": "2018-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS317 – Ss317update"
+  ],
+  "section_path": "SS317 – Ss317update",
+  "citation_anchor": "PRA-BOE-ss317update::root",
+  "section_headings": []
+}

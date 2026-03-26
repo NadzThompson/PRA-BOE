@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.rules.remuneration-reporting-requirements",
-  "version_id": "2026-03-03",
+  "version_id": null,
   "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_sort_key": null,
   "guideline_number": "Remuneration Reporting Requirements (Deleted)",
-  "status": "active",
-  "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "status": "deleted",
+  "current_version_flag": false,
+  "effective_date_start": null,
   "effective_date_end": null,
   "authority_class": "primary_normative",
   "authority_level": 1,
@@ -69,8 +69,23 @@
     "section_count": 0,
     "rule_count": 0
   },
-  "content_markdown": "",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n</div>\n</div>",
   "raw_sha256": "606b3cc89bfce4c6f3dd9909c0a2a07dc534adb86ed78f13fda12195c5fd39cb",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_date_source": "unknown_no_content",
+  "heading_path": [
+    "Remuneration Reporting Requirements (Deleted)"
+  ],
+  "section_path": "Remuneration Reporting Requirements (Deleted)",
+  "citation_anchor": "pra.rules.remuneration-reporting-requirements.2026::remuneration_reporting_requirements__del",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Remuneration Reporting Requirements (Deleted)",
+      "id": "h1-0"
+    }
+  ],
+  "toc_depth": 1,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0
 }

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss3115-update-april-2021",
+  "title": "SS3115/ – Ss3115 Update April 2021",
+  "short_title": "SS3115/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2021-04-01",
+  "guideline_number": "SS3115/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2021/ss3115-update-april-2021.pdf",
+  "source_format": "pdf",
+  "pages": 36,
+  "pra_parent_documents": [
+    "pra.ss3115.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss3115-update-april-2021",
+  "version_id": "2021-04-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "sha256": "fe6eaed646afe04fb29ed3d15d070c4f2489f59e3c38055ef71e0337e17c3c26",
+  "scraped_at": "2026-03-25T03:32:27.451460Z",
+  "raw_sha256": "fe6eaed646afe04fb29ed3d15d070c4f2489f59e3c38055ef71e0337e17c3c26",
+  "regulator_acronym": "PRA",
+  "version_label": "April 2021",
+  "version_sort_key": "2021-04-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS3115/ – Ss3115 Update April 2021"
+  ],
+  "section_path": "SS3115/ – Ss3115 Update April 2021",
+  "citation_anchor": "PRA-BOE-ss3115-update-april-2021::root",
+  "section_headings": []
+}

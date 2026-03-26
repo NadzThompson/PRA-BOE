@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.rules.public-disclosure",
-  "version_id": "2026-03-03",
-  "version_label": "2026",
-  "version_sort_key": "2026-03-03",
+  "version_id": "2022-01-01",
+  "version_label": "2022",
+  "version_sort_key": "2022-01-01",
   "guideline_number": "Public Disclosure",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-03",
+  "effective_date_start": "2022-01-01",
   "effective_date_end": null,
   "authority_class": "primary_normative",
   "authority_level": 1,
@@ -151,8 +151,47 @@
     "section_count": 3,
     "rule_count": 4
   },
-  "content_markdown": "1\n\n###  Application and Definitions\n\n1.1\n\nThis Part applies to every _firm_ that is a _CRR firm_.\n\n*Effective: 12/10/2016*\n\n1.2\n\n[Deleted.]\n\n*Effective: 01/01/2022*\n\n1.3\n\nUnless otherwise defined, any italicised expression used in this Part and in the _CRR_ has the same meaning as in the _CRR_.\n\n*Effective: 01/01/2016*\n\n2\n\n###  Public Disclosure of Return on Assets\n\n2.1\n\nA _firm_ must disclose in its _annual report and accounts_ among the key indicators their return on assets, calculated as their net profit divided by their total balance sheet.\n\n**[Note: Art 90 of the _CRD_]**\n\n*Effective: 01/01/2014*\n\n3\n\n###  Public Disclosure of Leverage Ratio (Deleted)",
-  "content_html": "<div class=\"col9\">\n<div class=\"clear\"></div>\n\n\n<div class=\"part-content\">\n\n<div class=\"chapter-section\" data-version=\"f7bbb8288be64c1e9d3924e3b511780d\" id=\"acbf22cd13e441b4a9fd830bfe8c1c06\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t1\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tApplication and Definitions\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"8875287549b64d48a179132b51789ada\" id=\"1b21b18468194feca733f50097902b69\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"1\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>This Part applies to every <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> that is a <em><a class=\"glossary-link\" data-glossary-id=\"52112\" data-mce-linktype=\"2\" href=\"#glossary-term-c73af3cf1d2447f1ab892ff7d8f3a231\" title=\"CRR firm\">CRR firm</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t12/10/2016\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/public-disclosure/01-01-2016#1b21b18468194feca733f50097902b69\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.1 before 12/10/2016\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"c1ef9e08a8c049679f8be21960cb4c4b\" id=\"c1bf2c3770c24fafb370ecaf8b71532d\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.2\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\r\n\t\t\t[Deleted.]\r\n\t\t\t\r\n\t\t</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2022\r\n\t\t\t\t</li>\n<li class=\"list-links__item\">\n<a class=\"list-links__link icon-previous\" href=\"/pra-rules/public-disclosure/12-10-2016#c1bf2c3770c24fafb370ecaf8b71532d\">\r\n\t\t\tPast\r\n\t\t\t<span class=\"visually-hidden\">\r\n\t\t\t\tversion of 1.2 before 01/01/2022\r\n\t\t\t</span>\n</a>\n</li>\n\n</ul>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"d3cf5242c4744cc0948f86554595061e\" id=\"c9c0926a809f4deba1f672cc6a205500\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t1.3\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>Unless otherwise defined, any italicised expression used in this Part and in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em> has the same meaning as in the <em><a class=\"glossary-link\" data-glossary-id=\"52111\" data-mce-linktype=\"2\" href=\"#glossary-term-cbe45e8f942b45a4a7fe0d3550a6f2f3\" title=\"CRR\">CRR</a></em>.</p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2016\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"0855a1120e4a4e4d8a8e241cda42bb70\" id=\"f8d6674799ad41149f8bad9298a8c763\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t2\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPublic Disclosure of Return on Assets\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"row-block row-block--border\" data-version=\"f7de5b507ac64d8f8e12a9144593aade\" id=\"998c2b6e64694e25840ada09e45509c5\" tabindex=\"-1\">\n<div class=\"div-row\" data-application-provision=\"0\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number\">\r\n\t\t\t\t\t\t2.1\r\n\t\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<p>A <em><a class=\"glossary-link\" data-glossary-id=\"52114\" data-mce-linktype=\"2\" href=\"#glossary-term-c8c2638afbfe4ec2a4d936a5d365917f\" title=\"firm\">firm</a></em> must disclose in its <em><a class=\"glossary-link\" data-glossary-id=\"52295\" data-mce-linktype=\"2\" href=\"#glossary-term-75eb98885be34ef59435a8d150563ff0\" title=\"annual report and accounts\">annual report and accounts</a></em> among the key indicators their return on assets, calculated as their net profit divided by their total balance sheet.</p>\n<p><strong>[Note: Art 90 of the <em><a class=\"glossary-link\" data-glossary-id=\"52109\" data-mce-linktype=\"2\" href=\"#glossary-term-31e4b635ac0e45079e29954e3d518bec\" title=\"CRD\">CRD</a></em>]</strong></p>\n</div>\n</div>\n<div class=\"row-block__info\">\n<ul class=\"list-links\">\n<li class=\"list-links__item\">\r\n\t\t\t\t\t01/01/2014\r\n\t\t\t\t</li>\n\n</ul>\n</div>\n</div> <div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div>\n<div class=\"chapter-section\" data-version=\"49abb6b821fc44379c80d338a8fdb2d0\" id=\"ac1b3a54994941418dafb0f33735b04d\" tabindex=\"-1\">\n<div class=\"div-row\">\n<div class=\"div-row__col-1\">\n<p>\n<span class=\"rule-number rule-number--mega chapter-number\">\r\n\t\t\t\t\t3\r\n\t\t\t\t</span>\n</p>\n</div>\n<div class=\"div-row__col-2\">\n<h3 class=\"header-sans chapter-heading\">\r\n\t\t\t\t\tPublic Disclosure of Leverage Ratio (Deleted)\r\n\t\t\t\t</h3>\n</div>\n</div>\n<div class=\"page-utilities page-utilities--bg-grey\">\n\n\n\n</div>\n</div></div>\n</div>",
   "raw_sha256": "c27ab7cc63201bdb6483c4b121e64b5d14035adbef7766279d6e882a5acd32dd",
-  "canonical_json_path": null
+  "canonical_json_path": null,
+  "effective_dates_all": [
+    "2014-01-01",
+    "2016-01-01",
+    "2016-10-12",
+    "2022-01-01"
+  ],
+  "effective_date_source": "body_effective_tag",
+  "heading_path": [
+    "Public Disclosure",
+    "Application and Definitions",
+    "Public Disclosure of Return on Assets",
+    "Public Disclosure of Leverage Ratio (Deleted)"
+  ],
+  "section_path": "Public Disclosure > Application and Definitions > Public Disclosure of Return on Assets > Public Disclosure of Leverage Ratio (Deleted)",
+  "citation_anchor": "pra.rules.public-disclosure.2026::public_disclosure",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Public Disclosure",
+      "id": "h1-0"
+    },
+    {
+      "level": 3,
+      "text": "Application and Definitions",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Public Disclosure of Return on Assets",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Public Disclosure of Leverage Ratio (Deleted)",
+      "id": "h3-3"
+    }
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0
 }

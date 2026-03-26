@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1713-update-march-2019",
+  "title": "SS1713/ – Ss1713 Update March 2019",
+  "short_title": "SS1713/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2019-03-01",
+  "guideline_number": "SS1713/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2019/ss1713-update-march-2019.pdf",
+  "source_format": "pdf",
+  "pages": 8,
+  "pra_parent_documents": [
+    "pra.ss1713.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1713-update-march-2019",
+  "version_id": "2019-03-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": false,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "82f32c17474646261c50773a51328d08c7f22da7ebcc1c49ff62f3d3cb25d9d5",
+  "scraped_at": "2026-03-25T03:32:26.421326Z",
+  "raw_sha256": "82f32c17474646261c50773a51328d08c7f22da7ebcc1c49ff62f3d3cb25d9d5",
+  "regulator_acronym": "PRA",
+  "version_label": "March 2019",
+  "version_sort_key": "2019-03-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS1713/ – Ss1713 Update March 2019"
+  ],
+  "section_path": "SS1713/ – Ss1713 Update March 2019",
+  "citation_anchor": "PRA-BOE-ss1713-update-march-2019::root",
+  "section_headings": []
+}

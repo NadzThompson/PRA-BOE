@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-credit-risk-standardised-approach-ss",
+  "title": "Credit Risk Standardised Approach SS",
+  "short_title": "credit-risk-standardised-approach-ss",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2024-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2024/credit-risk-standardised-approach-ss.pdf",
+  "source_format": "pdf",
+  "pages": 12,
+  "pra_parent_documents": [
+    "pra.ss1013.2026"
+  ],
+  "doc_family_id": "PRA-BOE-credit-risk-standardised-approach-ss",
+  "version_id": "2024-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "910826510c6eea963c98c9526c2845cf41f37e1865424dcf9f9d1c9f7ae87449",
+  "scraped_at": "2026-03-25T03:32:25.371196Z",
+  "raw_sha256": "910826510c6eea963c98c9526c2845cf41f37e1865424dcf9f9d1c9f7ae87449",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2024",
+  "version_sort_key": "2024-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "Credit Risk Standardised Approach SS"
+  ],
+  "section_path": "Credit Risk Standardised Approach SS",
+  "citation_anchor": "PRA-BOE-credit-risk-standardised-approach-ss::root",
+  "section_headings": []
+}

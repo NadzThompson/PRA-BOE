@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss913update-july-2025",
+  "title": "SS913 – Ss913update July 2025",
+  "short_title": "SS913",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2025-07-01",
+  "guideline_number": "SS913",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss913update-july-2025.pdf",
+  "source_format": "pdf",
+  "pages": 23,
+  "pra_parent_documents": [
+    "pra.ss913.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss913update-july-2025",
+  "version_id": "2025-07-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "727ab4f20ef37f6d3c01b9ee3de786123ede02183f2b072848f90f6cebd69295",
+  "scraped_at": "2026-03-25T03:32:28.761219Z",
+  "raw_sha256": "727ab4f20ef37f6d3c01b9ee3de786123ede02183f2b072848f90f6cebd69295",
+  "regulator_acronym": "PRA",
+  "version_label": "July 2025",
+  "version_sort_key": "2025-07-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS913 – Ss913update July 2025"
+  ],
+  "section_path": "SS913 – Ss913update July 2025",
+  "citation_anchor": "PRA-BOE-ss913update-july-2025::root",
+  "section_headings": []
+}

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss2815-update-2",
+  "title": "SS2815/ – Ss2815 Update 2",
+  "short_title": "SS2815/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2016-01-01",
+  "guideline_number": "SS2815/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss2815-update-2.pdf",
+  "source_format": "pdf",
+  "pages": 42,
+  "pra_parent_documents": [
+    "pra.ss2815.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss2815-update-2",
+  "version_id": "2016-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "bb92f533f760086899661935a32ab6be1c3d80c8db3acda34fdb0df33ce9bb66",
+  "scraped_at": "2026-03-25T03:32:27.176111Z",
+  "raw_sha256": "bb92f533f760086899661935a32ab6be1c3d80c8db3acda34fdb0df33ce9bb66",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2016",
+  "version_sort_key": "2016-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS2815/ – Ss2815 Update 2"
+  ],
+  "section_path": "SS2815/ – Ss2815 Update 2",
+  "citation_anchor": "PRA-BOE-ss2815-update-2::root",
+  "section_headings": []
+}

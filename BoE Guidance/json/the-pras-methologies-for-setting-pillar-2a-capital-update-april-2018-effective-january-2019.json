@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-pras-methologies-for-setting-pillar-2a-capital-update-april-2018-effective-january-2019",
+  "title": "The Pras Methologies For Setting Pillar 2A Capital Update April 2018 Effective January 2019",
+  "short_title": "the-pras-methologies-for-setting-pillar-2a-capital-update-april-2018-effective-january-2019",
+  "document_class": "statement_of_policy",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2018/the-pras-methologies-for-setting-pillar-2a-capital-update-april-2018-effective-january-2019.pdf",
+  "source_format": "pdf",
+  "pages": 41,
+  "pra_parent_documents": [
+    "pra.sop515-the-pras-methodologies-for-setting-pillar-2-capital.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-pras-methologies-for-setting-pillar-2a-capital-update-april-2018-effective-january-2019",
+  "version_id": "2018-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "7ed80ee8259a81bb0b16c20523aed5341e7f840a5570ad7f069606a10c356452",
+  "scraped_at": "2026-03-25T03:32:29.133205Z",
+  "raw_sha256": "7ed80ee8259a81bb0b16c20523aed5341e7f840a5570ad7f069606a10c356452",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2018",
+  "version_sort_key": "2018-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Pras Methologies For Setting Pillar 2A Capital Update April 2018 Effective January 2019"
+  ],
+  "section_path": "The Pras Methologies For Setting Pillar 2A Capital Update April 2018 Effective January 2019",
+  "citation_anchor": "PRA-BOE-the-pras-methologies-for-setting-pillar-2a-capital-update-april-2018-effective-january-2019::root",
+  "section_headings": []
+}

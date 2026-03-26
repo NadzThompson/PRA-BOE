@@ -38,6 +38,32 @@
     "as_at_date": "03-03-2026",
     "title": "Non-CRR Firms"
   },
-  "content_markdown": "# Non-CRR Firms\n\n**Description:** Firms not subject to the Capital Requirements Regulation\n**Total Rules:** 0\n**Effective Date:** 03-03-2026\n\n## Rules\n",
-  "content_html": "<h1>Non-CRR Firms</h1>\n<p><strong>Description:</strong> Firms not subject to the Capital Requirements Regulation</p>\n<p><strong>Total Rules:</strong> 0</p>\n<table><thead><tr><th>#</th><th>Rule</th><th>Also Applies To</th><th>Status</th></tr></thead><tbody>\n</tbody></table>"
+  "heading_path": [
+    "Non-CRR Firms",
+    "Non-CRR Firms",
+    "Rules"
+  ],
+  "section_path": "Non-CRR Firms > Non-CRR Firms > Rules",
+  "citation_anchor": "PRA-non-crr-firms::non_crr_firms",
+  "section_headings": [
+    {
+      "level": 1,
+      "text": "Non-CRR Firms",
+      "id": "h1-0"
+    },
+    {
+      "level": 1,
+      "text": "Non-CRR Firms",
+      "id": "h1-1"
+    },
+    {
+      "level": 2,
+      "text": "Rules",
+      "id": "h2-2"
+    }
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "has_tables": false,
+  "effective_dates_all": []
 }

@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-the-internal-capital-adequacy-assessment-process-and-srep-ss-update",
+  "title": "The Internal Capital Adequacy Assessment Process And Srep SS Update",
+  "short_title": "the-internal-capital-adequacy-assessment-process-and-srep-ss-update",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2013-01-01",
+  "guideline_number": "",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2013/the-internal-capital-adequacy-assessment-process-and-srep-ss-update.pdf",
+  "source_format": "pdf",
+  "pages": 18,
+  "pra_parent_documents": [
+    "pra.ss3115.2026"
+  ],
+  "doc_family_id": "PRA-BOE-the-internal-capital-adequacy-assessment-process-and-srep-ss-update",
+  "version_id": "2013-01-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "2aeb197b4b96096ac3eff7a482fcef210047cfb1214e5817b1983c0312206717",
+  "scraped_at": "2026-03-25T03:32:28.865526Z",
+  "raw_sha256": "2aeb197b4b96096ac3eff7a482fcef210047cfb1214e5817b1983c0312206717",
+  "regulator_acronym": "PRA",
+  "version_label": "January 2013",
+  "version_sort_key": "2013-01-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "The Internal Capital Adequacy Assessment Process And Srep SS Update"
+  ],
+  "section_path": "The Internal Capital Adequacy Assessment Process And Srep SS Update",
+  "citation_anchor": "PRA-BOE-the-internal-capital-adequacy-assessment-process-and-srep-ss-update::root",
+  "section_headings": []
+}

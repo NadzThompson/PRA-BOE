@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss4515-update-nov-18",
+  "title": "SS4515/ – Ss4515 Update Nov 18",
+  "short_title": "SS4515/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2018-11-01",
+  "guideline_number": "SS4515/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss4515-update-nov-18.pdf",
+  "source_format": "pdf",
+  "pages": 5,
+  "pra_parent_documents": [
+    "pra.ss4515.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss4515-update-nov-18",
+  "version_id": "2018-11-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "f5af32ef709c1c4115dde0a9ec64396869d9a44229e04fd67af72445be9d03c6",
+  "scraped_at": "2026-03-25T03:32:28.436166Z",
+  "raw_sha256": "f5af32ef709c1c4115dde0a9ec64396869d9a44229e04fd67af72445be9d03c6",
+  "regulator_acronym": "PRA",
+  "version_label": "November 2018",
+  "version_sort_key": "2018-11-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS4515/ – Ss4515 Update Nov 18"
+  ],
+  "section_path": "SS4515/ – Ss4515 Update Nov 18",
+  "citation_anchor": "PRA-BOE-ss4515-update-nov-18::root",
+  "section_headings": []
+}

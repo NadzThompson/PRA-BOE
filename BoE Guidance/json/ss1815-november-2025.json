@@ -1,0 +1,53 @@
+{
+  "doc_id": "PRA-BOE-ss1815-november-2025",
+  "title": "SS1815/ – Ss1815 November 2025",
+  "short_title": "SS1815/",
+  "document_class": "supervisory_statement",
+  "regulator": "PRA",
+  "jurisdiction": "UK",
+  "authority_class": "interpretive",
+  "nova_tier": 2,
+  "status": "active",
+  "effective_date_start": "2025-11-01",
+  "guideline_number": "SS1815/",
+  "sector": [
+    "B",
+    "a",
+    "g",
+    "i",
+    "k",
+    "n"
+  ],
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2025/ss1815-november-2025.pdf",
+  "source_format": "pdf",
+  "pages": 25,
+  "pra_parent_documents": [
+    "pra.ss1815.2026"
+  ],
+  "doc_family_id": "PRA-BOE-ss1815-november-2025",
+  "version_id": "2025-11-01",
+  "supersedes_doc_id": "",
+  "superseded_by_doc_id": "",
+  "contains_definition": true,
+  "contains_formula": true,
+  "contains_requirement": true,
+  "sha256": "61f04f8c8ddada6044ed08c08338c8d2db75d5033fdfe9354ed1ee20c38e1627",
+  "scraped_at": "2026-03-25T03:32:26.511257Z",
+  "raw_sha256": "61f04f8c8ddada6044ed08c08338c8d2db75d5033fdfe9354ed1ee20c38e1627",
+  "regulator_acronym": "PRA",
+  "version_label": "November 2025",
+  "version_sort_key": "2025-11-01",
+  "current_version_flag": true,
+  "effective_date_end": null,
+  "authority_level": 5,
+  "raw_path": null,
+  "canonical_json_path": null,
+  "parser_version": "boe-scraper-v1.0.0",
+  "quality_score": 1.0,
+  "heading_path": [
+    "SS1815/ – Ss1815 November 2025"
+  ],
+  "section_path": "SS1815/ – Ss1815 November 2025",
+  "citation_anchor": "PRA-BOE-ss1815-november-2025::root",
+  "section_headings": []
+}
