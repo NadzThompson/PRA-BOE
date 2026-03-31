@@ -4,21 +4,14 @@
   "short_title": "SS15/16",
   "document_class": "supervisory_statement",
   "regulator": "PRA",
-  "jurisdiction": "UK",
+  "jurisdiction": "United Kingdom",
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
   "effective_date_start": "2016-01-01",
   "guideline_number": "SS15/16",
   "sector": [
-    "I",
-    "a",
-    "c",
-    "e",
-    "n",
-    "r",
-    "s",
-    "u"
+    "Banking"
   ],
   "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2016/ss1516.pdf",
   "source_format": "pdf",
@@ -42,7 +35,7 @@
   "current_version_flag": true,
   "effective_date_end": null,
   "authority_level": 5,
-  "raw_path": null,
+  "raw_path": "BoE Guidance\\pdf\\ss1516.pdf",
   "canonical_json_path": null,
   "parser_version": "boe-scraper-v1.0.0",
   "quality_score": 1.0,
@@ -51,5 +44,22 @@
   ],
   "section_path": "SS15/16 – Ss1516",
   "citation_anchor": "PRA-BOE-ss1516::root",
-  "section_headings": []
+  "section_headings": [],
+  "structural_level": "document",
+  "section_number": "SS15/16",
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SS15/16"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2016-01-01",
+  "review_date": "2016-01-01",
+  "next_review_date": null
 }

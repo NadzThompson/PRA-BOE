@@ -24,7 +24,11 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "sector": [
+    "Banking",
+    "Financial_Conglomerates",
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -279,5 +283,20 @@
   "toc_depth": 3,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "chapter",
+  "section_number": "Interpretation",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2026-01-01",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

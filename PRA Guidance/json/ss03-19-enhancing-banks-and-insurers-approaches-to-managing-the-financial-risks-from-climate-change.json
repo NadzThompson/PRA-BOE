@@ -19,12 +19,14 @@
   "status": "superseded",
   "current_version_flag": false,
   "effective_date_start": "2025-12-03",
-  "effective_date_end": null,
+  "effective_date_end": "2025-12-03",
   "authority_class": "interpretive",
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": "pra.ss525.2026",
   "contains_definition": false,
@@ -113,5 +115,23 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "superseded_by_text": "Superseded by SS5/25 – Enhancing banks' and insurers' approaches to managing climate-related risks (effective 31 December 2024, published 3 December 2025)"
+  "superseded_by_text": "Superseded by SS5/25 – Enhancing banks' and insurers' approaches to managing climate-related risks (effective 31 December 2024, published 3 December 2025)",
+  "structural_level": "document",
+  "section_number": "SS3/19",
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SS3/19",
+    "SS5/25"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "superseded",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2025-12-03",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

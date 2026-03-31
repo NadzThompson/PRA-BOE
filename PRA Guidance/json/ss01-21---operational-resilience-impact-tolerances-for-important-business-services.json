@@ -24,7 +24,11 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "sector": [
+    "Banking",
+    "Financial_Conglomerates",
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -826,5 +830,26 @@
   "toc_depth": 4,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SS1/21",
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SS1/21",
+    "SS19/13",
+    "SS2/21",
+    "SS28/15",
+    "SS35/15"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2022-03-31",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

@@ -4,7 +4,7 @@
   "short_title": "PRA Legal Instruments - Unknown",
   "document_class": "legal_instrument",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Legal Instruments\\html\\legal-instruments-Unknown.html",
   "canonical_json_path": null,
   "raw_sha256": "13e8565faf3ddbfb69e713860215c450145e5c2395c873e7bfffe509c68243c4",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -53,5 +55,23 @@
   "toc_depth": 1,
   "has_appendices": false,
   "has_tables": false,
-  "effective_dates_all": []
+  "effective_dates_all": [],
+  "sha256": "13e8565faf3ddbfb69e713860215c450145e5c2395c873e7bfffe509c68243c4",
+  "structural_level": "document",
+  "section_number": "Legal Instruments",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [
+    "CRR Art.4"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": true,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": null,
+  "review_date": null,
+  "next_review_date": null
 }

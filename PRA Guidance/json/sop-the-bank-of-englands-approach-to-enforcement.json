@@ -24,7 +24,11 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "sector": [
+    "Banking",
+    "Financial_Conglomerates",
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -101,5 +105,20 @@
   "toc_depth": 1,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SoP3/13 – The Bank of England’s approach to enforcement: changes to statements of policy and procedure following the Financial Services and Markets Act 2023",
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2025-12-12",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

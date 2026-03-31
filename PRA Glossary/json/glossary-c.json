@@ -4,7 +4,7 @@
   "short_title": "PRA Glossary - C",
   "document_class": "glossary",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Glossary\\html\\glossary-c.html",
   "canonical_json_path": null,
   "raw_sha256": "6a638adf842662ed7be1d7b87d30889ffc96dc39d341b975839cafbabe6cd8ea",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 4,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -581,5 +583,34 @@
     "2014-07-23",
     "2015-07-31"
   ],
-  "effective_date_source": "body_long_date"
+  "effective_date_source": "body_long_date",
+  "sha256": "6a638adf842662ed7be1d7b87d30889ffc96dc39d341b975839cafbabe6cd8ea",
+  "structural_level": "document",
+  "section_number": "Glossary",
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": null,
+  "cross_references": [
+    "CRR Art.10",
+    "CRR Art.113",
+    "CRR Art.2",
+    "CRR Art.3",
+    "CRR Art.300",
+    "CRR Art.395",
+    "CRR Art.4",
+    "CRR Art.400",
+    "CRR Art.50",
+    "CRR Art.67",
+    "CRR Art.75",
+    "CRR Art.85"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2015-07-31",
+  "review_date": "2015-07-31",
+  "next_review_date": null
 }

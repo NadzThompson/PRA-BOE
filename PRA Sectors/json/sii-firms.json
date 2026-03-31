@@ -4,7 +4,7 @@
   "short_title": "SII Firms (Solvency II Insurance)",
   "document_class": "sector_overview",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Sectors\\html\\sii-firms.html",
   "canonical_json_path": null,
   "raw_sha256": "b71da52233dbd39965a98850b1ad232b2c957dbf65a66e24f6bbe35045f0dd07",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 5,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -65,5 +67,21 @@
   "toc_depth": 2,
   "has_appendices": false,
   "has_tables": false,
-  "effective_dates_all": []
+  "effective_dates_all": [],
+  "sha256": "b71da52233dbd39965a98850b1ad232b2c957dbf65a66e24f6bbe35045f0dd07",
+  "structural_level": "document",
+  "section_number": "Sectors",
+  "normative_weight": "informational",
+  "is_appendix": false,
+  "paragraph_role": "scope_statement",
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2026-03-02",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

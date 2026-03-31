@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -188,5 +190,32 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "replaces_text": "the following remuneration policy documents and letters to fi"
+  "replaces_text": "the following remuneration policy documents and letters to fi",
+  "structural_level": "document",
+  "section_number": "SS2/17",
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "PS1/23",
+    "PS16/23",
+    "PS18/21",
+    "PS21/25",
+    "PS28/21",
+    "PS29/20",
+    "PS7/17",
+    "PS9/23",
+    "SS2/13",
+    "SS2/17",
+    "SS27/15"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2026-03-02",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

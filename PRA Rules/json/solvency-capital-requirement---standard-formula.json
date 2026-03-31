@@ -24,7 +24,9 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -3654,5 +3656,35 @@
   "toc_depth": 4,
   "has_appendices": false,
   "has_tables": true,
-  "table_count": 6
+  "table_count": 6,
+  "structural_level": "chapter",
+  "section_number": "Solvency Capital Requirement - Standard Formula",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [
+    "CRR Art.1",
+    "CRR Art.11",
+    "CRR Art.117",
+    "CRR Art.118",
+    "CRR Art.143",
+    "CRR Art.177",
+    "CRR Art.2",
+    "CRR Art.242",
+    "CRR Art.243",
+    "CRR Art.3",
+    "CRR Art.301",
+    "CRR Art.4",
+    "CRR Art.7",
+    "CRR Art.8"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2026-01-01",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

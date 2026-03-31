@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -3469,5 +3471,23 @@
   "has_appendices": true,
   "has_tables": false,
   "table_count": 0,
-  "superseded_by_text": null
+  "superseded_by_text": null,
+  "structural_level": "document",
+  "section_number": "SS19/15",
+  "normative_weight": "permissive",
+  "is_appendix": true,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CRR Art.4",
+    "SS19/15"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": true,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2015-04-02",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

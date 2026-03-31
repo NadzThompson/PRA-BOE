@@ -24,7 +24,9 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -1665,5 +1667,25 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "replaces_text": "a standard parameter (within a subset of parameters in the li"
+  "replaces_text": "a standard parameter (within a subset of parameters in the li",
+  "structural_level": "chapter",
+  "section_number": "Group Supervision",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [
+    "CRR Art.214",
+    "CRR Art.220",
+    "CRR Art.90",
+    "CRR Art.91"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2025-07-24",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

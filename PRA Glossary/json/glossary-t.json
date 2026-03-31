@@ -4,7 +4,7 @@
   "short_title": "PRA Glossary - T",
   "document_class": "glossary",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Glossary\\html\\glossary-t.html",
   "canonical_json_path": null,
   "raw_sha256": "ddd2e5b861c079c0b710f2dbc92887ce99d24cc89b6b8ed54906f07ac43a8f85",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 4,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -279,5 +281,28 @@
     "1992-06-18",
     "1992-11-10"
   ],
-  "effective_date_source": "body_long_date"
+  "effective_date_source": "body_long_date",
+  "sha256": "ddd2e5b861c079c0b710f2dbc92887ce99d24cc89b6b8ed54906f07ac43a8f85",
+  "structural_level": "document",
+  "section_number": "Glossary",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": null,
+  "cross_references": [
+    "CRR Art.2",
+    "CRR Art.25",
+    "CRR Art.4",
+    "CRR Art.50",
+    "CRR Art.61",
+    "CRR Art.92"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "1992-11-10",
+  "review_date": "1992-11-10",
+  "next_review_date": null
 }

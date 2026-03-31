@@ -24,7 +24,11 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Financial_Conglomerates, Insurance",
+  "sector": [
+    "Banking",
+    "Financial_Conglomerates",
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -373,5 +377,20 @@
   "toc_depth": 5,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SoP1/24 – The Prudential Regulation Authority’s allocation of decision making and approach to supervisory decisions",
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [],
+  "contains_deadline": true,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2024-01-30",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

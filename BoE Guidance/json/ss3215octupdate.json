@@ -4,19 +4,14 @@
   "short_title": "SS32/15",
   "document_class": "supervisory_statement",
   "regulator": "PRA",
-  "jurisdiction": "UK",
+  "jurisdiction": "United Kingdom",
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
   "effective_date_start": "2017-10-01",
   "guideline_number": "SS32/15",
   "sector": [
-    "B",
-    "a",
-    "g",
-    "i",
-    "k",
-    "n"
+    "Banking"
   ],
   "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2017/ss3215octupdate.pdf",
   "source_format": "pdf",
@@ -40,7 +35,7 @@
   "current_version_flag": true,
   "effective_date_end": null,
   "authority_level": 5,
-  "raw_path": null,
+  "raw_path": "BoE Guidance\\pdf\\ss3215octupdate.pdf",
   "canonical_json_path": null,
   "parser_version": "boe-scraper-v1.0.0",
   "quality_score": 1.0,
@@ -49,5 +44,24 @@
   ],
   "section_path": "SS32/15 – Ss3215octupdate",
   "citation_anchor": "PRA-BOE-ss3215octupdate::root",
-  "section_headings": []
+  "section_headings": [],
+  "structural_level": "document",
+  "section_number": "SS32/15",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CP25/16",
+    "CP36/16",
+    "SS32/15"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2017-10-01",
+  "review_date": "2017-10-01",
+  "next_review_date": null
 }

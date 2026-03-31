@@ -4,19 +4,14 @@
   "short_title": "operating-sdtt-regime-sop",
   "document_class": "statement_of_policy",
   "regulator": "PRA",
-  "jurisdiction": "UK",
+  "jurisdiction": "United Kingdom",
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
   "effective_date_start": "2023-01-01",
   "guideline_number": "",
   "sector": [
-    "B",
-    "a",
-    "g",
-    "i",
-    "k",
-    "n"
+    "Banking"
   ],
   "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2023/operating-sdtt-regime-sop.pdf",
   "source_format": "pdf",
@@ -40,7 +35,7 @@
   "current_version_flag": true,
   "effective_date_end": null,
   "authority_level": 5,
-  "raw_path": null,
+  "raw_path": "BoE Guidance\\pdf\\operating-sdtt-regime-sop.pdf",
   "canonical_json_path": null,
   "parser_version": "boe-scraper-v1.0.0",
   "quality_score": 1.0,
@@ -49,5 +44,22 @@
   ],
   "section_path": "Operating Sdtt Regime Sop",
   "citation_anchor": "PRA-BOE-operating-sdtt-regime-sop::root",
-  "section_headings": []
+  "section_headings": [],
+  "structural_level": "document",
+  "section_number": null,
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SoP should"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2023-01-01",
+  "review_date": "2023-01-01",
+  "next_review_date": null
 }

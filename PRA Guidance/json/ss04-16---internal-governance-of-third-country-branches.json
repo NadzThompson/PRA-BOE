@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -691,5 +693,30 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "replaces_text": "the guidance material previously included in chapters 4 – 9 a"
+  "replaces_text": "the guidance material previously included in chapters 4 – 9 a",
+  "structural_level": "document",
+  "section_number": "SS4/16",
+  "normative_weight": "advisory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CP14/13",
+    "CP14/14",
+    "CRR Art.91",
+    "PS20/15",
+    "PS29/15",
+    "SS10/14",
+    "SS28/15",
+    "SS34/15",
+    "SS4/16"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2020-12-29",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

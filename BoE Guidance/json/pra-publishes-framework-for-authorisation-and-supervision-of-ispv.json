@@ -4,21 +4,14 @@
   "short_title": "pra-publishes-framework-for-authorisation-and-supervision-of-ispv",
   "document_class": "regulatory_document",
   "regulator": "PRA",
-  "jurisdiction": "UK",
+  "jurisdiction": "United Kingdom",
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
   "effective_date_start": "",
   "guideline_number": "",
   "sector": [
-    "I",
-    "a",
-    "c",
-    "e",
-    "n",
-    "r",
-    "s",
-    "u"
+    "Banking"
   ],
   "source_url": "",
   "source_format": "pdf",
@@ -42,7 +35,7 @@
   "current_version_flag": true,
   "effective_date_end": null,
   "authority_level": 5,
-  "raw_path": null,
+  "raw_path": "BoE Guidance\\pdf\\pra-publishes-framework-for-authorisation-and-supervision-of-ispv.pdf",
   "canonical_json_path": null,
   "parser_version": "boe-scraper-v1.0.0",
   "quality_score": 1.0,
@@ -51,5 +44,23 @@
   ],
   "section_path": "Pra Publishes Framework For Authorisation And Supervision OF Ispv",
   "citation_anchor": "PRA-BOE-pra-publishes-framework-for-authorisation-and-supervision-of-ispv::root",
-  "section_headings": []
+  "section_headings": [],
+  "structural_level": "document",
+  "section_number": null,
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": null,
+  "cross_references": [
+    "PS26/17",
+    "SS8/17"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "",
+  "review_date": "",
+  "next_review_date": null
 }

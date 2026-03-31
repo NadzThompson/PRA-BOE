@@ -4,7 +4,7 @@
   "short_title": "PRA Glossary - W",
   "document_class": "glossary",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Glossary\\html\\glossary-w.html",
   "canonical_json_path": null,
   "raw_sha256": "aeaf56ed049d75202e818bd489e5f9e225d0a27f6fe3f583410114ea40f1030c",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 4,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -113,5 +115,21 @@
   "toc_depth": 2,
   "has_appendices": false,
   "has_tables": false,
-  "effective_dates_all": []
+  "effective_dates_all": [],
+  "sha256": "aeaf56ed049d75202e818bd489e5f9e225d0a27f6fe3f583410114ea40f1030c",
+  "structural_level": "document",
+  "section_number": "Glossary",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": null,
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": null,
+  "review_date": null,
+  "next_review_date": null
 }

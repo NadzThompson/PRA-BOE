@@ -4,7 +4,7 @@
   "short_title": "PRA Guidance Index",
   "document_class": "guidance_index",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Guidance\\html\\guidance-index.html",
   "canonical_json_path": null,
   "raw_sha256": "a4f62eac0a975e4be49f96103460be2c351142d64b5de705346e3aa3a8134ee6",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 5,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -56,5 +58,21 @@
   ],
   "section_path": "PRA Rulebook - Guidance Index",
   "citation_anchor": "PRA-guidance-index::root",
-  "section_headings": []
+  "section_headings": [],
+  "sha256": "a4f62eac0a975e4be49f96103460be2c351142d64b5de705346e3aa3a8134ee6",
+  "structural_level": "document",
+  "section_number": "Index",
+  "normative_weight": "informational",
+  "is_appendix": false,
+  "paragraph_role": null,
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2026-03-02",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

@@ -24,7 +24,9 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -1284,5 +1286,30 @@
   "toc_depth": 3,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "chapter",
+  "section_number": "Remuneration",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [
+    "CRR Art.1",
+    "CRR Art.14",
+    "CRR Art.15",
+    "CRR Art.352",
+    "CRR Art.4",
+    "CRR Art.450",
+    "CRR Art.76",
+    "CRR Art.92",
+    "CRR Art.94"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2025-10-16",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

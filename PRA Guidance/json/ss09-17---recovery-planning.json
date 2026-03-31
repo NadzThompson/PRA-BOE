@@ -19,12 +19,14 @@
   "status": "superseded",
   "current_version_flag": false,
   "effective_date_start": "2025-03-03",
-  "effective_date_end": null,
+  "effective_date_end": "2025-03-03",
   "authority_class": "interpretive",
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -966,5 +968,28 @@
   "has_appendices": true,
   "has_tables": false,
   "table_count": 0,
-  "superseded_by_text": "This version (December 2017) superseded on 27 July 2020 by December 2020 version. The guidance itself (SS9/17) remains active with May 2022 version."
+  "superseded_by_text": "This version (December 2017) superseded on 27 July 2020 by December 2020 version. The guidance itself (SS9/17) remains active with May 2022 version.",
+  "structural_level": "document",
+  "section_number": "SS9/17",
+  "normative_weight": "advisory",
+  "is_appendix": true,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CRR Art.131",
+    "CRR Art.7",
+    "SS1/22",
+    "SS18/13",
+    "SS8/16",
+    "SS9/17",
+    "SoP for"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "superseded",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2025-03-03",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

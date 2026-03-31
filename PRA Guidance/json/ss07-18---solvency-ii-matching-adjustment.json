@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -1897,5 +1899,27 @@
   "has_appendices": true,
   "has_tables": false,
   "table_count": 0,
-  "replaces_text": "assets for the purpose of maintaining matching only where the"
+  "replaces_text": "assets for the purpose of maintaining matching only where the",
+  "structural_level": "document",
+  "section_number": "SS7/18",
+  "normative_weight": "advisory",
+  "is_appendix": true,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SS1/20",
+    "SS3/17",
+    "SS35/15",
+    "SS7/18",
+    "SS8/17",
+    "SS9/14"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2024-12-31",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

@@ -19,12 +19,14 @@
   "status": "deleted",
   "current_version_flag": false,
   "effective_date_start": "2024-05-23",
-  "effective_date_end": null,
+  "effective_date_end": "2024-05-23",
   "authority_class": "interpretive",
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -103,5 +105,23 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "superseded_by_text": "Deleted and replaced by SoP – The PRA's approach to insurance branch authorisation and supervision (PS8/24, May 2024)"
+  "superseded_by_text": "Deleted and replaced by SoP – The PRA's approach to insurance branch authorisation and supervision (PS8/24, May 2024)",
+  "structural_level": "document",
+  "section_number": "SS2/18",
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SS2/18",
+    "SoP The"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "superseded",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2024-05-23",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

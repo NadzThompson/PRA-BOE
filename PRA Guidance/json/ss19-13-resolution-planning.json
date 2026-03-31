@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -923,5 +925,24 @@
   "toc_depth": 5,
   "has_appendices": true,
   "has_tables": true,
-  "table_count": 3
+  "table_count": 3,
+  "structural_level": "document",
+  "section_number": "SS19/13",
+  "normative_weight": "advisory",
+  "is_appendix": true,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CP11/16",
+    "CRR Art.2",
+    "SS19/13"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2019-01-01",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

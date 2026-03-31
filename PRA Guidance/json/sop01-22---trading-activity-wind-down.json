@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -999,5 +1001,35 @@
   "toc_depth": 5,
   "has_appendices": true,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SoP1/22 – Trading activity wind-down",
+  "normative_weight": "advisory",
+  "is_appendix": true,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CRR Art.4",
+    "CRR Art.9",
+    "SS1/22",
+    "SS24/15",
+    "SS28/15",
+    "SS3/18",
+    "SS4/21",
+    "SS5/21",
+    "SS9/17",
+    "SoP does",
+    "SoP is",
+    "SoP on",
+    "SoP should",
+    "SoP to"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2025-03-03",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

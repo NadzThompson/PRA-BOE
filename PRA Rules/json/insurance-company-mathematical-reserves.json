@@ -24,7 +24,9 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Insurance",
+  "sector": [
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -578,5 +580,20 @@
   "has_appendices": false,
   "has_tables": false,
   "table_count": 0,
-  "superseded_by_text": null
+  "superseded_by_text": null,
+  "structural_level": "chapter",
+  "section_number": "Insurance Company – Mathematical Reserves",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2020-09-08",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

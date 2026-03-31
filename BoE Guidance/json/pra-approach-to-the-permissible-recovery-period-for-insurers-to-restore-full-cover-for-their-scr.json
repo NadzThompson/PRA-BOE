@@ -4,21 +4,14 @@
   "short_title": "pra-approach-to-the-permissible-recovery-period-for-insurers-to-restore-full-cover-for-their-scr",
   "document_class": "statement_of_policy",
   "regulator": "PRA",
-  "jurisdiction": "UK",
+  "jurisdiction": "United Kingdom",
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
   "effective_date_start": "2024-01-01",
   "guideline_number": "",
   "sector": [
-    "I",
-    "a",
-    "c",
-    "e",
-    "n",
-    "r",
-    "s",
-    "u"
+    "Banking"
   ],
   "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/statement-of-policy/2024/pra-approach-to-the-permissible-recovery-period-for-insurers-to-restore-full-cover-for-their-scr.pdf",
   "source_format": "pdf",
@@ -42,7 +35,7 @@
   "current_version_flag": true,
   "effective_date_end": null,
   "authority_level": 5,
-  "raw_path": null,
+  "raw_path": "BoE Guidance\\pdf\\pra-approach-to-the-permissible-recovery-period-for-insurers-to-restore-full-cover-for-their-scr.pdf",
   "canonical_json_path": null,
   "parser_version": "boe-scraper-v1.0.0",
   "quality_score": 1.0,
@@ -51,5 +44,24 @@
   ],
   "section_path": "Pra Approach TO The Permissible Recovery Period For Insurers TO Restore Full Cover For Their Scr",
   "citation_anchor": "PRA-BOE-pra-approach-to-the-permissible-recovery-period-for-insurers-to-restore-full-cover-for-their-scr::root",
-  "section_headings": []
+  "section_headings": [],
+  "structural_level": "document",
+  "section_number": null,
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "SoP   should",
+    "SoP  apply",
+    "SoP sets"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": true,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2024-01-01",
+  "review_date": "2024-01-01",
+  "next_review_date": null
 }

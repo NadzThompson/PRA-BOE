@@ -4,7 +4,7 @@
   "short_title": "PRA Rule Change Timelines",
   "document_class": "rule_timeline",
   "source_type": "html",
-  "raw_path": null,
+  "raw_path": "PRA Rules\\html\\_rule-change-timelines.html",
   "canonical_json_path": null,
   "raw_sha256": "791b99fb276cbb11b17d5d7f56491b31d0db37c6430367b183b3ce553a14807b",
   "parser_version": "pra-scraper-v1.0.0",
@@ -24,7 +24,9 @@
   "authority_level": 7,
   "nova_tier": 5,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -43,5 +45,21 @@
   ],
   "section_path": "PRA Rule Change Timeline Index",
   "citation_anchor": "PRA-_rule-change-timelines::root",
-  "section_headings": []
+  "section_headings": [],
+  "sha256": "791b99fb276cbb11b17d5d7f56491b31d0db37c6430367b183b3ce553a14807b",
+  "structural_level": "document",
+  "section_number": "Index",
+  "normative_weight": "informational",
+  "is_appendix": false,
+  "paragraph_role": "reference",
+  "cross_references": [],
+  "contains_deadline": false,
+  "contains_assignment": false,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2026-03-02",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

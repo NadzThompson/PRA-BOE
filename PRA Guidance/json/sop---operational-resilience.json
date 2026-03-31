@@ -24,7 +24,10 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Insurance",
+  "sector": [
+    "Banking",
+    "Insurance"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": false,
@@ -381,5 +384,28 @@
   "toc_depth": 5,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SoP1/21 – Operational resilience",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CRR Art.85",
+    "SS1/21",
+    "SS2/21",
+    "SS21/15",
+    "SoP Interpretation",
+    "SoP clarifies",
+    "SoP sets"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2024-12-31",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

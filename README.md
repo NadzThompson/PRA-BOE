@@ -1,90 +1,241 @@
-# PRA Corpus
+# NOVA PRA/BoE Regulatory Corpus
 
-Regulatory content from the UK Prudential Regulation Authority (PRA) and Bank of England (BoE), structured for the NOVA metadata pipeline.
+Comprehensive regulatory corpus from the UK Prudential Regulation Authority (PRA) and Bank of England (BoE), structured for the NOVA RAG pipeline. Every document has a raw source file and an enriched JSON metadata sidecar conforming to the NOVA 3-layer metadata architecture.
 
-## Contents
+**Last updated:** March 2026
+**Total:** 677 documents across 7 categories
 
-**677 documents** across 7 categories:
+---
 
-| Category | Documents | Description |
-|----------|-----------|-------------|
-| BoE Guidance | 293 | Bank of England prudential guidance (sourced from PDFs) |
-| PRA Rules | 169 | Binding rulebook provisions |
-| PRA Guidance | 168 | Supervisory statements and statements of policy |
-| PRA Glossary | 25 | Defined terms and definitions |
-| PRA Legal Instruments | 16 | Statutory instruments and legal orders |
-| PRA Sectors | 5 | Sector-specific landing content |
-| PRA Forms | 1 | Regulatory reporting forms |
+## Corpus Summary
+
+| Category | Documents | Raw Format | Description | Ingestion Priority |
+|----------|-----------|------------|-------------|-------------------|
+| **PRA Rules** | 169 | HTML | Binding rulebook provisions from prarulebook.co.uk | **P0 — ingest first** |
+| **PRA Guidance** | 168 | HTML | Supervisory statements and statements of policy | **P0 — ingest first** |
+| **BoE Guidance** | 293 | PDF | Bank of England prudential guidance documents | P1 |
+| **PRA Glossary** | 25 | HTML | Defined terms and regulatory definitions | P1 |
+| **PRA Legal Instruments** | 16 | HTML | Statutory instruments and legal orders | P1 |
+| **PRA Sectors** | 5 | HTML | Sector-specific scope and application | P2 |
+| **PRA Forms** | 1 | HTML | Regulatory reporting form templates | P2 |
+
+---
+
+## What to Ingest into the NOVA RAG Model
+
+Each document consists of a **raw content file** (the source to parse and chunk) and a **JSON metadata sidecar** (the enriched metadata to attach to each chunk). Both are required at ingestion time.
+
+### PRA Rules (169 documents) — Primary Corpus
+
+**Ingest these first.** These are the binding PRA Rulebook provisions — the equivalent of the Basel Framework chapters but for the UK jurisdiction.
+
+| What to ingest | Path | Raw Format | Notes |
+|---------------|------|------------|-------|
+| **Raw content** | `PRA Rules/html/*.html` | HTML | Original HTML scraped from prarulebook.co.uk. Parse with BeautifulSoup. |
+| **Parsed content** | `PRA Rules/md/*.md` | Markdown | Pre-parsed text. Use as primary ingestion source for text extraction. |
+| **Metadata sidecar** | `PRA Rules/json/*.json` | JSON | Full NOVA 3-layer metadata. Attach to each chunk at ingestion time. |
+| **Rendered PDF** | `PRA Rules/pdf/*.pdf` | PDF | For reference/backup only. |
+
+### PRA Guidance (168 documents) — Primary Corpus
+
+**Ingest alongside PRA Rules.** Supervisory statements (SS) and statements of policy (SoP) that explain how the PRA interprets and applies the rules.
+
+| What to ingest | Path | Raw Format | Notes |
+|---------------|------|------------|-------|
+| **Raw content** | `PRA Guidance/html/*.html` | HTML | Original HTML from prarulebook.co.uk |
+| **Parsed content** | `PRA Guidance/md/*.md` | Markdown | Pre-parsed text |
+| **Metadata sidecar** | `PRA Guidance/json/*.json` | JSON | Full NOVA metadata |
+
+### BoE Guidance (293 documents) — Secondary Corpus
+
+**Ingest after PRA Rules and Guidance.** Bank of England prudential guidance sourced from PDF publications. Includes consultation papers, policy statements, and supervisory approach documents.
+
+| What to ingest | Path | Raw Format | Notes |
+|---------------|------|------------|-------|
+| **Raw content** | `BoE Guidance/pdf/*.pdf` | PDF | Original PDFs from bankofengland.co.uk. Requires text extraction (Azure Document Intelligence or pymupdf) before chunking. |
+| **Parsed content** | `BoE Guidance/md/*.md` | Markdown | Pre-extracted text from PDFs |
+| **Metadata sidecar** | `BoE Guidance/json/*.json` | JSON | Full NOVA metadata |
+
+**Note:** No HTML subfolder — these were sourced from BoE-published PDFs, not web pages.
+
+### PRA Glossary (25 documents)
+
+| What to ingest | Path | Raw Format | Notes |
+|---------------|------|------------|-------|
+| **Raw content** | `PRA Glossary/html/*.html` | HTML | Regulatory definitions from prarulebook.co.uk |
+| **Metadata sidecar** | `PRA Glossary/json/*.json` | JSON | `normative_weight = mandatory` — definitions are binding |
+
+### PRA Legal Instruments (16 documents)
+
+| What to ingest | Path | Raw Format | Notes |
+|---------------|------|------------|-------|
+| **Raw content** | `PRA Legal Instruments/html/*.html` | HTML | Statutory instruments and legal orders |
+| **Metadata sidecar** | `PRA Legal Instruments/json/*.json` | JSON | `authority_level = 1` — primary legal authority |
+
+### PRA Sectors (5 documents) and PRA Forms (1 document)
+
+Lower priority reference content.
+
+| What to ingest | Path | Raw Format |
+|---------------|------|------------|
+| `PRA Sectors/html/*.html` + `PRA Sectors/json/*.json` | HTML + JSON |
+| `PRA Forms/html/*.html` + `PRA Forms/json/*.json` | HTML + JSON |
+
+---
 
 ## Folder Structure
 
-Each category folder contains up to four subfolders:
-
 ```
-PRA Rules/
-  json/   <- Metadata only (no content embedded)
-  md/     <- Readable text content (authoritative)
-  html/   <- Original HTML source from prarulebook.co.uk
-  pdf/    <- Rendered PDF
+PRA/
+  PRA Rules/
+    html/     <- Raw HTML from prarulebook.co.uk (169 files)
+    md/       <- Pre-parsed markdown (169 files)
+    json/     <- Enriched NOVA metadata (169 files)
+    pdf/      <- Rendered PDFs (169 files)
+  PRA Guidance/
+    html/     <- Raw HTML (168 files)
+    md/       <- Pre-parsed markdown (168 files)
+    json/     <- Enriched NOVA metadata (168 files)
+    pdf/      <- Rendered PDFs (168 files)
+  BoE Guidance/
+    pdf/      <- Raw PDFs from bankofengland.co.uk (293 files)
+    md/       <- Pre-extracted text (293 files)
+    json/     <- Enriched NOVA metadata (293 files)
+  PRA Glossary/
+    html/     <- Raw HTML (25 files)
+    md/       <- Markdown (25 files)
+    json/     <- Metadata (25 files)
+    pdf/      <- PDFs (24 files)
+  PRA Legal Instruments/
+    html/     <- Raw HTML (16 files)
+    md/       <- Markdown (16 files)
+    json/     <- Metadata (16 files)
+    pdf/      <- PDFs (8 files)
+  PRA Sectors/
+    html/ + md/ + json/ + pdf/    (5 files each)
+  PRA Forms/
+    html/ + md/ + json/ + pdf/    (1 file each)
+  docs/       <- Reference documentation
+  scripts/    <- Scraping and enrichment scripts
 ```
 
-**Note:** BoE Guidance has no HTML subfolder because it was sourced from BoE-published PDFs, not HTML pages.
+**Raw content formats by category:**
 
-## File Formats
+| Category | Raw Format | Source | Parser Required |
+|----------|-----------|--------|-----------------|
+| PRA Rules | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
+| PRA Guidance | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
+| BoE Guidance | **PDF** | bankofengland.co.uk | Azure Doc Intelligence / pymupdf, or use pre-parsed MD |
+| PRA Glossary | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
+| PRA Legal Instruments | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
+| PRA Sectors | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
+| PRA Forms | **HTML** | prarulebook.co.uk | BeautifulSoup or use pre-parsed MD |
 
-- **JSON** (metadata only): One file per document. Contains identification, classification, NOVA pipeline fields, and supersession metadata. No content fields (content_markdown, content_html, extracted_text have been removed).
-- **MD** (content): The authoritative text content. Use this for ingestion, search indexing, and embedding.
-- **HTML** (source): The original HTML as scraped from prarulebook.co.uk. Not available for BoE Guidance.
-- **PDF** (rendered): PDF rendering of the content. Some were converted from HTML and may have minor formatting differences from the markdown.
+Every raw file has exactly one corresponding JSON metadata sidecar with the same filename stem.
 
-## Key Metadata Fields
+---
+
+## JSON Metadata Schema
+
+Every JSON sidecar conforms to the NOVA 3-layer metadata architecture. Fields serve three distinct pipeline purposes:
+
+### Layer 1 — Embedding Layer
 
 | Field | Description | Coverage |
-|-------|-------------|----------|
-| `doc_id` | Unique identifier (e.g., `pra.rules.capital-buffers.2026`) | 100% |
-| `title` | Full document title | 100% |
-| `short_title` | Abbreviated title for display | 100% |
-| `status` | Document status: `active`, `superseded`, or `deleted` | 100% |
+|-------|-------------|---------|
+| `doc_id` | Unique identifier (e.g., `PRA-_capital-buffers`) | 100% |
+| `short_title` | Abbreviated title | 100% |
+| `document_class` | `rulebook_rule`, `supervisory_statement`, `statement_of_policy`, etc. | 100% |
+| `heading_path` | Hierarchical breadcrumb | 100% |
+| `section_path` | Flattened section path | 100% |
 | `regulator` | `PRA` or `BoE` | 100% |
-| `document_class` | Type: `rulebook_rule`, `supervisory_statement`, `statement_of_policy`, etc. | 100% |
-| `nova_tier` | NOVA importance tier (1 = core binding, 5 = administrative) | 100% |
-| `jurisdiction` | `United Kingdom` | 100% |
+| `structural_level` | `chapter`, `document`, `definition` | 100% |
+| `section_number` | Guideline reference number | varies |
+| `normative_weight` | `mandatory` / `advisory` / `informational` | 100% |
+
+### Layer 2 — Index/Filter Layer
+
+| Field | Description | Coverage |
+|-------|-------------|---------|
+| `status` | `active`, `superseded`, `deleted` | 100% |
+| `effective_date_start` | Date the document became effective | 92% |
+| `effective_date_end` | End date (for superseded/deleted docs) | deleted/superseded only |
+| `current_version_flag` | `true` for active documents | 100% |
 | `authority_class` | `primary_normative`, `guidance_interpretive`, etc. | 100% |
-| `effective_date_start` | Date the document version became effective | 100% |
-| `current_version_flag` | `True` for active docs, `False` for superseded/deleted | 100% |
-| `heading_path` | Array of section headings within the document | varies |
-| `citation_anchor` | Anchor for citation linking | 100% |
-| `superseded_by_doc_id` | Doc ID of replacement (if superseded) | 7 docs |
-| `superseded_by_text` | Human-readable supersession explanation | 7 docs |
+| `authority_level` | 1 (binding rules) to 7 (contextual) | 100% |
+| `nova_tier` | 1 (core binding) to 5 (administrative) | 100% |
+| `jurisdiction` | `United Kingdom` | 100% |
+| `sector` | Array: `["Banking"]`, `["Insurance"]`, etc. | 100% |
+| `paragraph_role` | `requirement`, `guidance`, `definition`, etc. | 100% |
+| `is_appendix` | Boolean | 100% |
+| `contains_definition` / `contains_formula` / `contains_requirement` | Content flags | 100% |
+| `contains_deadline` / `contains_assignment` / `contains_parameter` | Content flags (from text analysis) | varies |
+| `cross_references` | Array of PRA/CRR cross-references | varies |
+| `approval_status` | `approved`, `superseded` | 100% |
+| `audience` | Target readership | 100% |
+| `confidentiality` | `public` | 100% |
+| `superseded_by_doc_id` / `supersedes_doc_id` | Version chain links | where applicable |
+
+### Layer 3 — Prompt Injection Layer
+
+| Field | Description |
+|-------|-------------|
+| `title` | Full document title |
+| `citation_anchor` | Precise citation reference |
+| `version_id` / `version_label` | Temporal context |
+| `status` | Active/superseded/deleted |
+| `authority_class` | Normative vs interpretive |
+| `normative_weight` | mandatory/advisory/informational |
+| `paragraph_role` | requirement/guidance/definition |
+
+### Layer 4 — Operational
+
+| Field | Description | Coverage |
+|-------|-------------|---------|
+| `raw_path` | Path to raw source file | 50% |
+| `sha256` | Content hash | 93% |
+| `parser_version` | `pra-scraper-v1.0.0` or `pra-nova-enrichment-v1.0.0` or `boe-scraper-v1.0.0` | 100% |
+| `quality_score` | 1.0 | 100% |
+
+---
 
 ## Status Model
 
-- **active** (654 docs): Current and in force.
-- **deleted** (16 docs): Withdrawn by the PRA. `current_version_flag` = False.
-- **superseded** (7 docs): Replaced by a newer version or different document. `current_version_flag` = False. The `superseded_by_text` field explains what replaced it.
+| Status | Count | Description |
+|--------|-------|-------------|
+| `active` | 654 | Current and in force |
+| `deleted` | 16 | Withdrawn by the PRA |
+| `superseded` | 7 | Replaced by a newer version |
 
-### Superseded Documents
+---
 
-Three categories of superseded documents exist:
+## Normative Weight Distribution
 
-1. **Genuinely superseded** (3 docs): The document itself has been retired and replaced — e.g., SS3/19 replaced by SS5/25.
-2. **Version superseded** (4 docs): The underlying guidance is still active, but the specific version in this corpus is outdated — e.g., SS18/15 April 2019 version superseded by March 2021 version.
+| Weight | PRA Rules | PRA Guidance | BoE Guidance | Other | Total |
+|--------|-----------|-------------|-------------|-------|-------|
+| `mandatory` | 167 | 0 | 0 | 42 | 209 |
+| `advisory` | 0 | 168 | 293 | 0 | 461 |
+| `informational` | 2 | 0 | 0 | 5 | 7 |
 
-All supersession metadata was verified against the live PRA Rulebook (prarulebook.co.uk) in March 2026.
+---
 
 ## Sources
 
 - PRA Rulebook: https://www.prarulebook.co.uk
 - Bank of England Prudential Regulation: https://www.bankofengland.co.uk/prudential-regulation
 
-## Related Documentation
+## Scripts
 
-See the `docs/` folder in this repository:
+| Script | Purpose |
+|--------|---------|
+| `scripts/enrich_pra_metadata.py` | NOVA 3-layer metadata enrichment for all 677 files |
+
+## Related Documentation
 
 | Document | Description |
 |----------|-------------|
-| `PRA_Corpus_Audit_Report.docx` | Detailed audit findings, remediation steps, and final status |
-| `PRA_Source_Verification_Report.docx` | Source verification against live PRA Rulebook and BoE websites |
-| `NOVA_Corpus_Guide.docx` | Comprehensive guide covering RAG pipeline, ADLS migration, dual-store architecture, and metadata usage |
-| `NOVA_Metadata_Build_Specification.docx` | NOVA pipeline metadata field definitions, roles, and the Three Rules |
-| `NOVA_RAG_Pipeline_Implementation_Guide.docx` | Pipeline implementation guidance for Databricks ingestion and retrieval |
+| `docs/PRA_Corpus_Audit_Report.docx` | Audit findings and remediation |
+| `docs/PRA_Source_Verification_Report.docx` | Source verification against live PRA Rulebook |
+| `docs/NOVA_Corpus_Guide.docx` | RAG pipeline guide |
+| `docs/NOVA_Metadata_Build_Specification.docx` | Metadata field definitions |
+| `docs/NOVA_RAG_Pipeline_Implementation_Guide.docx` | Pipeline implementation |

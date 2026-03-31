@@ -24,7 +24,10 @@
   "authority_level": 1,
   "nova_tier": 1,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking, Financial_Conglomerates",
+  "sector": [
+    "Banking",
+    "Financial_Conglomerates"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -3405,5 +3408,26 @@
   "toc_depth": 4,
   "has_appendices": false,
   "has_tables": true,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "chapter",
+  "section_number": "Depositor Protection",
+  "normative_weight": "mandatory",
+  "is_appendix": false,
+  "paragraph_role": "requirement",
+  "cross_references": [
+    "CRR Art.1",
+    "CRR Art.2",
+    "CRR Art.3",
+    "CRR Art.336",
+    "CRR Art.4"
+  ],
+  "contains_deadline": true,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms",
+  "confidentiality": "public",
+  "approval_date": "2025-12-01",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }

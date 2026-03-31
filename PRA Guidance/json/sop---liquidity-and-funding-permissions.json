@@ -24,7 +24,9 @@
   "authority_level": 2,
   "nova_tier": 2,
   "jurisdiction": "United Kingdom",
-  "sector": "Banking",
+  "sector": [
+    "Banking"
+  ],
   "supersedes_doc_id": null,
   "superseded_by_doc_id": null,
   "contains_definition": true,
@@ -363,5 +365,30 @@
   "toc_depth": 4,
   "has_appendices": false,
   "has_tables": false,
-  "table_count": 0
+  "table_count": 0,
+  "structural_level": "document",
+  "section_number": "SoP3/21 – Liquidity and funding permissions",
+  "normative_weight": "permissive",
+  "is_appendix": false,
+  "paragraph_role": "guidance",
+  "cross_references": [
+    "CRR Art.12",
+    "CRR Art.17",
+    "CRR Art.29",
+    "CRR Art.33",
+    "CRR Art.34",
+    "CRR Art.4",
+    "SS8/16",
+    "SoP should",
+    "SoP that"
+  ],
+  "contains_deadline": false,
+  "contains_assignment": true,
+  "contains_parameter": false,
+  "approval_status": "approved",
+  "audience": "PRA-regulated firms and their boards",
+  "confidentiality": "public",
+  "approval_date": "2022-01-01",
+  "review_date": "2026-03-02",
+  "next_review_date": null
 }
