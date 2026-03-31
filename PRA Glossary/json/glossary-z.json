@@ -18,7 +18,7 @@
   "guideline_number": "Glossary",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": null,
+  "effective_date_start": "2013-04-01",
   "effective_date_end": null,
   "authority_class": "context",
   "authority_level": 7,
@@ -78,5 +78,6 @@
   "approval_date": null,
   "review_date": null,
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2013-04-01"
 }

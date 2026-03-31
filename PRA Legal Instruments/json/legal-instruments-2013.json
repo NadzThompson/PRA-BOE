@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "PRA.legal_instruments",
-  "version_id": "",
+  "version_id": "2013-01-01",
   "version_label": "",
   "version_sort_key": "9999-12-31",
   "guideline_number": "Legal Instruments",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": null,
+  "effective_date_start": "2013-01-01",
   "effective_date_end": null,
   "authority_class": "primary_normative",
   "authority_level": 1,
@@ -69,8 +69,9 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms",
   "confidentiality": "public",
-  "approval_date": null,
+  "approval_date": "2013-01-01",
   "review_date": null,
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2013-01-01"
 }

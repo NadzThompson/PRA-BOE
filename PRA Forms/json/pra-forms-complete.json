@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "PRA.forms",
-  "version_id": "",
+  "version_id": "2013-04-01",
   "version_label": "",
   "version_sort_key": "9999-12-31",
   "guideline_number": "Forms",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": null,
+  "effective_date_start": "2013-04-01",
   "effective_date_end": null,
   "authority_class": "context",
   "authority_level": 7,
@@ -71,8 +71,9 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms",
   "confidentiality": "public",
-  "approval_date": null,
+  "approval_date": "2013-04-01",
   "review_date": null,
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2013-04-01"
 }

@@ -23,7 +23,22 @@ Comprehensive regulatory corpus from the UK Prudential Regulation Authority (PRA
 
 ## What to Ingest into the NOVA RAG Model
 
-Each document consists of a **raw content file** (the source to parse and chunk) and a **JSON metadata sidecar** (the enriched metadata to attach to each chunk). Both are required at ingestion time.
+For each document, the pipeline ingests exactly **two files**:
+
+1. **Raw content file** (HTML or PDF) — the original source as scraped from the regulator's website
+2. **Enriched metadata sidecar** (JSON) — the NOVA 3-layer metadata to attach to each chunk
+
+| Category | Raw File | Raw Path | JSON Metadata Path |
+|----------|----------|----------|-------------------|
+| **PRA Rules** | **HTML** | `PRA Rules/html/{name}.html` | `PRA Rules/json/{name}.json` |
+| **PRA Guidance** | **HTML** | `PRA Guidance/html/{name}.html` | `PRA Guidance/json/{name}.json` |
+| **BoE Guidance** | **PDF** | `BoE Guidance/pdf/{name}.pdf` | `BoE Guidance/json/{name}.json` |
+| **PRA Glossary** | **HTML** | `PRA Glossary/html/{name}.html` | `PRA Glossary/json/{name}.json` |
+| **PRA Legal Instruments** | **HTML** | `PRA Legal Instruments/html/{name}.html` | `PRA Legal Instruments/json/{name}.json` |
+| **PRA Sectors** | **HTML** | `PRA Sectors/html/{name}.html` | `PRA Sectors/json/{name}.json` |
+| **PRA Forms** | **HTML** | `PRA Forms/html/{name}.html` | `PRA Forms/json/{name}.json` |
+
+The `md/` and `pdf/` subfolders contain **derived** content (pre-parsed markdown and rendered PDFs). These are for human reference only — the pipeline should ingest the raw HTML/PDF files paired with their JSON metadata.
 
 ### PRA Rules (169 documents) — Primary Corpus
 
