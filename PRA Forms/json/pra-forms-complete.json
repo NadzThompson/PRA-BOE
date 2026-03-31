@@ -61,7 +61,7 @@
   "section_number": "Forms",
   "normative_weight": "mandatory",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "reference",
   "cross_references": [
     "CRR Art.180"
   ],
@@ -73,5 +73,6 @@
   "confidentiality": "public",
   "approval_date": null,
   "review_date": null,
-  "next_review_date": null
+  "next_review_date": null,
+  "scrape_date": "2026-03-02"
 }

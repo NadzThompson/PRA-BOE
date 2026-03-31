@@ -287,7 +287,7 @@
   "section_number": "Glossary",
   "normative_weight": "mandatory",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "definition",
   "cross_references": [
     "CRR Art.2",
     "CRR Art.25",
@@ -305,5 +305,6 @@
   "approval_date": "1992-11-10",
   "review_date": "1992-11-10",
   "next_review_date": null,
-  "original_effective_date": "1992-06-18"
+  "original_effective_date": "1992-06-18",
+  "scrape_date": "2026-03-02"
 }

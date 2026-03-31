@@ -513,7 +513,7 @@
   "section_number": "Glossary",
   "normative_weight": "permissive",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "definition",
   "cross_references": [
     "CRR Art.1",
     "CRR Art.11",
@@ -532,5 +532,6 @@
   "approval_date": "2019-01-25",
   "review_date": "2019-01-25",
   "next_review_date": null,
-  "original_effective_date": "1988-06-22"
+  "original_effective_date": "1988-06-22",
+  "scrape_date": "2026-03-02"
 }

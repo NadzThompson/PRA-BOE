@@ -203,7 +203,7 @@
   "section_number": "Glossary",
   "normative_weight": "permissive",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "definition",
   "cross_references": [
     "CRR Art.4"
   ],
@@ -216,5 +216,6 @@
   "approval_date": "2016-04-27",
   "review_date": "2016-04-27",
   "next_review_date": null,
-  "original_effective_date": "2015-07-31"
+  "original_effective_date": "2015-07-31",
+  "scrape_date": "2026-03-02"
 }

@@ -468,7 +468,7 @@
   "section_number": "Glossary",
   "normative_weight": "mandatory",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "definition",
   "cross_references": [
     "CRR Art.109",
     "CRR Art.18",
@@ -488,5 +488,6 @@
   "approval_date": "2011-06-08",
   "review_date": "2011-06-08",
   "next_review_date": null,
-  "original_effective_date": "1994-12-31"
+  "original_effective_date": "1994-12-31",
+  "scrape_date": "2026-03-02"
 }

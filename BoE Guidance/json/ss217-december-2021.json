@@ -67,5 +67,6 @@
   "approval_date": "2021-12-01",
   "review_date": "2021-12-01",
   "next_review_date": null,
-  "scrape_date": "2026-03-25"
+  "scrape_date": "2026-03-25",
+  "original_effective_date": "2021-12-01"
 }

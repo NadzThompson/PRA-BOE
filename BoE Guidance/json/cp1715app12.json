@@ -8,7 +8,7 @@
   "authority_class": "consultative",
   "nova_tier": 3,
   "status": "active",
-  "effective_date_start": "",
+  "effective_date_start": "2015-01-01",
   "guideline_number": "CP17/15",
   "sector": [
     "Banking"
@@ -20,7 +20,7 @@
     "pra.ss3315.2026"
   ],
   "doc_family_id": "PRA-BOE-cp1715app12",
-  "version_id": "unknown",
+  "version_id": "2015-01-01",
   "supersedes_doc_id": "",
   "superseded_by_doc_id": "",
   "contains_definition": true,
@@ -75,8 +75,9 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms",
   "confidentiality": "public",
-  "approval_date": "",
+  "approval_date": "2015-01-01",
   "review_date": "",
   "next_review_date": null,
-  "scrape_date": "2026-03-25"
+  "scrape_date": "2026-03-25",
+  "original_effective_date": "2015-01-01"
 }

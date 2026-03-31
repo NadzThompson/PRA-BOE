@@ -8,7 +8,7 @@
   "authority_class": "interpretive",
   "nova_tier": 2,
   "status": "active",
-  "effective_date_start": "",
+  "effective_date_start": "2022-11-01",
   "guideline_number": "",
   "sector": [
     "Banking"
@@ -20,7 +20,7 @@
     "pra.sop119-interpretation-of-eu-guidelines-and-recommendations-bank-of-england-and-p.2026"
   ],
   "doc_family_id": "PRA-BOE-interpretation-of-eu-guidelines-and-recommendations-boe-and-pra-approach-sop-november-2022",
-  "version_id": "2022",
+  "version_id": "2022-11-01",
   "supersedes_doc_id": "",
   "superseded_by_doc_id": "",
   "contains_definition": true,
@@ -72,8 +72,9 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms and their boards",
   "confidentiality": "public",
-  "approval_date": "",
+  "approval_date": "2022-11-01",
   "review_date": "",
   "next_review_date": null,
-  "scrape_date": "2026-03-25"
+  "scrape_date": "2026-03-25",
+  "original_effective_date": "2022-11-01"
 }

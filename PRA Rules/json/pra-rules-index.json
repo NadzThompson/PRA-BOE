@@ -61,7 +61,7 @@
   "section_number": "Index",
   "normative_weight": "informational",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "requirement",
   "cross_references": [],
   "contains_deadline": false,
   "contains_assignment": false,

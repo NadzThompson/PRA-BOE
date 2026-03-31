@@ -50,7 +50,7 @@
   "section_number": null,
   "normative_weight": "advisory",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "guidance",
   "cross_references": [
     "CP13/19",
     "CP13/21",
@@ -93,5 +93,6 @@
   "approval_date": "2025-01-01",
   "review_date": "2025-01-01",
   "next_review_date": null,
-  "scrape_date": "2026-03-25"
+  "scrape_date": "2026-03-25",
+  "original_effective_date": "2025-01-01"
 }

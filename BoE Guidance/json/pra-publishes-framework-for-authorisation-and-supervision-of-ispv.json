@@ -49,7 +49,7 @@
   "section_number": null,
   "normative_weight": "permissive",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "guidance",
   "cross_references": [
     "PS26/17",
     "SS8/17"

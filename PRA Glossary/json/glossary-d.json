@@ -238,7 +238,7 @@
   "section_number": "Glossary",
   "normative_weight": "permissive",
   "is_appendix": false,
-  "paragraph_role": null,
+  "paragraph_role": "definition",
   "cross_references": [
     "CRR Art.14",
     "CRR Art.15",
@@ -266,5 +266,6 @@
   "approval_date": "2016-07-14",
   "review_date": "2016-07-14",
   "next_review_date": null,
-  "original_effective_date": "2016-07-14"
+  "original_effective_date": "2016-07-14",
+  "scrape_date": "2026-03-02"
 }
