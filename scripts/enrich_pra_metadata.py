@@ -7,7 +7,7 @@ JSON metadata files in the PRA corpus.
 
 Fixes:
   1. BoE Guidance sector bug (character-exploded arrays)
-  2. Jurisdiction normalization (UK -> United Kingdom)
+  2. Jurisdiction normalization (UK -> United Kingdom (UK))
   3. Sector type normalization (string -> array)
   4. 15 missing NOVA fields (normative_weight, structural_level, etc.)
   5. sha256 backfill from raw_sha256 where missing
@@ -276,7 +276,7 @@ def enrich_file(jf, md_dir=None):
 
     # --- Fix 2: Jurisdiction normalization ---
     if meta.get("jurisdiction") == "UK":
-        meta["jurisdiction"] = "United Kingdom"
+        meta["jurisdiction"] = "United Kingdom (UK)"
         changes.append("jurisdiction")
 
     # --- Fix 3: sha256 backfill ---

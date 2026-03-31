@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.ss117",
-  "version_id": "2026-03-01",
+  "version_id": "2020-12-29",
   "version_label": "2026",
   "version_sort_key": "2026-03-01",
   "guideline_number": "SS1/17",
   "status": "deleted",
   "current_version_flag": false,
-  "effective_date_start": "2026-03-01",
+  "effective_date_start": "2020-12-29",
   "effective_date_end": "2026-03-01",
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -167,7 +167,8 @@
   "approval_status": "superseded",
   "audience": "PRA-regulated firms and their boards",
   "confidentiality": "public",
-  "approval_date": "2026-03-01",
+  "approval_date": "2020-12-29",
   "review_date": "2026-03-02",
-  "next_review_date": null
+  "next_review_date": null,
+  "scrape_date": "2026-03-02"
 }

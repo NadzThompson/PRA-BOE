@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "PRA.sectors",
-  "version_id": "03-03-2026",
+  "version_id": null,
   "version_label": "03-03-2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "Sectors",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-02",
+  "effective_date_start": null,
   "effective_date_end": null,
   "authority_class": "context",
   "authority_level": 7,
@@ -81,7 +81,8 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms",
   "confidentiality": "public",
-  "approval_date": "2026-03-02",
+  "approval_date": null,
   "review_date": "2026-03-02",
-  "next_review_date": null
+  "next_review_date": null,
+  "scrape_date": "2026-03-02"
 }

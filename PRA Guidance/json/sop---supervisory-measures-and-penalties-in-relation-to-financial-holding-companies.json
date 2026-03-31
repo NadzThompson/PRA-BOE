@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop221-supervisory-measures-and-penalties-in-relation-to-financial-holding-compa",
-  "version_id": "2026-03-02",
+  "version_id": "2020-12-29",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SoP2/21 – Supervisory measures and penalties in relation to financial holding companies",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-02",
+  "effective_date_start": "2020-12-29",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -153,7 +153,8 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms and their boards",
   "confidentiality": "public",
-  "approval_date": "2026-03-02",
+  "approval_date": "2020-12-29",
   "review_date": "2026-03-02",
-  "next_review_date": null
+  "next_review_date": null,
+  "scrape_date": "2026-03-02"
 }

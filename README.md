@@ -31,10 +31,10 @@ Each document consists of a **raw content file** (the source to parse and chunk)
 
 | What to ingest | Path | Raw Format | Notes |
 |---------------|------|------------|-------|
-| **Raw content** | `PRA Rules/html/*.html` | HTML | Original HTML scraped from prarulebook.co.uk. Parse with BeautifulSoup. |
-| **Parsed content** | `PRA Rules/md/*.md` | Markdown | Pre-parsed text. Use as primary ingestion source for text extraction. |
-| **Metadata sidecar** | `PRA Rules/json/*.json` | JSON | Full NOVA 3-layer metadata. Attach to each chunk at ingestion time. |
-| **Rendered PDF** | `PRA Rules/pdf/*.pdf` | PDF | For reference/backup only. |
+| **Raw content** | `PRA Rules/html/*.html` | **HTML** | Original HTML scraped from prarulebook.co.uk. This is the raw source file for the NOVA pipeline. |
+| **Enriched metadata** | `PRA Rules/json/*.json` | JSON | Full NOVA 3-layer metadata sidecar. Pair with the raw HTML file at ingestion time. |
+
+The `md/` and `pdf/` subfolders contain derived content (pre-parsed markdown and rendered PDFs) for reference. **The pipeline should ingest the raw HTML + JSON pairs.**
 
 ### PRA Guidance (168 documents) — Primary Corpus
 
@@ -42,9 +42,8 @@ Each document consists of a **raw content file** (the source to parse and chunk)
 
 | What to ingest | Path | Raw Format | Notes |
 |---------------|------|------------|-------|
-| **Raw content** | `PRA Guidance/html/*.html` | HTML | Original HTML from prarulebook.co.uk |
-| **Parsed content** | `PRA Guidance/md/*.md` | Markdown | Pre-parsed text |
-| **Metadata sidecar** | `PRA Guidance/json/*.json` | JSON | Full NOVA metadata |
+| **Raw content** | `PRA Guidance/html/*.html` | **HTML** | Original HTML from prarulebook.co.uk |
+| **Enriched metadata** | `PRA Guidance/json/*.json` | JSON | Full NOVA metadata sidecar |
 
 ### BoE Guidance (293 documents) — Secondary Corpus
 
@@ -52,25 +51,24 @@ Each document consists of a **raw content file** (the source to parse and chunk)
 
 | What to ingest | Path | Raw Format | Notes |
 |---------------|------|------------|-------|
-| **Raw content** | `BoE Guidance/pdf/*.pdf` | PDF | Original PDFs from bankofengland.co.uk. Requires text extraction (Azure Document Intelligence or pymupdf) before chunking. |
-| **Parsed content** | `BoE Guidance/md/*.md` | Markdown | Pre-extracted text from PDFs |
-| **Metadata sidecar** | `BoE Guidance/json/*.json` | JSON | Full NOVA metadata |
+| **Raw content** | `BoE Guidance/pdf/*.pdf` | **PDF** | Original PDFs from bankofengland.co.uk. This is the raw source — no HTML exists for these documents. |
+| **Enriched metadata** | `BoE Guidance/json/*.json` | JSON | Full NOVA metadata sidecar |
 
-**Note:** No HTML subfolder — these were sourced from BoE-published PDFs, not web pages.
+**Note:** No HTML subfolder — these were sourced directly from BoE-published PDFs, not web pages. The `md/` subfolder contains pre-extracted text for reference.
 
 ### PRA Glossary (25 documents)
 
 | What to ingest | Path | Raw Format | Notes |
 |---------------|------|------------|-------|
-| **Raw content** | `PRA Glossary/html/*.html` | HTML | Regulatory definitions from prarulebook.co.uk |
-| **Metadata sidecar** | `PRA Glossary/json/*.json` | JSON | `normative_weight = mandatory` — definitions are binding |
+| **Raw content** | `PRA Glossary/html/*.html` | **HTML** | Regulatory definitions from prarulebook.co.uk |
+| **Enriched metadata** | `PRA Glossary/json/*.json` | JSON | `normative_weight = mandatory` — definitions are binding |
 
 ### PRA Legal Instruments (16 documents)
 
 | What to ingest | Path | Raw Format | Notes |
 |---------------|------|------------|-------|
-| **Raw content** | `PRA Legal Instruments/html/*.html` | HTML | Statutory instruments and legal orders |
-| **Metadata sidecar** | `PRA Legal Instruments/json/*.json` | JSON | `authority_level = 1` — primary legal authority |
+| **Raw content** | `PRA Legal Instruments/html/*.html` | **HTML** | Statutory instruments and legal orders |
+| **Enriched metadata** | `PRA Legal Instruments/json/*.json` | JSON | `authority_level = 1` — primary legal authority |
 
 ### PRA Sectors (5 documents) and PRA Forms (1 document)
 
@@ -78,8 +76,17 @@ Lower priority reference content.
 
 | What to ingest | Path | Raw Format |
 |---------------|------|------------|
-| `PRA Sectors/html/*.html` + `PRA Sectors/json/*.json` | HTML + JSON |
-| `PRA Forms/html/*.html` + `PRA Forms/json/*.json` | HTML + JSON |
+| **Raw content** + **Enriched metadata** | `PRA Sectors/html/*.html` + `PRA Sectors/json/*.json` | **HTML** + JSON |
+| **Raw content** + **Enriched metadata** | `PRA Forms/html/*.html` + `PRA Forms/json/*.json` | **HTML** + JSON |
+
+### Ingestion Pattern (All Groups)
+
+For every document, the NOVA pipeline ingests exactly **two files**:
+
+1. **Raw content file** — the original HTML or PDF as scraped from the source website
+2. **Enriched metadata sidecar** — the JSON file with all NOVA 3-layer fields
+
+The `md/` and `pdf/` subfolders (where they exist alongside HTML) are **derived** content for human reference. They are not the raw source and should not be used as the primary ingestion target.
 
 ---
 
@@ -158,13 +165,14 @@ Every JSON sidecar conforms to the NOVA 3-layer metadata architecture. Fields se
 | Field | Description | Coverage |
 |-------|-------------|---------|
 | `status` | `active`, `superseded`, `deleted` | 100% |
-| `effective_date_start` | Date the document became effective | 92% |
-| `effective_date_end` | End date (for superseded/deleted docs) | deleted/superseded only |
+| `effective_date_start` | Date the rule/guidance came into force (NOT the scrape date) | 92% (null for index pages) |
+| `effective_date_end` | Date the document was superseded or deleted | deleted/superseded only |
+| `scrape_date` | Date the document was scraped from the source website | 100% |
 | `current_version_flag` | `true` for active documents | 100% |
 | `authority_class` | `primary_normative`, `guidance_interpretive`, etc. | 100% |
 | `authority_level` | 1 (binding rules) to 7 (contextual) | 100% |
 | `nova_tier` | 1 (core binding) to 5 (administrative) | 100% |
-| `jurisdiction` | `United Kingdom` | 100% |
+| `jurisdiction` | `United Kingdom (UK)` | 100% |
 | `sector` | Array: `["Banking"]`, `["Insurance"]`, etc. | 100% |
 | `paragraph_role` | `requirement`, `guidance`, `definition`, etc. | 100% |
 | `is_appendix` | Boolean | 100% |

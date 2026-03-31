@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop125-the-prudential-regulation-authoritys-approach-to-policy",
-  "version_id": "2026-03-02",
+  "version_id": "2025-02-20",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SoP1/25 – The Prudential Regulation Authority’s approach to policy",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-03-02",
+  "effective_date_start": "2025-02-20",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -139,7 +139,8 @@
   "approval_status": "approved",
   "audience": "PRA-regulated firms and their boards",
   "confidentiality": "public",
-  "approval_date": "2026-03-02",
+  "approval_date": "2025-02-20",
   "review_date": "2026-03-02",
-  "next_review_date": null
+  "next_review_date": null,
+  "scrape_date": "2026-03-02"
 }
