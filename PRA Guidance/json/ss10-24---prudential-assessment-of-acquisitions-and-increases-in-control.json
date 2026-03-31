@@ -93,11 +93,7 @@
   "raw_sha256": "17ad34ffa260c17da11f2a19eba820b56e50597a0cc64211a4668ec567fa8c8c",
   "canonical_json_path": null,
   "effective_dates_all": [
-    "2024-11-01",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2024-11-01"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -146,5 +142,6 @@
   "approval_date": "2024-11-01",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2024-11-01"
 }

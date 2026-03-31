@@ -3490,5 +3490,6 @@
   "approval_date": "2015-04-02",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2015-04-02"
 }

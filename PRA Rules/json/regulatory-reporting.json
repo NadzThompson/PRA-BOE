@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.rules.regulatory-reporting",
-  "version_id": "2016-01-01",
+  "version_id": "2026-01-01",
   "version_label": "2026",
   "version_sort_key": "2026-03-01",
   "guideline_number": "Regulatory Reporting",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2016-01-01",
+  "effective_date_start": "2026-01-01",
   "effective_date_end": null,
   "authority_class": "primary_normative",
   "authority_level": 1,
@@ -1799,8 +1799,7 @@
     "2023-11-14",
     "2024-11-04",
     "2025-12-31",
-    "2026-01-01",
-    "2026-03-01"
+    "2026-01-01"
   ],
   "effective_date_source": "body_effective_tag",
   "heading_path": [
@@ -1991,5 +1990,6 @@
   "approval_date": "2016-01-01",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2016-01-01"
 }

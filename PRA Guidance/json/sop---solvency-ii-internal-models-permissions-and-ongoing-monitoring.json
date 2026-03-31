@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop324-solvency-ii-internal-models-permissions-and-ongoing-monitoring",
-  "version_id": "2024-02-28",
+  "version_id": "2024-12-31",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SoP3/24 – Solvency II internal models: Permissions and ongoing monitoring",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2024-02-28",
+  "effective_date_start": "2024-12-31",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -91,11 +91,7 @@
   "effective_dates_all": [
     "2024-02-28",
     "2024-11-15",
-    "2024-12-31",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2024-12-31"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -145,5 +141,6 @@
   "approval_date": "2024-02-28",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2024-02-28"
 }

@@ -487,5 +487,6 @@
   "confidentiality": "public",
   "approval_date": "2011-06-08",
   "review_date": "2011-06-08",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "1994-12-31"
 }

@@ -165,9 +165,11 @@ Every JSON sidecar conforms to the NOVA 3-layer metadata architecture. Fields se
 | Field | Description | Coverage |
 |-------|-------------|---------|
 | `status` | `active`, `superseded`, `deleted` | 100% |
-| `effective_date_start` | Date the rule/guidance came into force (NOT the scrape date) | 92% (null for index pages) |
+| `original_effective_date` | Date the rule/guidance **first came into force** (e.g., `2013-04-01` for SS12/13) | 50% |
+| `effective_date_start` | Date of the **most recent amendment** to the current version | 92% (null for index pages) |
+| `effective_dates_all` | Full array of all amendment dates in chronological order | 50% |
 | `effective_date_end` | Date the document was superseded or deleted | deleted/superseded only |
-| `scrape_date` | Date the document was scraped from the source website | 100% |
+| `scrape_date` | Date the document was scraped from the source website (NOT an effective date) | 100% |
 | `current_version_flag` | `true` for active documents | 100% |
 | `authority_class` | `primary_normative`, `guidance_interpretive`, etc. | 100% |
 | `authority_level` | 1 (binding rules) to 7 (contextual) | 100% |

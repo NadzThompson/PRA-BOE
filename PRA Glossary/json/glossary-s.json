@@ -531,5 +531,6 @@
   "confidentiality": "public",
   "approval_date": "2019-01-25",
   "review_date": "2019-01-25",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "1988-06-22"
 }

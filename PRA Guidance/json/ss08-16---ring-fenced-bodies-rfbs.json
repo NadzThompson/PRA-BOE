@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.ss816",
-  "version_id": "2016-07-07",
+  "version_id": "2017-12-11",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SS8/16",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2016-07-07",
+  "effective_date_start": "2017-12-11",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -99,11 +99,7 @@
   "effective_dates_all": [
     "2016-07-07",
     "2017-02-01",
-    "2017-12-11",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2017-12-11"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -147,5 +143,6 @@
   "approval_date": "2016-07-07",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2016-07-07"
 }

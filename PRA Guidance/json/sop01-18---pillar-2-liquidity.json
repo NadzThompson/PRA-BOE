@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop118-pillar-2-liquidity",
-  "version_id": "2018-02-23",
+  "version_id": "2024-07-01",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SoP1/18 – Pillar 2 Liquidity",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2018-02-23",
+  "effective_date_start": "2024-07-01",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -110,11 +110,7 @@
     "2019-06-17",
     "2019-07-01",
     "2023-12-05",
-    "2024-07-01",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2024-07-01"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -164,5 +160,6 @@
   "approval_date": "2018-02-23",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2018-02-23"
 }

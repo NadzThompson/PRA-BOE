@@ -355,5 +355,6 @@
   "confidentiality": "public",
   "approval_date": "2014-05-15",
   "review_date": "2014-05-15",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "2014-05-15"
 }

@@ -112,8 +112,7 @@
   "raw_sha256": "0cbf241c82c1b6848c5b87187c8308254fe2c44e8e306b30c16f18f5796a4302",
   "canonical_json_path": null,
   "effective_dates_all": [
-    "2020-12-29",
-    "2026-03-01"
+    "2020-12-29"
   ],
   "effective_date_source": "frontmatter_version_dates",
   "heading_path": [
@@ -170,5 +169,6 @@
   "approval_date": "2020-12-29",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2020-12-29"
 }

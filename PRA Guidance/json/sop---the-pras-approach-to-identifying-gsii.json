@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "pra.sop225-the-pras-approach-to-identifying-global-systemically-important-institutio",
-  "version_id": "2025-07-03",
+  "version_id": "2025-07-31",
   "version_label": "2026",
   "version_sort_key": "2026-03-02",
   "guideline_number": "SoP2/25 – The PRA’s approach to identifying Global Systemically Important Institutions (G-SIIs) and setting G-SII buffers",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2025-07-03",
+  "effective_date_start": "2025-07-31",
   "effective_date_end": null,
   "authority_class": "interpretive",
   "authority_level": 2,
@@ -90,11 +90,7 @@
   "canonical_json_path": null,
   "effective_dates_all": [
     "2025-07-03",
-    "2025-07-31",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2025-07-31"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -142,5 +138,6 @@
   "approval_date": "2025-07-03",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2025-07-03"
 }

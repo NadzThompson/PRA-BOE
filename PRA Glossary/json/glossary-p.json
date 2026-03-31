@@ -403,5 +403,6 @@
   "confidentiality": "public",
   "approval_date": "2015-12-31",
   "review_date": "2015-12-31",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "2015-07-31"
 }

@@ -83,11 +83,7 @@
   "raw_sha256": "4cbe7a3337f0b8887877a7243905b2e514476fc0f5cda37d7ccf06fd18d9abeb",
   "canonical_json_path": null,
   "effective_dates_all": [
-    "2013-04-01",
-    "2026-02-20",
-    "2026-02-25",
-    "2026-02-27",
-    "2026-03-02"
+    "2013-04-01"
   ],
   "effective_date_source": "body_long_date",
   "heading_path": [
@@ -127,5 +123,6 @@
   "approval_date": "2013-04-01",
   "review_date": "2026-03-02",
   "next_review_date": null,
-  "scrape_date": "2026-03-02"
+  "scrape_date": "2026-03-02",
+  "original_effective_date": "2013-04-01"
 }

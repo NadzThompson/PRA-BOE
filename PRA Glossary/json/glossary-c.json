@@ -612,5 +612,6 @@
   "confidentiality": "public",
   "approval_date": "2015-07-31",
   "review_date": "2015-07-31",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "2002-11-05"
 }

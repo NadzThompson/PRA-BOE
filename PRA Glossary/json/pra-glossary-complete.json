@@ -12,13 +12,13 @@
   "regulator": "PRA",
   "regulator_acronym": "PRA",
   "doc_family_id": "PRA.glossary",
-  "version_id": "",
+  "version_id": "2026-01-01",
   "version_label": "",
   "version_sort_key": "9999-12-31",
   "guideline_number": "Glossary",
   "status": "active",
   "current_version_flag": true,
-  "effective_date_start": "2026-02-20",
+  "effective_date_start": "2026-01-01",
   "effective_date_end": null,
   "authority_class": "context",
   "authority_level": 7,
@@ -4646,8 +4646,7 @@
     "2025-10-23",
     "2025-12-01",
     "2025-12-31",
-    "2026-01-01",
-    "2026-02-20"
+    "2026-01-01"
   ],
   "effective_date_source": "body_effective_tag",
   "sha256": "fb176f4c3f1abc75027e29182e46872b7262406b46dbfb765eb339dd1cea3038",
@@ -4708,5 +4707,6 @@
   "confidentiality": "public",
   "approval_date": "2026-02-20",
   "review_date": "2026-02-20",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "2014-01-01"
 }

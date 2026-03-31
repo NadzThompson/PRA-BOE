@@ -304,5 +304,6 @@
   "confidentiality": "public",
   "approval_date": "1992-11-10",
   "review_date": "1992-11-10",
-  "next_review_date": null
+  "next_review_date": null,
+  "original_effective_date": "1992-06-18"
 }
